@@ -202,13 +202,13 @@ Understandably, optimal medical management requires full risk evaluation of the 
 
 **Duplex Ultrasound (Peak Systolic Velocity/End Diastolic Velocity)**
 
-| Location 	| Right 	| Left 	|
-|---	|---	|---	|
-| Proximal ICA 	| 540/240 cm/s 	| 120/45 cm/s 	|
-| Mid ICA 	| 230/145 cm/s 	| 119/37 cm/s 	|
-| Distal ICA 	| 240/110 cm/s 	| 110/23 cm/s 	|
+| Location     | Right        | Left        |
+|--------------|--------------|-------------|
+| Proximal ICA | 540/240 cm/s | 120/45 cm/s |
+| Mid ICA      | 230/145 cm/s | 119/37 cm/s |
+| Distal ICA   | 240/110 cm/s | 110/23 cm/s |
 
-**Duplex Report:** Based on color flow duplex imaging there is evidence of 80-99% stenosis of the right internal carotid artery segment and <50% stenosis to the contralateral side.
+**Duplex Report:** Based on color flow duplex imaging there is evidence of 80-99% stenosis of the right internal carotid artery segment and \<50% stenosis to the contralateral side.
 
 ### Discussion Points
 
@@ -226,21 +226,21 @@ However, we feel this chapter contains all the necessary information to answer t
 6.  What medications should be started in this scenario, such as ASA, Plavix, statin medications, etc.?
 7.  What are some possible relevant complications of surgical intervention, including periprocedural stroke risk?
 
----
+------------------------------------------------------------------------
 
 ## Key Articles
 
-1.  Ricotta JJ, Aburahma A, Ascher E, Eskandari M, Faries P, Lal BK; Society for Vascular Surgery. [Updated Society for Vascular Surgery guidelines for management of extracranial carotid disease.](https://www.jvascsurg.org/article/S0741-5214%2811%2901635-1/fulltext) J Vasc Surg. 2011 Sep;54(3):e1-31. [@Ricotta2011]
+1.  Ricotta JJ, Aburahma A, Ascher E, Eskandari M, Faries P, Lal BK; Society for Vascular Surgery. [Updated Society for Vascular Surgery guidelines for management of extracranial carotid disease.](https://www.jvascsurg.org/article/S0741-5214%2811%2901635-1/fulltext) J Vasc Surg. 2011 Sep;54(3):e1-31.[@Ricotta2011]
 
-2.  AbuRahma AF, Avgerinos EM, Chang RW, Darling RC 3rd, Duncan AA, Forbes TL, Malas MB, Murad MH, Perler BA, Powell RJ, Rockman CB, Zhou W. [SOCIETY FOR VASCULAR SURGERY CLINICAL PRACTICE GUIDELINES FOR MANAGEMENT OF EXTRACRANIAL CEREBROVASCULAR DISEASE.](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext) J Vasc Surg. 2021 Jun 18. [@AbuRahma2022]
+2.  AbuRahma AF, Avgerinos EM, Chang RW, Darling RC 3rd, Duncan AA, Forbes TL, Malas MB, Murad MH, Perler BA, Powell RJ, Rockman CB, Zhou W. [SOCIETY FOR VASCULAR SURGERY CLINICAL PRACTICE GUIDELINES FOR MANAGEMENT OF EXTRACRANIAL CEREBROVASCULAR DISEASE.](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext) J Vasc Surg. 2021 Jun 18. [@aburahma2022]
 
 3.  [Endarterectomy for asymptomatic carotid stenosis.Executive Committee for the Asymptomatic Carotid Atherosclerosis Study.](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/neurology/documents/ACAS.pdf) JAMA 1995;273(18):1421-8. [@walker1995]
 
-4.  [Beneficial effect of carotid endarterectomy in symptomatic patients with high-grade stenosis. North American Symptomatic Carotid Endarterectomy (NASCET) Trial Collaborators.](https://www.nejm.org/doi/10.1056/NEJM199108153250701?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov) N Engl J Med 1991;325(7):445-53. [@Barnett1991]
+4.  [Beneficial effect of carotid endarterectomy in symptomatic patients with high-grade stenosis. North American Symptomatic Carotid Endarterectomy (NASCET) Trial Collaborators.](https://www.nejm.org/doi/10.1056/NEJM199108153250701?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov) N Engl J Med 1991;325(7):445-53.[@benefici1991]
 
-5.  Howard D.P.J., Gaziano L., Rothwell P.M.: [Risk of stroke in relation to degree of asymptomatic carotid stenosis: a population-based cohort study, systematic review, and meta-analysis.](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(20)30484-1/fulltext) Lancet Neurol 2021; 20: pp. 193-202. [@Howard2021]
+5.  Howard D.P.J., Gaziano L., Rothwell P.M.: [Risk of stroke in relation to degree of asymptomatic carotid stenosis: a population-based cohort study, systematic review, and meta-analysis.](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(20)30484-1/fulltext) Lancet Neurol 2021; 20: pp. 193-202.[@howard2021]
 
----
+------------------------------------------------------------------------
 
 ## Additional Resources
 
@@ -259,21 +259,30 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 
 #### Carotid Endarterectomy (Short Version)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AWXCpRJAN8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AWXCpRJAN8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
 
 #### Carotid Endarterectomy (Long Version) Part 1
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wZ8PzhwmSXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZ8PzhwmSXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+<iframe>
 
 #### Carotid Endarterectomy (Long Version) Part 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E_wWpRKBy4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E_wWpRKBy4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
 
 #### Carotid Endarterectomy (Long Version) Part 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E_wWpRKBy4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E_wWpRKBy4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
 
 #### Transcarotid Artery Revascularization (TCAR)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kjVyBbDZPnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjVyBbDZPnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
+</iframe>
