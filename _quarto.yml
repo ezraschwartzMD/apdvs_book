@@ -17,6 +17,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - authors2.qmd
     - part: "Carotid Disorders"
       chapters: 
       - carotid2.qmd
