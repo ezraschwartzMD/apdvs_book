@@ -1,0 +1,197 @@
+---
+title: "arterial_history_physical"
+format: html
+editor: visual
+number-sections: false
+bibliography: references.bib
+smooth-scroll: true
+link-external-newwindow: true
+---
+
+## Patient History and Physical Examination of the **Arterial System**
+
+Authors: *Dr. Loay S Kabbani, MD, MHSA, FACS and Dr. Cassius Iyad Ochoa Chaar, MD, MS, RPVI*
+
+::: {.callout-note icon="false"}
+## Key Facts
+:::
+
+------------------------------------------------------------------------
+
+## Introduction
+
+If you pay close attention to the patient, *"the patient will tell you what is wrong."* Specialized testing should always be guided by the initial clinical impressions.
+
+Though the electronic medical record helps eliminate repetitive questions and tests, it tends to divert attention from the importance of talking to and examining the patient. Interacting with the patient and family during the history and physical is extremely important to **build rapport with the patients and their family.**
+
+For vascular patients passing the **"eyeball test"** is important before discussing complex procedures. This includes knowing the level of independent living.
+
+------------------------------------------------------------------------
+
+## Patient History of the Arterial System
+
+As a vascular specialist, a focused arterial history should include the arteries of the neck, torso, and extremities. Many diseases are systemic. For example, atherosclerotic disease affects the carotids, heart, upper extremities, abdominal blood vessels, and lower extremities. Patients with an abdominal aortic aneurysm may have synchronous peripheral aneurysms.
+
+### Head and Neck History:
+
+-   The history should focus on the carotid artery disease---see [Chapter -@sec-carotidarterystenosis] for more detail---specifically, any history of stroke, transient ischemic attacks ( TIA), or amaurosis fugax.
+-   Amaurosis fugax is described as a curtain or shade causing transient monocular blindness. This is usually caused by emboli from the carotid disease on the ipsilateral side but may be caused by other embolic sources, migraine, and giant cell arteritis.
+-   Syncopal episodes are usually not vascular in nature. However, in patients with subclavian stenosis may be a manifestation of subclavian steal syndrome.
+-   History of carotid interventions and studies should be elucidated and obtained.
+
+### Upper Extremity History:
+
+-   The evaluation depends on the timing (acute vs. chronic) and then the degree of ischemia (claudication vs. chronic limb-threatening ischemia) .
+-   **Acute limb ischemia (ALI)** is a sudden occlusion of the blood supply with no time for collateral vessels to develop. It is characterized by the **6 Ps.** *Pulselessness, pain, pallor, paresthesia, poikilothermia (cold), and paralysis.* The most common etiology of acute limb ischemia is embolic. However, uncommon causes may be thrombosis of a subclavian--axillary aneurysm.
+-   Intermittent hand coldness associated with pain, numbness may reflect Raynaud's syndrome (associated with cold exposure) or small vessel vasospasm like frostbite or scleroderma.
+-   Raynaud phenomena present as episodes of vasospasm in response to cold or stress. The patient describes the affected areas turning white, blue, and red during an attack. It is associated with feeling cold and numb. As the circulation improves and the affected areas turn red, there is throbbing, tingling, and swelling.
+-   Episodes of ischemia to the digits may be persistent and severe and associated with underlying obliterative microangiopathy and manifest with pain, tissue loss (ulceration or gangrene).
+-   Chronic ischemia of the upper extremity is uncommon can manifest with arm claudication (exertional fatigue). The etiology is most commonly proximal obstruction due to atherosclerotic disease in the subclavian artery. More uncommon causes are Takayasu arteritis and thoracic outlet syndrome.\
+-   Exertion of the arm causing posterior cerebral circulation symptoms (diplopia, dysarthria, dizziness, drop attacks, vertigo, syncope, and ataxia) may reflect a subclavian steal syndrome caused by subclavian artery stenosis proximal to the vertebral artery.
+
+### Abdomen History:
+
+-   Aneurysm disease in the abdomen is usually silent.
+-   With weight loss and sitophobia (food fear), postprandial pain may reflect mesenteric artery stenosis.
+-   Severe hypertension, especially in young adults, may reflect renal artery stenosis.\
+-   Aortoiliac occlusive disease may present with Leriche's syndrome. **Leriche's syndrome** is defined as bilateral hip and buttock claudication, absent femoral pulses, and impotence.\
+-   Acute abdominal pain has multiple nonvascular etiologies. A ruptured aneurysm presents severe pain radiating to the back with a pulsatile abdominal mass. Acute mesenteric ischemia manifests as pain out of proportion to the physical exam.
+
+### Lower Extremities History:
+
+-   The evaluation depends on the timing (acute vs. chronic) and then the degree of ischemia (claudication vs. chronic limb-threatening ischemia).
+-   **Acute limb ischemia (ALI)** is a sudden occlusion of the blood supply with no time for collateral vessels to develop. It is characterized by the **6 Ps.** *Pulselessness, pain, pallor, paresthesia, poikilothermia (cold), and paralysis.*
+-   Chronic limb ischemia is frequently asymptomatic and diagnosed on physical exam or vascular lab testing. In asymptomatic disease related to atherosclerotic disease, medical therapy is initiated to prevent disease progression.
+-   **Claudication** is defined by cramping pain in the leg induced by exercise and relieved by rest. It occurs at a fixed and reproducible distance and resolves with rest. The pain is described as discomfort, cramp, numbness, or tiredness in the legs. Claudication most commonly occurs in the calf muscles, but it can also affect the feet, thighs, hips, buttocks. It is crucial to determine how the patient's lifestyle is affected when taking a history. With proper medical therapy, including medication and exercise, claudication improves\> 50% of the time. Fewer than 5% progress to amputation. Amputation is more frequent in patients who continue to smoke, have uncontrolled diabetes, and have renal failure. Differential diagnosis of claudication is in **Table 1** below. Table 1 is also helpful in differentiating between other types of leg pain, pseudo claudication, and true claudication.\
+-   **Chronic limb-threatening ischemia (CLTI).** These patients have multiple levels of arterial disease and are at risk of amputation. CLTI manifests as rest pain or tissue loss. Rest pain is characterized as pain in the dorsum of the foot and toes. It is increased with leg elevation and may wake the patient up at night and is relieved by dangling the limb, which increases perfusion by enlisting gravity to help perfuse the leg. Tissue loss can be in the form of an ulcer or gangrene.
+
+------------------------------------------------------------------------
+
+## Physical Exam of the Arterial System
+
+The arterial system is diffuse. Therefore, the evaluation of vascular patients should include the entire arterial system.
+
+The exam starts with the nurse checking the vital signs and bilateral upper extremity blood pressures. A difference of \> 10 mmHg between the upper extremities indicates significant hemodynamic stenosis. Most of these stenoses are asymptomatic because of the extensive collateral network.
+
+::: {.callout-note icon="true"}
+## Key Notes
+
+**Arterial Bruit:** Normal arterial flow is silent. However, turbulence can be heard (bruit) or palpated (thrill). Although murmur and bruit are synonymous, audible turbulence originating from the heart is called a murmur. Outside of the heart, audible turbulence is referred to as a bruit. The presence of a bruit does not necessarily indicate significant arterial stenosis.
+
+**Pulses are described as:**\
+
+-   0 or absent
+-   1+ or diminished
+-   2+ or normal
+-   3+ or prominent or aneurysmal.
+
+In patients with weak pulses, the examiner must take care not confuse the patient's pulse with involuntary muscle twitches or their own pulse.
+
+When a pulse is not palpated, a (portable) Doppler ultrasound probe is used to assess the blood flow. The Doppler signal can be triphasic, or biphasic, or monophasic.
+
+**Doppler Signals:**
+
+-   Triphasic and biphasic doppler signals indicate good blood flow.\
+-   Monophasic signal correlates with moderate to severe decrease in arterial blood flow.
+
+In severe ischemia, a soft continuous venous signal may be all that is heard.
+
+Listen to examples [here.](youtube.com/watch?v=C4Utl1wkoio)
+
+**On Exam:**
+
+-   Temperature changes may help demarcate the level of disease.\
+-   Sensory loss may be present in acute ischemia and chronic neuropathy.
+:::
+
+### Head and Neck Exam:
+
+#### Inspection:
+
+-   Pulsatile masses in the neck are usually tortuous carotid arteries mistaken for carotid aneurysms. Carotid aneurysms are usually near the carotid bifurcation, while tortuous carotid arteries are usually at the base of the neck. Carotid body tumors are also at the carotid bifurcation. Both carotid body tumors and aneurysms are not visible until they are large.
+-   If the patient complains of amaurosis fugax, fundoscopy may reveal cholesterol plaques called Hollenhorst plaques. These are thought to originate from the carotid plaque.
+
+#### Palpation:
+
+-   The carotid pulse is palpated on the medial border of the sternocleidomastoid muscle. Carotid palpation is generally not performed routinely as it may cause a syncopal episode in elderly patients with sensitive carotid bulbs.
+-   A robust temporal pulse anterior to the ear is a sign of a patent common and external carotid artery sign.
+-   A large supraclavicular pulse may indicate an enlarged subclavian artery. Otherwise, the subclavian artery is usually not palpable.
+
+#### Auscultation:
+
+-   Include auscultation of the carotids for any bruits.
+-   Using the stethoscope bell, you can hear the S1, and S2 heart sounds in the carotid artery in the mid-neck. A bruit heard in the neck is not normal. This could be transmitted from the heart or could be from a kink or narrowing in the carotid artery. The carotid bruit is loudest in the mid neck over the carotid bifurcation. The heart bruit (called murmur) is the loudest in the upper chest.
+-   The intensity of the bruit and pitch do not correlate with the severity of stenosis. A tight stenosis may have low flow and thus a faint bruit.
+-   When a carotid bruit is heard, only 25% will have significant stenosis ( 75% or greater), and 50% will not have any stenosis.
+
+### Upper Extremity Exam:
+
+#### Inspection
+
+-   Pink fingertips with capillary refill times \< 2 seconds are a reliable sign of adequate perfusion. Ischemia manifests with pale extremity with poor to no capillary refill. Chronic ischemia manifests with muscle atrophy.
+-   Raynaud phenomenon is characterized by sharply demarcated triphasic color change after exposure to cold or emotional stress. First, the capillaries contract after the stressor, causing a characteristic white appearance. Then, as the capillaries open a little, the blood re-perfuses sluggishly and is deoxygenated; this causes a hypoxic blue color. Finally, when the capillaries recover and hyper-dilate, the affected limb becomes red and hyperemic. Raynaud's phenomena may occur idiopathically (Raynaud's Disease) or secondarily in autoimmune disease and is often provoked by exposure to cold or emotional distress.
+
+#### Palpation
+
+-   Palpate the axillary artery in the upper arm in the groove between the biceps and triceps muscle.
+-   Palpate the brachial artery in the antecubital fossa just medial to the biceps tendon
+-   Palpate the radial artery on the wrist's flexor surface just medial to the radial styloid.
+-   Palpate the ulnar artery on the wrist's flexor surface just medial to the distal ulna; it lies deeper than the radial artery and may not be palpable.
+-   Absent pulses should initiate a search for a cause such as proximal atherosclerotic stenosis in older adults or autoimmune disease such as Takayasu's in young females.
+-   Aneurysm of the Subclavian artery and axillary artery (assessed above and below the clavicle) are difficult to palpate if small. Brachial artery aneurysms are usually pseudoaneurysms from trauma or arterial access. Ulnare artery aneurysm occurs from repetitive trauma in proximity to the hamate bone and manifests as hypothenar hammer syndrome.
+
+#### Auscultation
+
+-   Listen for a bruit in the supraclavicular fossa over the subclavian artery.
+-   When pulses are not palpable, a Doppler is used to assess blood flow in the arteries.
+-   A blood pressure difference \> 10 mmHg reflects hemodynamically significant stenosis in the innominate, subclavian, or axillary arteries. Therefore, the higher blood pressure is reflective of the actual blood pressure.
+
+### Chest and Abdominal Exam:
+
+#### Inspection
+
+-   The aorta usually is not visible on the exam. However, a large aneurysm may be seen pulsating between the xiphoid and umbilicus, especially in thin patients.
+
+#### Palpation
+
+-   The aorta bifurcates at the level of the umbilicus. To palpate the aorta, press our fingers on both sides of the midline between the umbilicus and the xiphoid. The patient should bend, his knees flex his hips, and relax his abdominal muscle helps. The goal is not only to feel the aortic pulse but also to estimate the size of the aorta. In most normal thin people, the aorta is palpable and is the size of the patient's thumb. A tender pulsatile aortic mass may represent a symptomatic aortic aneurysm or inflammatory aneurysm.
+-   The sensitivity of palpation to detect an abdominal aortic aneurysm is low (29%) for small (3.0- 4cm) aneurysms. Moreover, even larger aneurysms may not be detected on physical exam (76%) for aneurysms \> 5 cm. false positives can be found in elderly patients who have tortuous anterior placed aorta. It is important to mention that palpation of an abdominal aortic aneurysm is safe and has never been reported to precipitate aortic rupture. When an aortic aneurysm is identified, A complete peripheral arterial examination should be performed looking for evidence of distal embolization, ischemia, or associated peripheral artery aneurysms (femoral, popliteal).
+-   The iliac arteries lie deep in the pelvis and are usually not palpable, even if they were an aneurysm.
+
+#### Auscultation
+
+-   Cardiac auscultation is performed for rate and rhythm. And attention to any arrhythmias, gallops, and murmurs.
+-   Bruits in the abdomen is associated with arterial stenosis. The origin of the bruit could be renal, mesenteric, or aortic iliac. In young females, the bruit may reflect fibromuscular dysplasia.
+
+### Lower Extremity Exam:
+
+#### Inspection
+
+-   Pallor, cyanosis, poor capillary refill are signs of chronic limb ischemia. Muscle atrophy, hair loss, and thick toenails may also be present.
+-   **Dependent rubor** and pallor with elevation indicate advanced peripheral occlusive disease. Dependent rubor is hyperemic erythematous discoloration of the limb in a dependent position (sitting or standing). Dependent rubor is due to the maximal dilation of the capillaries and the effect of gravity. However, the limb becomes pale once the foot is elevated (the patient lies down). It is usually associated with rest pain and edema. It is frequently misdiagnosed as cellulitis.
+-   Ulcers need to be identified as neuropathic ulcers or ischemic ulcers. Neuropathic ulcers are at pressure points over the plantar aspect of the metatarsal head. Ischemic ulcers are more on the tip of the toes.\
+-   *Livedo Reticularis*: Violaceous mottling of the skin with a reticular pattern of the skin of the arms and legs. The term" livedo racemosa" is used for cutaneous findings in inflammatory or thrombotic vascular disease patients.
+-   *Acrocyanosis*: is defined as bluish discoloration of the extremities due to high deoxygenated blood in the capillaries. It is a persistent disorder without episodic triphasic color response.\
+-   Microembolic disease can manifest as blue toe syndrome/trash foot.
+-   Dry skin is present in chronic limb ischemia because the sebaceous glands are not working well.
+-   Edema is called "pitting" when the indentation persists after applying pressure to a small area. Pitting edema is associated with systemic diseases like heart failure, chronic kidney disease, hypoproteinemia, or local disease of the veins or lymphatic. Non-pitting edema is observed when the indentation does not persist. It is associated with Myxedema, lipedema, and advanced lymphedema.\
+-   *Claudication*: claudicates may have no significant finding on inspection. They may have muscle atrophy or hair loss:
+
+#### Auscultation
+
+-   Auscultation over the femoral region for any bruits. Auscultation may also find continuous bruits characterized by an arterio-venous fistula.
+
+#### Palpation
+
+-   Femoral pulse: palpated under the inguinal ligament, two-finger breaths from the pubic tubercle.\
+-   Popliteal pulse: with the patient's knee flexed, both hands are wrapped around the knee tendons, and the tips of the fingertips are pressed into the popliteal space. The pulse is lightly lateral. A normal popliteal artery may not be palpable.\
+-   Dorsalis Pedis: palpated in the dorsum of the foot between the first and second extensor tendons.
+-   Postier tibial: pulse is found behind the medial malleolus. It is easier to palpable with the foot passively dorsiflexed.\
+-   Peroneal artery: not palpable.\
+-   It is common not to palpate either the Dorsalis Pedis or posterior tibial pulse, but not in the same foot.
+-   When a pulse is not palpated, a Doppler is used to assess the blood flow. The Doppler signal can be triphasic, or biphasic, or monophasic.\
+-   Triphasic and biphasic doppler signals indicate good blood flow.\
+-   Monophasic signal correlates with moderate to severe decrease in arterial blood flow.\
+-   In severe ischemia, a soft continuous venous signal may be all that is heard.\
+-   Temperature changes may help demarcate the level of disease.\
+-   Sensory loss may be present in acute ischemia and chronic neuropathy.

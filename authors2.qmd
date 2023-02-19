@@ -1,5 +1,4 @@
 ---
-title: "authors2"
 format: html
 editor: visual
 number-sections: false
