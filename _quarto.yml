@@ -14,7 +14,7 @@ book:
   downloads: [epub]
   sharing: [twitter]
   page-navigation: true
-  
+
   chapters:
     - index.qmd
     - intro.qmd
