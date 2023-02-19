@@ -1,0 +1,49 @@
+project:
+  type: book
+
+book:
+  title: "APDVS Medical Student Curriculum"
+  author: "APDVS and Ezra Schwartz, MDCM, MSc, MMSc"
+  date: "01/31/2023"
+  description: "eBook Companion to the APDVS Medical Student Curriculum"
+  favicon: images/apdvsbanner.png
+  sidebar: 
+    style: docked
+    background: light
+  search: true
+  downloads: [epub]
+  sharing: [twitter]
+  page-navigation: true
+  
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "Carotid Disorders"
+      chapters: 
+      - carotid2.qmd
+    - references.qmd
+
+number-depth: 2
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+#  pdf:
+#    documentclass: scrreprt
+#    include-in-header: 
+#      text: |
+#        \usepackage{makeidx}
+#        \makeindex
+#    include-after-body: 
+#      text: |
+#        \printindex
+
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
+comments: 
+  hypothesis: true
