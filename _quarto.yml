@@ -6,7 +6,6 @@ book:
   author: "APDVS and Ezra Schwartz, MDCM, MSc, MMSc"
   date: "01/31/2023"
   description: "eBook Companion to the APDVS Medical Student Curriculum"
-  favicon: images/apdvsbanner.png
   sidebar: 
     style: docked
     background: light
