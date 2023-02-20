@@ -1,12 +1,14 @@
+![](images/apdvsbanner.png)
+
 # Preface {.unnumbered}
 
 This content was developed to as part of the Association of Program Directors in Vascular Surgery's (APDVS) medical student curriculum. Each chapter covers a key domain of vascular surgery pathology and treatment, and is associated with an Audible Bleeding episode which you can access through links embedded into the text.
 
 This eBook would not have been possible without the [Association of Program Directors in Vascular Surgery (APDVS)](https://vascular.org/apdvs), the guidance and resources of [Dr. Adam Johnson](https://twitter.com/Adam_mdmph), the [Audible Bleeding Vascular Surgery Exam Prep project](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/), and the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/).
 
-**Editors:** [Ezra Schwartz](https://twitter.com/EzraSchwartz10) and the [Association of Program Directors in Vascular Surgery](https://vascular.org/apdvs)
+**Editors:** [The Association of Program Directors in Vascular Surgery](https://vascular.org/apdvs) and [Ezra Schwartz](https://twitter.com/EzraSchwartz10).
 
-Version 01.01
+Version 01.02
 
 ## Usage
 
@@ -21,6 +23,8 @@ Thanks to the flexibility and accessibility afforded as an eBook, we can (and wi
 ## Additional Resources
 
 We hope you use this eBook as a review for your rotations, undergraduate medical licencing examinations, and entry to independent practice. This resource is a summary and is by no means comprehensive. That noted, in every chapter we have included links to additional resources if you wish to gain a more comprehensive understanding of the topics covered. As our mission is to make vascular surgery education accessible, we prioritize open access publications and free materials. A few highly recommended additional resources include:
+
+-   The [ChooseVascular](https://choosevascular.com/) website. Learn why we chose vascular surgery and determine if you wish to choose vascular too! This site is complete with a student resources page, and information to pair you with a vascular surgery mentor or a vascular surgery interest group, this website is a wonderful introduction the work and community of vascular surgery.
 
 -   The [Audible Bleeding Exam Prep curriculum](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/) and the associated podcast series.
 
@@ -37,7 +41,7 @@ We hope you use this eBook as a review for your rotations, undergraduate medical
 
 ## Comments, Questions or Contributions
 
-Please visit our [github page] **TO ADD** or [send us an email](mailto:audiblebleeding@vascularsociety.org).
+Please visit our [github page](https://github.com/ezraschwartzMD/apdvs_book) or [send Audible Bleeding an email](mailto:audiblebleeding@vascularsociety.org).
 
 ```{r include=FALSE}
 knitr::write_bib(c(
