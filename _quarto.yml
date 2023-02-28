@@ -26,6 +26,8 @@ book:
     - references.qmd
 
   google-analytics: "G-WS28VX4802"
+  cookie-consent: true
+  open-graph: true
   
 number-depth: 2
 
