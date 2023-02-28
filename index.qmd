@@ -1,4 +1,5 @@
 ---
+title: "The APDVS Medical Student Curriculum"
 title-block-banner: false
 ---
 
