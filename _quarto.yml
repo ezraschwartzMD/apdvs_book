@@ -25,6 +25,8 @@ book:
       - carotid2.qmd
     - references.qmd
 
+  google-analytics: "G-WS28VX4802"
+  
 number-depth: 2
 
 bibliography: references.bib
