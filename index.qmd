@@ -1,6 +1,12 @@
 ---
 title: "Preface and User Guide"
 title-block-banner: false
+format: html
+editor: visual
+number-sections: false
+bibliography: references.bib
+smooth-scroll: true
+link-external-newwindow: true
 ---
 
 ![](images/apdvsbanner.png)
