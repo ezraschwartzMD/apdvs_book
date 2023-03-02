@@ -13,9 +13,9 @@ link-external-newwindow: true
 
 # Preface {.unnumbered}
 
-This content was developed to as part of the Association of Program Directors in Vascular Surgery's (APDVS) medical student curriculum. Each chapter covers a key domain of vascular surgery pathology and treatment, and is associated with an Audible Bleeding episode which you can access through links embedded into the text.
+This content was developed as part of the Association of Program Directors in Vascular Surgery's (APDVS) medical student curriculum. Each chapter covers a key domain of vascular surgery pathology and treatment and is associated with an Audible Bleeding episode which you can access from the  link embedded in the text.
 
-This eBook would not have been possible without the [Association of Program Directors in Vascular Surgery (APDVS)](https://vascular.org/apdvs), the guidance and resources of [Dr. Adam Johnson](https://twitter.com/Adam_mdmph), the [Audible Bleeding Vascular Surgery Exam Prep project](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/), and the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/).
+This eBook would not have been possible without the [Association of Program Directors in Vascular Surgery (APDVS)](https://vascular.org/apdvs), the guidance and resources of [Dr. Adam Johnson](https://twitter.com/Adam_mdmph), the [Audible Bleeding Vascular Surgery Exam Prep project](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/) and the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/).
 
 **Editors:** [The Association of Program Directors in Vascular Surgery](https://vascular.org/apdvs) and [Ezra Schwartz](https://twitter.com/EzraSchwartz10).
 
@@ -23,7 +23,7 @@ Version 01.02
 
 # Usage
 
-This eBook is intended to be a medical student level, easily accessible review for vascular surgery rotations and general medical education. This eBook is paired with slide decks, pre- and post-reading questions, and a teaching case produced by the APDVS in addition to podcast content produced by Audible Bleeding, a publication of the Society of Vascular Surgery.
+This eBook is intended to be a medical student level, easily accessible review for vascular surgery rotations and general medical education. This eBook is paired with slide decks, pre- and post-reading questions and a teaching case produced by the APDVS in addition to podcast content produced by Audible Bleeding, a publication of the Society of Vascular Surgery.
 
 We are also excited to include an open source annotations software called [hypothes.is](https://web.hypothes.is). By creating a Hypothes.is account, you will be able to creates notes in the eBook as you read. You can choose to make your notes private or public. As this eBook is a community-led initiative, please consider making your notes public if you feel they would benefit your peers or the editors of the book. Given the public nature of annotations, if you choose to post public notes, these annotations are regarded as contributions to the eBook and we expect readers and listeners to follow a [Contributor Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). We expect all participants, ourselves included, to maintain a **safe space** and behave professionally.
 
