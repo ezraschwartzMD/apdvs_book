@@ -14,6 +14,18 @@ link-external-newwindow: true
 #  {#sec-carotidarterystenosis}
 
 ::: {.callout-note icon="false"}
+## Chapter Learning Objectives
+
+By the end of this chapter, students will:
+
+-   Review the foundational knowledge to appraise asymptomatic and symptomatic carotid artery stenosis.
+-   Identify and describe risk factors, symptoms, and signs of carotid artery disease.
+-   Review and describe indications and contraindications for medical and surgical management of carotid artery stenosis.
+-   Propose next best steps in patient work-up and treatment of carotid artery disease.
+-   Describe the evidence-based outcomes of surgical management of carotid artery disease.
+:::
+
+::: {.callout-note icon="false"}
 ## Key Facts
 
 1.  Stroke is the leading cause of disability nationally and 3rd leading cause of death with a breakdown of 80% occlusive (ischemic) and 20% hemorrhagic.
@@ -319,9 +331,13 @@ However, we feel this chapter contains all the necessary information to answer t
 -   Audible Bleeding Exam Prep: [Cerebrovascular Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/cerebrovascular.html)
 -   Audible Bleeding has an episode covering the NASCET trial. Listen to it below and find [additional information here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/), or find the epsiode wherever you listen to podcasts. <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20601968/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
+---
+
 ### Websites
 
 -   TeachMe Surgery: [Carotid Artery Disease](https://teachmesurgery.com/vascular/arterial/carotid-artery-disease/)
+
+---
 
 ### Serious Games
 
@@ -330,6 +346,8 @@ However, we feel this chapter contains all the necessary information to answer t
 -   Must download the [Medtronic Touch Surgery mobile application](https://www.medtronic.com/covidien/en-us/products/digital-surgery/simulations.html) to access the modules. Available for Apple and Android mobile devices.
 -   [Carotid Endarterectomy](https://lh68.app.link/?$deeplink_path=library/phase?procedure_code=procedure-DAR_CAE&~channel=In-App%20iOS%20Share&~feature=Share%20Phase&~tags=procedure-DAR_CAE)
 -   [Carotid Artery Stenting](https://lh68.app.link/?$deeplink_path=library/phase?procedure_code=procedure-CAR_ArtStent&~channel=In-App%20iOS%20Share&~feature=Share%20Phase&~tags=procedure-CAR_ArtStent)
+
+---
 
 ### Operative Footage
 
@@ -364,3 +382,6 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kjVyBbDZPnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
 </iframe>
+
+---
+

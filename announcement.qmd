@@ -1,0 +1,50 @@
+---
+title: "Announcements, Case of the Week, Anonymous Feedback""
+title-block-banner: false
+format: html
+editor: visual
+number-sections: false
+bibliography: references.bib
+smooth-scroll: true
+link-external-newwindow: true
+---
+
+# Announcements {#sec-announcements}
+
+Please return to this page for updates on website, podcast, and acitivity developments.
+
+::: {.callout-tip icon="false"}
+## eBook Chapters
+
+The next chapter in development is peripheral artery disease including acute limb ischemia (ALI), chronic limb threatening ischemia (CLTI) and claudication.
+:::
+
+::: {.callout-tip icon="false"}
+## Podcast Episodes
+
+The next podcast in development is an introduction to the APDVS curriculum.
+:::
+
+---
+
+# Case of the Week
+
+::: {.callout-note icon="false"}
+## 
+
+To harness the learning principles of [spaced practice](https://www.learningscientists.org/spaced-practice), [retrieval practice](https://www.learningscientists.org/retrieval-practice), \[interleaving\] (https://www.learningscientists.org/interleaving), and [concrete examples](https://www.learningscientists.org/concrete-examples), we invite students and residents to write a case of the week and submit it to APDVS for review. Please try to build the case using material covered in the eBook. We ask you to write for the medical student level. Please include discussions to questions including why the correct is answer is correct and why the incorrect answers are incorrect. Once reviewed, we will post it here for the community! We hope you will take part in this mini-publication exercise!
+
+Please submit your case to ezraschwartz\@hms.harvard.edu .
+
+Case: - Waiting for submissions.
+:::
+
+---
+
+# Anonymous Feeback
+
+::: {.callout-warning icon="false"}
+##
+
+We welcome suggestions for updates. We want to hear from you! Please help us help you! To this end, please complete this anonymous [Google Form](https://forms.gle/DrmnboZyaK3zsuEt7) to send us any feedback you may have.
+:::

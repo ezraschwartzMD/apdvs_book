@@ -16,13 +16,17 @@ book:
 
   chapters:
     - index.qmd
+    - announcement_CoW_feedback.qmd
     - authors2.qmd
+
     - part: "Approach to Vascular Patient"
       chapters: 
         - arterial_history_physical.qmd
+        
     - part: "Carotid Disorders"
       chapters: 
       - carotid2.qmd
+      
     - references.qmd
 
   google-analytics: "G-WS28VX4802"
