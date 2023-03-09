@@ -16,14 +16,14 @@ link-external-newwindow: true
 ::: {.callout-note icon="false"}
 ## Key Facts
 
-1.  Stroke is the leading cause of disability nationally and 3rd leading cause of death with a breakdown of 80% occlusive and 20% hemorrhagic.
-2.  Symptomatic Carotid Stenosis presents with only three symptoms including: Stroke, Transient Ischemic Attack (TIA) and Amaurosis Fugax (transient retinal ischemia).
-3.  Risk factors include: Age, smoking, CAD, Diabetes, Hypertension, Hyperlipidemia and genetic/family history.
-4.  Seminal studies include ACAS and NASCET defining an 11% five-year risk of stroke for asymptomatic carotid artery stenosis (\\\>60%) and 24% two-year risk of stroke for symptomatic disease (\\\>70%), respectively.
-5.  CREST landmark study associating carotid artery stenting with higher perioperative risk of stroke and carotid endarterectomy (CEA) with higher risk of myocardial infarction (MI) in symptomatic patients.
-6.  Carotid Artery Stenting (CAS) indicated for recurrent stenosis after CEA, neck immobility, high carotid bifurcation, contralateral occlusion, high risk open surgical candidate due to cardiopulmonary comorbidity and neck radiation.
-7.  Transcarotid artery revascularization (TCAR) available for direct common carotid delivery of stent avoiding aortic arch manipulation and providing embolic protection through flow reversal.
-8.  Marginal benefit for intervention for asymptomatic carotid artery stenosis patients with significant cardiopulmonary disease due to risks of associated perioperative events.
+1.  Stroke is the leading cause of disability nationally and 3rd leading cause of death with a breakdown of 80% occlusive (ischemic) and 20% hemorrhagic.
+2.  Symptomatic carotid stenosis presents with only three symptoms including: stroke, transient ischemic attack (TIA) and amaurosis fugax (transient retinal ischemia).
+3.  Risk factors include: age, smoking, CAD, diabetes, hypertension, hyperlipidemia and genetic/family history.
+4.  Seminal studies include ACAS and NASCET. They define an 11% five-year risk of stroke for asymptomatic carotid artery stenosis (\\\>60%) and 24% two-year risk of stroke for symptomatic disease (\\\>70%), respectively.
+5.  The CREST landmark study associates carotid artery stenting with higher perioperative risk of stroke and carotid endarterectomy (CEA) with higher risk of myocardial infarction (MI) in symptomatic patients.
+6.  Carotid artery stenting (CAS) is indicated for recurrent stenosis after CEA, neck immobility, high carotid bifurcation, contralateral occlusion, high risk open surgical candidate due to cardiopulmonary comorbidity and neck radiation.
+7.  Transcarotid artery revascularization (TCAR) is available for direct common carotid delivery of stent while avoiding aortic arch manipulation and providing embolic protection through flow reversal.
+8.  There is a marginal benefit for intervention for asymptomatic carotid artery stenosis patients with significant cardiopulmonary disease due to risks of associated perioperative events.
 :::
 
 ::: {.callout-warning icon="false"}
@@ -40,7 +40,7 @@ The pre/post questions are listed below. They are all multiple choice questions 
 
 ## Pre/Post Questions
 
-1.  A 75-year-old male smoke presents with recent visual changes to his right eye that occurred yesterday, the patient reports a shading of his visual field that resulted in momentary monocular blindness followed by return to normal vision. He has a carotid duplex showing \>50% diameter reduction to his right internal carotid artery and \>80% stenosis to his left internal carotid artery. *What treatment should be offered to his patient?*
+1.  A 75-year-old male smoke presents with recent visual changes to his right eye that occurred yesterday. The patient reports a shading of his visual field that resulted in momentary monocular blindness followed by return to normal vision. He has a carotid duplex showing \>50% diameter reduction to his right internal carotid artery and \>80% stenosis to his left internal carotid artery. *What treatment should be offered to his patient?*
 
 A. Emergent DC cardioversion to treat any underlying arrythmia.
 
@@ -77,7 +77,7 @@ E. Hering's Nerve.
 
 **B. Hypoglossal Nerve**
 
-Discussion: This patient has evidence of hypoglossal nerve neuropraxia which can occur as the result of injury or traction on the nerve during distal dissection of the internal carotid artery. Although both glossopharyngeal nerve injury and vagal injuries can also occur during CEA, one causes oropharyngeal dysfunction with swallowing and the latter causes vocal cord paralysis with hoarse voice. Long thoracic nerve is more related to thoracic outlet surgery and innervation of the serratus anterior. The nerve of Hering is related to carotid sinus innervation and is unrelated to this clinical finding.
+Discussion: This patient has evidence of hypoglossal nerve neuropraxia which can occur as the result of injury or traction on the nerve during distal dissection of the internal carotid artery. Although both glossopharyngeal nerve injury and vagal injuries can also occur during CEA, the former causes oropharyngeal dysfunction with swallowing and the latter causes vocal cord paralysis leading to a hoarse voice. The long thoracic nerve is more related to thoracic outlet surgery and innervation of the serratus anterior. The Nerve of Hering is related to carotid sinus innervation and is unrelated to this clinical finding.
 :::
 
 3.  During the initial evaluation of a patient with high grade symptomatic carotid disease, you notice that the patient has internal carotid plaque on that side this is above the angle of the mandible at the 1st cervical vertebral body (C1). This appears to be too high to access through open surgery. The patient has no know history of coronary artery disease, has a preserved ejection fraction and good functional status. He has a low-density lipoprotein level (LDL) of 200 mg/dL. *What is the best treatment option for this individual?*
@@ -97,7 +97,7 @@ E. No treatment is indicated.
 
 **D. Transcarotid artery revascularization surgery with dual antiplatelet therapy.**
 
-Discussion: This patient has symptomatic carotid stenosis with an overall optimal coronary health, based on his lesion being high at C1 and not surgically accessible, they would not qualify for a traditional carotid endarterectomy. Transfemoral carotid artery angioplasty is not indicated without stent placement, and daily ASA therapy without statin treatment for an LDL of 200mg/dL does not qualify as optimal medical management. Surgical treatment is indicated in this symptomatic patient since he has no significant cardiopulmonary disease and TCAR is the only option listed that could accomplish this outcome successfully.
+Discussion: This patient has symptomatic carotid stenosis with an overall optimal coronary health. Because his lesion is high at C1 and not surgically accessible, they would not qualify for a traditional carotid endarterectomy. Transfemoral carotid artery angioplasty is not indicated without stent placement, and daily ASA therapy without statin treatment for an LDL of 200mg/dL does not qualify as optimal medical management. Surgical treatment is indicated in this symptomatic patient since he has no significant cardiopulmonary disease and TCAR is the only option listed that could accomplish this outcome successfully.
 :::
 
 4.  A 60-year-old otherwise healthy woman, with no underlying comorbidities has a right carotid artery bruit on physical examination. She is concerned that she is at risk for stroke. She denies any episodes of vision changes, upper or lower extremity deficits, or speech impairments. She currently takes 81mg of aspirin daily, along with a multivitamin. *What is the next step in management for this patient?*
@@ -117,7 +117,7 @@ E.  Addition of statin therapy.
 
 **A. No further treatment necessary.**
 
-Discussion: This patient has an incidental finding of a carotid bruit on physical exam, however she has no risk factors for carotid disease (such as smoking, hyperlipidemia, smoking, family history, diabetes or hypertension. Additionally she is neurologically asymptomatic. Therefore, carotid duplex, CTA, neurology evaluation, and the addition of statin therapy are not indicated. The prevalence of \>75% carotid stenosis for those with a carotid bruit has been found to be very low at 1.2%.
+Discussion: This patient has an incidental finding of a carotid bruit on physical exam, however she has no risk factors for carotid disease (such as smoking, hyperlipidemia, smoking, family history, diabetes or hypertension). Additionally, she is neurologically asymptomatic. Therefore, carotid duplex, CTA, neurology evaluation, and the addition of statin therapy are not indicated. The prevalence of \>75% carotid stenosis for those with a carotid bruit has been found to be very low at 1.2%.
 :::
 
 5.  A 65-year-old man who is right-handed is undergoing evaluation for a coronary artery bypass graft surgery (CABG). As part of his workup, a carotid duplex is performed which demonstrates a chronic right carotid occlusion and a >80% stenosis of his left carotid artery. He has no history of ocular or cerebrovascular events. He has hypercholesterolemia and well-controlled hypertension. *What is the next best step for this patient?*
@@ -137,16 +137,16 @@ E.	Place the patient on anticoagulation.
 
 **B. Left carotid endarterectomy before CABG.**
 
-Discussion: It is standard of care to assess the carotid arteries prior to performing a CABG, with the goal of minimizing the risk of perioperative stroke. This patient has asymptomatic bilateral severe carotid disease (right occlusion and left >80% stenosis), and therefore to reduce the risk of perioperative stroke current guidelines recommend carotid revascularization prior or concomitant with the CABG. The patient does carry one high risk criterion for TCAR (coronary disease requiring revascularization), however this should not be performed after the CABG. Dual antiplatelet therapy is indicated in the event this patient undergoes carotid stenting, however medical management should not be the only management of his carotid disease. Lastly, anticoagulation has no role in atherosclerotic disease, such as carotid disease.
+Discussion: It is standard of care to assess the carotid arteries prior to performing a CABG, with the goal of minimizing the risk of perioperative stroke. This patient has asymptomatic bilateral severe carotid disease (right occlusion and left >80% stenosis). Therefore, to reduce the risk of perioperative stroke, current guidelines recommend carotid revascularization prior or concomitant with the CABG. The patient does carry one high risk criterion for TCAR (coronary disease requiring revascularization), however this should not be performed after the CABG. Dual antiplatelet therapy is indicated in the event this patient undergoes carotid stenting, however medical management should not be the only management of his carotid disease. Lastly, anticoagulation has no role in atherosclerotic disease, such as carotid disease.
 :::
 
-6.  A 55 year old woman has a past medical history of coronary artery disease s/p coronary stenting in 2019, hypertension, hyperlipidemia, and previous smoking history of 60 pack-years. Her cardiologist sends her for a carotid duplex which demonstrates a 50-69% carotid stenosis on the left side, and mild atherosclerosis on the right side.  She denies any prior signs or symptoms of stroke or transient ischemic attack. *How should this patient’s carotid disease be managed?*
+6.  A 55 year old woman has a past medical history of coronary artery disease status post coronary stenting in 2019, hypertension, hyperlipidemia, and previous smoking history of 60 pack-years. Her cardiologist sends her for a carotid duplex which demonstrates a 50-69% carotid stenosis on the left side, and mild atherosclerosis on the right side.  She denies any prior signs or symptoms of stroke or transient ischemic attack. *How should this patient’s carotid disease be managed?*
 
 A.	Left carotid endarterectomy, along with aspirin/statin therapy.
 
 B.	Left transfemoral carotid stent, along with dual antiplatelet/statin therapy.
 
-C.	Aspirin and statin therapy only, and routine surveillance carotid duplexes.
+C.	Aspirin and statin therapy **only**, and routine surveillance carotid duplexes.
 
 D.	Aspirin, statin therapy, blood pressure management, and routine surveillance carotid duplexes.
 
@@ -165,7 +165,7 @@ Discussion: This patient has asymptomatic 50-69% left carotid stenosis with the 
 
 ## Introduction
 
-Hemispheric Stroke related to carotid stenosis is a leading cause of both disability and death in the United States. Underlying etiologies for stroke include occlusive or hemorrhagic events with roughly 80% being related to occlusive pathology through embolus or in-situ thrombosis, the remaining 20% attributable to hemorrhage. Roughly 15% of stroke victims have a transient ischemic attack (TIA) that fully resolved prior to a later stroke event. Risk factors for carotid plaque formation are related to age, smoking, coronary artery disease, diabetes, hyperlipidemia, hypertension and family history of stroke. Due to carotid bulb anatomy, the most common area of plaque formation is within the proximal internal carotid artery. As plaque stenosis increases over time, the systolic velocity increases to maintain flow volumes which intensifies shear stress. This shear stress increases likelihood of plaque rupture, platelet aggregation and thromboembolization. There are multiple seminal studies that describe cohort comparisons of asymptomatic and symptomatic carotid artery stenosis with outcomes related to optimal medical management alone or as adjunct to surgical repair. Symptomatic carotid stenosis is described as carotid stenosis \>50% with unilateral stroke, TIA or amaurosis fugax on the side of carotid disease. Amaurosis fugax is historically described as shade coming down across one eye on the side of stenosis to produce complete monocular visual loss related to transient retinal ischemia.
+Hemispheric stroke related to carotid artery stenosis is a leading cause of both disability and death in the United States. Underlying etiologies for stroke include occlusive or hemorrhagic events with roughly 80% being related to occlusive pathology through embolus or in-situ thrombosis, the remaining 20% attributable to hemorrhage. Roughly 15% of stroke victims have a transient ischemic attack (TIA) that fully resolved prior to a later stroke event. Risk factors for carotid plaque formation are related to age, smoking, coronary artery disease, diabetes, hyperlipidemia, hypertension and family history of stroke. Due to carotid bulb anatomy, the most common area of plaque formation is within the proximal internal carotid artery. As plaque stenosis increases over time, the systolic velocity increases to maintain flow volumes which intensifies shear stress. This shear stress increases likelihood of plaque rupture, platelet aggregation and thromboembolization. There are multiple seminal studies that describe cohort comparisons of asymptomatic and symptomatic carotid artery stenosis with outcomes related to optimal medical management alone or as adjunct to surgical repair. Symptomatic carotid stenosis is described as carotid stenosis \>50% with unilateral stroke, TIA or amaurosis fugax on the side of carotid disease. Amaurosis fugax is historically described as shade coming down across one eye on the side of stenosis to produce complete monocular visual loss related to transient retinal ischemia.
 
 ------------------------------------------------------------------------
 
@@ -177,9 +177,9 @@ Atherosclerosis is the most common cause for the development of carotid artery d
 
 ## Diagnostics and Imaging
 
-Three primary imaging modalities are used to evaluate carotid artery stenosis with the lowest cost option being color flow duplex ultrasound (DSA) that allows a physician to determine peak systolic and end diastolic velocities throughout the carotid bifurcation. Based on the internally validated vascular laboratory criteria of the institution, these velocities can be correlated to ranges of degree of stenosis, with high grade stenosis defined as \>70-80%. Since the modality is based primarily on velocity range, it cannot give exact stenosis such as 66%. The modality can also provide adjunct information about the blood flow waveforms in each arterial segment, as well as whether that flow is laminar or turbulent with utilization of color flow imaging. Limitations of this imaging include technician skill, inability to obtain optimal angle of doppler interrogation for velocity determination, shadowing from heavily calcified lesions, poor visualization due to patient habitus and tortuosity.
+Three primary imaging modalities are used to evaluate carotid artery stenosis with the lowest cost option being color flow duplex ultrasound (DSA) that allows a physician to determine peak systolic and end diastolic velocities throughout the carotid bifurcation. Based on the internally validated vascular laboratory criteria of the institution, these velocities can be correlated to ranges of degree of stenosis, with high grade stenosis defined as \>70-80%. Since the modality is based primarily on velocity range, it cannot give exact stenosis such as 66%. The modality can also provide adjunct information about the blood flow waveforms in each arterial segment, as well as whether that flow is laminar or turbulent with utilization of color flow imaging. Limitations of this imaging include technician skill, inability to obtain optimal angle of Doppler interrogation for velocity determination, shadowing from heavily calcified lesions, poor visualization due to patient habitus and tortuosity.
 
-Axial imaging options include both Computed Tomography Angiogram (CTA) and Magnetic Resonance Angiogram (MRA). Both of these two options require some form of intra-arterial contrast either iodinated contrast or gadolinium, respectively. However, they offer a fuller perspective of relevant anatomy and a more precise determination of stenosis within the limitations of the modality, with MRA often overestimating the degree of stenosis due to intrinsic properties of MRA imaging acquisition. Both CTA and MRA, although superior to DSA in determination of exact degree of plaque stenosis and arterial anatomy, sacrifice the physiologic information offered through DSA that speak to flow patterns, flow direction and turbulence. Axial imaging of CTA and MRA can define patency but do not speak to the dynamic nature of blood flow or directionality of flow.
+Axial imaging options include both computed tomography angiogram (CTA) and magnetic resonance angiogram (MRA). Both of these options require some form of intra-arterial contrast, either iodinated contrast or gadolinium, respectively. However, they offer a fuller perspective of relevant anatomy and a more precise determination of stenosis within the limitations of the modality, with MRA often overestimating the degree of stenosis due to intrinsic properties of MRA imaging acquisition. Both CTA and MRA, although superior to DSA in determination of exact degree of plaque stenosis and arterial anatomy, sacrifice the physiologic information offered through DSA that speak to flow patterns, flow direction and turbulence. Axial imaging of CTA and MRA can define patency but do not speak to the dynamic nature of blood flow or directionality of flow.
 
 Definitive determination of flow and directionality can be augmented to a carotid artery stenosis workup by diagnostic angiography. This requires femoral artery access and includes contrast administration, as well as a small risk of periprocedural embolization. However, it offers additional physiologic evaluation that might not be present in DSA and that is inherently lacking in CTA and MRA studies.
 
@@ -189,7 +189,7 @@ Definitive determination of flow and directionality can be augmented to a caroti
 
 ### Carotid Artery Endarterectomy (CEA)
 
-Procedure has been performed since the 1950s either with plaque endarterectomy with patch angioplasty or with primary arterial repair. To prevent arterial restenosis, patch angioplasty has become the standard of arterial closure after plaque removal. The procedure can involve cerebral monitoring including EEG, TCD and stump pressure monitoring or be performed awake to directly monitor patient motor response. Patch repair can be performed under a "clamp and sew" mentality or with an arterial shunt to maintain cerebral perfusion during endarterectomy and patch repair. Risks include cardiopulmonary risk of acute myocardial ischemia, \<3% perioperative risk of neurologic event, neck hematoma or cranial nerve injury of roughly 5-10% affecting the vagus, marginal mandibular, recurrent laryngeal or hypoglossal nerves.
+This procedure has been performed since the 1950s, either by plaque endarterectomy and patch angioplasty or primary arterial repair. To prevent arterial restenosis, patch angioplasty has become the standard of arterial closure after plaque removal. The procedure can involve cerebral monitoring including electroencephalography (EEG), transcranial Doppler (TCD) and stump pressure monitoring or be performed awake to directly monitor patient motor response. Endarterectomy and patch repair can be performed under a "clamp and sew" mentality or with an arterial shunt to maintain cerebral perfusion. Risks include cardiopulmonary risk of acute myocardial ischemia, \<3% perioperative risk of neurologic event, neck hematoma or cranial nerve injury of roughly 5-10% affecting the vagus, marginal mandibular, recurrent laryngeal or hypoglossal nerves.
 
 ### Carotid Artery Stenting (CAS)
 
@@ -199,11 +199,11 @@ Transfemoral stenting requires some type of protection from embolization includi
 
 #### Transcarotid Artery Revascularization (TCAR)
 
-Treatment of a carotid stenosis that avoids aortic arch manipulation involving direct common carotid artery exposure and sheath placement to allow for transcarotid stent delivery to the internal carotid artery. The common carotid artery sheath is connected to a femoral vein sheath so that the natural arterial pressure gradient reverses flow across the distal internal carotid artery driving blood and embolus into the arterial tubing circuit and across a filter before it reenters the venous circulation. FDA approval for the device was delivered in 2016 so the technology is still less than 10 years old without robust long-term follow up. This technique offers a lower perioperative stroke risk than transfemoral stenting, for multiple reasons including lack of transaortic arch manipulation and great vessel cannulation which can result in embolus prior to placement of an internal carotid artery embolic protection device.
+Treatment of a carotid stenosis that avoids aortic arch manipulation involving direct common carotid artery exposure and sheath placement to allow for transcarotid stent delivery to the internal carotid artery. The common carotid artery sheath is connected to a femoral vein sheath so that the natural arterial pressure gradient reverses flow across the distal internal carotid artery driving blood and possible embolus into the arterial tubing circuit and across a filter before it reenters the venous circulation. As FDA approval for the device was delivered in 2016, the technology is less than 10 years old without robust long-term follow up data. This technique offers a lower perioperative stroke risk than transfemoral stenting, for multiple reasons including lack of transaortic arch manipulation and great vessel cannulation which can result in embolus prior to placement of an internal carotid artery embolic protection device.
 
 ### Optimal Medical Management
 
-Understandably, optimal medical management requires full risk evaluation of the individual patient in question including other comorbidities, drug allergies, compliance, etc., we have listed a few broad recommendations to follow that offer general guidance surrounding the dynamic target of optimal medical management for arterial disease.
+Understandably, optimal medical management requires full risk evaluation of the individual patient in question including other comorbidities, drug allergies, compliance, etc. We have listed a few broad recommendations to follow that offer general guidance surrounding the dynamic target of optimal medical management for arterial disease.
 
 #### Antiplatelet Therapy
 
@@ -212,7 +212,7 @@ Understandably, optimal medical management requires full risk evaluation of the 
 
 #### Anticoagulants
 
--   Only useful for prevention of stroke in cardioembolic strokes due to arrhythmia or prosthetic valve.
+-   Only useful for prevention of cardioembolic strokes due to arrhythmia or prosthetic valve.
 
 #### Hypertension Treatment
 
@@ -237,12 +237,12 @@ Understandably, optimal medical management requires full risk evaluation of the 
 ### Asymptomatic carotid stenosis
 
 -   The historically touted Asymptomatic Carotid Atherosclerosis Study (ACAS) demonstrated that patients with \>60% carotid stenosis who underwent CEA benefited significantly from stroke risk reduction at 5 years (5.1% for CEA vs. 11% for optimal medical therapy consisting of aspirin alone).
--   More recent contemporary studies suggest that with the current optimal medical management, which consists of antiplatelet medication and statin therapy, 5-year stroke risk is highest in patients with \>70% carotid stenosis, and therefore this patient population would benefit from carotid endarterectomy.
--   Patients who are deemed high risk, either due to an anatomic(such as surgically inaccessible bifurcation or restenosis after previous CEA) or physiologic finding (congestive heart failure, severe coronary artery disease, or chronic obstructive pulmonary disease), may be considered for TCAR given the equivocal results of perioperative stroke or death at 1.3%, as compared to CEA.
+-   More recent studies suggest that with the current optimal medical management, which consists of antiplatelet medication and statin therapy, 5-year stroke risk is highest in patients with \>70% carotid stenosis, and therefore this patient population would benefit from carotid endarterectomy.
+-   Patients who are deemed high risk, either due to an anatomic (such as surgically inaccessible bifurcation or restenosis after previous CEA) or physiologic findings (congestive heart failure, severe coronary artery disease, or chronic obstructive pulmonary disease), may be considered for TCAR given the equivocal results of perioperative stroke or death at 1.3%, as compared to CEA.
 
 ### Symptomatic carotid stenosis
 
--   Patients who have \>50% carotid stenosis and have developed symptoms of TIA or stroke were found to benefit from CEA in the pivotal North American Symptomatic Carotid Endarterectomy Trial (NASCET) because of the significant 2-year stroke risk reduction as compared to optimal medical management (15.7% vs. 22.2%.). An even great stroke risk reduction was seen in patients with \>70% carotid stenosis (9% CEA vs. 26% medical management).
+-   Patients who have \>50% carotid stenosis and have developed symptoms of TIA or stroke were found to benefit from CEA in the pivotal North American Symptomatic Carotid Endarterectomy Trial (NASCET) because of the significant 2-year stroke risk reduction as compared to optimal medical management (15.7% vs. 22.2%.). An even greater stroke risk reduction was seen in patients with \>70% carotid stenosis (9% CEA vs. 26% medical management).
 -   Current management of patients with symptomatic \>50% carotid stenosis who are low/standard risk is carotid endarterectomy over transfemoral carotid stenting (TFCAS), as there are no studies to date which have shown benefit of TFCAS.
 -   Patients who are deemed high risk, as defined above, may be considered for TCAR over TFCAS due to the significantly lower incidence of in-hospital stroke and death (1.6% vs. 3.1%).
 
@@ -252,19 +252,19 @@ Understandably, optimal medical management requires full risk evaluation of the 
 
 ### Scenario
 
-81-year male with a significant smoking history and prior three vessel CABG five years ago, is presenting with monocular right eye blindness that occurred two days ago. He has no prior ophthalmologic conditions and states that he describes the process of a veil coming down over his right eye with resolution about a minute later with complete return of normal vision at that point. He denies any other symptoms during the event or since as far as motor or sensory deficits, speech, etc. He did not think much of the event but presented after his wife told him to see someone about the event.
+An 81 year old male with a significant smoking history and prior three vessel CABG five years ago, presents with monocular right eye blindness that occurred two days ago. He has no prior ophthalmologic conditions and states that he describes the process of a veil coming down over his right eye with resolution about a minute later with complete return of normal vision at that point. He denies any other symptoms during the event or since, such as motor or sensory deficits, speech, etc. He did not think much of the event but presented after his wife told him to see someone about the event.
 
 ### Exam
 
-**HEENT:** No prior neck incisions, good cervical extension
+**HEENT:** No prior neck incisions, good cervical extension.
 
 **Cardiac:** Regular rate and rhythm. Healed sternotomy scar.
 
-**Pulmonary:** Clear to auscultation throughout
+**Pulmonary:** Clear to auscultation throughout.
 
-**Abdominal:** Soft and nontender
+**Abdominal:** Soft and nontender.
 
-**Neurologic:** All cranial nerves 2-12 intact, no lateralizing deficits, 5/5 strength to all extremities
+**Neurologic:** All cranial nerves 2-12 intact, no lateralizing deficits, 5/5 strength to all extremities.
 
 **Optho:** No visual deficits at 20 feet from eye chart.
 
@@ -288,12 +288,12 @@ Understandably, optimal medical management requires full risk evaluation of the 
 However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
 :::
 
-1.  Can the learner describe this event as amaurosis fugax to explain the visual event for this patient? Do they understand that this is the result of carotid plaque embolization to the retina?
-2.  Can the learner list the specific patient risk factors that make them higher risk of this event? Can they review best medical management to optimize these risk factors?
+1.  Please explain the pathophysiology of the visual event for this patient? Describe why it can be termed amaurosis fugax. Ensure understandinf that amaurosis fugax is the result of carotid plaque embolization to the retina.
+2.  Please list the patient's risk factors for carotid disease? What is best medical management to optimize these risk factors?
 3.  Is this patient asymptomatic or symptomatic based on the clinical scenario presented?
-4.  What next steps should be pursued to offer effective and timely treatment to this patient? - The learner can discuss adjunct imaging such as CTA or MRA to determine anatomic characteristics of the lesions such as ulceration, vessel patency, level (accessible or high lesions), etc.
-5.  Would surgical management could be suggested including a discussion of carotid endarterectomy, transfemoral stenting or TCAR?
-6.  What medications should be started in this scenario, such as ASA, Plavix, statin medications, etc.?
+4.  What next steps should be pursued to offer effective and timely treatment to this patient? Please discuss adjunct imaging such as CTA or MRA to determine anatomic characteristics of the lesions such as ulceration, vessel patency, level (accessible or high lesions), etc.
+5.  What surgical managements could be suggested to this patient? Please include a discussion of carotid endarterectomy, transfemoral stenting or TCAR.
+6.  What medications should be started in this scenario? Please consider ASA, Plavix, statin medications, etc.
 7.  What are some possible relevant complications of surgical intervention, including periprocedural stroke risk?
 
 ------------------------------------------------------------------------
@@ -322,6 +322,14 @@ However, we feel this chapter contains all the necessary information to answer t
 ### Websites
 
 -   TeachMe Surgery: [Carotid Artery Disease](https://teachmesurgery.com/vascular/arterial/carotid-artery-disease/)
+
+### Serious Games
+
+#### Touch Surgery Simulations. 
+
+-   Must download the [Medtronic Touch Surgery mobile application](https://www.medtronic.com/covidien/en-us/products/digital-surgery/simulations.html) to access the modules. Available for Apple and Android mobile devices.
+-   [Carotid Endarterectomy](https://lh68.app.link/?$deeplink_path=library/phase?procedure_code=procedure-DAR_CAE&~channel=In-App%20iOS%20Share&~feature=Share%20Phase&~tags=procedure-DAR_CAE)
+-   [Carotid Artery Stenting](https://lh68.app.link/?$deeplink_path=library/phase?procedure_code=procedure-CAR_ArtStent&~channel=In-App%20iOS%20Share&~feature=Share%20Phase&~tags=procedure-CAR_ArtStent)
 
 ### Operative Footage
 

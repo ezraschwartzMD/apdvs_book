@@ -21,7 +21,11 @@ This eBook would not have been possible without the [Association of Program Dire
 
 Version 01.02
 
-# Usage
+# Disclosures {.unnumbered}
+
+This is an publication of the APDVS and therefore we share the same conflicts of interest. That noted, this eBook is the product of voluntarily donated time. This work has no financial backing and is not-for-profit. We are not receiving any funding or benefits from outside resources referenced. We include resources we believe will benefit you, the learner.
+
+# Usage {.unnumbered}
 
 This eBook is intended to be a medical student level, easily accessible review for vascular surgery rotations and general medical education. This eBook is paired with slide decks, pre- and post-reading questions and a teaching case produced by the APDVS in addition to podcast content produced by Audible Bleeding, a publication of the Society of Vascular Surgery.
 
@@ -31,7 +35,7 @@ Thanks to the flexibility and accessibility afforded as an eBook, we can (and wi
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/"><img src="https://i.creativecommons.org/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This eBook is free to the public and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States License</a>.
 
-# Additional Resources
+# Additional Resources {.unnumbered}
 
 We hope you use this eBook as a review for your rotations, undergraduate medical licencing examinations, and entry to independent practice. This resource is a summary and is by no means comprehensive. That noted, in every chapter we have included links to additional resources if you wish to gain a more comprehensive understanding of the topics covered. As our mission is to make vascular surgery education accessible, we prioritize open access publications and free materials. A few highly recommended additional resources include:
 
@@ -50,7 +54,7 @@ We hope you use this eBook as a review for your rotations, undergraduate medical
     -   We suggest paying special attention to the *Holding Pressure* series. Whereas this eBook is organized by disease, *Holding Pressure* episodes are organized by surgical procedure. These episodes contain a wealth of high-yield information and we will include links to *Holding Pressure* episodes throughout the eBook when applicable.
     -   You can listen to Audible Bleeding episodes on [Apple Podcasts](https://podcasts.apple.com/us/podcast/audible-bleeding/id1440614377), [Spotify](https://open.spotify.com/show/5EPvNmAGD38OCNB68rXBaJ), [Google Podcasts](https://podcasts.google.com/search/audible%20bleeding), [Stitcher](https://www.stitcher.com/show/audible-bleeding), or [Soundcloud](https://soundcloud.com/user-868527834)
 
-# Comments, Questions or Contributions
+# Comments, Questions or Contributions {.unnumbered}
 
 Please visit our [github page](https://github.com/ezraschwartzMD/apdvs_book) or [send Audible Bleeding an email](mailto:audiblebleeding@vascularsociety.org).
 
