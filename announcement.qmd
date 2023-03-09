@@ -25,7 +25,7 @@ The next chapter in development is peripheral artery disease including acute lim
 The next podcast in development is an introduction to the APDVS curriculum.
 :::
 
----
+------------------------------------------------------------------------
 
 # Case of the Week
 
@@ -39,12 +39,12 @@ Please submit your case to ezraschwartz\@hms.harvard.edu .
 Case: - Waiting for submissions.
 :::
 
----
+------------------------------------------------------------------------
 
 # Anonymous Feeback
 
 ::: {.callout-warning icon="false"}
-##
+## 
 
 We welcome suggestions for updates. We want to hear from you! Please help us help you! To this end, please complete this anonymous [Google Form](https://forms.gle/DrmnboZyaK3zsuEt7) to send us any feedback you may have.
 :::
