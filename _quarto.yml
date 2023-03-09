@@ -16,9 +16,8 @@ book:
 
   chapters:
     - index.qmd
-    - announcement_CoW_feedback.qmd
     - authors2.qmd
-
+    
     - part: "Approach to Vascular Patient"
       chapters: 
         - arterial_history_physical.qmd
