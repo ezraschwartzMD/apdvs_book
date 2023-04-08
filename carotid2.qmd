@@ -18,7 +18,7 @@ link-external-newwindow: true
 
 By the end of this chapter, students will:
 
--   Review the foundational knowledge to appraise asymptomatic and symptomatic carotid artery stenosis.
+-   Review the foundational knowledge toappraise asymptomatic and symptomatic carotid artery stenosis.
 -   Identify and describe risk factors, symptoms, and signs of carotid artery disease.
 -   Review and describe indications and contraindications for medical and surgical management of carotid artery stenosis.
 -   Propose next best steps in patient work-up and treatment of carotid artery disease.
@@ -31,7 +31,7 @@ By the end of this chapter, students will:
 1.  Stroke is the leading cause of disability nationally and 3rd leading cause of death with a breakdown of 80% occlusive (ischemic) and 20% hemorrhagic.
 2.  Symptomatic carotid stenosis presents with only three symptoms including: stroke, transient ischemic attack (TIA) and amaurosis fugax (transient retinal ischemia).
 3.  Risk factors include: age, smoking, CAD, diabetes, hypertension, hyperlipidemia and genetic/family history.
-4.  Seminal studies include ACAS and NASCET. They define an 11% five-year risk of stroke for asymptomatic carotid artery stenosis (\\\>60%) and 24% two-year risk of stroke for symptomatic disease (\\\>70%), respectively.
+4.  Seminal studies include ACAS and NASCET. They define an 11% five-year risk of stroke for asymptomatic carotid artery stenosis (>60%) and 24% two-year risk of stroke for symptomatic disease (>70%), respectively.
 5.  The CREST landmark study associates carotid artery stenting with higher perioperative risk of stroke and carotid endarterectomy (CEA) with higher risk of myocardial infarction (MI) in symptomatic patients.
 6.  Carotid artery stenting (CAS) is indicated for recurrent stenosis after CEA, neck immobility, high carotid bifurcation, contralateral occlusion, high risk open surgical candidate due to cardiopulmonary comorbidity and neck radiation.
 7.  Transcarotid artery revascularization (TCAR) is available for direct common carotid delivery of stent while avoiding aortic arch manipulation and providing embolic protection through flow reversal.
@@ -42,6 +42,8 @@ By the end of this chapter, students will:
 ## Carotid Disease Slide Deck
 
 Please find the slide deck corresponding to this eBook chapter [**here**.](https://docs.google.com/presentation/d/1sySy69sCXjZni1pJkoXCbh5bCYopTBQg/edit?usp=sharing&ouid=103498724122494401400&rtpof=true&sd=true)
+
+Please find a video recording of Dr. Kokkosis and Dr. Malinowski's lecture using the above slide deck [**here**](https://drive.google.com/file/d/1OkN4dh0gVoXpoFglnfZc6ARRI0XbREoV/view?usp=sharing)
 :::
 
 ::: callout-tip
@@ -94,13 +96,13 @@ Discussion: This patient has evidence of hypoglossal nerve neuropraxia which can
 
 3.  During the initial evaluation of a patient with high grade symptomatic carotid disease, you notice that the patient has internal carotid plaque on that side this is above the angle of the mandible at the 1st cervical vertebral body (C1). This appears to be too high to access through open surgery. The patient has no know history of coronary artery disease, has a preserved ejection fraction and good functional status. He has a low-density lipoprotein level (LDL) of 200 mg/dL. *What is the best treatment option for this individual?*
 
-A. Transfemoral carotid artery angioplasty with placement on ASA only. 
+A. Transfemoral carotid artery angioplasty with placement on ASA only.
 
-B. Carotid artery enterectomy with shunt placement. 
+B. Carotid artery enterectomy with shunt placement.
 
-C. Daily ASA therapy without any type of statin or antihypertensive therapy. 
+C. Daily ASA therapy without any type of statin or antihypertensive therapy.
 
-D. Trancarotid artery revascularization (TCAR) surgery with dual antiplatelet therapy. 
+D. Trancarotid artery revascularization (TCAR) surgery with dual antiplatelet therapy.
 
 E. No treatment is indicated.
 
@@ -114,6 +116,9 @@ Discussion: This patient has symptomatic carotid stenosis with an overall optima
 
 4.  A 60-year-old otherwise healthy woman, with no underlying comorbidities has a right carotid artery bruit on physical examination. She is concerned that she is at risk for stroke. She denies any episodes of vision changes, upper or lower extremity deficits, or speech impairments. She currently takes 81mg of aspirin daily, along with a multivitamin. *What is the next step in management for this patient?*
 
+```{=html}
+<!-- -->
+```
 A.  No further treatment necessary.
 
 B.  Carotid duplex.
@@ -132,45 +137,50 @@ E.  Addition of statin therapy.
 Discussion: This patient has an incidental finding of a carotid bruit on physical exam, however she has no risk factors for carotid disease (such as smoking, hyperlipidemia, smoking, family history, diabetes or hypertension). Additionally, she is neurologically asymptomatic. Therefore, carotid duplex, CTA, neurology evaluation, and the addition of statin therapy are not indicated. The prevalence of \>75% carotid stenosis for those with a carotid bruit has been found to be very low at 1.2%.
 :::
 
-5.  A 65-year-old man who is right-handed is undergoing evaluation for a coronary artery bypass graft surgery (CABG). As part of his workup, a carotid duplex is performed which demonstrates a chronic right carotid occlusion and a >80% stenosis of his left carotid artery. He has no history of ocular or cerebrovascular events. He has hypercholesterolemia and well-controlled hypertension. *What is the next best step for this patient?*
+5.  A 65-year-old man who is right-handed is undergoing evaluation for a coronary artery bypass graft surgery (CABG). As part of his workup, a carotid duplex is performed which demonstrates a chronic right carotid occlusion and a \>80% stenosis of his left carotid artery. He has no history of ocular or cerebrovascular events. He has hypercholesterolemia and well-controlled hypertension. *What is the next best step for this patient?*
 
-A.	Proceed with the CABG as planned and continue medical therapy with aspirin and statin.
+```{=html}
+<!-- -->
+```
+A.  Proceed with the CABG as planned and continue medical therapy with aspirin and statin.
 
-B.	Left carotid endarterectomy before the CABG.
+B.  Left carotid endarterectomy before the CABG.
 
-C.	Place the patient on dual antiplatelet therapy, in addition to statin therapy.
+C.  Place the patient on dual antiplatelet therapy, in addition to statin therapy.
 
-D.	Left TCAR (transcarotid stent) after the CABG.
+D.  Left TCAR (transcarotid stent) after the CABG.
 
-E.	Place the patient on anticoagulation.
+E.  Place the patient on anticoagulation.
 
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
 **B. Left carotid endarterectomy before CABG.**
 
-Discussion: It is standard of care to assess the carotid arteries prior to performing a CABG, with the goal of minimizing the risk of perioperative stroke. This patient has asymptomatic bilateral severe carotid disease (right occlusion and left >80% stenosis). Therefore, to reduce the risk of perioperative stroke, current guidelines recommend carotid revascularization prior or concomitant with the CABG. The patient does carry one high risk criterion for TCAR (coronary disease requiring revascularization), however this should not be performed after the CABG. Dual antiplatelet therapy is indicated in the event this patient undergoes carotid stenting, however medical management should not be the only management of his carotid disease. Lastly, anticoagulation has no role in atherosclerotic disease, such as carotid disease.
+Discussion: It is standard of care to assess the carotid arteries prior to performing a CABG, with the goal of minimizing the risk of perioperative stroke. This patient has asymptomatic bilateral severe carotid disease (right occlusion and left \>80% stenosis). Therefore, to reduce the risk of perioperative stroke, current guidelines recommend carotid revascularization prior or concomitant with the CABG. The patient does carry one high risk criterion for TCAR (coronary disease requiring revascularization), however this should not be performed after the CABG. Dual antiplatelet therapy is indicated in the event this patient undergoes carotid stenting, however medical management should not be the only management of his carotid disease. Lastly, anticoagulation has no role in atherosclerotic disease, such as carotid disease.
 :::
 
-6.  A 55 year old woman has a past medical history of coronary artery disease status post coronary stenting in 2019, hypertension, hyperlipidemia, and previous smoking history of 60 pack-years. Her cardiologist sends her for a carotid duplex which demonstrates a 50-69% carotid stenosis on the left side, and mild atherosclerosis on the right side.  She denies any prior signs or symptoms of stroke or transient ischemic attack. *How should this patient’s carotid disease be managed?*
+6.  A 55 year old woman has a past medical history of coronary artery disease status post coronary stenting in 2019, hypertension, hyperlipidemia, and previous smoking history of 60 pack-years. Her cardiologist sends her for a carotid duplex which demonstrates a 50-69% carotid stenosis on the left side, and mild atherosclerosis on the right side. She denies any prior signs or symptoms of stroke or transient ischemic attack. *How should this patient's carotid disease be managed?*
 
-A.	Left carotid endarterectomy, along with aspirin/statin therapy.
+```{=html}
+<!-- -->
+```
+A.  Left carotid endarterectomy, along with aspirin/statin therapy.
 
-B.	Left transfemoral carotid stent, along with dual antiplatelet/statin therapy.
+B.  Left transfemoral carotid stent, along with dual antiplatelet/statin therapy.
 
-C.	Aspirin and statin therapy **only**, and routine surveillance carotid duplexes.
+C.  Aspirin and statin therapy **only**, and routine surveillance carotid duplexes.
 
-D.	Aspirin, statin therapy, blood pressure management, and routine surveillance carotid duplexes.
+D.  Aspirin, statin therapy, blood pressure management, and routine surveillance carotid duplexes.
 
-E.	No further management is indicated.
-
+E.  No further management is indicated.
 
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
 **D. Aspirin, statin therapy, blood pressure management, and routine surveillance carotid duplexes.**
 
-Discussion: This patient has asymptomatic 50-69% left carotid stenosis with the associated risk factors of vascular disease which include hypertension, hyperlipidemia, and smoking history. Medical therapy needs to be employed to reduce these factors, thus a single antiplatelet, statin, and blood pressure medication are indicated. Fortunately, the patient is not a current smoker, however if she was, then smoking cessation counseling would be added to her treatment plan. Carotid revascularization is indicated only for asymptomatic carotid stenosis that is >70% based on current guidelines.
+Discussion: This patient has asymptomatic 50-69% left carotid stenosis with the associated risk factors of vascular disease which include hypertension, hyperlipidemia, and smoking history. Medical therapy needs to be employed to reduce these factors, thus a single antiplatelet, statin, and blood pressure medication are indicated. Fortunately, the patient is not a current smoker, however if she was, then smoking cessation counseling would be added to her treatment plan. Carotid revascularization is indicated only for asymptomatic carotid stenosis that is \>70% based on current guidelines.
 :::
 
 ------------------------------------------------------------------------
@@ -331,23 +341,23 @@ However, we feel this chapter contains all the necessary information to answer t
 -   Audible Bleeding Exam Prep: [Cerebrovascular Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/cerebrovascular.html)
 -   Audible Bleeding has an episode covering the NASCET trial. Listen to it below and find [additional information here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/), or find the epsiode wherever you listen to podcasts. <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20601968/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
----
+------------------------------------------------------------------------
 
 ### Websites
 
 -   TeachMe Surgery: [Carotid Artery Disease](https://teachmesurgery.com/vascular/arterial/carotid-artery-disease/)
 
----
+------------------------------------------------------------------------
 
 ### Serious Games
 
-#### Touch Surgery Simulations. 
+#### Touch Surgery Simulations.
 
 -   Must download the [Medtronic Touch Surgery mobile application](https://www.medtronic.com/covidien/en-us/products/digital-surgery/simulations.html) to access the modules. Available for Apple and Android mobile devices.
 -   [Carotid Endarterectomy](https://lh68.app.link/?$deeplink_path=library/phase?procedure_code=procedure-DAR_CAE&~channel=In-App%20iOS%20Share&~feature=Share%20Phase&~tags=procedure-DAR_CAE)
 -   [Carotid Artery Stenting](https://lh68.app.link/?$deeplink_path=library/phase?procedure_code=procedure-CAR_ArtStent&~channel=In-App%20iOS%20Share&~feature=Share%20Phase&~tags=procedure-CAR_ArtStent)
 
----
+------------------------------------------------------------------------
 
 ### Operative Footage
 
@@ -383,5 +393,4 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 
 </iframe>
 
----
-
+------------------------------------------------------------------------
