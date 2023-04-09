@@ -369,6 +369,9 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 
 </iframe>
 
+Please find the TED-Ed lesson [here](https://ed.ted.com/on/6zrshwnM).
+
+
 #### Carotid Endarterectomy (Long Version) Part 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZ8PzhwmSXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
