@@ -10,7 +10,7 @@ book:
     style: docked
     background: light
   search: true
-  downloads: [epub]
+  downloads: [pdf, epub]
   sharing: [twitter]
   page-navigation: true
 
@@ -27,6 +27,7 @@ book:
       chapters: 
       - carotid2.qmd
       
+    - feedback.qmd
     - references.qmd
 
   google-analytics: "G-WS28VX4802"
