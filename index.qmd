@@ -41,22 +41,19 @@ Thanks to the flexibility and accessibility afforded as an eBook, we can (and wi
 
 We hope you use this eBook as a review for your rotations, undergraduate medical licencing examinations, and entry to independent practice. This resource is a summary and is by no means comprehensive. That noted, in every chapter we have included links to additional resources if you wish to gain a more comprehensive understanding of the topics covered. As our mission is to make vascular surgery education accessible, we prioritize open access publications and free materials. A few highly recommended additional resources include:
 
--   The [ChooseVascular](https://choosevascular.com/) website. Learn why we chose vascular surgery and determine if you wish to choose vascular too! This site is complete with a student resources page, and information to pair you with a vascular surgery mentor or a vascular surgery interest group, this website is a wonderful introduction the work and community of vascular surgery.
-
--   The [Audible Bleeding Exam Prep curriculum](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/) and the associated podcast series.
-
-    -   While this resource is intended for postgraduate trainees and fellows and therefore beyond the scope of this curriculum, it is a well authored, no-nonsense resource for those who wish to deepen their knowledge base.
-    -   The accompanying podcast series also allows you to learn or study on the go!
-    -   You can listen to Audible Bleeding episodes on [Apple Podcasts](https://podcasts.apple.com/us/podcast/audible-bleeding/id1440614377), [Spotify](https://open.spotify.com/show/5EPvNmAGD38OCNB68rXBaJ), [Google Podcasts](https://podcasts.google.com/search/audible%20bleeding), [Stitcher](https://www.stitcher.com/show/audible-bleeding), or [Soundcloud](https://soundcloud.com/user-868527834)
+-   Visit the [ChooseVascular](https://choosevascular.com/) website toearn why we chose vascular surgery and determine if you wish to choose vascular too! This site is complete with a student resources page, and information to pair you with a vascular surgery mentor or a vascular surgery interest group, this website is a wonderful introduction the work and community of vascular surgery.
 
 -   The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
 
 -   [TeachMe Surgery](https://teachmesurgery.com/vascular/) is a student friendly online resource complete with short quizzes to help cement learning and recommended readings from the literature. Clear and concise, this is a great just-in-time learning resource.
 
--   The [Audible Bleeding Medical Student Archive](https://www.audiblebleeding.com/episodes-1/?tag=Medical+Student) contains podcast episodes tailored for medical students.
-
-    -   We suggest paying special attention to the *Holding Pressure* series. Whereas this eBook is organized by disease, *Holding Pressure* episodes are organized by surgical procedure. These episodes contain a wealth of high-yield information and we will include links to *Holding Pressure* episodes throughout the eBook when applicable.
+-   The [Audible Bleeding Medical Student Archive](https://www.audiblebleeding.com/episodes-1/?tag=Medical+Student) contains podcast episodes tailored for medical students.We suggest paying special attention to the *Holding Pressure* series. Whereas this eBook is organized by disease, *Holding Pressure* episodes are organized by surgical procedure. These episodes contain a wealth of high-yield information and we will include links to *Holding Pressure* episodes throughout the eBook when applicable.
     -   You can listen to Audible Bleeding episodes on [Apple Podcasts](https://podcasts.apple.com/us/podcast/audible-bleeding/id1440614377), [Spotify](https://open.spotify.com/show/5EPvNmAGD38OCNB68rXBaJ), [Google Podcasts](https://podcasts.google.com/search/audible%20bleeding), [Stitcher](https://www.stitcher.com/show/audible-bleeding), or [Soundcloud](https://soundcloud.com/user-868527834)
+
+-   The [Audible Bleeding Exam Prep curriculum](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/) and the associated podcast series. While this resource is intended for postgraduate trainees and fellows and therefore beyond the scope of this curriculum, it is a well authored, no-nonsense resource for those who wish to deepen their knowledge base. The accompanying podcast series also allows you to learn or study on the go!
+    -   You can listen to Audible Bleeding episodes on [Apple Podcasts](https://podcasts.apple.com/us/podcast/audible-bleeding/id1440614377), [Spotify](https://open.spotify.com/show/5EPvNmAGD38OCNB68rXBaJ), [Google Podcasts](https://podcasts.google.com/search/audible%20bleeding), [Stitcher](https://www.stitcher.com/show/audible-bleeding), or [Soundcloud](https://soundcloud.com/user-868527834)
+    
+-   [VascularTraining.org](https://www.vasculartraining.org/) is an online repository of vascular surgery trainee resources compiled during the stages of the COVID-19 pandemic when providing traditional education was challenging and learning content was increasingly available online. Find videos, landmark and other informative papers, and device information here. Like the Audible Bleeding Exam Prep curriculum, the primary audience for this content is postgraduate trainees but is very accessible for undergraduate students who wish to deepen their knowledge base.
 
 # Comments, Questions or Contributions {.unnumbered}
 
