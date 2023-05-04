@@ -18,7 +18,7 @@ link-external-newwindow: true
 
 By the end of this chapter, students will:
 
--   Review the foundational knowledge toappraise asymptomatic and symptomatic carotid artery stenosis.
+-   Review the foundational knowledge to appraise asymptomatic and symptomatic carotid artery stenosis.
 -   Identify and describe risk factors, symptoms, and signs of carotid artery disease.
 -   Review and describe indications and contraindications for medical and surgical management of carotid artery stenosis.
 -   Propose next best steps in patient work-up and treatment of carotid artery disease.
@@ -31,7 +31,7 @@ By the end of this chapter, students will:
 1.  Stroke is the leading cause of disability nationally and 3rd leading cause of death with a breakdown of 80% occlusive (ischemic) and 20% hemorrhagic.
 2.  Symptomatic carotid stenosis presents with only three symptoms including: stroke, transient ischemic attack (TIA) and amaurosis fugax (transient retinal ischemia).
 3.  Risk factors include: age, smoking, CAD, diabetes, hypertension, hyperlipidemia and genetic/family history.
-4.  Seminal studies include ACAS and NASCET. They define an 11% five-year risk of stroke for asymptomatic carotid artery stenosis (>60%) and 24% two-year risk of stroke for symptomatic disease (>70%), respectively.
+4.  Seminal studies include ACAS and NASCET. They define an 11% five-year risk of stroke for asymptomatic carotid artery stenosis (\>60%) and 24% two-year risk of stroke for symptomatic disease (\>70%), respectively.
 5.  The CREST landmark study associates carotid artery stenting with higher perioperative risk of stroke and carotid endarterectomy (CEA) with higher risk of myocardial infarction (MI) in symptomatic patients.
 6.  Carotid artery stenting (CAS) is indicated for recurrent stenosis after CEA, neck immobility, high carotid bifurcation, contralateral occlusion, high risk open surgical candidate due to cardiopulmonary comorbidity and neck radiation.
 7.  Transcarotid artery revascularization (TCAR) is available for direct common carotid delivery of stent while avoiding aortic arch manipulation and providing embolic protection through flow reversal.
@@ -53,6 +53,8 @@ The pre/post questions are listed below. They are all multiple choice questions 
 :::
 
 ## Pre/Post Questions
+
+### Case Based Questions
 
 1.  A 75-year-old male smoke presents with recent visual changes to his right eye that occurred yesterday. The patient reports a shading of his visual field that resulted in momentary monocular blindness followed by return to normal vision. He has a carotid duplex showing \>50% diameter reduction to his right internal carotid artery and \>80% stenosis to his left internal carotid artery. *What treatment should be offered to his patient?*
 
@@ -116,9 +118,8 @@ Discussion: This patient has symptomatic carotid stenosis with an overall optima
 
 4.  A 60-year-old otherwise healthy woman, with no underlying comorbidities has a right carotid artery bruit on physical examination. She is concerned that she is at risk for stroke. She denies any episodes of vision changes, upper or lower extremity deficits, or speech impairments. She currently takes 81mg of aspirin daily, along with a multivitamin. *What is the next step in management for this patient?*
 
-```{=html}
 <!-- -->
-```
+
 A.  No further treatment necessary.
 
 B.  Carotid duplex.
@@ -139,9 +140,8 @@ Discussion: This patient has an incidental finding of a carotid bruit on physica
 
 5.  A 65-year-old man who is right-handed is undergoing evaluation for a coronary artery bypass graft surgery (CABG). As part of his workup, a carotid duplex is performed which demonstrates a chronic right carotid occlusion and a \>80% stenosis of his left carotid artery. He has no history of ocular or cerebrovascular events. He has hypercholesterolemia and well-controlled hypertension. *What is the next best step for this patient?*
 
-```{=html}
 <!-- -->
-```
+
 A.  Proceed with the CABG as planned and continue medical therapy with aspirin and statin.
 
 B.  Left carotid endarterectomy before the CABG.
@@ -160,11 +160,10 @@ E.  Place the patient on anticoagulation.
 Discussion: It is standard of care to assess the carotid arteries prior to performing a CABG, with the goal of minimizing the risk of perioperative stroke. This patient has asymptomatic bilateral severe carotid disease (right occlusion and left \>80% stenosis). Therefore, to reduce the risk of perioperative stroke, current guidelines recommend carotid revascularization prior or concomitant with the CABG. The patient does carry one high risk criterion for TCAR (coronary disease requiring revascularization), however this should not be performed after the CABG. Dual antiplatelet therapy is indicated in the event this patient undergoes carotid stenting, however medical management should not be the only management of his carotid disease. Lastly, anticoagulation has no role in atherosclerotic disease, such as carotid disease.
 :::
 
-6.  A 55 year old woman has a past medical history of coronary artery disease status post coronary stenting in 2019, hypertension, hyperlipidemia, and previous smoking history of 60 pack-years. Her cardiologist sends her for a carotid duplex which demonstrates a 50-69% carotid stenosis on the left side, and mild atherosclerosis on the right side. She denies any prior signs or symptoms of stroke or transient ischemic attack. *How should this patient's carotid disease be managed?*
+6.  A 55-year-old woman has a past medical history of coronary artery disease status post coronary stenting in 2019, hypertension, hyperlipidemia, and previous smoking history of 60 pack-years. Her cardiologist sends her for a carotid duplex which demonstrates a 50-69% carotid stenosis on the left side, and mild atherosclerosis on the right side. She denies any prior signs or symptoms of stroke or transient ischemic attack. *How should this patient's carotid disease be managed?*
 
-```{=html}
 <!-- -->
-```
+
 A.  Left carotid endarterectomy, along with aspirin/statin therapy.
 
 B.  Left transfemoral carotid stent, along with dual antiplatelet/statin therapy.
@@ -181,6 +180,64 @@ E.  No further management is indicated.
 **D. Aspirin, statin therapy, blood pressure management, and routine surveillance carotid duplexes.**
 
 Discussion: This patient has asymptomatic 50-69% left carotid stenosis with the associated risk factors of vascular disease which include hypertension, hyperlipidemia, and smoking history. Medical therapy needs to be employed to reduce these factors, thus a single antiplatelet, statin, and blood pressure medication are indicated. Fortunately, the patient is not a current smoker, however if she was, then smoking cessation counseling would be added to her treatment plan. Carotid revascularization is indicated only for asymptomatic carotid stenosis that is \>70% based on current guidelines.
+:::
+
+### Operative Footage Questions
+
+These questions are associated with the carotid endarterectomy (CEA) footage (**short version**) found at the bottom of the chapter.
+
+1. What is the first muscle layer encountered in a CEA (i.e. the first muscle deep to skin)?
+
+A. Sternocleidomastoid
+
+B. Digastric
+
+C. Platysma
+
+D. Scalene
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**C. Platysma**
+
+Discussion: The platysma is the most superficial muscle in the neck. It covers most of the anterior and lateral aspect of the neck. It is the first muscle layer encountered in the neck during a CEA. It will be bisected and repaired upon neck closure. While the sternocleidomastoid is superficial, it is deep to the platysma. The sternocleidomastoid is an important landmark as it forms the anterolateral boundary of the carotid triangle. You will dissect along its medial border and retract it laterally in order to access the carotid sheath.The digastric muscle is a small, "two-bellied" muscle located under the mandible. The posterior belly forms the superior border of the carotid triangle. It is often visualized in patients with high carotid bifurcations.The scalene muscles are deep to the sternocleidomastoid muscles and lateral to the cervical spine. They are not manipulated in a CEA.
+:::
+
+2. What structure is **not** found in the carotid sheath?
+
+A. Internal jugular vein
+
+B. External jugular vein
+
+C. Common carotid artery
+
+D. Vasgus nerve
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**B. External jugular vein**
+
+Discussion: The external jugular vein is not in the carotid sheath. It runs superficial to and obliquely across the sternocleidomastoid before passing to the posterior border of the sternocleidomastoid as it descends deep into the neck. The carotid sheath contains the common carotid artery anteromedially, the internal jugular vein anterolaterally, and the vagus nerve posteriorly.
+:::
+
+3. In what order do you clamp the carotid vessels prior to arteriotomy?
+
+A. External carotid artery → common carotid artery → internal carotid artery
+
+B. Common carotid artery → internal carotid artery → external carotid artery
+
+C. Internal carotid artery → external carotid artery → common carotid artery
+
+D. Internal carotid artery → common carotid artery → external carotid artery
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**D. Internal carotid artery → common carotid artery → external carotid artery**
+
+Discussion: In conventional CEA, the internal carotid artery (ICA), the common carotid artery (CCA), and the external carotid artery (ECA) are clamped in that order such that any atherosclerotic debris loosened during vessel manipulation and/or clamping embolizes into the ECA where it could cause extracranial ischemia rather than the ICA where it could cause intracranial ischemia (i.e. ischemic stroke). A useful mnemonic to remember the clamping order is **ICE** for **I**CA, **C**CA, and **E**CA. The order when unclamping is the opposite, **ECI**. The rational is similar. By unclamping the ECA first, remaining debris or debris loosened during removal of the clamps will flow up the ECA rather than the ICA. Options A and B are dangerous as they do not minimize the risk of embolus flowing into the ICA. Option C is simply incorrect.
 :::
 
 ------------------------------------------------------------------------
@@ -368,9 +425,6 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AWXCpRJAN8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
 </iframe>
-
-Please find the TED-Ed lesson [here](https://ed.ted.com/on/6zrshwnM).
-
 
 #### Carotid Endarterectomy (Long Version) Part 1
 
