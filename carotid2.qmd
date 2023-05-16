@@ -262,6 +262,23 @@ Axial imaging options include both computed tomography angiogram (CTA) and magne
 
 Definitive determination of flow and directionality can be augmented to a carotid artery stenosis workup by diagnostic angiography. This requires femoral artery access and includes contrast administration, as well as a small risk of periprocedural embolization. However, it offers additional physiologic evaluation that might not be present in DSA and that is inherently lacking in CTA and MRA studies.
 
+### Asymptomatic Carotid Atery Stenosis Screening
+
+The 2021 SVS clinical practice guidelines outline the following recommendations. In asymptomatic patients who qualify for carotid artery stenosis screening, duplex ultrasound is the recommended choice over CTA, MRA, or other imaging modalities. 
+
+Routine screening is **not recommended** for clinically asymptomatic carotid artery stenosis for individuals **without significant risk factors** for carotid disease. 
+
+Screening is **recommended** for clinically **asymptomatic carotid artery stenosis in individuals **with significant risk factors** for carotid disease. High-risk groups include: 
+
+-   Patients with lower extremity peripheral artery disease (PAD)
+-   Patients undergoing coronary artery bypass surgery (CABG)
+-   Patients aged >= 55 years with at least two traditional atherosclerotic risk factors (hyperlipidemia, hypertension, etc.)
+-   Patients aged >= 55 years and active cigarette smoking
+-   Patients with diabetes, hypertension, or coronary artery disease (CAD)
+-   Patients with clinically occult cerebral infarction noted on brain imaging studies.
+
+The presence of a carotid bruit increases the likelihood of detecting significant stenosis. Asymptomatic patients with an abdominal aortic aneurysm (AAA) or previous radiotherapy to the neck *who do not meet the criteria of any of the high-risk groups* above do not require screening. It has been shown that the prevalence of carotid stenosis increases proportionally with the number of risk factors present.
+
 ------------------------------------------------------------------------
 
 ## Treatment
@@ -311,19 +328,24 @@ Understandably, optimal medical management requires full risk evaluation of the 
 
 ------------------------------------------------------------------------
 
-## Outcomes
+## Outcomes and Surveillance
 
 ### Asymptomatic carotid stenosis
 
 -   The historically touted Asymptomatic Carotid Atherosclerosis Study (ACAS) demonstrated that patients with \>60% carotid stenosis who underwent CEA benefited significantly from stroke risk reduction at 5 years (5.1% for CEA vs. 11% for optimal medical therapy consisting of aspirin alone).
 -   More recent studies suggest that with the current optimal medical management, which consists of antiplatelet medication and statin therapy, 5-year stroke risk is highest in patients with \>70% carotid stenosis, and therefore this patient population would benefit from carotid endarterectomy.
 -   Patients who are deemed high risk, either due to an anatomic (such as surgically inaccessible bifurcation or restenosis after previous CEA) or physiologic findings (congestive heart failure, severe coronary artery disease, or chronic obstructive pulmonary disease), may be considered for TCAR given the equivocal results of perioperative stroke or death at 1.3%, as compared to CEA.
+- Asymptomatic patients **with significant risk factors** found to have moderate stenoses (50%-79%) should be followed every 6-months to detect disease progression. High risk patients with <50% stenosis can be followed-up annually.
 
 ### Symptomatic carotid stenosis
 
 -   Patients who have \>50% carotid stenosis and have developed symptoms of TIA or stroke were found to benefit from CEA in the pivotal North American Symptomatic Carotid Endarterectomy Trial (NASCET) because of the significant 2-year stroke risk reduction as compared to optimal medical management (15.7% vs. 22.2%.). An even greater stroke risk reduction was seen in patients with \>70% carotid stenosis (9% CEA vs. 26% medical management).
 -   Current management of patients with symptomatic \>50% carotid stenosis who are low/standard risk is carotid endarterectomy over transfemoral carotid stenting (TFCAS), as there are no studies to date which have shown benefit of TFCAS.
 -   Patients who are deemed high risk, as defined above, may be considered for TCAR over TFCAS due to the significantly lower incidence of in-hospital stroke and death (1.6% vs. 3.1%).
+-   Post-operative surveillance (by duplex ultrasound) after open (CEA) or endovascular (TF-CAS) repair of the carotid artery is strongly recommended by the SVS to monitor for signs of restenosis in the repaired artery or atherosclerotic disease progression in the unoperated, contralateral artery. Duplex ultrasound testing is recommended within 30 days of the procedure, then every 6 months for 2 years, then annually. 
+-   Restenosis <50% warrants the regular surveillance protocol; 50-99% warrants closer follow-up, confirmation with a CTA, and possible angiographic evaluation; 100% restenosis warrants surveillance and medical treatment of the contralateral carotid artery. 
+-   It should be noted, there is some debate as to the economic and medical value of continuing post-operative duplex ultrasound surveillance after successful CEA with patch closure when the immediate post-operative duplex was normal or showed minimal disease.
+
 
 ------------------------------------------------------------------------
 
