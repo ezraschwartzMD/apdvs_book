@@ -419,7 +419,7 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ------------------------------------------------------------------------
 
-### Operative Footage
+### Operative Footage {#sec-AAAoperativefootage}
 
 Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.*
 
