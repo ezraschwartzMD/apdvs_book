@@ -255,10 +255,9 @@ The need for imaging can be a limiting factor such as when patients with a ruptu
 
 If the situation is amenable to getting a CT angiogram to measure anatomic dimensions, several components of the aneurysm anatomy should be assessed to determine anatomic suitability for EVAR. These include the length, width, angulation of the aneurysm, and presence of disease at the aneurysm neck (i.e. the aortic segment between the lowest renal artery and the proximal extent of the aortic dilatation). 
 
-Please see page 71 of the Gore Vascular/Endovascular surgery Combat Manual in the @sec-additionalresources for a **high-yield** EVAR planning and sizing considerations chart.
-
 ::: {.callout-tip}
-Video Tutorial: Endovascular Aortic Repair Preoperative Sizing with Dr. Sharif Ellozy. 
+-   See page 71 of the Gore Vascular/Endovascular Surgery Combat Manual in @sec-additionalresources for a **high-yield** EVAR planning and sizing considerations chart.
+-   Video Tutorial: Endovascular Aortic Repair Preoperative Sizing with Dr. Sharif Ellozy. 
 *This is above the level of medical students*, but for those who are interested, watch it [here.](https://www.audiblebleeding.com/hidi-aorta-sizing/)
 :::
 
