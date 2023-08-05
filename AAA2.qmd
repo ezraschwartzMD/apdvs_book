@@ -1,0 +1,298 @@
+---
+title: "Abdominal Aortic Aneurysm (AAA)"
+title-block-banner: false
+title-block-style: plain
+authors: Erin K. Greenleaf, MD, MS, Jonathan Bath, MD, Dawn M. Coleman, MD, FACS and Ezra Schwartz, MD,CM, MS
+format: html
+editor: visual
+number-sections: false
+bibliography: references.bib
+smooth-scroll: true
+link-external-newwindow: true
+---
+
+#  {#sec-abdominalaorticaneurysm}
+
+::: {.callout-note icon="false"}
+## Chapter Learning Objectives
+
+By the end of this chapter, students will:
+
+-   Review abdominal aortic anatomy and aneurysm pathophysiology.
+-   Recognize history, physical exam, and radiologic findings typical of patients presenting with an abdominal aortic aneurysm.
+-   Identify indications for intervention on abdominal aortic aneurysms and the evidence-based foundation for these recommendations.
+-   Describe the basic procedural steps of both an endovascular and an open surgical approach for abdominal aortic aneurysm repair.
+-   Delineate appropriate surveillance intervals for imaging an abdominal aortic aneurysm, both before and after intervention.
+
+:::
+
+::: {.callout-note icon="false"}
+## Key Facts
+
+1.  Abdominal aortic aneurysms occur in 2-8% of the population in Western countries, with a slightly higher prevalence among males relative to females.
+2.  The average size of an abdominal aorta is approximately 2cm; hence, an aneurysm is diagnosed when the diameter of the aorta in this segment reaches 3cm (i.e. 1.5x normal diameter).
+3.  Risk factors for an abdominal aortic aneurysm growth include age, male sex, white race, smoking, atherosclerosis, family history of arterial aneurysms, and personal history of arterial aneurysms.
+4.  According to vascular surgery guidelines, elective repair of a fusiform abdominal aortic aneurysm is recommended once the aneurysm has reached 5.5cm diameter in males and 5 cm diameter in females, measured from outer wall to outer wall.  Circumstances in which repair is indicated for smaller aneurysms include those associated with symptoms and/or rupture, saccular morphology, rapid expansion, or those in females (as mentioned above), immunosuppressed patients (i.e. chemotherapy, radiation therapy, or solid organ transplantation) and patients with aortopathies (e.g. Marfan Syndrome, Ehlers-Danlos Syndrome, etc.).
+5.  Nearly 80% of abdominal aortic aneurysms are currently repaired via an endovascular approach, with an open surgical approach generally reserved for patients in which a stent graft would perform poorly.
+6.  Outcomes following endovascular abdominal aortic aneurysm repair have improved over time, as experience has accrued with endovascular technique.  This pattern of progressive improvement has not similarly been seen for open surgical repair.
+7.  Surveillance regimens for patients with unrepaired abdominal aortic aneurysms suggest imaging via ultrasound or computerized tomography (CT) scan every three years if the aneurysm is 3.0-3.9cm diameter, every year if the aneurysm is 4.0-4.9cm, and every six months if the aneurysm is 5.0-5.4cm.
+:::
+
+::: callout-tip
+## How We Suggest Using the Pre/Post Questions
+
+The pre/post questions are listed below. They are all multiple choice questions with a single right answer. To best guide your learning, we have hidden the answers in a collapsible menu. Before reading the chapter, we suggest giving the questions a try, noting your answers on a notepad. After reading the chapter, return to the questions, re-evaluate your answers, and then open the collapsible menu to read the correct answer and discussion. Do not fret if you have difficulty answering the questions before reading the chapter! By the end of the chapter, we are certain you will have covered the knowledge necessary to answer the questions. There will be a teaching case at the end of the chapter. This is another opportunity to exercise your new knowledge!
+:::
+
+## Pre/Post Questions
+
+### Case Based Questions
+
+1.  A 75-year-old male with history of hypertension, hyperlipidemia, diabetes and degenerative disk disease presents to the emergency department with abdominal pain and a blood pressure of 90/60 mm Hg.  The emergency department physician already obtained a CT scan showing what appears to be a contained rupture of an infrarenal abdominal aortic aneurysm. *What is the next step in management?* 
+
+A. Resuscitate the patient to ensure a systolic blood pressure of at least 120 mm Hg.
+
+B. Two large bore IVs and admission to the ICU for closer monitoring.
+
+C. Transfer to the operating room for emergent repair of the aneurysm.
+
+D. Corroboration of the CT scan with an abdominal ultrasound.
+
+E. Contact the next of kin to request their presence at bedside for a family meeting.
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**D. Transfer to the operating room for emergent repair of the aneurysm.**
+
+Discussion: **Explanations to come shortly**
+:::
+
+2.  An 83-year-old female presents to your clinic with a 5.1cm abdominal aortic aneurysm.  She has a history of chronic tobacco abuse, hyperlipidemia, osteoarthritis, and renal cell carcinoma status post left nephrectomy. She denies abdominal pain and is without significant physical exam findings. *Based on her presentation, what is your recommendation to her?*
+
+A. Continue surveillance with imaging every 6 months until her aneurysm reaches 5.5cm in diameter.
+
+B. Discuss repair of the aneurysm at this size.
+
+C. Prescribe an antiplatelet, statin, and beta blocker prior to discussing operative repair of the aortic aneurysm.
+
+D. Continue surveillance with imaging every 12 months until her aneurysm reaches 5.5cm in diameter.
+
+E. Tobacco cessation should be confirmed prior to committing to aneurysm repair.
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**B. Discuss repair of the aneurysm at this size.**
+
+Discussion: **Explanations to come shortly**
+:::
+
+3.  A 68-year-old male with history of hypertension, hyperlipidemia, tobacco abuse, obesity, and gout is found to have a 5.9cm infrarenal abdominal aortic aneurysm with a 21mm neck, patent common femoral arteries, but highly calcified/nearly occluded bilateral iliac arteries. *Upon discussing repair with him in your surgery clinic, what would you advise the patient about his repair?*
+
+A. He should undergo endovascular repair because there is at least 20mm of neck below the lowest renal artery before the aneurysm begins.
+
+B. He should undergo endovascular repair with percutaneous access because his common femoral arteries are widely patent.
+
+C. He should undergo endovascular repair because this will minimize his inpatient stay while maximizing the primary patency of the stent graft.
+
+D. He should undergo open repair because his diseased iliac arteries will preclude safe passage of sheaths and a device to the level of the aorta.
+
+E. He should undergo open repair because this will minimize his short-term morbidity.
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**D. He should undergo open repair because his diseased iliac arteries will preclude safe passage of sheaths and a device to the level of the aorta.**
+
+Discussion: **Explanations to come shortly**
+:::
+
+4.  A 78-year-old female is referred by her primary care physician after she was incidentally found to have a saccular aneurysm immediately distal to her right renal artery, which is the lower of the bilateral renal arteries. *When documenting the location of this aneurysm, what terminology should be used to label it?*
+
+<!-- -->
+
+A.  Infrarenal
+
+B.  Juxtarenal
+
+C.  Suprarenal
+
+D.  Infrainguinal
+
+E.  No specific term exists
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**A. Juxtarenal**
+
+Discussion: **Explanations to come shortly**
+:::
+
+5.  Two days following an open transperitoneal repair of an infrarenal abdominal aortic aneurysm, an 81-year-old male with a history of a right colectomy for colon cancer has bright red blood in his stool. He remains in the ICU with a leukocytosis and appropriately tender abdomen without peritonitis. *What is the next best step in management?*
+
+<!-- -->
+
+A.  Broad spectrum antibiotics and flexible sigmoidoscopy.
+
+B.  Broad spectrum antibiotics and CTA.
+
+C.  Observation as this is likely related to his previous colon resection.
+
+D.  NPO order and immediate return to the operating room.
+
+E.  Stool softeners to mitigate the risk of hemorrhoids and anal fissures.
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**B. Left carotid endarterectomy before CABG.**
+
+Discussion: **Explanations to come shortly**
+:::
+
+6.  A 70-year-old female is undergoing an endovascular repair of an abdominal aortic aneurysm in the operating room under general anesthesia and a completion aortogram was just taken. A late blush is noted in the sac, seemingly arising from a lumbar artery. *What kind of endoleak would this suggest is present?*
+
+<!-- -->
+
+A.  Type Ia endoleak; blood is filling the sac from the proximal extent of the stent graft.
+
+B.  Type III endoleak; blood is filling the sac from the middle and can appear to be coming from a lumbar artery.
+
+C.  Type Ib endoleak; blood is filling the sac retrograde from the iliac arteries and so is only seen with a late aortogram view.
+
+D.  Type II endoleak; flow from a lumbar artery would cause a late blush and can be followed conservatively provided that the sac does not continue to expand.
+
+E.  No endoleak.
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**D. Type 2 endoleak; flow from a lumbar artery would cause a late blush and can be followed conservatively provided that the sac does not continue to expand.**
+
+Discussion: **Explanations to come shortly**
+:::
+
+### Operative Footage Questions
+
+To come shortly. Stay tuned!
+
+------------------------------------------------------------------------
+
+## Introduction
+
+The aorta is invariably the largest arterial conduit in the body, serving as the channel through which blood from the heart travels to every other body part. The wall of the aorta is comprised of three layers, which include the intima, media and adventitia. Its typical course begins at the distal side of the aortic valve and terminates at the aortic bifurcation, where it splits into the two common iliac arteries. The thoracic aortic segment provides blood flow to the great vessels of the aortic arch, ensuring perfusion to the head and bilateral upper extremities via the innominate artery, the left carotid artery, and the left subclavian artery (in that order). The abdominal segment is a retroperitoneal structure that enters the abdominal cavity through the aortic hiatus of the diaphragm, at the level of T12. The branches of the abdominal aorta include, in descending order, the two inferior phrenic arteries, the celiac axis or trunk, the superior mesenteric artery (SMA), the renal arteries, the inferior mesenteric artery (IMA), and ultimately, the bilateral common iliac arteries. The branches of both the thoracic and abdominal aorta provide blood flow to areas of critically vital viscera.
+
+While the aorta serves a critical role for the rest of the body, it can be the site of significant pathology. Aneurysms, which are common pathology in both the thoracic and abdominal aorta, are defined by an increase in arterial diameter to 1.5 times the normal diameter of the vessel. As the diameter of the aortic aneurysm increases, the risk of rupture increases in direct proportion. For example, a patient with a 4cm abdominal aortic aneurysm (AAA) has an approximate 1-year mortality risk of 1%; a patient with a 5.5cm aneurysm has up to a 10% 1-year mortality risk. With the widespread use of cross-sectional imaging, many aortic aneurysms are discovered incidentally. Others are found on screening exams. The US Preventative Services Task Force recommends that men aged 65 to 75 years of age who have ever smoked tobacco undergo an abdominal ultrasound to screen for aneurysmal disease. Aortic aneurysms may also present symptomatically, with chest, abdominal and/or back pain and occasionally a palpable pulsatile abdominal mass, which is widely believed to represent an increasingly unstable aneurysm.
+
+------------------------------------------------------------------------
+
+## Etiology
+
+Certain risk factors, some modifiable and others non-modifiable (a.k.a. innate), predispose individuals to the development of aortic aneurysms. These include age, male gender, family history of aneurysms or aortopathies, and comorbidities including hypertension, hyperlipidemia, and peripheral vascular disease. Interestingly, female sex, African American race, and a history of diabetes have been found to be protective against the development and rupture of aortic aneurysms. A personal history of Marfan’s syndrome, Loeys Dietz syndrome, or Ehlers Danlos Type IV (a.k.a. vascular Ehlers-Danlos or vEDS) is associated with a particularly elevated risk of aneurysmal degeneration. Medical providers should counsel and assist their patients to mitigate all potentially modifiable risk factors.
+
+------------------------------------------------------------------------
+
+## Diagnostics and Imaging
+
+When evaluating a patient with a suspected aortic aneurysm, a thorough history, physical examination, and imaging will help to narrow the differential diagnosis. Most often, patients present without symptoms; however, if symptomatic, typical complaints include chest, abdominal or back pain. Physical exam findings may not be overt but vital signs may provide a first clue in a symptomatic patient as heart rate and blood pressure might deviate from normal ranges. Patients with thoracic aortic aneurysms (TAA) often have no other easily identifiable physical exam findings aside from vital sign derangements in those with symptomatic or ruptured aneurysms. In thin patients with suspected AAA, the abdominal exam may demonstrate a pulsatile mass at or adjacent to the midline. 
+
+Although the history and physical exam are indispensable to patient evaluation, the diagnosis of an aneurysm is usually secured with imaging. The mainstay of imaging is computed tomography (CT), while ultrasound, magnetic resonance imaging (MRI), and angiography are useful modalities in non-urgent or non-emergent settings. The benefits of CT, particularly the richness of anatomic data obtained, must be weighed against the potential risks related to contrast administration and exposure to radiation. Since the 2019 statement from the U.S. Preventive Services Task Force regarding one-time screening with ultrasonography in men aged 65 to 75 years who have ever smoked, the use of ultrasound has a more prominent role in AAA screening. Equipped with history, exam, and imaging data, the diagnosis of an aortic aneurysm can usually be made.
+
+When looking at an imaging study, abdominal aortic aneurysms are labeled in regard to their location relative to the renal arteries:
+-   Aortic aneurysms are termed **“suprarenal”** when their most proximal extent is above the level of the renal arteries. Suprarenal abdominal aortic aneurysms typically involve visceral branches of the aorta as well (i.e. the SMA or celiac trunk). 
+-   Aneurysms are labeled **“pararenal”** when the proximal extent of the aneurysm is at the level of the renal arteries and includes the origins of the renal arteries. 
+-   Abdominal aortic aneurysms are termed **“juxtarenal”** when their most proximal extent is immediately below the take-off of the renal arteries. 
+-   Lastly, aneurysms are labeled **“infrarenal”** when they begin below the renal arteries, often with a neck of non-dilated aorta between the lowest renal artery and the top of the aneurysm. 
+
+As one might expect, the location of the aneurysm has implications for treatment options.
+Please click [here](https://www.uptodate.com/contents/image?imageKey=SURG%2F90459) to open an UpToDate image depicting the anatomic classifications of AAAs.
+
+------------------------------------------------------------------------
+
+## Treatment
+
+Once a diagnosis has been obtained, considerations for management follow. Similar to a thoracic aortic aneurysm (TAA), indications for repair are reflective of risk for rupture. The aim is to intervene when the rupture risk exceeds the risks posed by surgery. Intervention is considered when an aneurysm reaches the size threshold of 5.5cm in males and 5cm in females or if the growth rate exceeds 5 mm in 6 months. Again, this threshold is modified in patients with a strong family history of aneurysmal disease or collagen vascular disorder, or when patients present symptomatically or with a ruptured aorta. The topography of the aneurysm must also be considered as a saccular aneurysm, an isolated pouch off the sidewall of the aorta, presents a much greater risk of rupture and should be fixed when identified.
+
+On first evaluation, patients with AAAs should be medically optimized to minimize their perioperative risk of morbidity and mortality. Multiple factors must be considered when deciding between an open surgical approach and an endovascular one. While the prevalence of endovascular aortic repair (EVAR) has exponentially increased in the past two decades relative to open surgical repair (OSR), each aneurysm poses a unique set of potential constraints that suggest a preference for one type of repair over another.
+
+Please see the @sec-AAAoperativefootage section and watch the included videos.
+
+### Endovascular Aortic Repair (EVAR)
+
+Endovascular aortic repair (EVAR) is a novel approach to AAA treatment that has gained widespread popularity since its first successful use by Dr. Juan Parodi and Dr. Julio Palmaz in 1991. EVAR necessitates cross-sectional imaging to measure the AAA dimensions and determine the appropriate size of an aortic stent graft. Stent grafts are straight or bifurcated tubes with a wire framework covered by non-porous fabric. Simply, it is a tube that can be deployed from inside a vessel. 
+
+#### EVAR Procedural Steps
+
+A step-by-step guide of a typical, uncomplicated EVAR for an infrarenal AAA is listed below. Please see the @sec-AAAoperativefootage section to a video guide of a typical EVAR.
+
+1.    Bilateral femoral access via percutaneous or open surgical exposure (a.k.a. “femoral cut-downs”)
+
+2.    Heparinization to achieve an activated clotting time (ACT) greater than 250 seconds.
+
+3.    Placement of stiff wires into the abdominal aorta and upsizing of sheaths into the access vessels.
+
+4.    Aortogram to visualize renal arteries and deployment of the endograft main body under the origins of the renal arteries.
+
+5.    Cannulation of contralateral limb gate using a wire and catheter with subsequent confirmation that both the wire and catheter are within the main body.
+
+6.    Aortoiliac angiogram to measure the distance from the contralateral gate to the contralateral hypogastric (i.e. internal iliac) artery.
+
+7.    Deployment of contralateral limb with the distal landing site just proximal to the hypogastric artery.
+
+8.    Partial deployment of the ipsilateral limb.
+
+9.    Aortoiliac angiogram to measure the distance from the ipsilateral gate of the main body to the ipsilateral hypogastric artery.
+
+10.   Deployment of the remainder of the ipsilateral limb.
+
+11.   Ballooning of the proximal and distal landing zones, and areas of stent overlap.
+
+12.   Remove wires and sheaths and close arteriotomies (often with closure devices).
+
+13.   Reverse heparin with protamine.
+
+14.   Apply pressure to surgical sites and monitor for hematoma formation.
+
+#### EVAR Considerations and Planning
+
+The need for imaging can be a limiting factor such as when patients with a ruptured aneurysm are too hemodynamically unstable to stop at the CT scanner prior to repair or when a patient’s kidney function is too impaired to tolerate a large contrast bolus. 
+
+If the situation is amenable to getting a CT angiogram to measure anatomic dimensions, several components of the aneurysm anatomy should be assessed to determine anatomic suitability for EVAR. These include the length, width, angulation of the aneurysm, and presence of disease at the aneurysm neck (i.e. the aortic segment between the lowest renal artery and the proximal extent of the aortic dilatation). Please see page 71 of the Gore Vascular/Endovascular surgery Combat Manual in the @sec-additionalresources for a **high-yield** EVAR planning and sizing considerations chart.
+
+The access vessels, including the bilateral iliac and femoral arteries, must be healthy enough to allow sheaths, wires and catheters to pass through them. Calcification due to atherosclerosis can make arterial access difficult, and if vessels are so diseased as to be completely occluded, wires and devices may not be able to travel past the occlusion. Additionally, the iliac arteries must be within the appropriate diameter and length dimensions to accommodate the chosen stent graft. Lastly, certain anatomic anomalies such as a horseshoe kidney must be evaluated to ensure the appropriateness of EVAR for repair. With recent innovations in endovascular devices and intra-operative imaging, many factors that were once contraindications to EVAR have now become considerations when planning for EVAR. This is to say, as technology advances, EVAR is increasingly possible and safe for patients with difficult anatomy and co-morbidities.
+
+#### EVAR Complications
+
+Although a more recent development relative to open surgical repair (OSR), EVAR is not without risk of complications. EVAR may be complicated by injury to access vessels such as femoral occlusion or iliac avulsion (aka, “iliac-on-a-stick”), wire trauma from the relatively stiff wires that are used to deliver the stent graft, rupture of the aneurysm, and endoleak. Endoleak is the term used to describe ongoing blood flow in the aneurysm sac after stent graft placement (e.g. from lumbar arteries or the inferior mesenteric artery, inadequate proximal or distal endograft seal, a defect in the endograft, etc.). There are various types of endoleak and each has its own management approach. 
+
+Endoleaks are classified as follows:
+
+-   Type Ia: caused by an improper **proximal** endograft seal (i.e. the top of the graft is not well opposed to the abdominal aorta and blood can flow around it into the aneurysm sac).
+
+-   Type Ib: caused by an improper **distal** endograft seal (i.e. the distal iliac limb is not well opposed to the iliac artery and blood can flow retrograde into the aneurysm sac).
+
+-   Type II: caused by retrograde blood flow into the aneurysm sac from aortic side branches such as lumbar arteries or the IMA. This is the most common type and does not require intervention provided a stable aneurysm sac size is observed on follow-up. If the sac continues to expand, the feeding vessels may need to be occluded via embolization (e.g. coil embolization).
+
+- Type III: caused by a defect in the endograft such as a fabric tear, or disconnection of the contralateral iliac limb from the main body of the graft.
+
+-   Type IV: caused by graft wall porosity. To explain graft wall porosity, imagine filling up a pillowcase with water. Even if the pillowcase has the tightest of weaves, eventually, water will leak *through* the pillowcase.
+
+- Type V: increase in aneurysm size with no identifiable cause.
+
+Please click [here](https://www.sciencedirect.com/science/article/pii/S0378603X17300700) to open an article by Dr. Tamer W. Kassem with a simple image depicting the endoleak classifications.
+
+Additionally, one should monitor for abdominal compartment syndrome after repair of AAA rupture, as much of the large volume resuscitation can leak from the intravascular compartment into the interstitium of the abdominal tissues causing distention. In the event of rupture, the retroperitoneal hematoma can cause a mass effect and increase of abdominal pressures. Lastly, a well-known complication of EVAR is ischemic colitis, although it is only encountered in less than 3% of endovascular aortic repairs. This occurs when the colon becomes ischemic secondary to vascular hypoperfusion caused by a variety of quoted sources including atheroembolization and systemic hypotension. Albeit rare, ischemic colitis has a significant associated mortality risk and should be addressed promptly with bowel rest, antibiotic coverage, a flexible sigmoidoscopy, and potentially further intervention, if warranted. This complication is not limited to EVAR and has been identified postoperatively with the same incidence in OSR. 
+
+### Open Surgical Repair (OSR)
+
+Open surgical repair (OSR) remains the traditional means of repairing AAA and is still the most appropriate modality when EVAR is not feasible for anatomic reasons. In the elective setting, the ideal patient is physiologically fit enough for OSR as it is a procedure with the potential for significant morbidity and a lengthy recovery. OSR can be conducted via a transperitoneal or a retroperitoneal exposure. Other decision points for open repair include the following:
+
+-   Location of the proximal clamp: A clamp must be placed on the aorta in a location free of significant disease, with enough clearance below it to allow space for suturing the proximal anastomosis.
+
+-   Configuration of the proximal anastomosis: Anastomoses performed for aneurysmal disease are sewn in an end-to-end fashion, whereas aortas being reconstructed for occlusive disease can be performed either end-to-end or end-to-side.
+
+-   Location of the distal anastomosis: the end of the graft can be sewn to either the distal aorta, iliac arteries, or femoral arteries depending on the extent of the native vessel that needs to be excluded and the distal location where the vessel is healthy enough to clamp and receive sutures (e.g. is not heavily calcified).
+
+-   Management of the inferior mesenteric artery when an end-to-end anastomosis is created: The IMA can be ligated If collateral flow is adequate or reimplanted into the graft if collateral flow is inadequate.
