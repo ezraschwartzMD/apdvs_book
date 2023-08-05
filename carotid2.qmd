@@ -186,7 +186,7 @@ Discussion: This patient has asymptomatic 50-69% left carotid stenosis with the 
 
 These questions are associated with the carotid endarterectomy (CEA) footage (**short version**) found at the bottom of the chapter.
 
-1. What is the first muscle layer encountered in a CEA (i.e. the first muscle deep to skin)?
+1.  What is the first muscle layer encountered in a CEA (i.e. the first muscle deep to skin)?
 
 A. Sternocleidomastoid
 
@@ -204,7 +204,7 @@ D. Scalene
 Discussion: The platysma is the most superficial muscle in the neck. It covers most of the anterior and lateral aspect of the neck. It is the first muscle layer encountered in the neck during a CEA. It will be bisected and repaired upon neck closure. While the sternocleidomastoid is superficial, it is deep to the platysma. The sternocleidomastoid is an important landmark as it forms the anterolateral boundary of the carotid triangle. You will dissect along its medial border and retract it laterally in order to access the carotid sheath.The digastric muscle is a small, "two-bellied" muscle located under the mandible. The posterior belly forms the superior border of the carotid triangle. It is often visualized in patients with high carotid bifurcations.The scalene muscles are deep to the sternocleidomastoid muscles and lateral to the cervical spine. They are not manipulated in a CEA.
 :::
 
-2. What structure is **not** found in the carotid sheath?
+2.  What structure is **not** found in the carotid sheath?
 
 A. Internal jugular vein
 
@@ -222,7 +222,7 @@ D. Vasgus nerve
 Discussion: The external jugular vein is not in the carotid sheath. It runs superficial to and obliquely across the sternocleidomastoid before passing to the posterior border of the sternocleidomastoid as it descends deep into the neck. The carotid sheath contains the common carotid artery anteromedially, the internal jugular vein anterolaterally, and the vagus nerve posteriorly.
 :::
 
-3. In what order do you **unclamp** the carotid vessels at the end of a carotid endarterectomy?
+3.  In what order do you **unclamp** the carotid vessels at the end of a carotid endarterectomy?
 
 A. External carotid artery → common carotid artery → internal carotid artery
 
@@ -264,16 +264,16 @@ Definitive determination of flow and directionality can be augmented to a caroti
 
 ### Asymptomatic Carotid Atery Stenosis Screening
 
-The 2021 SVS clinical practice guidelines outline the following recommendations. In asymptomatic patients who qualify for carotid artery stenosis screening, duplex ultrasound is the recommended choice over CTA, MRA, or other imaging modalities. 
+The 2021 SVS clinical practice guidelines outline the following recommendations. In asymptomatic patients who qualify for carotid artery stenosis screening, duplex ultrasound is the recommended choice over CTA, MRA, or other imaging modalities.
 
-Routine screening is **not recommended** for clinically asymptomatic carotid artery stenosis for individuals **without significant risk factors** for carotid disease. 
+Routine screening is **not recommended** for clinically asymptomatic carotid artery stenosis for individuals **without significant risk factors** for carotid disease.
 
-Screening is **recommended** for clinically **asymptomatic carotid artery stenosis in individuals **with significant risk factors** for carotid disease. High-risk groups include: 
+Screening is **recommended** for clinically **asymptomatic carotid artery stenosis in individuals** with significant risk factors\*\* for carotid disease. High-risk groups include:
 
 -   Patients with lower extremity peripheral artery disease (PAD)
 -   Patients undergoing coronary artery bypass surgery (CABG)
--   Patients aged >= 55 years with at least two traditional atherosclerotic risk factors (hyperlipidemia, hypertension, etc.)
--   Patients aged >= 55 years and active cigarette smoking
+-   Patients aged \>= 55 years with at least two traditional atherosclerotic risk factors (hyperlipidemia, hypertension, etc.)
+-   Patients aged \>= 55 years and active cigarette smoking
 -   Patients with diabetes, hypertension, or coronary artery disease (CAD)
 -   Patients with clinically occult cerebral infarction noted on brain imaging studies.
 
@@ -335,17 +335,16 @@ Understandably, optimal medical management requires full risk evaluation of the 
 -   The historically touted Asymptomatic Carotid Atherosclerosis Study (ACAS) demonstrated that patients with \>60% carotid stenosis who underwent CEA benefited significantly from stroke risk reduction at 5 years (5.1% for CEA vs. 11% for optimal medical therapy consisting of aspirin alone).
 -   More recent studies suggest that with the current optimal medical management, which consists of antiplatelet medication and statin therapy, 5-year stroke risk is highest in patients with \>70% carotid stenosis, and therefore this patient population would benefit from carotid endarterectomy.
 -   Patients who are deemed high risk, either due to an anatomic (such as surgically inaccessible bifurcation or restenosis after previous CEA) or physiologic findings (congestive heart failure, severe coronary artery disease, or chronic obstructive pulmonary disease), may be considered for TCAR given the equivocal results of perioperative stroke or death at 1.3%, as compared to CEA.
-- Asymptomatic patients **with significant risk factors** found to have moderate stenoses (50%-79%) should be followed every 6-months to detect disease progression. High risk patients with <50% stenosis can be followed-up annually.
+-   Asymptomatic patients **with significant risk factors** found to have moderate stenoses (50%-79%) should be followed every 6-months to detect disease progression. High risk patients with \<50% stenosis can be followed-up annually.
 
 ### Symptomatic carotid stenosis
 
 -   Patients who have \>50% carotid stenosis and have developed symptoms of TIA or stroke were found to benefit from CEA in the pivotal North American Symptomatic Carotid Endarterectomy Trial (NASCET) because of the significant 2-year stroke risk reduction as compared to optimal medical management (15.7% vs. 22.2%.). An even greater stroke risk reduction was seen in patients with \>70% carotid stenosis (9% CEA vs. 26% medical management).
 -   Current management of patients with symptomatic \>50% carotid stenosis who are low/standard risk is carotid endarterectomy over transfemoral carotid stenting (TFCAS), as there are no studies to date which have shown benefit of TFCAS.
 -   Patients who are deemed high risk, as defined above, may be considered for TCAR over TFCAS due to the significantly lower incidence of in-hospital stroke and death (1.6% vs. 3.1%).
--   Post-operative surveillance (by duplex ultrasound) after open (CEA) or endovascular (TF-CAS) repair of the carotid artery is strongly recommended by the SVS to monitor for signs of restenosis in the repaired artery or atherosclerotic disease progression in the unoperated, contralateral artery. Duplex ultrasound testing is recommended within 30 days of the procedure, then every 6 months for 2 years, then annually. 
--   Restenosis <50% warrants the regular surveillance protocol; 50-99% warrants closer follow-up, confirmation with a CTA, and possible angiographic evaluation; 100% restenosis warrants surveillance and medical treatment of the contralateral carotid artery. 
+-   Post-operative surveillance (by duplex ultrasound) after open (CEA) or endovascular (TF-CAS) repair of the carotid artery is strongly recommended by the SVS to monitor for signs of restenosis in the repaired artery or atherosclerotic disease progression in the unoperated, contralateral artery. Duplex ultrasound testing is recommended within 30 days of the procedure, then every 6 months for 2 years, then annually.
+-   Restenosis \<50% warrants the regular surveillance protocol; 50-99% warrants closer follow-up, confirmation with a CTA, and possible angiographic evaluation; 100% restenosis warrants surveillance and medical treatment of the contralateral carotid artery.
 -   It should be noted, there is some debate as to the economic and medical value of continuing post-operative duplex ultrasound surveillance after successful CEA with patch closure when the immediate post-operative duplex was normal or showed minimal disease.
-
 
 ------------------------------------------------------------------------
 
@@ -418,7 +417,7 @@ However, we feel this chapter contains all the necessary information to answer t
 ### Audible Bleeding Content
 
 -   Audible Bleeding Exam Prep: [Cerebrovascular Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/cerebrovascular.html)
--   Audible Bleeding has an episode covering the NASCET trial. Listen to it below and find [additional information here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/), or find the epsiode wherever you listen to podcasts. <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20601968/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+-   Audible Bleeding has an episode covering the NASCET trial. Listen to it below and find [additional information here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/), or find the episode wherever you listen to podcasts. <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20601968/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ------------------------------------------------------------------------
 

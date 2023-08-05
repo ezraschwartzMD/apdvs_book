@@ -17,7 +17,13 @@ link-external-newwindow: true
 
 This content was developed as part of the Association of Program Directors in Vascular Surgery's (APDVS) medical student curriculum. Each chapter covers a key domain of vascular surgery pathology and treatment and is associated with an Audible Bleeding episode which you can access from the link embedded in the text.
 
-This eBook would not have been possible without the [Association of Program Directors in Vascular Surgery (APDVS)](https://vascular.org/apdvs), the guidance and resources of [Dr. Adam Johnson](https://twitter.com/Adam_mdmph), the [Audible Bleeding Vascular Surgery Exam Prep project](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/) and the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/).
+This eBook would not have been possible without the [Association of Program Directors in Vascular Surgery (APDVS)](https://vascular.org/apdvs), the guidance and resources of [Dr. Sharif Ellozy] (https://twitter.com/SharifEllozy) and [Dr. Adam Johnson](https://twitter.com/Adam_mdmph), the [Audible Bleeding Vascular Surgery Exam Prep project](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/), and the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/). This project is the direct result of [Dr. Chelsea Dorsey](https://twitter.com/MdDorsey) et al.'s medical education research (see below) and the work of the [Society of Vascular Surgery's Resident Student Outreach Committee (SVS RSOC)](https://vascular.org/about/councils-and-committees/education-council/resident-and-student-outreach-committee).
+
+Below, please see the two papers to understand the medical education need addressed by this eBook.
+
+-   [Vascular Surgery Curriculum for Medical Students: A National Targeted Needs Assessment](https://www.annalsofvascularsurgery.com/article/S0890-5096(21)00748-2/fulltext)
+
+-   [The Value of a Vascular Surgery Curriculum for Clinical Medical Students: Results of a National Survey of Nonvascular Educators](https://www.jvascsurg.org/article/S0741-5214(22)01147-8/fulltext)
 
 **Editors:** [The Association of Program Directors in Vascular Surgery](https://vascular.org/apdvs) and [Ezra Schwartz](https://twitter.com/EzraSchwartz10).
 
@@ -37,7 +43,7 @@ Thanks to the flexibility and accessibility afforded as an eBook, we can (and wi
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/"><img src="https://i.creativecommons.org/l/by-nc-nd/3.0/us/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This eBook is free to the public and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States License</a>.
 
-# Additional Resources {.unnumbered}
+# Additional Resources {#sec-additionalresources}
 
 We hope you use this eBook as a review for your rotations, undergraduate medical licencing examinations, and entry to independent practice. This resource is a summary and is by no means comprehensive. That noted, in every chapter we have included links to additional resources if you wish to gain a more comprehensive understanding of the topics covered. As our mission is to make vascular surgery education accessible, we prioritize open access publications and free materials. A few highly recommended additional resources include:
 
