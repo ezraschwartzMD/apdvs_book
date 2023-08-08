@@ -1,5 +1,6 @@
 ---
 title: "Carotid Artery Stenosis"
+chapter_number: 3
 title-block-banner: false
 title-block-style: plain
 authors: Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS

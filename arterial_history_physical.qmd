@@ -1,5 +1,6 @@
 ---
 title: "Patient History and Physical Examination of the **Arterial System**"
+chapter_number: 2
 title-block-banner: false
 title-block-style: plain
 authors: Loay S Kabbani, MD, MHSA, FACS and Cassius Iyad Ochoa Chaar, MD, MS, RPVI

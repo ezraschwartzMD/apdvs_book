@@ -6,32 +6,41 @@ bibliography: references.bib
 smooth-scroll: true
 link-external-newwindow: true
 ---
+
 # Authors and Contributors {.unnumbered}
 
 This eBook is the result of a partnership between the APDVS and the Audible Bleeding Podcast, each of which is comprised of hard working individuals dedicated to medical education and the promotion of vascular surgery. The authors and contributors of this eBook have freely donated their time and experience to create this resource. Please follow them on twitter or other social media platforms to return this debt of gratitude and to, as Audible Bleeding says, "keep a finger on the pulse."
 
----
+------------------------------------------------------------------------
 
 ### Editors
 
-**Ezra Schwartz, MDCM, MSc, MMSc.** *Harvard Medical School* [\@EzraSchwartz10](https://twitter.com/EzraSchwartz10)
+**Ezra Schwartz, MDCM, MS, MMS.** *Harvard Medical School* [\@EzraSchwartz10](https://twitter.com/EzraSchwartz10)
 
 **Yasong Yu, MD.** *Rutgers New Jersey Medical School* [\@YasongYuMD](https://twitter.com/YasongYuMD)
 
----
+------------------------------------------------------------------------
 
 ### Authors
 
-**Loay S Kabbani, MD, MHSA, FACS.** Program Director, Vascular Surgery Fellowship; *Henry Ford Health* [Academic Profile](https://www.henryford.com/physician-directory/k/kabbani-loay) [\@loaykabbani](https://twitter.com/loaykabbani)
+**Jonathan Bath, MD, FACS, DFSVS.** Associate Professor of Surgery; Program Director, Vascular Surgery Fellowship; *University of Missouri School of Medicine* [Academic Profile](https://www.muhealth.org/doctors/jonathan-bath-md) 
 
-**Cassius Iyad Ochoa Chaar, MD, MS, RPVI.** Associate Professor of Surgery; *Yale School of Medicine* [Academic Profile](https://medicine.yale.edu/profile/cassius-chaar/) 
+**Cassius Iyad Ochoa Chaar, MD, MS, RPVI.** Associate Professor of Surgery; *Yale School of Medicine* [Academic Profile](https://medicine.yale.edu/profile/cassius-chaar/) [\@MdChaar](https://twitter.com/MdChaar)
+
+**Dawn Coleman, MD, FACS.** Chief, Division of Vascular and Endovascular Surgery;  *Duke University School of Medicine* [Academic Profile](https://surgery.duke.edu/profile/dawn-m-coleman) [\@ColemanDM_vasc](https://twitter.com/ColemanDM_vasc)
+
+**Erin Greenleaf, MD, MS, RPVI** Assistant Professor; *Baylor College of Medicine* [Academic Profile](https://www.bcm.edu/people-search/erin-greenleaf-90476)
 
 **Angela Kokkosis, MD, FACS.** Associate Professor of Surgery; Program Director, Vascular and Endovascular Residency; Director, Carotid Interventions; Co-Medical Director, Non-Invasive Vascular Laboratory; *Stony Brook University* [Academic Profile](https://renaissance.stonybrookmedicine.edu/surgery/people/faculty/dr-angela-a-kokkosis) [\@Angela_Kokkosis](https://twitter.com/Angela_Kokkosis)
 
+**Loay S Kabbani, MD, MHSA, FACS.** Program Director, Vascular Surgery Fellowship; *Henry Ford Health* [Academic Profile](https://www.henryford.com/physician-directory/k/kabbani-loay) [\@loaykabbani](https://twitter.com/loaykabbani)
+
 **Michael Malinowski, MD, MEHP, FACS.** Associate Professor; *Medical College of Wisconsin, Froedert Hospital* [Academic Profile](https://www.froedtert.com/doctors/michael-malinowski-1316100860)
 
----
+------------------------------------------------------------------------
 
 ### Contributors
 
+**Marvin Chau, DO, MS.** Integrated Vascular Surgery Resident; *UCLA Health* [Academic Profile](https://www.uclahealth.org/departments/surgery/education/residency/vascular-surgery-residency-program/residents-fellows)[\@MChau_MD](https://twitter.com/MChau_MD)
 
+**Nakia Sarad, DO, MS.** General Surgery Resident, Vascular Surgery Research Fellow; *Weill Cornell Medicine* [Academic Profile](https://www.nyp.org/queens/graduate-medical-education/surgery/current-residents) [\@NakSaradDO](https://twitter.com/NakSaradDO)

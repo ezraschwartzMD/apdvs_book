@@ -15,9 +15,11 @@ book:
   page-navigation: true
 
   chapters:
-    - index.qmd
-    - announcement2.qmd
-    - authors2.qmd
+    - part: "Introduction"
+      chapters: 
+        - index.qmd
+        - announcement2.qmd
+        - authors2.qmd
     
     - part: "Approach to Vascular Patient"
       chapters: 
