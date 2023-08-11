@@ -46,7 +46,10 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    fontsize: 90%
+    theme:
+      light: simplex
+      dark: darkly
 #  pdf:
 #    documentclass: scrreprt
 #    include-in-header: 
