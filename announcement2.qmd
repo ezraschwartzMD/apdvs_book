@@ -9,7 +9,9 @@ link-external-newwindow: true
 
 #  {#sec-announcements}
 
-![](images/surgical_tools.jpeg)
+------------------------------------------------------------------------
+
+![](images/surgical_tools.jpeg){fig-align="center" width="550"}
 
 ## Announcements & Case of the Week {.unnumbered}
 
@@ -17,7 +19,8 @@ Please return to this page for updates on website, podcast, and activity develop
 
 ::: {.callout-tip icon="false"}
 ## eBook Chapters
-The Patient History and Physical Examination of the Arterial System chapter is a draft at this time. 
+
+The Patient History and Physical Examination of the Arterial System chapter is a draft at this time.
 
 The next chapter in development is peripheral artery disease including topics such as acute limb ischemia (ALI), chronic limb threatening ischemia (CLTI) and claudication.
 :::

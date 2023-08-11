@@ -7,9 +7,11 @@ smooth-scroll: true
 link-external-newwindow: true
 ---
 
-![](images/surgeon_pic_2.jpeg)
+------------------------------------------------------------------------
 
-![](images/apdvsbanner.png)
+![](images/surgeon_pic_2.jpeg){fig-align="center" width="500"}
+
+![](images/apdvsbanner.png){fig-align="center" width="500"}
 
 ------------------------------------------------------------------------
 
