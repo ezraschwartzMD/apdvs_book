@@ -18,3 +18,14 @@ To this end, please complete this anonymous [Google Form](https://forms.gle/Drmn
 Thank you for your continued support!
 
 ![](images/feedback.jpeg){fig-align="center" width="550"}
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WS28VX4802"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WS28VX4802');
+</script>

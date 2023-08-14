@@ -197,3 +197,14 @@ Listen to examples [here.](youtube.com/watch?v=C4Utl1wkoio)
 -   In severe ischemia, a soft continuous venous signal may be all that is heard.\
 -   Temperature changes may help demarcate the level of disease.\
 -   Sensory loss may be present in acute ischemia and chronic neuropathy.
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WS28VX4802"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WS28VX4802');
+</script>
