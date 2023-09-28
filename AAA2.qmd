@@ -203,7 +203,7 @@ Although the history and physical exam are indispensable to patient evaluation, 
 When looking at an imaging study, abdominal aortic aneurysms are labeled in regard to their location relative to the renal arteries: - Aortic aneurysms are termed **"suprarenal"** when their most proximal extent is above the level of the renal arteries. Suprarenal abdominal aortic aneurysms typically involve visceral branches of the aorta as well (i.e. the SMA or celiac trunk). - Aneurysms are labeled **"pararenal"** when the proximal extent of the aneurysm is at the level of the renal arteries and includes the origins of the renal arteries. - Abdominal aortic aneurysms are termed **"juxtarenal"** when their most proximal extent is immediately below the take-off of the renal arteries. - Lastly, aneurysms are labeled **"infrarenal"** when they begin below the renal arteries, often with a neck of non-dilated aorta between the lowest renal artery and the top of the aneurysm. As one might expect, the location of the aneurysm has implications for treatment options.
 
 ::: callout-tip
-Please click [here](https://www.uptodate.com/contents/image?imageKey=SURG%2F90459) to open an UpToDate image depicting the anatomic classifications of AAAs.
+Please click [here](https://wiki.cdisc.org/display/CT/Representation+of+the+various+aortic+aneurysms+in+CV?preview=/https%3A%2F%2Fmedia.springernature.com%2Foriginal%2Fspringer-static%2Fimage%2Fchp%253A10.1007%252F978-3-319-71300-7_17%2FMediaObjects%2F432673_1_En_17_Fig1_HTML.png) to open an image depicting the anatomic classifications of AAAs.
 :::
 
 ------------------------------------------------------------------------
