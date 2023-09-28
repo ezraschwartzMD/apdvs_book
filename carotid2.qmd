@@ -213,7 +213,7 @@ B. External jugular vein
 
 C. Common carotid artery
 
-D. Vasgus nerve
+D. Vagus nerve
 
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
@@ -389,7 +389,7 @@ An 81 year old male with a significant smoking history and prior three vessel CA
 However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
 :::
 
-1.  Please explain the pathophysiology of the visual event for this patient? Describe why it can be termed amaurosis fugax. Ensure understandinf that amaurosis fugax is the result of carotid plaque embolization to the retina.
+1.  Please explain the pathophysiology of the visual event for this patient? Describe why it can be termed amaurosis fugax. Ensure understanding that amaurosis fugax is the result of carotid plaque embolization to the retina.
 2.  Please list the patient's risk factors for carotid disease? What is best medical management to optimize these risk factors?
 3.  Is this patient asymptomatic or symptomatic based on the clinical scenario presented?
 4.  What next steps should be pursued to offer effective and timely treatment to this patient? Please discuss adjunct imaging such as CTA or MRA to determine anatomic characteristics of the lesions such as ulceration, vessel patency, level (accessible or high lesions), etc.
