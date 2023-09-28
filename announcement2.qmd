@@ -22,7 +22,15 @@ Please return to this page for updates on website, podcast, and activity develop
 
 The Patient History and Physical Examination of the Arterial System chapter is a draft at this time.
 
-The next chapter in development is peripheral artery disease including topics such as acute limb ischemia (ALI), chronic limb threatening ischemia (CLTI) and claudication.
+The Abdominal Aortic Aneurysm (AAA) chapter is nearly complete. Answer explanations for the Pre/Post Questions are being authored.
+
+Chapters in development include:
+-   Patient History and Physical Examination of the Venous System
+-   Peripheral artery disease (PAD) including topics such as acute limb ischemia (ALI), chronic limb threatening ischemia (CLTI) and claudication.
+-   Aortic dissection
+-   Thoracic outlet syndrome
+-   Endovascular surgery basics
+-   Vascular lab primer
 :::
 
 ::: {.callout-tip icon="false"}
@@ -42,7 +50,7 @@ Please try to build the case using material covered in the eBook. We ask you to 
 
 Once reviewed, we will post it here for the community! We hope you will take part in this mini-publication exercise!
 
-Please submit your case to ezraschwartz\@hms.harvard.edu
+Please submit your case to [APDVSebook@vascularsociety.org](mailto:APDVSebook@vascularsociety.org).
 :::
 
 <!-- Google tag (gtag.js) -->
