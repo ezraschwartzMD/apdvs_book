@@ -19,7 +19,7 @@ link-external-newwindow: true
 
 This content was developed as part of the Association of Program Directors in Vascular Surgery's (APDVS) medical student curriculum. Each chapter covers a key domain of vascular surgery pathology and treatment and is associated with an Audible Bleeding episode which you can access from the link embedded in the text.
 
-This eBook would not have been possible without the [Association of Program Directors in Vascular Surgery (APDVS)](https://vascular.org/apdvs), the guidance and resources of \[Dr. Sharif Ellozy\] (https://twitter.com/SharifEllozy) and [Dr. Adam Johnson](https://twitter.com/Adam_mdmph), the [Audible Bleeding Vascular Surgery Exam Prep project](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/), and the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/). This project is the direct result of [Dr. Chelsea Dorsey](https://twitter.com/MdDorsey) et al.'s medical education research (see below) and the work of the [Society of Vascular Surgery's Resident Student Outreach Committee (SVS RSOC)](https://vascular.org/about/councils-and-committees/education-council/resident-and-student-outreach-committee).
+This eBook would not have been possible without the [Association of Program Directors in Vascular Surgery (APDVS)](https://vascular.org/apdvs), the guidance and resources of [Dr. Sharif Ellozy](https://twitter.com/SharifEllozy) and [Dr. Adam Johnson](https://twitter.com/Adam_mdmph), the [Audible Bleeding Vascular Surgery Exam Prep project](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/), and the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/). This project is the direct result of [Dr. Chelsea Dorsey](https://twitter.com/MdDorsey) et al.'s medical education research (see below) and the work of the [Society of Vascular Surgery's Resident Student Outreach Committee (SVS RSOC)](https://vascular.org/about/councils-and-committees/education-council/resident-and-student-outreach-committee).
 
 Below, please see the two papers to understand the medical education need addressed by this eBook.
 
@@ -49,7 +49,9 @@ Thanks to the flexibility and accessibility afforded as an eBook, we can (and wi
 
 We hope you use this eBook as a review for your rotations, undergraduate medical licencing examinations, and entry to independent practice. This resource is a summary and is by no means comprehensive. That noted, in every chapter we have included links to additional resources if you wish to gain a more comprehensive understanding of the topics covered. As our mission is to make vascular surgery education accessible, we prioritize open access publications and free materials. A few highly recommended additional resources include:
 
--   Visit the [ChooseVascular](https://choosevascular.com/) website toearn why we chose vascular surgery and determine if you wish to choose vascular too! This site is complete with a student resources page, and information to pair you with a vascular surgery mentor or a vascular surgery interest group, this website is a wonderful introduction the work and community of vascular surgery.
+-   Please consider becoming a member of the [Society of Vascular Surgery](https://vascular.org/join). Benefits include free access to the Journal of Vascular Surgery, mentorship and scholarship opportunities, and more! A variety of [membership types](https://vascular.org/join/membership-types) exist, including those for medical students, general surgery residents, and integrated vascular trainees. 
+
+-   Visit the [ChooseVascular](https://choosevascular.com/) website to learn why we chose vascular surgery and determine if you wish to choose vascular too! This site is complete with a student resources page, and information to pair you with a vascular surgery mentor or a vascular surgery interest group, this website is a wonderful introduction the work and community of vascular surgery.
 
 -   The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
 
@@ -67,7 +69,7 @@ We hope you use this eBook as a review for your rotations, undergraduate medical
 
 # Comments, Questions or Contributions {.unnumbered}
 
-Please visit our [github page](https://github.com/ezraschwartzMD/apdvs_book) or [send Audible Bleeding an email](mailto:audiblebleeding@vascularsociety.org).
+Please visit our [github page](https://github.com/ezraschwartzMD/apdvs_book) or [send the APDVS an email](mailto:APDVSebook@vascularsociety.org).
 
 ```{r include=FALSE}
 knitr::write_bib(c(
