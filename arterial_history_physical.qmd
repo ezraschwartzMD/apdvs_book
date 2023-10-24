@@ -14,10 +14,6 @@ link-external-newwindow: true
 
 #  {#sec-patienthistoryandphysicalexaminationofthearterialsystem}
 
-::: {.callout-note icon="false"}
-## Key Facts
-:::
-
 ------------------------------------------------------------------------
 
 ## Introduction
