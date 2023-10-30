@@ -63,7 +63,7 @@ E. Contact the next of kin to request their presence at bedside for a family mee
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
-**D. Transfer to the operating room for emergent repair of the aneurysm.**
+**C. Transfer to the operating room for emergent repair of the aneurysm.**
 
 Discussion: **Explanations to come shortly**
 :::
@@ -125,7 +125,7 @@ E.  No specific term exists
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
-**A. Juxtarenal**
+**B. Juxtarenal**
 
 Discussion: **Explanations to come shortly**
 :::
@@ -147,7 +147,7 @@ E.  Stool softeners to mitigate the risk of hemorrhoids and anal fissures.
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
-**B. Left carotid endarterectomy before CABG.**
+**A. Broad spectrum antibiotics and flexible sigmoidoscopy**
 
 Discussion: **Explanations to come shortly**
 :::
@@ -169,7 +169,7 @@ E.  No endoleak.
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
-**D. Type 2 endoleak; flow from a lumbar artery would cause a late blush and can be followed conservatively provided that the sac does not continue to expand.**
+**D. Type II endoleak; flow from a lumbar artery would cause a late blush and can be followed conservatively provided that the sac does not continue to expand.**
 
 Discussion: **Explanations to come shortly**
 :::
@@ -200,7 +200,7 @@ When evaluating a patient with a suspected aortic aneurysm, a thorough history, 
 
 Although the history and physical exam are indispensable to patient evaluation, the diagnosis of an aneurysm is usually secured with imaging. The mainstay of imaging is computed tomography (CT), while ultrasound, magnetic resonance imaging (MRI), and angiography are useful modalities in non-urgent or non-emergent settings. The benefits of CT, particularly the richness of anatomic data obtained, must be weighed against the potential risks related to contrast administration and exposure to radiation. Since the 2019 statement from the U.S. Preventive Services Task Force regarding one-time screening with ultrasonography in men aged 65 to 75 years who have ever smoked, the use of ultrasound has a more prominent role in AAA screening. Equipped with history, exam, and imaging data, the diagnosis of an aortic aneurysm can usually be made.
 
-When looking at an imaging study, abdominal aortic aneurysms are labeled in regard to their location relative to the renal arteries: - Aortic aneurysms are termed **"suprarenal"** when their most proximal extent is above the level of the renal arteries.  Suprarenal abdominal aortic aneurysms typically involve visceral branches of the aorta as well (i.e. the SMA or celiac trunk) and thus may also be classified as a Crawford type IV thoracoabdominal aortic aneurysm (TAAA)  - Aneurysms are labeled **"pararenal"** when the proximal extent of the aneurysm is at the level of the renal arteries and includes the origins of the renal arteries. - Abdominal aortic aneurysms are termed **"juxtarenal"** when their most proximal extent is immediately below the take-off of the renal arteries. - Lastly, aneurysms are labeled **"infrarenal"** when they begin below the renal arteries, often with a neck of non-dilated aorta between the lowest renal artery and the top of the aneurysm. As one might expect, the location of the aneurysm has implications for treatment options.
+When looking at an imaging study, abdominal aortic aneurysms are labeled in regard to their location relative to the renal arteries: - Aortic aneurysms are termed **"suprarenal"** when their most proximal extent is above the level of the renal arteries. Suprarenal abdominal aortic aneurysms typically involve visceral branches of the aorta as well (i.e. the SMA or celiac trunk) and thus may also be classified as a Crawford type IV thoracoabdominal aortic aneurysm (TAAA) - Aneurysms are labeled **"pararenal"** when the proximal extent of the aneurysm is at the level of the renal arteries and includes the origins of the renal arteries. - Abdominal aortic aneurysms are termed **"juxtarenal"** when their most proximal extent is immediately below the take-off of the renal arteries. - Lastly, aneurysms are labeled **"infrarenal"** when they begin below the renal arteries, often with a neck of non-dilated aorta between the lowest renal artery and the top of the aneurysm. As one might expect, the location of the aneurysm has implications for treatment options.
 
 ::: callout-tip
 Please see Figure 2 of [this American Heart Association publication](https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.118.313186) depicting the anatomic classifications of AAAs.
@@ -400,7 +400,7 @@ However, we feel this chapter contains all the necessary information to answer t
 
 8.  Parkinson F, Ferguson S, Lewis P, Williams IM, Twine CP; South East Wales Vascular Network. [Rupture rates of untreated large abdominal aortic aneurysms in patients unfit for elective repair.](https://www.sciencedirect.com/science/article/pii/S0741521414019053) J Vasc Surg. 2015 Jun;61(6):1606-12. doi: 10.1016/j.jvs.2014.10.023. Epub 2015 Feb 7. PMID: 25661721.[@parkinson2015]
 
-9.  Schanzer, Andres, and Gustavo S. Oderich. [Management of Abdominal Aortic Aneurysms.](https://www.nejm.org/doi/10.1056/NEJMcp2108504?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) New England Journal of Medicine 385, no. 18 (October 28, 2021): 1690–98. https://doi.org/10.1056/NEJMcp2108504.[@schanzer2021]
+9.  Schanzer, Andres, and Gustavo S. Oderich. [Management of Abdominal Aortic Aneurysms.](https://www.nejm.org/doi/10.1056/NEJMcp2108504?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) New England Journal of Medicine 385, no. 18 (October 28, 2021): 1690--98. https://doi.org/10.1056/NEJMcp2108504.[@schanzer2021]
 
 ::: callout-tip
 [Dr. Schanzer's recent publication in the New England Journal of Medicine (NEJM)](https://www.nejm.org/doi/10.1056/NEJMcp2108504?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) is particularly high yield. However, as a NEJM publication, the article is behind a paywall. We hope you are able to access this paper via your institution's library.
