@@ -32,6 +32,8 @@ book:
     - part: "Aortic Disorders"
       chapters: 
       - AAA2.qmd
+      
+    - part: "Lower Extremity Arterial Disease"
 
     - feedback.qmd
     - references.qmd
