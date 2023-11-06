@@ -1,0 +1,492 @@
+---
+title: "Claudication"
+chapter_number: 5
+title-block-banner: false
+title-block-style: plain
+authors: Bernadette Aulivola, MD, FACS, Kelly Kempe, MD, RPVI, FACS, Kaled Diab, MD, Lindsey Korepta, MD, FACS, Nakia Sarad, DO, MS, Marvin Chau, MD, MS, and Ezra Schwartz, MD,CM, MS.
+format: html
+editor: visual
+number-sections: false
+bibliography: references.bib
+smooth-scroll: true
+link-external-newwindow: true
+---
+
+#  {#sec-claudication}
+
+::: {.callout-note icon="false"}
+## Chapter Learning Objectives
+
+By the end of this chapter, students will:
+
+-   Explain the definition, etiology, and pathophysiology of peripheral arterial disease and its relation to claudication.
+-   Identify the risk factors associated with claudication.
+-   Recognize the clinical manifestations and symptoms of claudication.
+-   Summarize the underlying vascular anatomy and physiology relevant to claudication.
+-   Outline the diagnostic approach and tests used to evaluate claudication.
+-   Summarize evidence-based outcomes of the management of claudication.
+:::
+
+::: {.callout-note icon="false"}
+## Key Facts
+
+1.  Peripheral arterial disease (PAD), also known as peripheral vascular disease (PVD), is a condition characterized by atherosclerosis or narrowing of the arteries that supply blood to the extremities.
+2.  PAD affects approximately 202 million individuals worldwide.
+3.  Major risk factors for PAD include smoking, diabetes, and advanced age.
+4.  Claudication is the mildest symptomatic manifestation of peripheral arterial disease.
+5.  Claudication is defined as **reproducible** discomfort in a specific muscle group, typically in the lower extremities, that is **induced by exercise and relieved by rest.**
+6.  Patients with claudication have an overall 5-year mortality risk of 10-15%.
+7.  Approximately 2-3% of claudicants (i.e. patients experiencing claudication) will develop limb-threatening ischemia.
+8.  Claudication is managed conservatively with lifestyle modifications including exercise regimen, dietary changes, smoking cessation, and medical optimization to control hypertension, hyperlipidemia, and or diabetes.
+:::
+
+::: callout-tip
+## How We Suggest Using the Pre/Post Questions
+
+The pre/post questions are listed below. They are all multiple choice questions with a single right answer. To best guide your learning, we have hidden the answers in a collapsible menu. Before reading the chapter, we suggest giving the questions a try, noting your answers on a notepad. After reading the chapter, return to the questions, re-evaluate your answers, and then open the collapsible menu to read the correct answer and discussion. Do not fret if you have difficulty answering the questions before reading the chapter! By the end of the chapter, we are certain you will have covered the knowledge necessary to answer the questions. There will be a teaching case at the end of the chapter. This is another opportunity to exercise your new knowledge!
+:::
+
+## Pre/Post Questions
+
+### Case Based Questions
+
+1.  A 70-year-old male, who has a history of heavy smoking (100 pack years), presents to the clinic for claudication-like symptoms. *What level of infrainguinal arterial occlusive disease is he most at risk for developing based on this history?*
+
+```{=html}
+<!-- -->
+```
+A.  Superficial femoral artery disease.
+
+B.  Deep femoral artery disease.
+
+C.  Anterior tibial artery disease.
+
+D.  Popliteal artery disease.
+
+E.  Posterior tibial artery disease.
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**A. Superficial femoral artery disease.**
+
+Discussion: The prevalence of peripheral artery disease in the general population is between 3-10%, and 15-20% in those over the age of 70. Risk factors for peripheral arterial disease (PAD) include age, male gender, hypertension, diabetes, smoking, dyslipidemia, family history and homocysteinemia. Heavy smokers have a propensity to develop superficial femoral artery disease (A). Patients with a history of diabetes have a tendency to develop infrapopliteal disease (C, E). Patients of nonwhite ethnicity and those with a history of chronic renal insufficiency are also at increased risk.
+:::
+
+2.  A 67-year-old female is being evaluated in the outpatient clinic for lower extremity pain associated with walking. Using a manual blood pressure cuff and hand-held Doppler, the following measurements are obtained:
+
+| Artery                | Pressure (mm Hg) |      |
+|-----------------------|------------------|------|
+|                       | Right            | Left |
+| Brachial              | 150              | 120  |
+| Dorsalis pedis (DP)   | 165              | 120  |
+| Posterior tibial (PT) | 150              | 108  |
+
+*What are the ankle-brachial indices (ABIs) of her lower extremities?*
+
+A.  Right ABI 1.1; left ABI 0.8
+
+B.  Right ABI 1.0; left ABI 1.0
+
+C.  Right ABI 1.2; left ABI 0.9
+
+D.  Right ABI 1.4; left ABI 1.0
+
+E.  Right ABI 1.1; left ABI 0.7
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**A. Right ABI 1.1; left ABI 0.8**
+
+Discussion: Performing an ankle-brachial index (ABI) requires an appropriately sized manual blood pressure cuff and a hand-held, continuous-wave Doppler probe. The patient should be in the supine position and allowed to rest before the examination begins. The blood pressure cuff is placed above the ankle. The Doppler probe is used to locate the dorsalis pedis (DP) or posterior tibial (PT) pulse. The pressure cuff is inflated until the Doppler signal is obliterated, and then the cuff is then slowly released. The pressure at which the Doppler signal returns is the ankle pressure. The same process is repeated for both legs (DP and PT signals) and both arms. The arm pressure must be measured with the Doppler probe and the manual blood pressure cuff. To calculate an ABI, the higher ankle pressure (DP or PT) is divided by the highest arm pressure (left or right). Note that the higher arm pressure is used to calculate the ABI for both legs. For this specific case, the highest arm pressure is 150. To calculate on the right, 165/150=1.1, on the left 120/150=0.8. A normal ABI is 0.9 to 1.2. Patients with claudication usually have an ABI ranging from 0.5 to 0.9, and those with ischemic rest pain or tissue loss usually have an ABI less than 0.5. *Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Practice, 20th ed. Ch. 62: Peripheral Arterial Disease.* *Norgren L, Hiatt WR, Dormandy JA, Nehler MR, Harris KA, Fowkes FGR. Inter-society consensus for the management of peripheral arterial disease (TASC II). J Vasc Surg. 2007;45:S5-S67.*
+:::
+
+3.  A 70-year-old male with poorly controlled diabetes and no smoking history presents to the clinic for an ischemic toe ulcer. *What level of infrainguinal arterial occlusive disease is he most at risk for developing based on this history?*
+
+```{=html}
+<!-- -->
+```
+A.  Superficial femoral artery disease
+
+B.  Deep femoral artery disease
+
+C.  Iliac artery disease
+
+D.  Aortic disease
+
+E.  Tibial artery disease
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**E Tibial artery disease.**
+
+Discussion: Risk factors for peripheral arterial disease include age, male gender, hypertension, diabetes, smoking, dyslipidemia, family history, and homocysteinemia. Individuals who are heavy smokers tend to develop superficial femoral artery disease, whereas those with diabetes and renal failure tend to develop infrapopliteal disease. Of the answers listed, only the tibial artery is infrapopliteal.
+:::
+
+**The following prompt will be used for questions 4, 5, and 6.** 
+
+A 65-year old male with a history of hypertension, hyperlipidemia, and tobacco abuse presents to the vascular surgery clinic with complaints of pain in his legs. Patient states that the pain is crampy in quality, mostly in his calf muscles, it starts after he walks 4 blocks, and is worse on the right as compared to the left. He notices that when he stops walking, the pain resolves. This pain is keeping him from being able to participate in social events and spend quality time with his family.
+
+4.  *What is the name of the symptom the patient is experiencing?*
+
+```{=html}
+<!-- -->
+```
+A.  Neuropathy
+
+B.  Claudication
+
+C.  Ischemic rest pain
+
+D.  Bilateral sciatica
+
+E.  Normal symptoms
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**B. Claudication**
+
+Discussion: Claudication is defined as reproducible pain or cramping of the lower extremities that occurs with ambulation and significantly improves or resolves at rest. Claudication can occur in any muscle group distal to the area of arterial stenosis and/or occlusion. As such, the calf muscles are the most common anatomic location to experience pain as they are distal in the lower extremity. As the patient does not report pain at rest, they do not have ischemic rest pain. Neuropathic pain or bilateral sciatica and claudication can be confused. Neuropathic pain is shocking in quality whereas claudication is describes as a cramp-type pain. Furthermore, claudication is absent at rest, triggered by exercise, and relieved by a return to rest. This pattern helps distinguish claudication from neuropathic pain. This patient also does not have normal pathology, as one should not have pain on ambulation and needs to be further evaluated.
+:::
+
+5.  *What would be the first step in confirming the diagnosis for this patient?*
+
+```{=html}
+<!-- -->
+```
+A.  CT Angiography (CTA)
+
+B.  Doppler probe
+
+C.  Duplex Ultrasound
+
+D.  Angiogram
+
+E.  Ankle-Brachial Index and Pulse Volume Recording (ABI/PVR)
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**E. ABI/PVR**
+
+Discussion: Ankle Brachial Index (ABI) is a non-invasive method that measures the ratio of blood pressure in the lower legs to the blood pressure in the arms. Abnormal ABIs have been shown to have high specificity with identifying PAD. Patients who have claudication usually have ABI ranges from 0.5 to 0.9. Pulse volume recordings (PVR) use pressure cuffs to record the shape of a pulse. The type of waveform provides important information about the characteristics of blood flow. Waveforms can be used to diagnose and monitor arterial diseases, assess the severity of stenosis, and determine the effectiveness of treatment interventions. This patient likely has claudication based on the history and symptoms. The first non-invasive testing to confirm the diagnosis would be ABI/PVR. While a CTA would provide helful information with regards to arterial anatomy and the extend of calcification, it cannot provide the physiologic information that one would obtains an ABI/PVR. Furthermore, CTA requires contrast and radiation exposure. While used in measuring an ABI, a Doppler probe is not nearly as sensitive in identifying PAD and does not provide data helpful in creating a management plan. A Duplex Ultrasound would provide physiologic information as to the burden of disease. However, it is highly operator dependent and requires more resources. It may be considered as a second line investigation. While an angiogram is the gold-standard, it is an invasive technique that requires the use of contrast. As such, it is not a first line investigation.
+:::
+
+6.  *What would be the first step in treating this patient's symptoms?*
+
+```{=html}
+<!-- -->
+```
+A.  Angiogram to identify targets for open surgical bypass.
+
+B.  Angiogram with angioplasty/stent of any occluded vessels.
+
+C.  Prescribe Cilostazol.
+
+D.  Ensure medication optimization for his hypertension and hyperlipidemia, smoking cessation counseling, and exercise regimen.
+
+E.  No treatments at this time, continue to monitor and come back to clinic in 3 months.
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**D. Ensure medication optimization for his hypertension and hyperlipidemia, smoking cessation counseling, and exercise regimen.**
+
+Discussion: The mainstay of treatment for claudication is conservative management, including medical optimization and lifestyle modification. The patient has hypertension and hyperlipidemia. He should be on appropriate antihypertensive to control the blood pressure. With regard to medical optimization, it is recommended that patients start on antiplatelet therapy (Aspirin 81 mg daily) and a high dose statin. Lifestyle modifications include smoking cessation, exercise training to develop collateral vessels, and diet modification to lower cholesterol intake. An appropriate exercise regimen is defined by at least 30 minutes of supervised ambulation/exercise at least 3 times per week. Patients should be followed closely with yearly ABIs by both Primary Care Physicians (PCPs) and Vascular Surgeons for progression of disease. While an angiogram allows for simultaneous diagnosis and treatment of PAD, it is an invasive technique that requires the use of contrast. Angiogram may be considered if conservative management fails. Cilostazol is an antiplatelet that has been shown to have beneficial effects for patients wtih intermittent claudication, however, it is not a first-line medication. Lastly, while follow-up is important in the management of PAD, conservative management should be initiated as soon as the diagnosis of PAD is made.
+:::
+
+### Operative Footage Questions
+
+To come shortly. Stay tuned!
+
+------------------------------------------------------------------------
+
+## Introduction
+
+The aorta is invariably the largest arterial conduit in the body, serving as the channel through which blood from the heart travels to every other body part. The wall of the aorta is comprised of three layers, which include the intima, media and adventitia. Its typical course begins at the distal side of the aortic valve and terminates at the aortic bifurcation, where it splits into the two common iliac arteries. The thoracic aortic segment provides blood flow to the great vessels of the aortic arch, ensuring perfusion to the head and bilateral upper extremities via the innominate artery, the left carotid artery, and the left subclavian artery (in that order). The abdominal segment is a retroperitoneal structure that enters the abdominal cavity through the aortic hiatus of the diaphragm, at the level of T12. The branches of the abdominal aorta include, in descending order, the two inferior phrenic arteries, the celiac axis or trunk, the superior mesenteric artery (SMA), the renal arteries, the inferior mesenteric artery (IMA), and ultimately, the bilateral common iliac arteries. The branches of both the thoracic and abdominal aorta provide blood flow to areas of critically vital viscera.
+
+While the aorta serves a critical role for the rest of the body, it can be the site of significant pathology. Aneurysms, which are common pathology in both the thoracic and abdominal aorta, are defined by an increase in arterial diameter to 1.5 times the normal diameter of the vessel. As the diameter of the aortic aneurysm increases, the risk of rupture increases in direct proportion. For example, a patient with a 4cm abdominal aortic aneurysm (AAA) has an approximate 1-year rupture risk of 1%; a patient with a 5.5cm aneurysm has up to a 10% 1-year rupture risk. With the widespread use of cross-sectional imaging, many aortic aneurysms are discovered incidentally. Others are found on screening exams. The US Preventative Services Task Force recommends that men aged 65 to 75 years of age who have ever smoked tobacco undergo an abdominal ultrasound to screen for aneurysmal disease. Aortic aneurysms may also present symptomatically, with chest, abdominal and/or back pain and occasionally a palpable pulsatile abdominal mass, which is widely believed to represent an increasingly unstable aneurysm.
+
+------------------------------------------------------------------------
+
+## Etiology
+
+Certain risk factors, some modifiable and others non-modifiable (a.k.a. innate), predispose individuals to the development of aortic aneurysms. These include age, male gender, family history of aneurysms or aortopathies, and comorbidities including hypertension, hyperlipidemia, and peripheral vascular disease. Interestingly, female sex, African American race, and a history of diabetes have been found to be protective against the development and rupture of aortic aneurysms. A personal history of Marfan's syndrome, Loeys Dietz syndrome, or Ehlers Danlos Type IV (a.k.a. vascular Ehlers-Danlos or vEDS) is associated with a particularly elevated risk of aneurysmal degeneration. Medical providers should counsel and assist their patients to mitigate all potentially modifiable risk factors.
+
+------------------------------------------------------------------------
+
+## Diagnostics and Imaging
+
+When evaluating a patient with a suspected aortic aneurysm, a thorough history, physical examination, and imaging will help to narrow the differential diagnosis. Most often, patients present without symptoms; however, if symptomatic, typical complaints include chest, abdominal or back pain. Physical exam findings may not be overt but vital signs may provide a first clue in a symptomatic patient as heart rate and blood pressure might deviate from normal ranges. Patients with thoracic aortic aneurysms (TAA) often have no other easily identifiable physical exam findings aside from vital sign derangements in those with symptomatic or ruptured aneurysms. In thin patients with suspected AAA, the abdominal exam may demonstrate a pulsatile mass at or adjacent to the midline.
+
+Although the history and physical exam are indispensable to patient evaluation, the diagnosis of an aneurysm is usually secured with imaging. The mainstay of imaging is computed tomography (CT), while ultrasound, magnetic resonance imaging (MRI), and angiography are useful modalities in non-urgent or non-emergent settings. The benefits of CT, particularly the richness of anatomic data obtained, must be weighed against the potential risks related to contrast administration and exposure to radiation. Since the 2019 statement from the U.S. Preventive Services Task Force regarding one-time screening with ultrasonography in men aged 65 to 75 years who have ever smoked, the use of ultrasound has a more prominent role in AAA screening. Equipped with history, exam, and imaging data, the diagnosis of an aortic aneurysm can usually be made.
+
+When looking at an imaging study, abdominal aortic aneurysms are labeled in regard to their location relative to the renal arteries: - Aortic aneurysms are termed **"suprarenal"** when their most proximal extent is above the level of the renal arteries. Suprarenal abdominal aortic aneurysms typically involve visceral branches of the aorta as well (i.e. the SMA or celiac trunk) and thus may also be classified as a Crawford type IV thoracoabdominal aortic aneurysm (TAAA) - Aneurysms are labeled **"pararenal"** when the proximal extent of the aneurysm is at the level of the renal arteries and includes the origins of the renal arteries. - Abdominal aortic aneurysms are termed **"juxtarenal"** when their most proximal extent is immediately below the take-off of the renal arteries. - Lastly, aneurysms are labeled **"infrarenal"** when they begin below the renal arteries, often with a neck of non-dilated aorta between the lowest renal artery and the top of the aneurysm. As one might expect, the location of the aneurysm has implications for treatment options.
+
+::: callout-tip
+Please see Figure 2 of [this American Heart Association publication](https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.118.313186) depicting the anatomic classifications of AAAs.
+:::
+
+------------------------------------------------------------------------
+
+## Treatment
+
+Once a diagnosis has been obtained, considerations for management follow. Similar to a thoracic aortic aneurysm (TAA), indications for repair are reflective of risk for rupture. The aim is to intervene when the rupture risk exceeds the risks posed by surgery. Intervention is considered when an aneurysm reaches the size threshold of 5.5cm in males and 5cm in females or if the growth rate exceeds 5 mm in 6 months. Again, this threshold is modified in patients with a strong family history of aneurysmal disease or collagen vascular disorder, or when patients present symptomatically or with a ruptured aorta. The topography of the aneurysm must also be considered as a saccular aneurysm, an isolated pouch off the sidewall of the aorta, presents a much greater risk of rupture and should be fixed when identified.
+
+On first evaluation, patients with AAAs should be medically optimized to minimize their perioperative risk of morbidity and mortality. Multiple factors must be considered when deciding between an open surgical approach and an endovascular one. While the prevalence of endovascular aortic repair (EVAR) has exponentially increased in the past two decades relative to open surgical repair (OSR), each aneurysm poses a unique set of potential constraints that suggest a preference for one type of repair over another.
+
+Please see the @sec-AAAoperativefootage section and watch the included videos.
+
+### Endovascular Aortic Repair (EVAR)
+
+Endovascular aortic repair (EVAR) is a novel approach to AAA treatment that has gained widespread popularity since its first successful use by Dr. Juan Parodi and Dr. Julio Palmaz in 1991. EVAR necessitates cross-sectional imaging to measure the AAA dimensions and determine the appropriate size of an aortic stent graft. Stent grafts are straight or bifurcated tubes with a wire framework covered by non-porous fabric. Simply, it is a tube that can be deployed from inside a vessel.
+
+#### EVAR Procedural Steps
+
+A step-by-step guide of a typical, uncomplicated EVAR for an infrarenal AAA is listed below. Please see the @sec-AAAoperativefootage section to a video guide of a typical EVAR.
+
+1.  Bilateral femoral access via percutaneous or open surgical exposure (a.k.a. "femoral cut-downs")
+
+2.  Heparinization to achieve an activated clotting time (ACT) greater than 250 seconds.
+
+3.  Placement of stiff wires into the abdominal aorta and upsizing of sheaths into the access vessels.
+
+4.  Aortogram to visualize renal arteries and deployment of the endograft main body under the origins of the renal arteries.
+
+5.  Cannulation of contralateral limb gate using a wire and catheter with subsequent confirmation that both the wire and catheter are within the main body.
+
+6.  Aortoiliac angiogram to measure the distance from the contralateral gate to the contralateral hypogastric (i.e. internal iliac) artery.
+
+7.  Deployment of contralateral limb with the distal landing site just proximal to the hypogastric artery.
+
+8.  Partial deployment of the ipsilateral limb.
+
+9.  Aortoiliac angiogram to measure the distance from the ipsilateral gate of the main body to the ipsilateral hypogastric artery.
+
+10. Deployment of the remainder of the ipsilateral limb.
+
+11. Ballooning of the proximal and distal landing zones, and areas of stent overlap.
+
+12. Remove wires and sheaths and close arteriotomies (often with closure devices).
+
+13. Reverse heparin with protamine.
+
+14. Apply pressure to surgical sites and monitor for hematoma formation.
+
+#### EVAR Considerations and Planning
+
+The need for imaging can be a limiting factor such as when patients with a ruptured aneurysm are too hemodynamically unstable to stop at the CT scanner prior to repair or when a patient's kidney function is too impaired to tolerate a large contrast bolus.
+
+If the situation is amenable to getting a CT angiogram to measure anatomic dimensions, several components of the aneurysm anatomy should be assessed to determine anatomic suitability for EVAR. These include the length, width, angulation of the aneurysm, and presence of disease at the aneurysm neck (i.e. the aortic segment between the lowest renal artery and the proximal extent of the aortic dilatation).
+
+::: callout-tip
+-   See page 71 of the Gore Vascular/Endovascular Surgery Combat Manual in the additional resources (@sec-additionalresources) for a **high-yield** EVAR planning and sizing considerations chart.
+-   Video Tutorial: Endovascular Aortic Repair Preoperative Sizing with Dr. Sharif Ellozy. *This is above the level of medical students*, but for those who are interested, watch it [here.](https://www.audiblebleeding.com/hidi-aorta-sizing/)
+:::
+
+The access vessels, including the bilateral iliac and femoral arteries, must be healthy enough to allow sheaths, wires and catheters to pass through them. Calcification due to atherosclerosis can make arterial access difficult, and if vessels are so diseased as to be completely occluded, wires and devices may not be able to travel past the occlusion. Additionally, the iliac arteries must be within the appropriate diameter and length dimensions to accommodate the chosen stent graft. Lastly, certain anatomic anomalies such as a horseshoe kidney must be evaluated to ensure the appropriateness of EVAR for repair. With recent innovations in endovascular devices and intra-operative imaging, many factors that were once contraindications to EVAR have now become considerations when planning for EVAR. This is to say, as technology advances, EVAR is increasingly possible and safe for patients with difficult anatomy and co-morbidities.
+
+#### EVAR Complications
+
+Although a more recent development relative to open surgical repair (OSR), EVAR is not without risk of complications. EVAR may be complicated by injury to access vessels such as femoral occlusion or iliac avulsion (aka, "iliac-on-a-stick"), wire trauma from the relatively stiff wires that are used to deliver the stent graft, rupture of the aneurysm, and endoleak. Endoleak is the term used to describe ongoing blood flow in the aneurysm sac after stent graft placement (e.g. from lumbar arteries or the inferior mesenteric artery, inadequate proximal or distal endograft seal, a defect in the endograft, etc.). There are various types of endoleak and each has its own management approach.
+
+Endoleaks are classified as follows:
+
+-   Type Ia: caused by an improper **proximal** endograft seal (i.e. the top of the graft is not well opposed to the abdominal aorta and blood can flow around it into the aneurysm sac).
+
+-   Type Ib: caused by an improper **distal** endograft seal (i.e. the distal iliac limb is not well opposed to the iliac artery and blood can flow retrograde into the aneurysm sac).
+
+-   Type II: caused by retrograde blood flow into the aneurysm sac from aortic side branches such as lumbar arteries or the IMA. This is the most common type and does not require intervention provided a stable aneurysm sac size is observed on follow-up. If the sac continues to expand, the feeding vessels may need to be occluded via embolization (e.g. coil embolization).
+
+-   Type III: caused by a defect in the endograft such as a fabric tear, or disconnection of the contralateral iliac limb from the main body of the graft.
+
+-   Type IV: caused by graft wall porosity. To explain graft wall porosity, imagine filling up a pillowcase with water. Even if the pillowcase has the tightest of weaves, eventually, water will leak *through* the pillowcase.
+
+-   Type V: increase in aneurysm size with no identifiable cause.
+
+::: callout-tip
+Please click [here](https://www.sciencedirect.com/science/article/pii/S0378603X17300700) to open an article by Dr. Tamer W. Kassem with a simple image depicting the endoleak classifications.
+:::
+
+Additionally, one should monitor for abdominal compartment syndrome after repair of AAA rupture, as much of the large volume resuscitation can leak from the intravascular compartment into the interstitium of the abdominal tissues causing distention. In the event of rupture, the retroperitoneal hematoma can cause a mass effect and increase of abdominal pressures. Lastly, a well-known complication of EVAR is ischemic colitis, although it is only encountered in less than 3% of endovascular aortic repairs. This occurs when the colon becomes ischemic secondary to vascular hypoperfusion caused by a variety of quoted sources including atheroembolization and systemic hypotension. Albeit rare, ischemic colitis has a significant associated mortality risk and should be addressed promptly with bowel rest, antibiotic coverage, a flexible sigmoidoscopy, and potentially further intervention, if warranted. This complication is not limited to EVAR and has been identified postoperatively with the same incidence in OSR.
+
+### Open Surgical Repair (OSR)
+
+Open surgical repair (OSR) remains the traditional means of repairing AAA and is still the most appropriate modality when EVAR is not feasible for anatomic reasons. In the elective setting, the ideal patient is physiologically fit enough for OSR as it is a procedure with the potential for significant morbidity and a lengthy recovery.
+
+#### OSR Considerations and Planning
+
+OSR can be conducted via a transperitoneal or a retroperitoneal exposure. Other decision points for open repair include the following:
+
+-   Location of the proximal clamp: A clamp must be placed on the aorta in a location free of significant disease, with enough clearance below it to allow space for suturing the proximal anastomosis.
+
+-   Configuration of the proximal anastomosis: Anastomoses performed for aneurysmal disease are sewn in an end-to-end fashion, whereas aortas being reconstructed for occlusive disease can be performed either end-to-end or end-to-side.
+
+-   Location of the distal anastomosis: the end of the graft can be sewn to either the distal aorta, iliac arteries, or femoral arteries depending on the extent of the native vessel that needs to be excluded and the distal location where the vessel is healthy enough to clamp and receive sutures (e.g. is not heavily calcified).
+
+-   Management of the inferior mesenteric artery when an end-to-end anastomosis is created: The IMA can be ligated If collateral flow is adequate or reimplanted into the graft if collateral flow is inadequate.
+
+-   Management of aberrant intraperitoneal anatomy and pathology: Examples include adhesions or scarred tissue due to previous abdominal surgery, accessory renal arteries, horseshoe kidney, history of kidney transplant, and previous aortic replacement, among many other possibilities.
+
+Depending on the urgency of repair, many of these considerations might only be entertained intraoperatively.
+
+#### OSR Complications
+
+Complications related to OSR differ from those of EVAR, owing greatly to the open abdominal exposure and the lack of intraluminal wire manipulation. Just as with most other laparotomies or open retroperitoneal dissections, incisional pain can be significant and cause atelectasis or other respiratory compromise. Additionally, ileus and wound infections can impair the return of proper bowel function. Similar to EVAR, ischemic colitis can manifest after OSR, particularly in the setting of rupture.
+
+------------------------------------------------------------------------
+
+## Outcomes
+
+Much experience has been gained since the first EVAR in 1990 and ample research has been dedicated to the comparison of EVAR to OSR. Multiple trials have demonstrated an early survival advantage for EVAR over OSR that tends to diminish over time. Certainly, the perioperative period for EVAR is notable for reduced morbidity and mortality relative to OSR with length of hospital stay significantly longer in those undergoing OSR. However, this early benefit is often balanced by a necessity for life-long follow-up including imaging at regular intervals and a tendency for re-interventions during the surveillance period (e.g. to manage endoleaks). Hence, the risk-benefit ratio must be weighed individually for each patient.
+
+Contemporary management of abdominal aortic aneurysms is most often undertaken with EVAR. Endovascular repair has a third of the peri-operative all-cause mortality attributed to open repair (1.6% vs 4.8%, respectively). This survival benefit tends to dissipate by three to four years post-operatively. Moreover, the overall complication rate of EVAR in the perioperative period is up to 10%.
+
+Among patients who undergo open abdominal aortic aneurysm repair, mortality in the immediate post-operative period can be as high as 5%. Of patients who survive, later death is typically related to cardiovascular disease burden. Complications arise in 9% of patients and most often include myocardial infarction, respiratory insufficiency, pneumonia, acute kidney injury, and ischemic colitis. Late Infection of the graft is possible, is challenging to manage, and occurs in less than 1% of patients.
+
+------------------------------------------------------------------------
+
+## Surveillance
+
+The Society for Vascular Surgery guidelines suggest that for patients found to have an abdominal aortic aneurysm, surveillance imaging should occur at intervals specific to the maximum diameter of their aneurysm.
+
+-   For patients with abdominal aortic aneurysms between 3.0 and 3.9cm in diameter, CT or ultrasound should be undertaken every 3 years.
+-   Patients with abdominal aortic aneurysms between 4.0 and 4.9cm in diameter, imaging is indicated every 12 months.
+-   When the aneurysm reaches a maximum diameter of 5.0 cm, imaging with CT is recommended at intervals of every 6 months.
+
+After the abdominal aortic aneurysm has been repaired, ongoing surveillance is warranted to monitor for post-repair complications and the need for reintervention. As mentioned, endovascular repairs can develop endoleaks over time, which may necessitate another intervention if the aneurysm sac is expanding. Therefore, patients who have undergone EVAR should undergo CTA at one month and 12 months post-operatively. A six-month scan is indicated in the presence of a persistent endoleak observed on the one-month scan. If the endograft is in a good position without complications, yearly interval follow-up with concomitant imaging is warranted. Open repairs can similarly develop problems that require repair, albeit with less frequency, and hence need surveillance imaging every five years.
+
+------------------------------------------------------------------------
+
+## Teaching Case
+
+### Scenario
+
+A 73-year-old male with a history of atrial fibrillation, diabetes, hypertension, ongoing tobacco use, hyperlipidemia, chronic kidney disease, and peripheral arterial disease undergoes a screening ultrasound of the abdominal aorta. The ultrasound shows a 5.6cm infrarenal fusiform aortic aneurysm extending into the proximal common iliac arteries. His primary care physician refers him to the vascular surgery clinic, where he presents without subjective complaints. CTA is recommended to assess the patient's anatomy.
+
+### Exam
+
+**HEENT:** No carotid bruits.
+
+**Cardiac:** Irregularly irregular, no murmurs.
+
+**Pulmonary:** Clear to auscultation in all lung fields.
+
+**Abdominal:** Obese, soft, non-tender, no pulsatile masses felt.
+
+**Vascular:** Palpable femoral pulses, multiphasic pedal signals bilaterally.
+
+### Imaging
+
+**CTA Abdo/Pelvis**
+
+![](images/AAA_CTA.jpg)
+
+**CTA Report**: 5.6cm infrarenal bilobed aortic aneurysm with bilateral accessory renal arteries inferior to main renal arteries. 14mm infrarenal neck cranial to aneurysm. Widely patent iliac systems with non-diseased femoral arteries.
+
+### Discussion Points
+
+::: callout-note
+## N.B. There is no prepared answers for the questions below.
+
+However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
+:::
+
+1.  What recommendations for medical management should be made to optimize this patient prior to surgical intervention?
+2.  What is the important information to ascertain from history, physical exam and imaging that can help you determine the best modality of treatment.
+3.  With what urgency should the patient be scheduled for operative repair?
+4.  What kind of repair would you suggest for this patient and why? Open or endovascular?
+5.  What complications are possible after an endovascular repair of the abdominal aorta? After an open repair?
+6.  Following repair, how should the patient be surveilled? With what frequency?
+7.  If the patient's aneurysm was 4.6cm in greatest transverse diameter, how often should he undergo imaging and follow-up?
+8.  What aortopathies and collagen vascular diseases would convince you to repair the aneurysm at a size less than 5.5cm?
+
+------------------------------------------------------------------------
+
+## Key Articles
+
+1.  Chaikof EL, Dalman RL, Eskandari MK, Jackson BM, Lee WA, Mansour MA, Mastracci TM, Mell M, Murad MH, Nguyen LL, Oderich GS, Patel MS, Schermerhorn ML, Starnes BW. [The Society for Vascular Surgery practice guidelines on the care of patients with an abdominal aortic aneurysm.](https://www.jvascsurg.org/article/S0741-5214(17)32369-8/fulltext) J Vasc Surg. 2018 Jan;67(1):2-77.e2. doi: 10.1016/j.jvs.2017.10.044. PMID: 29268916.[@chaikof2018]
+
+2.  Lederle FA, Wilson SE, Johnson GR, Reinke DB, Littooy FN, Acher CW, Ballard DJ, Messina LM, Gordon IL, Chute EP, Krupski WC, Busuttil SJ, Barone GW, Sparks S, Graham LM, Rapp JH, Makaroun MS, Moneta GL, Cambria RA, Makhoul RG, Eton D, Ansel HJ, Freischlag JA, Bandyk D; Aneurysm Detection and Management Veterans Affairs Cooperative Study Group. [Immediate repair compared with surveillance of small abdominal aortic aneurysms.](https://www.nejm.org/doi/full/10.1056/nejmoa012573) N Engl J Med. 2002 May 9;346(19):1437-44. doi: 10.1056/NEJMoa012573. PMID: 12000813.[@lederle2002]
+
+3.  Lederle FA, Kyriakides TC, Stroupe KT, Freischlag JA, Padberg FT Jr, Matsumura JS, Huo Z, Johnson GR; OVER Veterans Affairs Cooperative Study Group. [Open versus Endovascular Repair of Abdominal Aortic Aneurysm.](https://www.nejm.org/doi/full/10.1056/NEJMoa1715955) N Engl J Med. 2019 May 30;380(22):2126-2135. doi: 10.1056/NEJMoa1715955. PMID: 31141634.[@lederle2019]
+
+4.  van Schaik TG, Yeung KK, Verhagen HJ, de Bruin JL, van Sambeek MRHM, Balm R, Zeebregts CJ, van Herwaarden JA, Blankensteijn JD; DREAM trial participants. [Long-term survival and secondary procedures after open or endovascular repair of abdominal aortic aneurysms.](https://www.jvascsurg.org/article/S0741-5214(17)31758-5/fulltext) J Vasc Surg. 2017 Nov;66(5):1379-1389. doi: 10.1016/j.jvs.2017.05.122. Erratum in: J Vasc Surg. 2018 Feb;67(2):683. PMID: 29061270.[@vanschaik2017]
+
+5.  Parodi JC, Palmaz JC, Barone HD. [Transfemoral intraluminal graft implantation for abdominal aortic aneurysms.](https://www.annalsofvascularsurgery.com/article/S0890-5096(06)61541-0/pdf) Ann Vasc Surg. 1991 Nov;5(6):491-9. doi: 10.1007/BF02015271. PMID: 1837729.[@parodi1991]
+
+6.  Darling, R. [Master Techniques in Surgery; Vascular Surgery: Arterial. 1st ed.](https://www.wolterskluwer.com/en/solutions/ovid/master-techniques-in-surgery-vascular-surgery-arterial-procedures-13770) Lippincott Williams & Wilkins, 2016. Print.[@vascular2016]
+
+7.  Qrareya M, Zuhaili B. [Management of Postoperative Complications Following Endovascular Aortic Aneurysm Repair.](https://www.sciencedirect.com/science/article/abs/pii/S0039610921000621?via%3Dihub) Surg Clin North Am. 2021 Oct;101(5):785-798. doi: 10.1016/j.suc.2021.05.020. Epub 2021 Jul 30. PMID: 34537143.[@qrareya2021]
+
+8.  Parkinson F, Ferguson S, Lewis P, Williams IM, Twine CP; South East Wales Vascular Network. [Rupture rates of untreated large abdominal aortic aneurysms in patients unfit for elective repair.](https://www.sciencedirect.com/science/article/pii/S0741521414019053) J Vasc Surg. 2015 Jun;61(6):1606-12. doi: 10.1016/j.jvs.2014.10.023. Epub 2015 Feb 7. PMID: 25661721.[@parkinson2015]
+
+9.  Schanzer, Andres, and Gustavo S. Oderich. [Management of Abdominal Aortic Aneurysms.](https://www.nejm.org/doi/10.1056/NEJMcp2108504?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) New England Journal of Medicine 385, no. 18 (October 28, 2021): 1690--98. https://doi.org/10.1056/NEJMcp2108504.[@schanzer2021]
+
+::: callout-tip
+[Dr. Schanzer's recent publication in the New England Journal of Medicine (NEJM)](https://www.nejm.org/doi/10.1056/NEJMcp2108504?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) is particularly high yield. However, as a NEJM publication, the article is behind a paywall. We hope you are able to access this paper via your institution's library.
+:::
+
+------------------------------------------------------------------------
+
+## Additional Resources
+
+### Audible Bleeding Content
+
+-   Audible Bleeding Exam Prep: [AAA Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/abdominal-aneurysms.html)
+-   Audible Bleeding has an episode covering the IMPROVE trial. Listen to it below and find [additional information here](https://www.audiblebleeding.com/2021/07/15/landmark-papers-improve-professor-janet-powell/), or find the episode wherever you listen to podcasts.<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/19780256/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+-   Holding Pressure Case Prep: EVAR. Listen to it [here](https://www.audiblebleeding.com/hp-evar/), or find the episode wherever you listen to podcasts. **Be sure to take a quick look at the shownotes.**
+-   VSITE Review - AAA. Listen to it below and find [additional information here](https://www.audiblebleeding.com/2021/07/15/landmark-papers-improve-professor-janet-powell/), or find the episode wherever you listen to podcasts.<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/18508661/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+-   Video Tutorial: Dr. Kristina Giles - "Decision-Making and Treatment: Elective Infrarenal and Juxtarenal AAA." Watch it [here.](https://www.audiblebleeding.com/giles-juxtarenal-decision-making/)
+-   Video Tutorial: Open AAA repair: How I Do It with Dr. Ashlee Vinyard and Dr. John Eidt. Watch it [here.](https://www.audiblebleeding.com/open-aaa-hidi/)
+-   Vascular Origin Stories: Bridging the Gap - The Fabric of Aortic Repair. Listen to it below and find [additional information here](https://www.audiblebleeding.com/origins-aortic-repair/), or find the episode wherever you listen to podcasts.<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/21861920/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+------------------------------------------------------------------------
+
+### Websites
+
+-   TeachMe Surgery: [Abdominal Aortic Aneurysm](https://teachmesurgery.com/vascular/arterial/abdominal-aorta-aneurysm/)
+
+------------------------------------------------------------------------
+
+### Operative Footage {#sec-AAAoperativefootage}
+
+Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.*
+
+#### Endovascular Aortic Repair (EVAR)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wXxtS5a5Q_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+#### Open Surgical Repair (OSR) of a AAA, Transperitoneal Access
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qnfFuYFS8ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+#### EVAR Explantation with Aortic Reconstruction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EwUN72QBNnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+------------------------------------------------------------------------
+
+<!-- Google tag (gtag.js) -->
+
+```{=html}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WS28VX4802"></script>
+```
+```{=html}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WS28VX4802');
+</script>
+```
