@@ -34,6 +34,8 @@ book:
       - AAA2.qmd
       
     - part: "Lower Extremity Arterial Disease"
+      chapters: 
+      - claudication.qmd
 
     - feedback.qmd
     - references.qmd
