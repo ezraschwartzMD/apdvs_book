@@ -118,7 +118,7 @@ E.  Tibial artery disease
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
-**E Tibial artery disease.**
+**E. Tibial artery disease.**
 
 Discussion: Risk factors for peripheral arterial disease include age, male gender, hypertension, diabetes, smoking, dyslipidemia, family history, and homocysteinemia. Individuals who are heavy smokers tend to develop superficial femoral artery disease, whereas those with diabetes and renal failure tend to develop infrapopliteal disease. Of the answers listed, only the tibial artery is infrapopliteal.
 :::
@@ -508,8 +508,8 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ### Audible Bleeding Content
 
--   Audible Bleeding Exam Prep: [AAA Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/abdominal-aneurysms.html)
--   Caitlin W. Hicks, MD, MS - Overuse of early peripheral vascular interventions in claudicationl. Listen to it below and find [additional information here](https://www.audiblebleeding.com/hicks/), or find the episode wherever you listen to podcasts.<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/11570630/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+-   Audible Bleeding Exam Prep: [Medical Management and Claudication Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/claudication.html)
+-   Caitlin W. Hicks, MD, MS - Overuse of early peripheral vascular interventions in claudication. Listen to it below and find [additional information here](https://www.audiblebleeding.com/hicks/), or find the episode wherever you listen to podcasts.<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/11570630/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 -   VSITE Review - Peripheral Arterial Occlusive Disease (Part One). Listen to it below and find [additional information here](https://www.audiblebleeding.com/vsite-paod1/), or find the episode wherever you listen to podcasts.<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15742403/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ------------------------------------------------------------------------
