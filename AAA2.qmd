@@ -184,6 +184,8 @@ To come shortly. Stay tuned!
 
 The aorta is invariably the largest arterial conduit in the body, serving as the channel through which blood from the heart travels to every other body part. The wall of the aorta is comprised of three layers, which include the intima, media and adventitia. Its typical course begins at the distal side of the aortic valve and terminates at the aortic bifurcation, where it splits into the two common iliac arteries. The thoracic aortic segment provides blood flow to the great vessels of the aortic arch, ensuring perfusion to the head and bilateral upper extremities via the innominate artery, the left carotid artery, and the left subclavian artery (in that order). The abdominal segment is a retroperitoneal structure that enters the abdominal cavity through the aortic hiatus of the diaphragm, at the level of T12. The branches of the abdominal aorta include, in descending order, the two inferior phrenic arteries, the celiac axis or trunk, the superior mesenteric artery (SMA), the renal arteries, the inferior mesenteric artery (IMA), and ultimately, the bilateral common iliac arteries. The branches of both the thoracic and abdominal aorta provide blood flow to areas of critically vital viscera.
 
+![Anatomically normal aorta with main and visceral branches.](images/Aoanat.jpeg){fig-align="left" width=50%}
+
 While the aorta serves a critical role for the rest of the body, it can be the site of significant pathology. Aneurysms, which are common pathology in both the thoracic and abdominal aorta, are defined by an increase in arterial diameter to 1.5 times the normal diameter of the vessel. As the diameter of the aortic aneurysm increases, the risk of rupture increases in direct proportion. For example, a patient with a 4cm abdominal aortic aneurysm (AAA) has an approximate 1-year rupture risk of 1%; a patient with a 5.5cm aneurysm has up to a 10% 1-year rupture risk. With the widespread use of cross-sectional imaging, many aortic aneurysms are discovered incidentally. Others are found on screening exams. The US Preventative Services Task Force recommends that men aged 65 to 75 years of age who have ever smoked tobacco undergo an abdominal ultrasound to screen for aneurysmal disease. Aortic aneurysms may also present symptomatically, with chest, abdominal and/or back pain and occasionally a palpable pulsatile abdominal mass, which is widely believed to represent an increasingly unstable aneurysm.
 
 ------------------------------------------------------------------------
@@ -191,6 +193,17 @@ While the aorta serves a critical role for the rest of the body, it can be the s
 ## Etiology
 
 Certain risk factors, some modifiable and others non-modifiable (a.k.a. innate), predispose individuals to the development of aortic aneurysms. These include age, male gender, family history of aneurysms or aortopathies, and comorbidities including hypertension, hyperlipidemia, and peripheral vascular disease. Interestingly, female sex, African American race, and a history of diabetes have been found to be protective against the development and rupture of aortic aneurysms. A personal history of Marfan's syndrome, Loeys Dietz syndrome, or Ehlers Danlos Type IV (a.k.a. vascular Ehlers-Danlos or vEDS) is associated with a particularly elevated risk of aneurysmal degeneration. Medical providers should counsel and assist their patients to mitigate all potentially modifiable risk factors.
+
+::: {#fig-AAA layout-ncol=3}
+
+![](images/fusiform.jpeg)
+
+![](images/saccular.jpeg)
+
+![](images/pseudo.jpeg)
+
+Aneurysm Topography
+:::
 
 ------------------------------------------------------------------------
 
@@ -200,7 +213,26 @@ When evaluating a patient with a suspected aortic aneurysm, a thorough history, 
 
 Although the history and physical exam are indispensable to patient evaluation, the diagnosis of an aneurysm is usually secured with imaging. The mainstay of imaging is computed tomography (CT), while ultrasound, magnetic resonance imaging (MRI), and angiography are useful modalities in non-urgent or non-emergent settings. The benefits of CT, particularly the richness of anatomic data obtained, must be weighed against the potential risks related to contrast administration and exposure to radiation. Since the 2019 statement from the U.S. Preventive Services Task Force regarding one-time screening with ultrasonography in men aged 65 to 75 years who have ever smoked, the use of ultrasound has a more prominent role in AAA screening. Equipped with history, exam, and imaging data, the diagnosis of an aortic aneurysm can usually be made.
 
-When looking at an imaging study, abdominal aortic aneurysms are labeled in regard to their location relative to the renal arteries: - Aortic aneurysms are termed **"suprarenal"** when their most proximal extent is above the level of the renal arteries. Suprarenal abdominal aortic aneurysms typically involve visceral branches of the aorta as well (i.e. the SMA or celiac trunk) and thus may also be classified as a Crawford type IV thoracoabdominal aortic aneurysm (TAAA) - Aneurysms are labeled **"pararenal"** when the proximal extent of the aneurysm is at the level of the renal arteries and includes the origins of the renal arteries. - Abdominal aortic aneurysms are termed **"juxtarenal"** when their most proximal extent is immediately below the take-off of the renal arteries. - Lastly, aneurysms are labeled **"infrarenal"** when they begin below the renal arteries, often with a neck of non-dilated aorta between the lowest renal artery and the top of the aneurysm. As one might expect, the location of the aneurysm has implications for treatment options.
+When looking at an imaging study, abdominal aortic aneurysms are labeled in regard to their location relative to the renal arteries: 
+
+-   Aortic aneurysms are termed **"suprarenal"** when their most proximal extent is above the level of the renal arteries. Suprarenal abdominal aortic aneurysms typically involve visceral branches of the aorta as well (i.e. the SMA or celiac trunk) and thus may also be classified as a Crawford type IV thoracoabdominal aortic aneurysm (TAAA) 
+
+-   Aneurysms are labeled **"pararenal"** when the proximal extent of the aneurysm is at the level of the renal arteries and includes the origins of the renal arteries. 
+
+-   Abdominal aortic aneurysms are termed **"juxtarenal"** when their most proximal extent is immediately below the take-off of the renal arteries. 
+
+-   Lastly, aneurysms are labeled **"infrarenal"** when they begin below the renal arteries, often with a neck of non-dilated aorta between the lowest renal artery and the top of the aneurysm. As one might expect, the location of the aneurysm has implications for treatment options.
+
+::: {#fig-AAA layout-ncol=3}
+
+![](images/suprarenalAAA.jpeg)
+
+![](images/pararenalAAA.jpeg)
+
+![](images/infrarenalAAA.jpeg)
+
+AAA anatomy description relative to the renal arteries.
+:::
 
 ::: callout-tip
 Please see Figure 2 of [this American Heart Association publication](https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.118.313186) depicting the anatomic classifications of AAAs.
@@ -252,6 +284,21 @@ A step-by-step guide of a typical, uncomplicated EVAR for an infrarenal AAA is l
 
 14. Apply pressure to surgical sites and monitor for hematoma formation.
 
+::: {#fig-AAA layout-nrow=2}
+
+![Fusiform infrarenal AAA](images/EVAR1.jpeg)
+
+![Step 4.1](images/EVAR2.jpeg)
+
+![Step 4.2](images/EVAR3.jpeg)
+
+![Step 5](images/EVAR4.jpeg)
+
+![Step 7](images/EVAR5.jpeg)
+
+EVAR Procedure
+:::
+
 #### EVAR Considerations and Planning
 
 The need for imaging can be a limiting factor such as when patients with a ruptured aneurysm are too hemodynamically unstable to stop at the CT scanner prior to repair or when a patient's kidney function is too impaired to tolerate a large contrast bolus.
@@ -283,6 +330,21 @@ Endoleaks are classified as follows:
 
 -   Type V: increase in aneurysm size with no identifiable cause.
 
+::: {#fig-AAA layout-nrow=2}
+
+![](images/endoleak1.jpeg)
+
+![](images/endoleak2.jpeg)
+
+![](images/endoleak3.jpeg)
+
+![](images/endoleak4.jpeg)
+
+![](images/endoleak5.jpeg)
+
+Endoleak classifications.
+:::
+
 ::: callout-tip
 Please click [here](https://www.sciencedirect.com/science/article/pii/S0378603X17300700) to open an article by Dr. Tamer W. Kassem with a simple image depicting the endoleak classifications.
 :::
@@ -308,6 +370,17 @@ OSR can be conducted via a transperitoneal or a retroperitoneal exposure. Other 
 -   Management of aberrant intraperitoneal anatomy and pathology: Examples include adhesions or scarred tissue due to previous abdominal surgery, accessory renal arteries, horseshoe kidney, history of kidney transplant, and previous aortic replacement, among many other possibilities.
 
 Depending on the urgency of repair, many of these considerations might only be entertained intraoperatively.
+
+::: {#fig-AAA layout-ncol=3}
+
+![](images/OAR1.jpeg)
+
+![](images/OAR2.jpeg)
+
+![](images/OAR3.jpeg)
+
+Open Aortic Repair (OAR) with suprarenal clamp.
+:::
 
 #### OSR Complications
 
