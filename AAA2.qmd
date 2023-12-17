@@ -3,7 +3,7 @@ title: "Abdominal Aortic Aneurysm (AAA)"
 chapter_number: 4
 title-block-banner: false
 title-block-style: plain
-authors: Erin K. Greenleaf, MD, MS, Jonathan Bath, MD, Dawn M. Coleman, MD, FACS and Ezra Schwartz, MD,CM, MS
+authors: Erin K. Greenleaf, MD, MS, Jonathan Bath, MD, Dawn M. Coleman, MD, FACS and Ezra Schwartz, MD,CM, MS.
 format: html
 editor: visual
 number-sections: false
