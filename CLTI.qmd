@@ -316,7 +316,7 @@ Lastly, diagnostic angiography is an invasive imaging technique that provides de
 ### Classification Systems
 
 ::: callout-tip
-Below, we will introduce and summarize the most common classification systems. For a high-yield summary of all classification systems, please see this [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4232437/) [@hardman2014].
+Below, we will introduce and summarize the most common classification systems. For a high-yield summary of all classification systems, please see this [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4232437/).  [@hardman2014]
 :::
 
 #### The Rutherford Classification and Fontaine Grading
@@ -360,7 +360,7 @@ The SVS Guidelines Mobile App has an easy-to-use WIfI Calculator. - [Apple App S
 -   The Global Limb Anatomic Staging System (GLASS) is a framework to estimate the success of lower limb revascularization based on the extent and the distribution of the atherosclerotic lesion. By categorizing the patient's lesion into one of three GLASS stages, the surgeon can predict the likelihood of immediate technical failure and one-year limb-based patency (LBP) following endovascular intervention. This information is extremely informative when planning a surgical intervention.
 -   To perform GLASS staging, the surgeon must obtain high quality imaging of the lower extremity to score the length and burden of disease femoropopliteal segment (FP) and infrapopliteal segment (IP).
 
-Scoring System below ([@wijnand2021])
+Scoring System below [@wijnand2021]
 
 | Femoro-Popliteal (FP) Grading |                                                                                                                                                                                        |
 |-------------------|-----------------------------------------------------|
@@ -453,7 +453,7 @@ Below is a sample algorithm for treatment management of a patient with PAD that 
 
 [Here](https://cacvi.org/wp-content/uploads/2020/01/PAD-treatment-diagram.png) is an image demonstrating angioplasty, atherectomy, and placement of stents.
 
-## [Here](https://www.healthlinkbc.ca/sites/default/files/healthwise/images/h9991467_002.jpg) is an image demonstrating surgical or extra-anatomic bypass.
+[Here](https://www.healthlinkbc.ca/sites/default/files/healthwise/images/h9991467_002.jpg) is an image demonstrating surgical or extra-anatomic bypass.
 
 ------------------------------------------------------------------------
 
