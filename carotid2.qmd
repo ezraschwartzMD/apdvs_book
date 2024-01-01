@@ -438,9 +438,19 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ------------------------------------------------------------------------
 
+### Gore Combat Manual
+
+The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
+
+::: callout-tip
+Please see pages 119-125.
+:::
+
+------------------------------------------------------------------------
+
 ### Operative Footage
 
-Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.*
+Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.* Please create and/or log in to your YouTube account to have access to the videos.
 
 #### Carotid Endarterectomy (Short Version)
 

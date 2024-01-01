@@ -226,6 +226,14 @@ The arterial anatomy of the lower extremity is a complex network of arteries tha
 
 In summary, the common femoral artery is the arterial origin of the leg. It gives rise to the superficial femoral artery, and subsequently, the popliteal artery. The popliteal artery then divides into the anterior tibial, posterior tibial, and peroneal arteries, each supplying specific regions of the leg and foot. Understanding this anatomy is crucial for diagnosing and treating arterial diseases and vascular disorders in the lower extremities.
 
+::: callout-tip
+For a short, comprehensive, although advanced video lecture reviewing normal and diseased lower limb arterial anatomy, please see the video below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLKJZe4w0iI?si=3Hn4gCXFT1SLYCNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+
 ::: callout-note
 [Here](https://musculoskeletalkey.com/8-vascular-anatomy-of-the-lower-extremity-a-practical-guide-to-vascular-territories-perforators-and-selection-of-recipient-vessels/) is a review of the lower extremity vascular anatomy and here are two sample diagnostic angiograms of these vessels ([Sample 1](https://ars.els-cdn.com/content/image/1-s2.0-S2211568422001231-gr1.jpg), [Sample 2](https://ars.els-cdn.com/content/image/1-s2.0-S2211568422001231-gr2.jpg)).
 :::
@@ -516,7 +524,11 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ### Gore Combat Manual
 
-Pages 85 - 90.
+The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
+
+::: callout-tip
+Please see pages 85-90.
+:::
 
 ------------------------------------------------------------------------
 

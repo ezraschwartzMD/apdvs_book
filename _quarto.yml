@@ -36,6 +36,7 @@ book:
     - part: "Lower Extremity Arterial Disease"
       chapters: 
       - claudication.qmd
+      - CLTI.qmd
 
     - feedback.qmd
     - references.qmd

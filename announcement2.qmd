@@ -20,13 +20,13 @@ Please return to this page for updates on website, podcast, and activity develop
 ::: {.callout-tip icon="false"}
 ## eBook Chapters
 
-The Patient History and Physical Examination of the Arterial System chapter is a draft at this time.
+Claudication chapter hot off the press!
 
-The Abdominal Aortic Aneurysm (AAA) chapter is nearly complete. Answer explanations for the Pre/Post Questions are being authored.
+We are starting to post our very own illustrations!
 
 Chapters in development include:
 -   Patient History and Physical Examination of the Venous System
--   Peripheral artery disease (PAD) including topics such as acute limb ischemia (ALI), chronic limb threatening ischemia (CLTI) and claudication.
+-   Peripheral artery disease (PAD) including topics such as acute limb ischemia (ALI) and chronic limb threatening ischemia (CLTI).
 -   Aortic dissection
 -   Thoracic outlet syndrome
 -   Endovascular surgery basics
