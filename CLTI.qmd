@@ -3,7 +3,7 @@ title: "Chronic Limb Threatening Ischemia (CLTI)"
 chapter_number: 5
 title-block-banner: false
 title-block-style: plain
-authors: Nakia Sarad, DO, MS, Ezra Schwartz, MD,CM, MS, Chaitanya Dandu, MD, Marvin Chau, MD, MS, Bernadette Aulivola, MD, FACS, Kelly Kempe, MD, RPVI, FACS, Kaled Diab, MD, and Lindsey Korepta, MD, FACS.
+authors: Nakia Sarad, DO, MS, Ezra Schwartz, MD,CM, MS, Chaitanya Dandu, MD, Marvin Chau, MD, Bernadette Aulivola, MD, FACS, Kelly Kempe, MD, RPVI, FACS, Kaled Diab, MD, and Lindsey Korepta, MD, FACS.
 format: html
 editor: visual
 number-sections: false
