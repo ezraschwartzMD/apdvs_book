@@ -1,0 +1,321 @@
+---
+title: "Acute Mesenteric Ischemia (AMI)"
+chapter_number: 6
+title-block-banner: false
+title-block-style: plain
+authors: Sebouh Bazikian, Kenneth Ziegler, MD, FACS, FSVS, RPVI.
+format: html
+editor: visual
+number-sections: false
+bibliography: references.bib
+smooth-scroll: true
+link-external-newwindow: true
+---
+
+#  {#sec-acutemesentericischemia}
+
+::: {.callout-note icon="false"}
+## Chapter Learning Objectives
+
+By the end of this chapter, students will:
+
+-   Define acute mesenteric ischemia (AMI) and summarize its etiology and pathophysiology.
+-   Identify the clinical features and diagnostic criteria used to diagnose AMI.
+-   Elaborate on the complications and potential consequences of untreated AMI.
+-   Outline a comprehensive history and physical examination to evaluate patients with suspected AMI.
+-   Develop and implement a management plan for patients with AMI, including medical, endovascular, or surgical interventions.\
+:::
+
+::: {.callout-note icon="false"}
+## Key Facts
+
+1.  Acute Mesenteric Ischemia (AMI) is a serious gastrointestinal condition with a high mortality rate of 50-80%.
+
+2.  AMI is categorized into four subtypes: acute mesenteric artery embolism (50% of cases), acute mesenteric artery thrombosis (25%), nonocclusive mesenteric ischemia (NOMI, 20%), and mesenteric venous thrombosis (MVT, less than 10%).
+
+3.  AMI typically starts with an abrupt halt in blood supply to the small intestine, leading to tissue death and possibly sepsis.
+
+4.  Risk factors for AMI vary by subtype, with atrial fibrillation and valvular heart disease common in embolism, and visceral atherosclerosis in thrombosis. NOMI often occurs in low cardiac output states, and MVT risk factors include infection and hypercoagulable states.
+
+5.  AMI usually presents as severe abdominal pain disproportionate to physical findings, along with diarrhea, nausea, and in advanced stages, signs of sepsis.
+
+6.  Initial treatment for AMI includes fluid therapy, avoidance of vasopressors, and anticoagulation. Open surgery, common in AMI treatment, involves resecting necrotic bowel and revascularization.Endovascular approaches for AMI are increasing, often chosen for less critically ill patients.
+
+7.  Surveillance after revascularization in both AMI and CMI is crucial. For mesenteric stenting, Duplex Ultrasound (DUS) is recommended within a month, then every six months for the first year, and annually thereafter. For mesenteric bypass, similar surveillance is advised. In both AMI and CMI, recurrent stenosis and symptoms are risks, with endovascular options considered for failing or thrombosed bypass grafts.
+:::
+
+::: callout-tip
+## How We Suggest Using the Pre/Post Questions
+
+The pre/post questions are listed below. They are all multiple choice questions with a single right answer. To best guide your learning, we have hidden the answers in a collapsible menu. Before reading the chapter, we suggest giving the questions a try, noting your answers on a notepad. After reading the chapter, return to the questions, re-evaluate your answers, and then open the collapsible menu to read the correct answer and discussion. Do not fret if you have difficulty answering the questions before reading the chapter! By the end of the chapter, we are certain you will have covered the knowledge necessary to answer the questions. There will be a teaching case at the end of the chapter. This is another opportunity to exercise your new knowledge!
+:::
+
+## Pre/Post Questions
+
+### Case Based Questions
+
+1.  TO DO *TO DO*
+
+<!-- -->
+
+A.  TO DO
+
+B.  TO DO
+
+C.  TO DO
+
+D.  TO DO
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**A. TO DO**
+
+Discussion: TO DO
+:::
+
+------------------------------------------------------------------------
+
+## Introduction
+
+AMI, known for its high mortality rate, of 50-80% [@bala2017], is categorized into four subtypes:
+
+1.  Acute mesenteric artery embolism
+2.  Acute mesenteric artery thrombosis
+3.  Nonocclusive mesenteric ischemia (NOMI)
+4.  Mesenteric venous thrombosis (MVT)
+
+Embolism accounts for 50% of AMI cases, followed by thrombosis at 25%, nonocclusive mesenteric ischemia (NOMI) at 20%, and mesenteric venous thrombosis (MVT) being the rarest, occurring in less than 10% of cases. [@bala2017]
+
+AMI is rare. It has been estimated that around 1% of all patients with an acute abdomen have arterial AMI.[@kärkkäinen2015]
+
+In considering anatomy, the celiac artery (CA) branches off the aortia at the T12 level and consists of three primary terminal branches: the splenic artery, the left gastric artery, and the common hepatic artery. The splenic artery supplies the spleen, pancreas, and the stomach's fundus and greater curvature. The left gastric artery supplies the stomach's lesser curvature and abdominal esophagus. The common hepatic artery divides into the proper hepatic artery supplying the liver, and the gastroduodenal artery supplying the stomach, duodenum, and pancreas. The superior mesenteric artery (SMA) and inferior mesenteric artery (IMA) originate from the aorta at L1 and L3 levels respectively and supply the intestines. Crucial branches of the SMA include the jejunal, ileal, ileocolic, right colic, and middle colic arteries. Crucial branches of the IMA include the left colic, sigmoid, and superior rectal arteries.
+
+Key collateral pathways in the abdominal vasculature include the superior pancreaticoduodenal artery (a branch of the CA) and the inferior pancreaticoduodenal artery (a branch of the SMA) which supply the duodenum, and the middle colic artery (a branch of the SMA) and the left colic artery (a branch of the IMA) which supply the distal third of the transverse colon. *The Marginal Artery of Drummond,* an important pathway between the SMA and IMA, runs along the colon's inner mesenteric border, extending from the ileocecal junction to the rectosigmoid junction. *The Arc of Riolan,* a part of the Marginal artery, connects the middle and left colic arteries and is crucial for the blood supply to the splenic flexure.
+
+Another important consideration to keep in mind is that splanchnic blood flow varies significantly, using 10% of cardiac output when fasting and up to 35% when eating. These fluctuations are influenced by hormonal systems like the renin-angiotensin-aldosterone system (RAAS), neural responses from celiac and mesenteric ganglia, and local myogenic mechanisms responding to metabolic byproducts. Furthermore, the celiac artery is characterized by a low-resistance flow pattern, maintaining consistent blood delivery. In contrast, the SMA typically exhibits high resistance while fasting but transitions to low-resistance flow after eating to accommodate increased digestive demands.
+
+------------------------------------------------------------------------
+
+## Etiology
+
+The development of AMI begins with an abrupt halt in blood supply to the small intestine resulting in inadequate oxygen delivery to the intestinal tissues. This deprivation of oxygen can lead to the formation of hemorrhagic infarcts and tissue death, disrupting the intestinal protective mucosal barrier. This disruption may result in perforation and the subsequent release of harmful bacteria, toxins, and vasoactive substances into the bloodstream which can result in sepsis.
+
+The most common site of acute mesenteric vessel occlusion is the SMA occurring in around 90% of cases.
+
+Clinically, AMI manifests as abdominal pain that is disproportionately severe compared to physical examination findings (i.e. "pain out of proportion" a.k.a. "POOP"). Diarrhea, which may become bloody later on, is also common, along with nausea, vomiting, and bloating. In advanced stages, patients may show signs of sepsis, such as fever and tachycardia, peritonitis, and other symptoms of an acute abdomen. Considering the extremely high mortality rate of AMI, a high index of suspicion must be maintained because a missed diagnosis can be fatal. To note, 50% of patients that present with AMI do not present with prior warning signs.[@thomas1998]
+
+The symptom onset and severity in AMI vary by its cause. Arterial embolism in AMI often leads to severe pain quickly due to the abrupt cessation of blood flow and a lack of pre-existing collateral vessels, much like a sudden freeway closure without alternative routes, causing immediate and significant traffic congestion. In contrast, arterial thrombosis typically evolves from progressive narrowing, where side roads (collaterals) have developed, lessening the impact of the final blockage and presenting less acutely. Nonocclusive mesenteric ischemia starts gradually, sometimes without initial symptoms. Mesenteric venous thrombosis typically begins with mild, nonspecific symptoms that intensify over time.
+
+### Risk Factors
+
+The risk factors for AMI vary depending on the subtype:
+
+-   In arterial embolism, conditions like atrial fibrillation or valvular heart disease are common risk factors.
+-   Artery thrombosis is frequently associated with visceral atherosclerosis or aortic dissection.
+-   NOMI often occurs in hospitalized individuals with low cardiac output, particularly those on vasopressors, with hypotension also being a significant risk factor.
+-   For MVT, the risk factors include infection, malignancy, portal hypertension, and hypercoagulable states.
+
+------------------------------------------------------------------------
+
+## Diagnostics and Imaging
+
+### Computer Tomography Angiography (CTA)
+
+Computed tomography angiography (CTA) is indicated in all patients with suspected AMI. Common findings indicating vascular pathology would include: - The presence of an arterial embolism, in-situ thrombosis, arterial stenosis, or dissection of mesenteric vessels. - Visceral findings including bowel thickening, dilation, air fluid vessels, and mesenteric fat stranding. As a reminder, fat stranding refers to the appearance of streaky areas in fat tissue that is a nonspecific sign of inflammation or infection. It presents as an increased attenuation which means the affected area appears denser on the scan suggesting a change in tissue composition like fluid buildup.\
+- A late finding on imaging would be pneumatosis intestinalis or gas within the intestinal wall which is a specific sign for transmural ischemia or infarction.
+
+Regarding the rarer subtypes of AMI: - NOMI typically shows signs of diffuse vasospasm without a focal blockage, indicating poor blood flow to the intestines, often associated with a hypovolemic state. - In MVT, a CT scan with portal vein contrast is the diagnostic modality of choice, frequently revealing thrombosis in the superior mesenteric vein, portal vein and/or possibly involving other splanchnic veins.
+
+### Laboratory Studies
+
+In AMI, various laboratory studies reveal characteristic changes. - A Complete Blood Count (CBC) often shows leukocytosis. There can also be either an increased Hematocrit (Hct) due to volume depletion or a decreased Hct if there's a gastrointestinal bleed. - The Comprehensive Metabolic Panel (CMP) may reveal electrolyte imbalances. - Liver enzymes can also be elevated. - Blood gas analysis often indicates metabolic acidosis, characterized by decreased bicarbonate (HCO3-). - Serum lactate levels are typically elevated, reflecting tissue hypoxia. - Additionally, there are increased levels of D-dimer, pointing to a hypercoagulable state, and elevated amylase, and Lactate Dehydrogenase (LDH), which are indicative of tissue damage and general inflammatory processes.
+
+------------------------------------------------------------------------
+
+## Treatment
+
+AMI is a surgical emergency. In the management of AMI, initial medical steps include: - Fluid therapy for maintaining intravascular volume and visceral perfusion. - Vasopressors are avoided due to their potential to exacerbate ischemia. - Therapeutic anticoagulation, often with heparin, is crucial to limit thrombus propagation. - Concurrently, empiric broad-spectrum antibiotics to cover the microbes of the gastrointestinal tract are initiated.
+
+Briefly, as implied by its name, non-occlusive mesenteric ischemia does not involve an acute occlusion; therefore, treatment strategies are centered on hemodynamic stabilization and addressing the underlying cause. There is no role for vascular surgery in the treatment of NOMI. This often includes administering fluids and, in some cases, using vasodilators to enhance blood flow to the mesenteric arteries.
+
+Conversely, treatment for mesenteric venous thrombosis typically involves anticoagulants to dissolve the clot, coupled with interventions targeting contributing factors of Virchow's triad, such as hypercoagulability, venous stasis, or vascular injury.
+
+### Open Surgical Repair
+
+Historically, in the treatment of AMI, a majority of patients receive open surgery. The initial operative strategy in open surgical treatment involves damage control by resecting necrotic bowel and containing spillage, prioritizing revascularization next. The approach to revascularization is dependent on the underlying etiology of the embolic and/or thrombotic disease, generally focusing on embolectomy for the former and bypass for the latter.
+
+Bypass options vary, including short retrograde aorto-SMA bypass, long retrograde right iliac-SMA bypass, and antegrade supraceliac aorto-SMA bypass. Each option has specific indications and advantages. For example, a retrograde bypass from the iliac artery might be more suitable for high risk patients with multiple cardiopulmonary or renal comorbidities to avoid aortic cross clamping which is required to perform an aorto-SMA bypass.
+
+Post-revascularization, the viability of the bowel is reassessed using various methods, followed by either temporary or definitive bowel repair. Second-look laparotomy is considered for questionable bowel viability. This technique involves excising the necrotic sections of the intestine without performing an immediate reconnection, leaving a gap between healthy segments (i.e. bowel discontinuity). The patient's condition is then stabilized and the bowel reconnected during a follow-up surgery. This method is advantageous for managing sepsis and for evaluating the return of bowel viability after blood flow is restored.
+
+### Endovascular Repair
+
+Endovascular access to the SMA can be achieved through either though antegrade brachial or retrograde femoral approaches, with the latter requiring more wire manipulation due to the SMA's angle relative to the aorta.[@lim2018] Once arterial access is achieved, systemic heparin is administered. Angiography, catheters and wires help maneuver the device to the lesion. Angioplasty is then performed with or without stenting , typically targeting the SMA alone due to existing collateral circulation. A retrospective study comparing SMA revascularization versus both SMA and CA revascularization did not find significant differences in regards to recurrent symptoms or re-interventions.[@malgor2010]
+
+Endovascular approaches have increased in frequency and have shown a trend towards fewer complications like pneumonia and sepsis and lower transfusion requirements.[@branco2015] Despite this, a significant proportion of endovascularly treated patients may still require subsequent open surgery. For example, a systematic review estimated a rate of between 13 to 73% for post initial endovascular intervention laparotomy rates.[@murphy2019] Notably, endovascular therapy is often selected for less critically ill patients, potentially skewing mortality and complication rates. In cases of thrombotic occlusion, endovascular treatment tends to have lower mortality rates compared to open surgery, suggesting it might be more suitable for such conditions, especially in older or frailer patients.
+
+### Hybrid Repair
+
+There is also a retrograde hybrid stenting technique that can be employed which utilizes a combination of surgical and endovascular methods. It involves open surgical exposure of the SMA followed by retrograde endovascular access in order to intervene with a covered stent or a balloon angioplasty. or in situations when an exploratory laparotomy is indicated but a patient is too unstable to undergo clamping of the aorta required for a bypass.[@milner2004]
+
+In the context of retrograde open mesenteric stenting, 68 patients with AMI at a single institution were studied. Patients without peritonitis underwent percutaneous artery stenting. Of those that failed percutaneous stenting 14 out of 15 patients were successfully treated with retrograde open mesenteric stenting. The 30-day outcomes showed a 20% mortality rate and 91% primary stent patency, while the 12-month outcomes reported the same mortality rate but a slightly reduced stent patency of 83%. Of note, two patients experienced worsening bowel ischemia, requiring subsequent laparotomy and bowel resection.[@blauw2014]
+
+### Catheter-Directed Thrombolysis (CDT)
+
+Another option for revascularization for AMI is catheter-directed thrombolysis (CDT). In CDT, a sheath is first inserted into the proximal SMA. A catheter with multiple side holes or a microcatheter is then advanced to the site of the embolus. A thrombolytic medication is infused through the catheter to dissolve the clot, and the process is monitored by repeat angiography, which is typically performed at intervals of 12 to 24 hours to evaluate the success of the thrombolysis.
+
+### Decision Making
+
+Revascularization choices are determined by clinical evaluation and vascular imaging. It is important to note that the choice between open and endovascular approaches depends on multiple factors, including the nature of the occlusion and the patient's overall health. There are no current randomized trials comparing endovascular and open revascularization. In a meta analysis, perioperative mortality was more commonly associated with open revascularization at 39.3% compared with endovascular intervention at 24.9%.[@beaulieu2014] Further research is needed to find the optimal approach to AMI.
+
+Over nine years at a single institution, 70 patients with AMI were followed, 81% of whom received endovascular treatments. Technical failures were noted in 13% of cases but no failures occurred in the open surgery cohort, yet such patients had a higher likelihood of postoperative pulmonary or renal issues. Mortality rates were 50% for open surgery and 39% for endovascular approaches, with the median duration of symptoms being shorter for open surgery (26 hours) than endovascular (62 hours), and the length of bowel resection was greater in open surgery (160 cm) compared to endovascular (52 cm).[@arthurs2011]
+
+::: callout-note
+In summary:
+
+-   For sub-acute AMI presentations without signs of bowel infarction, endovascular revascularization is appropriate; however, this should not postpone necessary surgical evaluation.
+
+-   In cases where bowel viability is uncertain, the first choice should be either an open embolectomy, traditional bypass, or hybrid retrograde stenting methods.
+
+-   Immediate laparotomy is imperative for severe AMI cases presenting with signs of peritonitis to manage bowel integrity promptly.
+
+-   Of note, utilizing a hybrid approach can be advantageous, potentially reducing complications associated with vein harvesting and avoiding the implantation of prosthetic materials.
+:::
+
+------------------------------------------------------------------------
+
+## Outcomes
+
+The mortality associated with AMI post-revascularization remains hight at around 50%. Patients that required bowel resection due to necrosis are at an even higher risk of mortality.[@bala2022]
+
+------------------------------------------------------------------------
+
+## Surveillance
+
+When it comes to postoperative surveillance after interventions for AMI, the approach differs based on the underlying cause of the occlusion. For occlusions caused by a thrombosed plaque, regular monitoring is typically more stringent due to the risk of recurrence. In contrast, for embolic events, the adherence to close surveillance may be less stringent since the source of embolism may be transient or have been addressed, such as through cardiac arrhythmia management. However, if a bypass is performed, irrespective of the cause, surveillance is warranted to monitor the patency of the graft. On the other hand, after an embolectomy, where the embolus is directly removed, intensive long-term surveillance may not be as critical unless other risk factors are present.
+
+::: callout-note
+After mesenteric stenting or mesenteric bypass, duplex ultrasound is recommended within one month to establish a new baseline, with follow-up scans every six months for the first year and annually thereafter.
+
+In-stent restenosis is defined as peak systolic velocity (PSV) over 445 cm/sec for the SMA and over 289 cm/sec for the CA.[@soult2016] These values would indicate a need for re-imaging and potential re-intervention especially in the presence of symptoms.
+:::
+
+------------------------------------------------------------------------
+
+## Teaching Case
+
+### Scenario
+
+TO DO
+
+### Exam
+
+**HEENT:** TO DO
+
+**Cardiac:** TO DO
+
+**Pulmonary:** TO DO
+
+**Abdominal:** TO DO
+
+**Vascular/Extremities:** TO DO
+
+### Imaging
+
+**Duplex Ultrasound:** TO DO
+
+### Discussion Points
+
+::: callout-note
+## N.B. There is no prepared answers for the questions below.
+
+However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
+:::
+
+1.  TO DO
+
+------------------------------------------------------------------------
+
+## Key Articles
+
+1.  Huber TS, Björck M, Chandra A, et al. Chronic mesenteric ischemia: Clinical practice guidelines from the Society for Vascular Surgery. J Vasc Surg. 2021;73(1S):87S-115S. doi:10.1016/j.jvs.2020.10.029[@huber2021]
+
+2.  Bala M, Catena F, Kashuk J, et al. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg. 2022;17(1):54. Published 2022 Oct 19. doi:10.1186/s13017-022-00443-x[@bala2022a]
+
+------------------------------------------------------------------------
+
+## Additional Resources
+
+### Audible Bleeding Content
+
+-   Audible Bleeding Exam Prep: [Mesenteric Disease Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/mesenteric.html)
+
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/13926341/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+------------------------------------------------------------------------
+
+### Gore Combat Manual
+
+The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
+
+::: callout-tip
+Please see pages 154-155.
+:::
+
+------------------------------------------------------------------------
+
+### Operative Footage
+
+Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.* Please create and/or log in to your YouTube account to have access to the videos.
+
+#### External Iliac Artery Balloon Angioplasty and Stenting
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mWqSnemu8zA?si=bf4tYuj5mAoPwjQd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+#### Common Femoral Endarterectomy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YnsofXmPpH8?si=BVXE89IlgizW3Xak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+#### Left Femoral to Peroneal Bypass by Reversed Ipsilateral Great Saphenous Vein (Surgical or Extra-anatomic Bypass)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z9T9DZB6C0g?si=PR7k93JjyffmtcUG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+#### Left Common Femoral Artery to Anterior Tibial Artery Bypass using PTFE Graft (Surgical or Extra-anatomic Bypass)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xG2aF-vNSr4?si=EpUPPbIadhK_g3XY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+#### Below Knee Amputation (BKA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7CR-j-3o27E?si=E7NJ1Xef5w0ozL-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+#### Above Knee Amputation (AKA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wUQPY4-YL0k?si=F_IjwjNCKF6ZnRty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+<!-- Google tag (gtag.js) -->
+
+```{=html}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WS28VX4802"></script>
+```
+```{=html}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WS28VX4802');
+</script>
+```
