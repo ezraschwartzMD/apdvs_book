@@ -3,7 +3,7 @@ title: "Claudication"
 chapter_number: 5
 title-block-banner: false
 title-block-style: plain
-authors: Nakia Sarad, DO, MS, Ezra Schwartz, MD,CM, MS, Marvin Chau, MD, MS, Bernadette Aulivola, MD, FACS, Kelly Kempe, MD, RPVI, FACS, Kaled Diab, MD, and Lindsey Korepta, MD, FACS.
+authors: Nakia Sarad, DO, MS, Ezra Schwartz, MD,CM, MS, Marvin Chau, MD, MS, Shannon McDonnell, Bernadette Aulivola, MD, FACS, Kelly Kempe, MD, RPVI, FACS, Kaled Diab, MD, and Lindsey Korepta, MD, FACS.
 format: html
 editor: visual
 number-sections: false
@@ -38,6 +38,12 @@ By the end of this chapter, students will:
 6.  Patients with claudication have an overall 5-year mortality risk of 10-15%.
 7.  Approximately 2-3% of claudicants (i.e. patients experiencing claudication) will develop limb-threatening ischemia.
 8.  Claudication is managed conservatively with lifestyle modifications including exercise regimen, dietary changes, smoking cessation, and medical optimization to control hypertension, hyperlipidemia, and or diabetes.
+:::
+
+::: {.callout-warning icon="false"}
+## Claudication Slide Deck
+
+Please find the slide deck corresponding to this eBook chapter [**here**.](https://docs.google.com/presentation/d/1lQBqIObKK2t1xWSKyHAVG4OC0l_eyPdvJlos5M2_j9k/edit?usp=sharing)
 :::
 
 ::: callout-tip
