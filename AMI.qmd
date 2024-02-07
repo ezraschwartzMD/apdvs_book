@@ -260,6 +260,12 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ------------------------------------------------------------------------
 
+### Websites
+
+-   TeachMe Surgery: [Acute Mesenteric Ischaemia](https://teachmesurgery.com/vascular/peripheral/mesenteric-ischaemia/)
+
+------------------------------------------------------------------------
+
 ### Gore Combat Manual
 
 The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
