@@ -135,7 +135,12 @@ In AMI, various laboratory studies reveal characteristic changes. - A Complete B
 
 ## Treatment
 
-AMI is a surgical emergency. In the management of AMI, initial medical steps include: - Fluid therapy for maintaining intravascular volume and visceral perfusion. - Vasopressors are avoided due to their potential to exacerbate ischemia. - Therapeutic anticoagulation, often with heparin, is crucial to limit thrombus propagation. - Concurrently, empiric broad-spectrum antibiotics to cover the microbes of the gastrointestinal tract are initiated.
+AMI is a surgical emergency. In the management of AMI, initial medical steps include: 
+
+-   Fluid therapy for maintaining intravascular volume and visceral perfusion.
+-   Vasopressors are avoided due to their potential to exacerbate ischemia. 
+-   Therapeutic anticoagulation, often with heparin, is crucial to limit thrombus propagation.
+-   Concurrently, empiric broad-spectrum antibiotics to cover the microbes of the gastrointestinal tract are initiated.
 
 Briefly, as implied by its name, non-occlusive mesenteric ischemia does not involve an acute occlusion; therefore, treatment strategies are centered on hemodynamic stabilization and addressing the underlying cause. There is no role for vascular surgery in the treatment of NOMI. This often includes administering fluids and, in some cases, using vasodilators to enhance blood flow to the mesenteric arteries.
 
@@ -269,39 +274,39 @@ Please see pages 154-155.
 
 Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.* Please create and/or log in to your YouTube account to have access to the videos.
 
-#### External Iliac Artery Balloon Angioplasty and Stenting
+#### (Open) SMA Embolectomy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mWqSnemu8zA?si=bf4tYuj5mAoPwjQd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-
-</iframe>
-
-#### Common Femoral Endarterectomy
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YnsofXmPpH8?si=BVXE89IlgizW3Xak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xPNDY2ki_Z0?si=QekpR3VO3fAqOAG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
 </iframe>
 
-#### Left Femoral to Peroneal Bypass by Reversed Ipsilateral Great Saphenous Vein (Surgical or Extra-anatomic Bypass)
+#### (Open) Infrarenal Aorta to Superior Mesenteric Artery and Hepatic Artery Bypass
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z9T9DZB6C0g?si=PR7k93JjyffmtcUG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-
-</iframe>
-
-#### Left Common Femoral Artery to Anterior Tibial Artery Bypass using PTFE Graft (Surgical or Extra-anatomic Bypass)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xG2aF-vNSr4?si=EpUPPbIadhK_g3XY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xPNDY2ki_Z0?si=QekpR3VO3fAqOAG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
 </iframe>
 
-#### Below Knee Amputation (BKA)
+#### (Open) Iliac to SMA Bypass Ringed ePTFE
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7CR-j-3o27E?si=E7NJ1Xef5w0ozL-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g9F0BIXvFeU?si=IIN4g3Xe4B9MTOu-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
 </iframe>
 
-#### Above Knee Amputation (AKA)
+#### (Open) Supraceliac Aorta to Superior Mesenteric Artery Bypass
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wUQPY4-YL0k?si=F_IjwjNCKF6ZnRty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wQoVSgkWJ7U?si=BdBrOiZ5iJeROBNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+#### (Endovascular) Retrograde SMA Stenting & the Importance of Preoperative Imaging
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DsjonHF9KNc?si=JmY6gx6JrYGLeJAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+
+#### (Hybrid) SMA Exposure, Thromboembolectomy, Patch Angioplasty and Retrograde Stenting
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4vyx9LmJCkA?si=leGjp8Sd4CLZvi4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
 </iframe>
 
