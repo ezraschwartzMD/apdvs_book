@@ -25,35 +25,34 @@ By the end of this chapter, students will:
 ::: {.callout-note icon="false"}
 ## Key Facts
 
-1.  Racial and ethnic minorities encounter social determinants of health and systemic racism that exacerbate the incidence, prevalence, and outcomes of many vascular diseases. 
+1.  Racial and ethnic minorities encounter social determinants of health and systemic racism that exacerbate the incidence, prevalence, and outcomes of many vascular diseases.
 
-2.    Addressing the challenges of healthcare deserts, particularly in rural areas, is vital for ensuring equitable access to vascular surgery care.
+2.  Addressing the challenges of healthcare deserts, particularly in rural areas, is vital for ensuring equitable access to vascular surgery care.
 
-3.    The underrepresentation of women in vascular surgery clinical trials highlights the imperative for concerted efforts to address gender disparities, enhance inclusion, and ensure findings are generalizable to broader populations.
+3.  The underrepresentation of women in vascular surgery clinical trials highlights the imperative for concerted efforts to address gender disparities, enhance inclusion, and ensure findings are generalizable to broader populations.
 
-4.    Many veterans face socioeconomic, systemic, and mental health challenges stemming from their military service that challenge the management of chronic and complex vascular diseases.
-
+4.  Many veterans face socioeconomic, systemic, and mental health challenges stemming from their military service that challenge the management of chronic and complex vascular diseases.
 :::
 
 ------------------------------------------------------------------------
 
 ## Introduction
 
-*“Do we not always find the diseases of the populace traceable to defects in society?”* - Rudolf Virchow
+*"Do we not always find the diseases of the populace traceable to defects in society?"* - Rudolf Virchow
 
-Multiple studies have demonstrated significant disparities exist across the spectrum of vascular disease including prevalence, treatment, and disease outcomes.  Furthermore, studies have demonstrated that social determinants of health (SDoH) are composed of multiple factors including patient socioeconomic status, race or ethnicity, gender, and geographic location, which in turn can have potent effects on health outcomes. There are some estimates that SDoH account for 80-90 percent of the modifiable contributors to healthy outcomes for a population, and must be addressed in order to rectify persistent healthcare disparities. (1)
+Multiple studies have demonstrated significant disparities exist across the spectrum of vascular disease including prevalence, treatment, and disease outcomes. Furthermore, studies have demonstrated that social determinants of health (SDoH) are composed of multiple factors including patient socioeconomic status, race or ethnicity, gender, and geographic location, which in turn can have potent effects on health outcomes. There are some estimates that SDoH account for 80-90 percent of the modifiable contributors to healthy outcomes for a population, and must be addressed in order to rectify persistent healthcare disparities.[@remington2015]
 
-Vascular surgeons treat patients with advanced atherosclerosis and diabetes, which are diseases that disproportionately affect vulnerable and socioeconomically disadvantaged patients. Given this reality, it is important for vascular surgeons to have a strong foundational understanding of the social determinants of health and health disparities that lead to unequal care among patients. This textbook chapter does not intend to be comprehensive, but rather an introduction to scope of health disparities in vascular surgery. 
+Vascular surgeons treat patients with advanced atherosclerosis and diabetes, which are diseases that disproportionately affect vulnerable and socioeconomically disadvantaged patients. Given this reality, it is important for vascular surgeons to have a strong foundational understanding of the social determinants of health and health disparities that lead to unequal care among patients. This textbook chapter does not intend to be comprehensive, but rather an introduction to scope of health disparities in vascular surgery.
 
 ------------------------------------------------------------------------
 
 ## Definitions
 
-**Health Disparities:** The preventable differences in the burden of disease, injury, violence, or opportunities to achieve optimal health that are experienced by socially disadvantaged populations. (2)
+**Health Disparities:** The preventable differences in the burden of disease, injury, violence, or opportunities to achieve optimal health that are experienced by socially disadvantaged populations.[@healthd2023]
 
-**Social Determinants of Health:** The circumstances in which people are born, grow up, live, work, age, and the systems put in place to deal with illness. (3) 
+**Social Determinants of Health:** The circumstances in which people are born, grow up, live, work, age, and the systems put in place to deal with illness.[@sociald]
 
-**Structural Racism:** A system in which public policies, institutional practices, cultural representations, and other norms work in various, often reinforcing ways to perpetuate racial group inequity. (4)
+**Structural Racism:** A system in which public policies, institutional practices, cultural representations, and other norms work in various, often reinforcing ways to perpetuate racial group inequity.[@allison2023]
 
 ------------------------------------------------------------------------
 
@@ -61,21 +60,21 @@ Vascular surgeons treat patients with advanced atherosclerosis and diabetes, whi
 
 ### Race, Ethnicity, and Structural Racism
 
-There is an abundance of literature documenting racial and ethnic disparities across the spectrum of vascular disease including thoracic and aortic aneurysms, carotid disease, and hemodialysis access; however, racial disparities spanning the disease continuum of peripheral artery disease (PAD) is one of the most robustly studied areas of the vascular health disparities literature. Compared to Non-Hispanic White patients and Hispanic patients, Black patients have been shown to be diagnosed with PAD later and with more advanced disease, are less likely to receive optimal medical management, less likely to receive limb salvage surgery, and are more likely to undergo amputation.(4)
+There is an abundance of literature documenting racial and ethnic disparities across the spectrum of vascular disease including thoracic and aortic aneurysms, carotid disease, and hemodialysis access; however, racial disparities spanning the disease continuum of peripheral artery disease (PAD) is one of the most robustly studied areas of the vascular health disparities literature. Compared to Non-Hispanic White patients and Hispanic patients, Black patients have been shown to be diagnosed with PAD later and with more advanced disease, are less likely to receive optimal medical management, less likely to receive limb salvage surgery, and are more likely to undergo amputation.[@allison2023]
 
-The underlying etiology of race and ethnicity based disparities has been linked to structural racism, which results in differing access to “goods, services and, opportunities of society by race” as many racial and ethnic minorities have disparate access to quality housing, education, income, and healthcare. (5)
+The underlying etiology of race and ethnicity based disparities has been linked to structural racism, which results in differing access to "goods, services and, opportunities of society by race" as many racial and ethnic minorities have disparate access to quality housing, education, income, and healthcare.[@hackler2021]
 
 ### Access and Care Delivery:
 
-Millions of Americans live in communities considered ‘healthcare deserts,’ where they lack adequate access to important healthcare services including primary care, hospitals, emergency services, pharmacies, trauma centers, and low-cost health centers. (6) Many healthcare deserts are often concentrated in rural locations highlighting the unique geographical challenges that these patients face. Furthermore, certain vascular diseases including chronic limb threatening ischemia (CLTI) require specialized, multidisciplinary care for optimal management, but many communities are considered “vascular deserts” in which there is inadequate access to expert vascular surgery care. (7) Addressing the challenges posed by healthcare and vascular deserts, particularly in rural areas, is crucial for ensuring equitable access to essential services. Continued investigation and investment into these issues are imperative to develop effective solutions that can bridge the healthcare gaps and provide optimal care.
+Millions of Americans live in communities considered 'healthcare deserts,' where they lack adequate access to important healthcare services including primary care, hospitals, emergency services, pharmacies, trauma centers, and low-cost health centers.[@mapping] Many healthcare deserts are often concentrated in rural locations highlighting the unique geographical challenges that these patients face. Furthermore, certain vascular diseases including chronic limb threatening ischemia (CLTI) require specialized, multidisciplinary care for optimal management, but many communities are considered "vascular deserts" in which there is inadequate access to expert vascular surgery care.[@dilosa2023] Addressing the challenges posed by healthcare and vascular deserts, particularly in rural areas, is crucial for ensuring equitable access to essential services. Continued investigation and investment into these issues are imperative to develop effective solutions that can bridge the healthcare gaps and provide optimal care.
 
 ### Sexual and Gender Minorities:
 
-A growing body of research explores the impact of sex and gender on various aspects of vascular disease. A systematic review and meta-analysis of 236 studies demonstrates an association between female sex or gender and poorer outcomes in individuals with Abdominal Aortic Aneurysm (AAA) and Peripheral Artery Disease (PAD). (8) It has been demonstrated that women have higher risk of AAA rupture, prolonged lengths of stay, and decreased survival following both elective and emergent AAA repair. (9) The lack of representation of women in large-scale vascular surgery clinical trials has also become an area of increasing concern, given the pivotal role these studies play in shaping the standard of care and management guidelines. Despite efforts to enhance women's participation in clinical trials, evidence suggests persistent underrepresentation in randomized control trials, potentially limiting the broader applicability of their findings. (10) The multifactorial nature of this underrepresentation, influenced by factors like patient preference, bias, and local demographics, necessitates sustained efforts to achieve diverse recruitment and ensure a more comprehensive understanding of vascular disease across diverse patient populations.
+A growing body of research explores the impact of sex and gender on various aspects of vascular disease. A systematic review and meta-analysis of 236 studies demonstrates an association between female sex or gender and poorer outcomes in individuals with Abdominal Aortic Aneurysm (AAA) and Peripheral Artery Disease (PAD).[@asystem] It has been demonstrated that women have higher risk of AAA rupture, prolonged lengths of stay, and decreased survival following both elective and emergent AAA repair.[@dillavou2006] The lack of representation of women in large-scale vascular surgery clinical trials has also become an area of increasing concern, given the pivotal role these studies play in shaping the standard of care and management guidelines. Despite efforts to enhance women's participation in clinical trials, evidence suggests persistent underrepresentation in randomized control trials, potentially limiting the broader applicability of their findings.[@hoel2009] The multifactorial nature of this underrepresentation, influenced by factors like patient preference, bias, and local demographics, necessitates sustained efforts to achieve diverse recruitment and ensure a more comprehensive understanding of vascular disease across diverse patient populations.
 
 ### Veteran Populations:
 
-Military veterans represent a unique population with distinct healthcare needs. While veterans may benefit from the ability to receive care through the Department of Veterans Affairs (VA) healthcare system, there remain notable challenges and disparities for this population. Barriers to medical treatment in the veteran population broadly include long wait times at VA facilities, mental health illness and stress related to previous deployments, challenges reintegrating into civilian life, and unmet basic needs such as housing and employment.(11) Because of these barriers, veteran populations often suffer higher incidence of medical comorbidities compared to civilian population.(12,13) Looking at vascular pathologies, a large 2017 epidemiological study demonstrated that there is a higher incidence of PAD and associated mortality among veterans, with an estimated 30% of veterans dying within 3.8 years of a PAD diagnosis.(14) Additional studies have shown that demonstrated that mental illness may compound vascular comorbidities within the veteran population, as veterans suffering from comorbid depression face significantly higher risk of amputation and death from PAD.(15) Ultimately, understanding the complex social determinants and healthcare needs of veterans is essential for developing targeted interventions and support systems to improve the health and well-being of this vulnerable population. 
+Military veterans represent a unique population with distinct healthcare needs. While veterans may benefit from the ability to receive care through the Department of Veterans Affairs (VA) healthcare system, there remain notable challenges and disparities for this population. Barriers to medical treatment in the veteran population broadly include long wait times at VA facilities, mental health illness and stress related to previous deployments, challenges reintegrating into civilian life, and unmet basic needs such as housing and employment.[@misra-hebert2015] Because of these barriers, veteran populations often suffer higher incidence of medical comorbidities compared to civilian population.[@kazis1998, @assari2014] Looking at vascular pathologies, a large 2017 epidemiological study demonstrated that there is a higher incidence of PAD and associated mortality among veterans, with an estimated 30% of veterans dying within 3.8 years of a PAD diagnosis.[@willey2018] Additional studies have shown that demonstrated that mental illness may compound vascular comorbidities within the veteran population, as veterans suffering from comorbid depression face significantly higher risk of amputation and death from PAD.[@arya2018] Ultimately, understanding the complex social determinants and healthcare needs of veterans is essential for developing targeted interventions and support systems to improve the health and well-being of this vulnerable population.
 
 ------------------------------------------------------------------------
 
@@ -83,7 +82,7 @@ Military veterans represent a unique population with distinct healthcare needs. 
 
 ### Scenario
 
-A 65 year old man is brought to the emergency room with altered mental status, fevers, and severe pain, swelling, and erythema in his right foot. On exam, the foot is warm to the touch and you observe a deep, ulcerating wound with surrounding necrotic tissue. His labs are notable for an elevated white count and HbA1c of 10. His daughter, who is the patient’s legal medical decision maker, is at the patient’s bedside and tells you that the patient was laid off from work 6-months ago and since then has not been able to afford insulin to manage his diabetes. You call your attending surgeon about the patient’s concerning findings and recommend an emergency operation. Your attending sighs and says “I’ll never understand what kind of person lets their disease get this bad.”
+A 65 year old man is brought to the emergency room with altered mental status, fevers, and severe pain, swelling, and erythema in his right foot. On exam, the foot is warm to the touch and you observe a deep, ulcerating wound with surrounding necrotic tissue. His labs are notable for an elevated white count and HbA1c of 10. His daughter, who is the patient's legal medical decision maker, is at the patient's bedside and tells you that the patient was laid off from work 6-months ago and since then has not been able to afford insulin to manage his diabetes. You call your attending surgeon about the patient's concerning findings and recommend an emergency operation. Your attending sighs and says "I'll never understand what kind of person lets their disease get this bad."
 
 *Case inspired by University of Michigan Cultural Complications Curriculum*
 
@@ -95,46 +94,45 @@ A 65 year old man is brought to the emergency room with altered mental status, f
 However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
 :::
 
-1.    How do socioeconomic factors impact a patient’s ability to manage chronic conditions?
+1.  How do socioeconomic factors impact a patient's ability to manage chronic conditions?
 
-2.    In this scenario, how might the attending surgeon's assumptions affect the quality of care provided?
+2.  In this scenario, how might the attending surgeon's assumptions affect the quality of care provided?
 
-3.    Do surgeons have a responsibility in addressing underlying socioeconomic challenges that affect a patient’s health?
+3.  Do surgeons have a responsibility in addressing underlying socioeconomic challenges that affect a patient's health?
 
 ------------------------------------------------------------------------
 
 ## Key Articles
 
-1.    Remington PL, Catlin BB, Gennuso KP. The County Health Rankings: rationale and methods. Popul Health Metr. 2015;13(1):11. doi:10.1186/s12963-015-0044-2
+1.  Remington PL, Catlin BB, Gennuso KP. The County Health Rankings: rationale and methods. Popul Health Metr. 2015;13(1):11. doi:10.1186/s12963-015-0044-2.[@remington2015]
 
-2.    Health Disparities | DASH | CDC. Published May 26, 2023. Accessed December 7, 2023. https://www.cdc.gov/healthyyouth/disparities/index.htm
+2.  Health Disparities \| DASH \| CDC. Published May 26, 2023. Accessed December 7, 2023. https://www.cdc.gov/healthyyouth/disparities/index.htm [@healthd2023]
 
-3.    Social determinants of health: Key concepts. Accessed December 4, 2023. https://www.who.int/news-room/questions-and-answers/item/social-determinants-of-health-key-concepts
+3.  Social determinants of health: Key concepts. Accessed December 4, 2023. https://www.who.int/news-room/questions-and-answers/item/social-determinants-of-health-key-concepts [@sociald]
 
-4.    Allison MA, Armstrong DG, Goodney PP, et al. Health Disparities in Peripheral Artery Disease: A Scientific Statement From the American Heart Association. Circulation. 2023;148(3):286-296. doi:10.1161/CIR.0000000000001153
+4.  Allison MA, Armstrong DG, Goodney PP, et al. Health Disparities in Peripheral Artery Disease: A Scientific Statement From the American Heart Association. Circulation. 2023;148(3):286-296. doi:10.1161/CIR.0000000000001153.[@allison2023]
 
-5.    Hackler EL, Hamburg NM, White Solaru KT. Racial and Ethnic Disparities in Peripheral Artery Disease. Circ Res. 2021;128(12):1913-1926. doi:10.1161/CIRCRESAHA.121.318243
+5.  Hackler EL, Hamburg NM, White Solaru KT. Racial and Ethnic Disparities in Peripheral Artery Disease. Circ Res. 2021;128(12):1913-1926. doi:10.1161/CIRCRESAHA.121.318243.[@hackler2021]
 
-6.    Mapping Healthcare Deserts: 80% of the Country Lacks Adequate Access to Healthcare - GoodRx. Accessed December 8, 2023. https://www.goodrx.com/healthcare-access/research/healthcare-deserts-80-percent-of-country-lacks-adequate-healthcare-access
+6.  Mapping Healthcare Deserts: 80% of the Country Lacks Adequate Access to Healthcare - GoodRx. Accessed December 8, 2023. https://www.goodrx.com/healthcare-access/research/healthcare-deserts-80-percent-of-country-lacks-adequate-healthcare-access [@mapping]
 
-7.    DiLosa KL, Nguyen RK, Brown C, Waugh A, Humphries MD. Defining Vascular Deserts to Describe Access to Care and Identify Sites for Targeted Limb Preservation Outreach. Ann Vasc Surg. 2023;95:125-132. doi:10.1016/j.avsg.2023.05.025
+7.  DiLosa KL, Nguyen RK, Brown C, Waugh A, Humphries MD. Defining Vascular Deserts to Describe Access to Care and Identify Sites for Targeted Limb Preservation Outreach. Ann Vasc Surg. 2023;95:125-132. doi:10.1016/j.avsg.2023.05.025.[@dilosa2023]
 
-8.    A systematic review and meta-analysis of sex- and gender-based differences in presentation severity and outcomes in adults undergoing major vascular surgery - ClinicalKey. Accessed January 24, 2024. https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S0741521422003937?scrollTo=%23hl0004600
+8.  A systematic review and meta-analysis of sex- and gender-based differences in presentation severity and outcomes in adults undergoing major vascular surgery - ClinicalKey. Accessed January 24, 2024. https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S0741521422003937?scrollTo=%23hl0004600 [@asystem]
 
-9.    Dillavou ED, Muluk SC, Makaroun MS. A decade of change in abdominal aortic aneurysm repair in the United States: Have we improved outcomes equally between men and women? J Vasc Surg. 2006;43(2):230-238. doi:10.1016/j.jvs.2005.09.043
+9.  Dillavou ED, Muluk SC, Makaroun MS. A decade of change in abdominal aortic aneurysm repair in the United States: Have we improved outcomes equally between men and women? J Vasc Surg. 2006;43(2):230-238. doi:10.1016/j.jvs.2005.09.043.[@dillavou2006]
 
-10.   Hoel AW, Kayssi A, Brahmanandam S, Belkin M, Conte MS, Nguyen LL. Under-representation of women and ethnic minorities in vascular surgery randomized controlled trials. J Vasc Surg. 2009;50(2):349-354. doi:10.1016/j.jvs.2009.01.012
+10. Hoel AW, Kayssi A, Brahmanandam S, Belkin M, Conte MS, Nguyen LL. Under-representation of women and ethnic minorities in vascular surgery randomized controlled trials. J Vasc Surg. 2009;50(2):349-354. doi:10.1016/j.jvs.2009.01.012.[@hoel2009]
 
-11.   Health Needs and Barriers to Seeking Health Care of Veteran Students in the Community. South Med J. 2015 Aug;108(8):488–93.
+11. Misra-Hebert AD, Santurri L, DeChant R, Watts B, Rothberg M, Sehgal AR, Aron DC. Understanding the Health Needs and Barriers to Seeking Health Care of Veteran Students in the Community. South Med J. 2015 Aug;108(8):488-93. doi: 10.14423/SMJ.0000000000000326. PMID: 26280777; PMCID: PMC4544768. [@misra-hebert2015]
 
-12.   Kazis LE, Miller DR, Clark J, Skinner K, Lee A, Rogers W, et al. Health-Related Quality of Life in Patients Served by the Department of Veterans Affairs: Results From the Veterans Health Study. Arch Intern Med. 1998 Mar 23;158(6):626–32.
+12. Kazis LE, Miller DR, Clark J, Skinner K, Lee A, Rogers W, Spiro A 3rd, Payne S, Fincke G, Selim A, Linzer M. Health-related quality of life in patients served by the Department of Veterans Affairs: results from the Veterans Health Study. Arch Intern Med. 1998 Mar 23;158(6):626-32. doi: 10.1001/archinte.158.6.626. PMID: 9521227.[@kazis1998]
 
-13.   Assari S. Veterans and Risk of Heart Disease in the United States: A Cohort with 20 Years of Follow Up. Int J Prev Med. 2014 Jun;5(6):703–9.
+13. Assari S. Veterans and risk of heart disease in the United States: a cohort with 20 years of follow up. Int J Prev Med. 2014 Jun;5(6):703-9. PMID: 25013689; PMCID: PMC4085922. [@assari2014]
 
-14.   Willey J, Mentias A, Vaughan-Sarrazin M, McCoy K, Rosenthal G, Girotra S. Epidemiology of lower extremity peripheral artery disease in veterans. J Vasc Surg. 2018 Aug 1;68(2):527-535.e5.
+14. Willey J, Mentias A, Vaughan-Sarrazin M, McCoy K, Rosenthal G, Girotra S. Epidemiology of lower extremity peripheral artery disease in veterans. J Vasc Surg. 2018 Aug;68(2):527-535.e5. doi: 10.1016/j.jvs.2017.11.083. Epub 2018 Mar 24. PMID: 29588132; PMCID: PMC6132057.[@willey2018]
 
-15.   Arya S, Lee S, Zahner GJ, Cohen BE, Hiramoto J, Wolkowitz OM, et al. The association of comorbid depression with mortality and amputation in veterans with peripheral artery disease. J Vasc Surg. 2018 Aug;68(2):536-545.e2. 
-
+15. Arya S, Lee S, Zahner GJ, Cohen BE, Hiramoto J, Wolkowitz OM, Khakharia A, Binney ZO, Grenon SM. The association of comorbid depression with mortality and amputation in veterans with peripheral artery disease. J Vasc Surg. 2018 Aug;68(2):536-545.e2. doi: 10.1016/j.jvs.2017.10.092. Epub 2018 Mar 24. PMID: 29588133; PMCID: PMC6057818.[@arya2018]
 
 ------------------------------------------------------------------------
 
@@ -143,7 +141,6 @@ However, we feel this chapter contains all the necessary information to answer t
 ### Audible Bleeding Content
 
 -   Audible Bleeding Exam Prep: [Medical Management and Claudication Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/claudication.html)
-
 
 ------------------------------------------------------------------------
 
