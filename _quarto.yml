@@ -17,6 +17,7 @@ book:
     - part: "Introduction"
       chapters: 
         - index.qmd
+        - additionalresources.qmd
         - announcement2.qmd
         - authors2.qmd
     
