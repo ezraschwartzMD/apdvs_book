@@ -23,6 +23,7 @@ book:
     
     - part: "Approach to Vascular Patient"
       chapters: 
+        - socialdeterminants.qmd
         - arterial_history_physical.qmd
         
     - part: "Carotid Disorders"
