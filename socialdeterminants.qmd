@@ -40,7 +40,7 @@ By the end of this chapter, students will:
 
 *"Do we not always find the diseases of the populace traceable to defects in society?"* - Rudolf Virchow
 
-Multiple studies have demonstrated significant disparities exist across the spectrum of vascular disease including prevalence, treatment, and disease outcomes. Furthermore, studies have demonstrated that social determinants of health (SDoH) are composed of multiple factors including patient socioeconomic status, race or ethnicity, gender, and geographic location, which in turn can have potent effects on health outcomes. There are some estimates that SDoH account for 80-90 percent of the modifiable contributors to healthy outcomes for a population, and must be addressed in order to rectify persistent healthcare disparities. [@remington2015]
+Multiple studies have demonstrated significant disparities exist across the spectrum of vascular disease including prevalence, treatment, and disease outcomes. Furthermore, it has been demonstrated that social determinants of health (SDoH), comprising multiple factors including patient socioeconomic status, race or ethnicity, gender, and geographic location, can have potent effects on health outcomes. There are some estimates that SDoH account for 80-90 percent of the modifiable contributors to healthy outcomes for a population, and must be addressed in order to rectify persistent healthcare disparities. [@remington2015]
 
 Vascular surgeons treat patients with advanced atherosclerosis and diabetes, which are diseases that disproportionately affect vulnerable and socioeconomically disadvantaged patients. Given this reality, it is important for vascular surgeons to have a strong foundational understanding of the social determinants of health and health disparities that lead to unequal care among patients. This textbook chapter does not intend to be comprehensive, but rather an introduction to scope of health disparities in vascular surgery.
 
@@ -60,9 +60,13 @@ Vascular surgeons treat patients with advanced atherosclerosis and diabetes, whi
 
 ### Race, Ethnicity, and Structural Racism
 
-There is an abundance of literature documenting racial and ethnic disparities across the spectrum of vascular disease including thoracic and aortic aneurysms, carotid disease, and hemodialysis access; however, racial disparities spanning the disease continuum of peripheral artery disease (PAD) is one of the most robustly studied areas of the vascular health disparities literature. Compared to Non-Hispanic White patients and Hispanic patients, Black patients have been shown to be diagnosed with PAD later and with more advanced disease, are less likely to receive optimal medical management, less likely to receive limb salvage surgery, and are more likely to undergo amputation. [@allison2023]
+There is an abundance of literature documenting racial and ethnic disparities across the spectrum of vascular disease including thoracic and aortic aneurysms, carotid disease, and hemodialysis access. However, disparities spanning the disease continuum of peripheral artery disease (PAD) is one of the most robustly studied areas in surgery disparities research.
 
-The underlying etiology of race and ethnicity based disparities has been linked to structural racism, which results in differing access to "goods, services and, opportunities of society by race" as many racial and ethnic minorities have disparate access to quality housing, education, income, and healthcare. [@hackler2021]
+A scientific statement published by the American Heart Association outlines the scope of health disparities in PAD. Looking at prevalence, it has been demonstrated Black patients have a higher prevalence of PAD, even after controlling for traditional cardiovascular risk factors. Prevalence of PAD among other racial and ethnic groups is less documented, but limited evidence suggests higher rates of PAD among Cuban populations especially when compared to other Hispanic and Latinx groups. Risk factor control and preventative measures are important management tools to prevent the progression of PAD to critical limb threatening ischemia (CLTI) and limb loss. However, Black and Hispanic patients are more likely to present with hypercholesterolemia but less likely to be prescribed an aspirin or statin. [@allison2023]
+
+Looking at PAD outcomes, studies have found that patients identifying as Black have nearly twofold greater rate of leg amputation, even after controlling for relevant confounders. Additionally, Black patients who undergo amputation are less likely to have any limb-related admission, suggesting less aggressive limb salvage among this population. Higher rates of diabetes and deep soft tissue infection are strongly correlated with the higher burden of amputation in Black patients. [@hackler2021]
+
+Due to structural racism, racial and ethnic minority patients are often disproportionately burdened with socioeconomic barriers. One study evaluating the etiology of health care access among Hispanic patients found that Hispanic patients were more likely to delay medical care for socioeconomic reasons including inability to afford costs, time away from employment, and childcare issues. [@bazikian2023]
 
 ### Access and Care Delivery:
 
@@ -133,6 +137,8 @@ However, we feel this chapter contains all the necessary information to answer t
 14. Willey J, Mentias A, Vaughan-Sarrazin M, McCoy K, Rosenthal G, Girotra S. Epidemiology of lower extremity peripheral artery disease in veterans. J Vasc Surg. 2018 Aug;68(2):527-535.e5. doi: 10.1016/j.jvs.2017.11.083. Epub 2018 Mar 24. PMID: 29588132; PMCID: PMC6132057.[@willey2018]
 
 15. Arya S, Lee S, Zahner GJ, Cohen BE, Hiramoto J, Wolkowitz OM, Khakharia A, Binney ZO, Grenon SM. The association of comorbid depression with mortality and amputation in veterans with peripheral artery disease. J Vasc Surg. 2018 Aug;68(2):536-545.e2. doi: 10.1016/j.jvs.2017.10.092. Epub 2018 Mar 24. PMID: 29588133; PMCID: PMC6057818.[@arya2018]
+
+16. Bazikian S, Urbina D, Hsu CH, Gonzalez KA, Rosario ER, Chu DI, Tsui J, Tan TW. Examining health care access disparities in Hispanic populations with peripheral artery disease and diabetes. Vasc Med. 2023 Dec;28(6):547-553. doi: 10.1177/1358863X231191546. Epub 2023 Aug 29. Erratum in: Vasc Med. 2024 Feb;29(1):NP1. PMID: 37642640; PMCID: PMC10712238. [@bazikian2023]
 
 ------------------------------------------------------------------------
 
