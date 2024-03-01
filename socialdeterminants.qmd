@@ -3,7 +3,7 @@ title: "Social Determinants of Vascular Health"
 chapter_number: 8
 title-block-banner: false
 title-block-style: plain
-authors: Abena Appah-Sampong, MD, Ezra Schwartz, MD,CM, MS.
+authors: Abena Appah-Sampong, MD, Ezra Schwartz, MD,CM, MS, Sharif Ellozy, MD.
 format: html
 editor: visual
 number-sections: false
