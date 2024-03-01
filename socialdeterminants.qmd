@@ -22,7 +22,7 @@ By the end of this chapter, students will:
 -   Review terms important to the discussion about social determinants of health.
 -   Be able to predict relevant questions to ask patients when obtaining a social history.
 -   Relate the importance of a thorough social history to the incidence, morbidity, and mortality of vascular disease.
--   Recognize opportunities for one’s biases to impact quality of care.
+-   Recognize opportunities for one's biases to impact quality of care.
 :::
 
 ::: {.callout-note icon="false"}
@@ -70,7 +70,7 @@ Millions of Americans live in communities considered 'healthcare deserts,' where
 
 ### Sexual and Gender Minorities:
 
-A growing body of research explores the impact of sex and gender on various aspects of vascular disease. A systematic review and meta-analysis of 236 studies demonstrates an association between female sex or gender and poorer outcomes in individuals with Abdominal Aortic Aneurysm (AAA) and Peripheral Artery Disease (PAD). [@asystem] It has been demonstrated that women have higher risk of AAA rupture, prolonged lengths of stay, and decreased survival following both elective and emergent AAA repair. [@dillavou2006] The lack of representation of women in large-scale vascular surgery clinical trials has also become an area of increasing concern, given the pivotal role these studies play in shaping the standard of care and management guidelines. Despite efforts to enhance women's participation in clinical trials, evidence suggests persistent underrepresentation in randomized control trials, potentially limiting the broader applicability of their findings. [@hoel2009] The multifactorial nature of this underrepresentation, influenced by factors like patient preference, bias, and local demographics, necessitates sustained efforts to achieve diverse recruitment and ensure a more comprehensive understanding of vascular disease across diverse patient populations.
+A growing body of research explores the impact of sex and gender on various aspects of vascular disease. A systematic review and meta-analysis of 236 studies demonstrates an association between female sex or gender and poorer outcomes in individuals with Abdominal Aortic Aneurysm (AAA) and Peripheral Artery Disease (PAD). [@lee2022] It has been demonstrated that women have higher risk of AAA rupture, prolonged lengths of stay, and decreased survival following both elective and emergent AAA repair. [@dillavou2006] The lack of representation of women in large-scale vascular surgery clinical trials has also become an area of increasing concern, given the pivotal role these studies play in shaping the standard of care and management guidelines. Despite efforts to enhance women's participation in clinical trials, evidence suggests persistent underrepresentation in randomized control trials, potentially limiting the broader applicability of their findings. [@hoel2009] The multifactorial nature of this underrepresentation, influenced by factors like patient preference, bias, and local demographics, necessitates sustained efforts to achieve diverse recruitment and ensure a more comprehensive understanding of vascular disease across diverse patient populations.
 
 ### Veteran Populations:
 
@@ -114,11 +114,11 @@ However, we feel this chapter contains all the necessary information to answer t
 
 5.  Hackler EL, Hamburg NM, White Solaru KT. Racial and Ethnic Disparities in Peripheral Artery Disease. Circ Res. 2021;128(12):1913-1926. doi:10.1161/CIRCRESAHA.121.318243.[@hackler2021]
 
-6.  Mapping Healthcare Deserts: 80% of the Country Lacks Adequate Access to Healthcare - GoodRx. Accessed December 8, 2023. https://www.goodrx.com/healthcare-access/research/healthcare-deserts-80-percent-of-country-lacks-adequate-healthcare-access [@mapping]
+6.  Mapping Healthcare Deserts: 80% of the Country Lacks Adequate Access to Healthcare - GoodRx. Accessed December 8, 2023. https://www.goodrx.com/healthcare-access/research/healthcare-deserts-80-percent-of-country-lacks-adequate-healthcare-access.[@mapping]
 
 7.  DiLosa KL, Nguyen RK, Brown C, Waugh A, Humphries MD. Defining Vascular Deserts to Describe Access to Care and Identify Sites for Targeted Limb Preservation Outreach. Ann Vasc Surg. 2023;95:125-132. doi:10.1016/j.avsg.2023.05.025.[@dilosa2023]
 
-8.  A systematic review and meta-analysis of sex- and gender-based differences in presentation severity and outcomes in adults undergoing major vascular surgery - ClinicalKey. Accessed January 24, 2024. https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S0741521422003937?scrollTo=%23hl0004600 [@asystem]
+8.  Lee MH, Li PY, Li B, Shakespeare A, Samarasinghe Y, Feridooni T, Cuen-Ojeda C, Alshabanah L, Kishibe T, Al-Omran M. A systematic review and meta-analysis of sex- and gender-based differences in presentation severity and outcomes in adults undergoing major vascular surgery. J Vasc Surg. 2022 Aug;76(2):581-594.e25. doi: 10.1016/j.jvs.2022.02.030. Epub 2022 Mar 5. PMID: 35257798.[@lee2022]
 
 9.  Dillavou ED, Muluk SC, Makaroun MS. A decade of change in abdominal aortic aneurysm repair in the United States: Have we improved outcomes equally between men and women? J Vasc Surg. 2006;43(2):230-238. doi:10.1016/j.jvs.2005.09.043.[@dillavou2006]
 
@@ -140,7 +140,7 @@ However, we feel this chapter contains all the necessary information to answer t
 
 -   [University of Washington Chapter on Taking a Social History](https://uw.pressbooks.pub/fcmtextbook/chapter/social-history-2/)
 
--  [University of Michigan Cultural Complications Curriculum](https://www.culturalcomplications.com/)
+-   [University of Michigan Cultural Complications Curriculum](https://www.culturalcomplications.com/)
 
 ------------------------------------------------------------------------
 
