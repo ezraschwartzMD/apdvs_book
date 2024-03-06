@@ -1,0 +1,346 @@
+---
+title: "Basics of Endovascular Surgery (Endo Basics)"
+chapter_number: 7
+title-block-banner: false
+title-block-style: plain
+authors: Jeremy Zack, Nitin Jethmalani, MD, Babak Abai, MD, FACS.
+format: html
+editor: visual
+number-sections: false
+bibliography: references.bib
+smooth-scroll: true
+link-external-newwindow: true
+---
+
+#  {#sec-endobasics}
+
+::: {.callout-note icon="false"}
+## Chapter Learning Objectives
+
+By the end of this chapter, students will:
+
+-   Be able to define endovascular surgery.
+-   Be able to elaborate on the key principles of arterial access, wires, catheters, and sheaths.
+-   Be able to outline the steps and associated risks of common endovascular surgeries.
+-   Be able to outline new developments in endovascular surgery.\
+:::
+
+::: {.callout-note icon="false"}
+## Key Facts
+
+1.  To do
+:::
+
+::: callout-tip
+## How We Suggest Using the Pre/Post Questions
+
+The pre/post questions are listed below. They are all multiple choice questions with a single right answer. To best guide your learning, we have hidden the answers in a collapsible menu. Before reading the chapter, we suggest giving the questions a try, noting your answers on a notepad. After reading the chapter, return to the questions, re-evaluate your answers, and then open the collapsible menu to read the correct answer and discussion. Do not fret if you have difficulty answering the questions before reading the chapter! By the end of the chapter, we are certain you will have covered the knowledge necessary to answer the questions. There will be a teaching case at the end of the chapter. This is another opportunity to exercise your new knowledge!
+:::
+
+## Pre/Post Questions
+
+### Case Based Questions
+
+1.  A 77-year-old female with a past medical history of CAD, CHF with an EF of 14%, COPD, and a prior total thyroidectomy comes in for evaluation of carotid stenosis. She had a TIA with a right-sided facial droop two weeks ago and was briefly admitted to this hospital. She had a carotid US and was found to have an 85% left carotid stenosis. *Which of the following treatment modalities would be best suited for the patient?* 
+
+A.    Open carotid endarterectomy
+
+B.    Transcarotid Artery Revascularization (TCAR)
+
+C.    No intervention because of her age
+
+D.    No intervention because of her medical comorbidities 
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**B. Transcarotid Artery Revascularization (TCAR)**
+
+Discussion: Considering the patient has a symptomatic carotid artery lesion, her disease warrants treatment. This rules out answers C and D. TCAR is a safe, minimally invasive surgical technique used to treat carotid artery disease. TCAR and other endovascular procedures are often a safer option in the elderly, medically comorbid patients, especially those who have a higher risk of complications (such as those with prior neck surgery). In addition, TCAR can be performed under local anesthesia with sedation. This makes TCAR a safer option relative to open CEA, making B a better answer than C.  
+:::
+
+2.  A 66-year-old male presents to the emergency room one week after a percutaneous coronary intervention via right groin access. He reports that over the last few days, he has noticed a bulge in his groin and when he touches it, it is painful and has a pulsatile nature. A complete exam reveals a pulsatile, tender mass in the right groin with no skin changes, but with a bruit on auscultation. *Which of the following complications is NOT associated with this patient's diagnosis?*  
+
+A.    Embolization to the lower extremity
+
+B.    Rupture of the mass
+
+C.    True femoral artery aneurysm 
+
+D.    Compression of the femoral vein
+
+E.    Gangrene of the toes
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**C. True femoral artery aneurysm **
+
+Discussion: In the post-intervention patient who presents with a pulsatile tender mass at the intervention site with a bruit on auscultation, the most likely diagnosis is a femoral artery pseudoaneurysm. Risks of an untreated PSA include embolic events, distal ischemia including gangrene, rupture of the PSA, skin necrosis, and compression of surrounding structures including the femoral vein and nerve. Because a PSA is an outpouching of only 1 or 2 of the layers of the arterial wall, a true aneurysm (outpouching of all three layers of the artery, intima, media, and adventitia) is not associated with a femoral PSA. 
+:::
+
+3.    A 42-year-old patient with a history of an arterial thrombus four years ago presents to the ER with severe right lower extremity pain. A CTA is obtained showing no atherosclerotic disease but with acute thrombus along the distal SFA and popliteal artery. You take the patient to the operating room for a lower extremity angiogram. *Which catheter would be most useful to help break up the clot over time?*  
+
+A.    Penumbra thrombectomy catheter
+
+B.    Cragg Mcnamara Catheter
+
+C.    Fogarty Catheter
+
+D.    Peripherally inserted central venous catheter 
+
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**B. Cragg Mcnamara Catheter**
+
+Discussion: In this case, the patient has an acute thrombus in her lower extremity arteries. Although there are many treatment options for this disease process depending on disease burden and characteristics, the question specifically asks about a catheter that can be used to break up the clot over time. The Cragg Macnamara catheter is a thrombolysis catheter that remains in place infusing “clot buster” medication (tPA) over a period of hours to days to dissolve the clot. A Penumbra thrombectomy catheter is used to suction blood clots out of a vessel. A Fogarty catheter can be used to manually withdraw thrombus from a vessel. A PICC line is used for long-term infusions to deliver medications to the central venous system and is not used intra-operatively for procedures. 
+:::
+
+4.    A 70-year-old male is brought to the operating room for an EVAR procedure for his 6 cm infrarenal AAA. You have chosen a graft to use and the nurse is asking if there are any wires that you would like opened to deliver the device into the patient's aorta. *Which of the following wires would be most useful for this task?*  
+
+A.    0.018” flexible Terumo wire
+
+B.    0.035” Amplatz wire
+
+C.    0.035” floppy Glidewire
+
+D.    0.014” Pilot wire
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**B. 0.035” Amplatz wire**
+
+Discussion: Vascular access wires each have a variety of uses determined by their stiffness, diameter, hydrophilicity, and tip shape. In this case, a stiff wire to pass a large aortic endograft over would be the most useful. The larger diameter wire will be stiffer, which rules out options “A” and “D”, which would both be used for getting access to smaller vessels. Option C is a floppy glide wire which can be useful for crossing lesions and getting up and over the aortic bifurcation. The 0.035” Amplatz wire is a stiff guidewire that will not buckle under the pressure of passing a large device into the aorta. 
+:::
+
+5.   A 63-year-old smoker presents to the clinic with left lower extremity claudication and an ischemic ulcer. He is taken to the operating room for an angiogram via right groin access. *Which of the following steps is INCORRECT when obtaining arterial access?* 
+
+A.    Using anatomic landmarks to confirm cannulation through the inguinal ligament
+
+B.    Using ultrasound to ensure cannulation of the common femoral artery
+
+C.    Using fluoroscopy to ensure puncture at the level of the femoral head
+
+D.    Using the Seldinger technique for first access, making sure not to lose access to the artery during exchanges or wires and catheters. 
+
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**A. Using anatomic landmarks to confirm cannulation through the inguinal ligament**
+
+Discussion: On first access for an angiogram with right groin access, the right common femoral artery should be accessed. The CFA begins below the level of the inguinal ligament, making answer A incorrect. One should avoid going through the inguinal ligament as native fascial planes are disrupted and it can make for challenging upsizing of devices and closure. Following identification of the inguinal ligament; ultrasound, fluoroscopy, and the Seldinger technique should be used as above to safely cannulate the CFA. 
+:::
+
+------------------------------------------------------------------------
+
+## Introduction
+
+Endovascular surgery is a minimally invasive approach to treat a variety of vascular pathologies including peripheral artery disease, aortic aneurysms, venous diseases, and more. Endovascular surgery is not limited to vascular surgery as a specialty and is also employed by interventional cardiologists, neurosurgeons, interventional radiologists, and others. 
+
+Over the past 30 years, endovascular surgery has dramatically changed the practice of vascular surgeons, decreasing patient morbidity and mortality in the immediate postoperative period and the length of hospital stay. 
+
+Understanding endovascular surgery as a medical student or junior resident can be a difficult task due to the abundance of wires, catheters, sheaths, and devices used and orienting onself using fluorscopic images. In this chapter, we will focus on developing a conceptual basis for endovascular surgery.
+
+------------------------------------------------------------------------
+
+## Vascular Access and Relevant Anatomy 
+
+The common femoral artery (CFA) is the most common site of access for endovascular surgery due to its larger size and lower risk of complications relative to other sites of vascular access. Other sites of arterial access include the radial, brachial, and axillary artery in the upper extremity, as well as the popliteal and dorsal pedal arteries in the leg. The further away the vessel is from the aorta, the smaller the vessel lumen, and hence the smaller the diameter of devices that can be utilized in that artery. 
+
+The CFA is referred to as the external iliac artery proximal to the inguinal ligament and the superficial femoral artery (SFA) distal to the branching of the profunda femoris artery (PFA). The anatomic relationship of the CFA to the surrounding vessels can be remembered with the mnemonic “NAVeL”, femoral nerve, artery, vein, and lymph nodes from lateral to medial. The Femoral Triangle consists of these three vessels and nerves surrounded by the inguinal ligament superiorly, sartorius muscle laterally, and the adductor longus medially.
+
+![Femoral triangle anatomy courtesty of S Bhimji, MD.](images/femoraltriangle.jpg){fig-align="left" width="50%"}
+
+Correct anatomic positioning for cannulation of the CFA can be achieved by palpating the point of maximum pulsation inferior to the inguinal ligament, a structure identifiable by tracing along the facial plane between the anterior superior iliac spine and pubic symphysis. The following imaging modalities assist with anatomic positioning: 
+
+-   Fluoroscopic guidance: cannulation of the CFA should be attempted at the level of the middle to inferior femoral head. 
+-   Ultrasound (US) guidance: identification of the PFA ensures cannulation is attempted of the CFA in place of the SFA. At the level where the great saphenous vein joins the femoral vein, US will show one large vessel surrounded by two smaller vessels, which can be remembered as the [“Mickey Mouse Sign.”](https://radiopaedia.org/articles/mickey-mouse-sign-ultrasound)
+-   An in depth review of lower limb anatomy can be found in the APDVS Claudication Chapter or [here](https://www.medmastery.com/guides/ultrasound-clinical-guide-arteries-legs/basic-anatomy-lower-extremity-arteries).
+
+
+------------------------------------------------------------------------
+
+## Diagnostics and Imaging
+
+### Computer Tomography Angiography (CTA)
+
+Computed tomography angiography (CTA) is indicated in all patients with suspected AMI. Common findings indicating vascular pathology would include: - The presence of an arterial embolism, in-situ thrombosis, arterial stenosis, or dissection of mesenteric vessels. - Visceral findings including bowel thickening, dilation, air fluid vessels, and mesenteric fat stranding. As a reminder, fat stranding refers to the appearance of streaky areas in fat tissue that is a nonspecific sign of inflammation or infection. It presents as an increased attenuation which means the affected area appears denser on the scan suggesting a change in tissue composition like fluid buildup.\
+- A late finding on imaging would be pneumatosis intestinalis or gas within the intestinal wall which is a specific sign for transmural ischemia or infarction.
+
+Regarding the rarer subtypes of AMI: - NOMI typically shows signs of diffuse vasospasm without a focal blockage, indicating poor blood flow to the intestines, often associated with a hypovolemic state. - In MVT, a CT scan with portal vein contrast is the diagnostic modality of choice, frequently revealing thrombosis in the superior mesenteric vein, portal vein and/or possibly involving other splanchnic veins.
+
+### Laboratory Studies
+
+In AMI, various laboratory studies reveal characteristic changes. - A Complete Blood Count (CBC) often shows leukocytosis. There can also be either an increased Hematocrit (Hct) due to volume depletion or a decreased Hct if there's a gastrointestinal bleed. - The Comprehensive Metabolic Panel (CMP) may reveal electrolyte imbalances. - Liver enzymes can also be elevated. - Blood gas analysis often indicates metabolic acidosis, characterized by decreased bicarbonate (HCO3-). - Serum lactate levels are typically elevated, reflecting tissue hypoxia. - Additionally, there are increased levels of D-dimer, pointing to a hypercoagulable state, and elevated amylase, and Lactate Dehydrogenase (LDH), which are indicative of tissue damage and general inflammatory processes.
+
+------------------------------------------------------------------------
+
+## Treatment
+
+AMI is a surgical emergency. In the management of AMI, initial medical steps include:
+
+-   Fluid therapy for maintaining intravascular volume and visceral perfusion.
+-   Vasopressors are avoided due to their potential to exacerbate ischemia.
+-   Therapeutic anticoagulation, often with heparin, is crucial to limit thrombus propagation.
+-   Concurrently, empiric broad-spectrum antibiotics to cover the microbes of the gastrointestinal tract are initiated.
+
+Briefly, as implied by its name, non-occlusive mesenteric ischemia does not involve an acute occlusion; therefore, treatment strategies are centered on hemodynamic stabilization and addressing the underlying cause. There is no role for vascular surgery in the treatment of NOMI. This often includes administering fluids and, in some cases, using vasodilators to enhance blood flow to the mesenteric arteries.
+
+Conversely, treatment for mesenteric venous thrombosis typically involves anticoagulants to dissolve the clot, coupled with interventions targeting contributing factors of Virchow's triad, such as hypercoagulability, venous stasis, or vascular injury.
+
+### Open Surgical Repair
+
+Historically, in the treatment of AMI, a majority of patients receive open surgery. The initial operative strategy in open surgical treatment involves damage control by resecting necrotic bowel and containing spillage, prioritizing revascularization next. The approach to revascularization is dependent on the underlying etiology of the embolic and/or thrombotic disease, generally focusing on embolectomy for the former and bypass for the latter.
+
+Bypass options vary, including short retrograde aorto-SMA bypass, long retrograde right iliac-SMA bypass, and antegrade supraceliac aorto-SMA bypass. Each option has specific indications and advantages. For example, a retrograde bypass from the iliac artery might be more suitable for high risk patients with multiple cardiopulmonary or renal comorbidities to avoid aortic cross clamping which is required to perform an aorto-SMA bypass.
+
+Post-revascularization, the viability of the bowel is reassessed using various methods, followed by either temporary or definitive bowel repair. Second-look laparotomy is considered for questionable bowel viability. This technique involves excising the necrotic sections of the intestine without performing an immediate reconnection, leaving a gap between healthy segments (i.e. bowel discontinuity). The patient's condition is then stabilized and the bowel reconnected during a follow-up surgery. This method is advantageous for managing sepsis and for evaluating the return of bowel viability after blood flow is restored.
+
+### Endovascular Repair
+
+Endovascular access to the SMA can be achieved through either though antegrade brachial or retrograde femoral approaches, with the latter requiring more wire manipulation due to the SMA's angle relative to the aorta.[@lim2018] Once arterial access is achieved, systemic heparin is administered. Angiography, catheters and wires help maneuver the device to the lesion. Angioplasty is then performed with or without stenting , typically targeting the SMA alone due to existing collateral circulation. A retrospective study comparing SMA revascularization versus both SMA and CA revascularization did not find significant differences in regards to recurrent symptoms or re-interventions.[@malgor2010]
+
+Endovascular approaches have increased in frequency and have shown a trend towards fewer complications like pneumonia and sepsis and lower transfusion requirements.[@branco2015] Despite this, a significant proportion of endovascularly treated patients may still require subsequent open surgery. For example, a systematic review estimated a rate of between 13 to 73% for post initial endovascular intervention laparotomy rates.[@murphy2019] Notably, endovascular therapy is often selected for less critically ill patients, potentially skewing mortality and complication rates. In cases of thrombotic occlusion, endovascular treatment tends to have lower mortality rates compared to open surgery, suggesting it might be more suitable for such conditions, especially in older or frailer patients.
+
+### Hybrid Repair
+
+There is also a retrograde hybrid stenting technique that can be employed which utilizes a combination of surgical and endovascular methods. It involves open surgical exposure of the SMA followed by retrograde endovascular access in order to intervene with a covered stent or a balloon angioplasty. or in situations when an exploratory laparotomy is indicated but a patient is too unstable to undergo clamping of the aorta required for a bypass.[@milner2004]
+
+In the context of retrograde open mesenteric stenting, 68 patients with AMI at a single institution were studied. Patients without peritonitis underwent percutaneous artery stenting. Of those that failed percutaneous stenting 14 out of 15 patients were successfully treated with retrograde open mesenteric stenting. The 30-day outcomes showed a 20% mortality rate and 91% primary stent patency, while the 12-month outcomes reported the same mortality rate but a slightly reduced stent patency of 83%. Of note, two patients experienced worsening bowel ischemia, requiring subsequent laparotomy and bowel resection.[@blauw2014]
+
+### Catheter-Directed Thrombolysis (CDT)
+
+Another option for revascularization for AMI is catheter-directed thrombolysis (CDT). In CDT, a sheath is first inserted into the proximal SMA. A catheter with multiple side holes or a microcatheter is then advanced to the site of the embolus. A thrombolytic medication is infused through the catheter to dissolve the clot, and the process is monitored by repeat angiography, which is typically performed at intervals of 12 to 24 hours to evaluate the success of the thrombolysis.
+
+### Decision Making
+
+Revascularization choices are determined by clinical evaluation and vascular imaging. It is important to note that the choice between open and endovascular approaches depends on multiple factors, including the nature of the occlusion and the patient's overall health. There are no current randomized trials comparing endovascular and open revascularization. In a meta analysis, perioperative mortality was more commonly associated with open revascularization at 39.3% compared with endovascular intervention at 24.9%.[@beaulieu2014] Further research is needed to find the optimal approach to AMI.
+
+Over nine years at a single institution, 70 patients with AMI were followed, 81% of whom received endovascular treatments. Technical failures were noted in 13% of cases but no failures occurred in the open surgery cohort, yet such patients had a higher likelihood of postoperative pulmonary or renal issues. Mortality rates were 50% for open surgery and 39% for endovascular approaches, with the median duration of symptoms being shorter for open surgery (26 hours) than endovascular (62 hours), and the length of bowel resection was greater in open surgery (160 cm) compared to endovascular (52 cm).[@arthurs2011]
+
+::: callout-note
+In summary:
+
+-   For sub-acute AMI presentations without signs of bowel infarction, endovascular revascularization is appropriate; however, this should not postpone necessary surgical evaluation.
+
+-   In cases where bowel viability is uncertain, the first choice should be either an open embolectomy, traditional bypass, or hybrid retrograde stenting methods.
+
+-   Immediate laparotomy is imperative for severe AMI cases presenting with signs of peritonitis to manage bowel integrity promptly.
+
+-   Of note, utilizing a hybrid approach can be advantageous, potentially reducing complications associated with vein harvesting and avoiding the implantation of prosthetic materials.
+:::
+
+------------------------------------------------------------------------
+
+## Outcomes
+
+The mortality associated with AMI post-revascularization remains hight at around 50%. Patients that required bowel resection due to necrosis are at an even higher risk of mortality.[@bala2022]
+
+------------------------------------------------------------------------
+
+## Surveillance
+
+When it comes to postoperative surveillance after interventions for AMI, the approach differs based on the underlying cause of the occlusion. For occlusions caused by a thrombosed plaque, regular monitoring is typically more stringent due to the risk of recurrence. In contrast, for embolic events, the adherence to close surveillance may be less stringent since the source of embolism may be transient or have been addressed, such as through cardiac arrhythmia management. However, if a bypass is performed, irrespective of the cause, surveillance is warranted to monitor the patency of the graft. On the other hand, after an embolectomy, where the embolus is directly removed, intensive long-term surveillance may not be as critical unless other risk factors are present.
+
+::: callout-note
+After mesenteric stenting or mesenteric bypass, duplex ultrasound is recommended within one month to establish a new baseline, with follow-up scans every six months for the first year and annually thereafter.
+
+In-stent restenosis is defined as peak systolic velocity (PSV) over 445 cm/sec for the SMA and over 289 cm/sec for the CA.[@soult2016] These values would indicate a need for re-imaging and potential re-intervention especially in the presence of symptoms.
+:::
+
+------------------------------------------------------------------------
+
+## Teaching Case
+
+### Scenario
+
+TO DO
+
+### Exam
+
+**HEENT:** TO DO
+
+**Cardiac:** TO DO
+
+**Pulmonary:** TO DO
+
+**Abdominal:** TO DO
+
+**Vascular/Extremities:** TO DO
+
+### Imaging
+
+**Duplex Ultrasound:** TO DO
+
+### Discussion Points
+
+::: callout-note
+## N.B. There is no prepared answers for the questions below.
+
+However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
+:::
+
+1.  TO DO
+
+------------------------------------------------------------------------
+
+## Key Articles
+
+1.  Patel MR, Jneid H, Derdeyn CP, Klein LW, Levine GN, Lookstein RA, White CJ, Yeghiazarians Y, Rosenfield K; American Heart Association Diagnostic and Interventional Cardiac Catheterization Committee of the Council on Clinical Cardiology, Council on Cardiovascular Radiology and Intervention, Council on Peripheral Vascular Disease, Council on Cardiovascular Surgery and Anesthesia, and Stroke Council. Arteriotomy closure devices for cardiovascular procedures: a scientific statement from the American Heart Association. Circulation. 2010 Nov 2;122(18):1882-93. doi: 10.1161/CIR.0b013e3181f9b345. Epub 2010 Oct 4. Erratum in: Circulation. 2010 Nov 2;122(18):e507. PMID: 20921445. [@patel2010]
+
+2.  Siracuse JJ, Farber A, Cheng TW, Raulli SJ, Jones DW, Kalish JA, Smeds MR, Rybin D, Schermerhorn ML; Vascular Quality Initiative. Common femoral artery antegrade and retrograde approaches have similar access site complications. J Vasc Surg. 2019 Apr;69(4):1160-1166.e2. doi: 10.1016/j.jvs.2018.06.226. Epub 2018 Dec 4. PMID: 30527937. [@siracuse2019]
+
+------------------------------------------------------------------------
+
+## Additional Resources
+
+### Audible Bleeding Content
+
+-   Holding Pressure Case Prep - [Endovascular Basics](https://www.audiblebleeding.com/2023/04/23/holding-pressure-case-prep-endovascular-basics/)
+
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/26623206/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
+
+</iframe>
+
+-   Audible Bleeding Exam Prep: [Endovascular Access](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/endovascular.html)
+
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/14202467/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
+
+</iframe>
+
+------------------------------------------------------------------------
+
+### Gore Combat Manual
+
+The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
+
+::: callout-tip
+Please see pages 25-41, 49-61.
+:::
+
+------------------------------------------------------------------------
+
+### Operative Footage
+
+Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.* Please create and/or log in to your YouTube account to have access to the videos.
+
+#### (Open) SMA Embolectomy
+
+<!-- Google tag (gtag.js) -->
+
+```{=html}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WS28VX4802"></script>
+```
+```{=html}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WS28VX4802');
+</script>
+```
