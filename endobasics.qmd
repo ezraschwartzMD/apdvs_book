@@ -147,7 +147,7 @@ Understanding endovascular surgery as a medical student or junior resident can b
 
 ------------------------------------------------------------------------
 
-## Vascular Access and Relevant Anatomy 
+## Relevant Anatomy and Vascular Access
 
 The common femoral artery (CFA) is the most common site of access for endovascular surgery due to its larger size and lower risk of complications relative to other sites of vascular access. Other sites of arterial access include the radial, brachial, and axillary artery in the upper extremity, as well as the popliteal and dorsal pedal arteries in the leg. The further away the vessel is from the aorta, the smaller the vessel lumen, and hence the smaller the diameter of devices that can be utilized in that artery. 
 
@@ -157,9 +157,63 @@ The CFA is referred to as the external iliac artery proximal to the inguinal lig
 
 Correct anatomic positioning for cannulation of the CFA can be achieved by palpating the point of maximum pulsation inferior to the inguinal ligament, a structure identifiable by tracing along the facial plane between the anterior superior iliac spine and pubic symphysis. The following imaging modalities assist with anatomic positioning: 
 
--   Fluoroscopic guidance: cannulation of the CFA should be attempted at the level of the middle to inferior femoral head. 
--   Ultrasound (US) guidance: identification of the PFA ensures cannulation is attempted of the CFA in place of the SFA. At the level where the great saphenous vein joins the femoral vein, US will show one large vessel surrounded by two smaller vessels, which can be remembered as the [“Mickey Mouse Sign.”](https://radiopaedia.org/articles/mickey-mouse-sign-ultrasound)
--   An in depth review of lower limb anatomy can be found in the APDVS Claudication Chapter or [here](https://www.medmastery.com/guides/ultrasound-clinical-guide-arteries-legs/basic-anatomy-lower-extremity-arteries).
+-   **Fluoroscopic guidance:** cannulation of the CFA should be attempted at the level of the middle to inferior femoral head. 
+
+-   **Ultrasound (US) guidance:** identification of the PFA ensures cannulation is attempted of the CFA in place of the SFA. At the level where the great saphenous vein joins the femoral vein, US will show one large vessel surrounded by two smaller vessels, which can be remembered as the [“Mickey Mouse Sign.”](https://radiopaedia.org/articles/mickey-mouse-sign-ultrasound) 
+
+::: {.callout-tip}
+An in depth review of lower limb anatomy can be found in the APDVS Claudication Chapter or [here](https://www.medmastery.com/guides/ultrasound-clinical-guide-arteries-legs/basic-anatomy-lower-extremity-arteries).
+:::
+
+### Ultrasound Guided Access
+
+There is emerging evidence to suggest real time identification of anatomic structures with US guidance may decrease the risk of access-related complications. A summary to the steps of US-guided access of the CFA are included below. 
+
+#### Identifying the correct vessel: 
+
+1.    Obtain baseline peripheral pulses.
+2.    Obtain a **micropuncture kit,** containing a hollow needle, guidewire, and catheter
+3.    Using the US probe, identify any plaque or calcification along the CFA or iliac artery that may change the site of access.
+4.    Identify the CFA, which can be differentiated from the femoral vein by its thick wall, resistance to compression, pulsatility, and relative lateral anatomic positioning. A video identifying the CFA through the “Mickey Mouse Sign” on US is available [here.](https://www.youtube.com/watch?v=8fn__5YPyJc)
+
+#### Obtaining access through the Seldinger technique: 
+
+The Seldinger technique help obtain **safe** access to blood vessels. In contrast to previous methods, the Seldinger technique causes minimal damage to the blood vessel thereby allowing the puncture to be closed percutaneously, and avoids the risk of loss of access during the procedure through keeping at least one wire, catheter, or sheath at the site of interest in the body all times. 
+
+Steps to the Seldinger technique are as follows:
+
+1.    Cannulate the CFA by inserting the hollow needle at a 45-90 degree angle to the skin under US guidance, blood will flow out of the needle once inserted into the vessel.
+2.    Insert the guidewire into the vessel.
+Remove the hollow needle while keeping the guidewire in place, being careful not to allow the wire to withdraw as the needle is removed.
+3.    Insert the catheter over the guidewire.
+4.    Exchange the guidewire that came in the micropuncture kit with desired guidewire to begin the procedure. 
+
+:::{callout-tip}
+Please see [this video animation](https://www.youtube.com/watch?v=SxX9VU_aPMQ) of the Seldinger technique for vascular access.
+:::
+
+#### Closure and Closure Devices
+
+Once the procedure is complete, percutaneous access will need to be closed. If relatively small catheters and sheaths were used during the procedure, generally below 6 French (1F = .33 millimeter), arterial access may be closed with manual compression by applying pressure with two fingers over the site of incision against the femoral head. Alternatively, certain indications, such as use of anticoagulation or large body habitus, may require closure devices even if larger catheters or sheaths were not used during the procedure. 
+
+There are several different types of closure devices. Each type can be differentiated by the use of suture or sealant to close the vessel. 
+
+A common closure device you are likely to encounter on a vascular surgery service is the **Perclose ProGlide** (Abbott Vascular, Chicago, IL), a suture-mediated closure device. Other closure devices include the **Angioseal** (Terumo, Tokyo, Japan), which deploys a bioabsorbable anchor to the arterial puncture site with surrounding collagen to promote closure, and the **MYNXGRIP** (Cordis, Miami Lakes, FL), which uses a balloon pressed against the site of arterial puncture and an adhesive sealant outside the vessel that dissolves slowly as the puncture site heals. 
+
+A step-by-step guide to deploying a Perclose device is shown in [this animated video](https://www.youtube.com/watch?v=NAO_YC48Dvo) and listed below. 
+
+Exchange the procedural sheath for a guide wire so only the guide wire is left in the vessel
+Advance the flushed perclose device over the guidewire until the wire exit port is at skin level
+Remove the guidewire so only the perclose device is in the vessel and advance the perclose device until blood flows out of the marker lumen
+Lift the lever to open the foot of the device
+Insert the plunger down to insert needles, which will connect the threads of the perclose 
+Remove the plunger, which pulls the thread taught, and cut the excess thread  
+Lower the lever to close the foot and retract the device until the guide wire access port is visible
+Reinsert guidewire and pull both threads taught
+Use the Snared Knot Pusher or Prostyle Suture Trimmer to advance the knot to the level of skin 
+Pull the thread taught while removing perclose device
+Advance the knot over the guidewire and remove the guide wire once the bleeding is controlled 
+Pull both threads tightly and remove the knot advancing device. 
 
 
 ------------------------------------------------------------------------
