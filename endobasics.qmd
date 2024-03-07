@@ -161,7 +161,7 @@ Correct anatomic positioning for cannulation of the CFA can be achieved by palpa
 
 -   **Ultrasound (US) guidance:** identification of the PFA ensures cannulation is attempted of the CFA in place of the SFA. At the level where the great saphenous vein joins the femoral vein, US will show one large vessel surrounded by two smaller vessels, which can be remembered as the [“Mickey Mouse Sign.”](https://radiopaedia.org/articles/mickey-mouse-sign-ultrasound) 
 
-::: {.callout-tip}
+::: callout-tip
 An in depth review of lower limb anatomy can be found in the APDVS Claudication Chapter or [here](https://www.medmastery.com/guides/ultrasound-clinical-guide-arteries-legs/basic-anatomy-lower-extremity-arteries).
 :::
 
@@ -188,7 +188,7 @@ Remove the hollow needle while keeping the guidewire in place, being careful not
 3.    Insert the catheter over the guidewire.
 4.    Exchange the guidewire that came in the micropuncture kit with desired guidewire to begin the procedure. 
 
-:::{callout-tip}
+::: callout-tip
 Please see [this video animation](https://www.youtube.com/watch?v=SxX9VU_aPMQ) of the Seldinger technique for vascular access.
 :::
 
@@ -198,113 +198,143 @@ Once the procedure is complete, percutaneous access will need to be closed. If r
 
 There are several different types of closure devices. Each type can be differentiated by the use of suture or sealant to close the vessel. 
 
-A common closure device you are likely to encounter on a vascular surgery service is the **Perclose ProGlide** (Abbott Vascular, Chicago, IL), a suture-mediated closure device. Other closure devices include the **Angioseal** (Terumo, Tokyo, Japan), which deploys a bioabsorbable anchor to the arterial puncture site with surrounding collagen to promote closure, and the **MYNXGRIP** (Cordis, Miami Lakes, FL), which uses a balloon pressed against the site of arterial puncture and an adhesive sealant outside the vessel that dissolves slowly as the puncture site heals. 
+A common closure device you are likely to encounter on a vascular surgery service is the **Perclose ProGlide** (Abbott Vascular, Chicago, IL), a suture-mediated closure device. Other closure devices include the **Angioseal** (Terumo, Tokyo, Japan), which deploys a bioabsorbable anchor to the arterial puncture site with surrounding collagen to promote closure, and the **MYNXGRIP** (Cordis, Miami Lakes, FL), which uses a balloon pressed against the site of arterial puncture and an adhesive sealant outside the vessel that dissolves slowly as the puncture site heals. Less commonly used closure devices include the **Angiosea**l (Terumo, Tokyo, Japan), which deploys a bioabsorbable anchor to the arterial puncture site with surrounding collagen to promote closure. Other less commonly used closure devices include the **Manta, StarClose, Vascade, and Cardiva**. 
 
-A step-by-step guide to deploying a Perclose device is shown in [this animated video](https://www.youtube.com/watch?v=NAO_YC48Dvo) and listed below. 
+A step-by-step guide to deploying a **Perclose device** is shown in [this animated video](https://www.youtube.com/watch?v=NAO_YC48Dvo) and listed below. 
 
-Exchange the procedural sheath for a guide wire so only the guide wire is left in the vessel
-Advance the flushed perclose device over the guidewire until the wire exit port is at skin level
-Remove the guidewire so only the perclose device is in the vessel and advance the perclose device until blood flows out of the marker lumen
-Lift the lever to open the foot of the device
-Insert the plunger down to insert needles, which will connect the threads of the perclose 
-Remove the plunger, which pulls the thread taught, and cut the excess thread  
-Lower the lever to close the foot and retract the device until the guide wire access port is visible
-Reinsert guidewire and pull both threads taught
-Use the Snared Knot Pusher or Prostyle Suture Trimmer to advance the knot to the level of skin 
-Pull the thread taught while removing perclose device
-Advance the knot over the guidewire and remove the guide wire once the bleeding is controlled 
-Pull both threads tightly and remove the knot advancing device. 
-
+1.    Exchange the procedural sheath for a guide wire so only the guide wire is left in the vessel.
+2.    Advance the flushed perclose device over the guidewire until the wire exit port is at skin level.
+3.    Remove the guidewire so only the perclose device is in the vessel and advance the perclose device until blood flows out of the marker lumen.
+4.    Lift the lever to open the foot of the device.
+5.    Insert the plunger down to insert needles, which will connect the threads of the perclose .
+6.    Remove the plunger, which pulls the thread taught, and cut the excess thread  
+Lower the lever to close the foot and retract the device until the guide wire access port is visible.
+7.    Reinsert guidewire and pull both threads taught.
+8.    Use the Snared Knot Pusher or Prostyle Suture Trimmer to advance the knot to the level of skin.
+9   Pull the thread taught while removing perclose device.
+10.   Advance the knot over the guidewire and remove the guide wire once the bleeding is controlled. 
+11.   Pull both threads tightly and remove the knot advancing device. 
 
 ------------------------------------------------------------------------
 
-## Diagnostics and Imaging
+## Wires, Catheters, and Sheaths
 
-### Computer Tomography Angiography (CTA)
+::: callout-tip
+Using the analogy of a train on a track passing through a tunnel, the catheter can be thought of as the train, the wire as the train track, and the sheath as the surrounding tunnel.
+:::
 
-Computed tomography angiography (CTA) is indicated in all patients with suspected AMI. Common findings indicating vascular pathology would include: - The presence of an arterial embolism, in-situ thrombosis, arterial stenosis, or dissection of mesenteric vessels. - Visceral findings including bowel thickening, dilation, air fluid vessels, and mesenteric fat stranding. As a reminder, fat stranding refers to the appearance of streaky areas in fat tissue that is a nonspecific sign of inflammation or infection. It presents as an increased attenuation which means the affected area appears denser on the scan suggesting a change in tissue composition like fluid buildup.\
-- A late finding on imaging would be pneumatosis intestinalis or gas within the intestinal wall which is a specific sign for transmural ischemia or infarction.
+### Wires
 
-Regarding the rarer subtypes of AMI: - NOMI typically shows signs of diffuse vasospasm without a focal blockage, indicating poor blood flow to the intestines, often associated with a hypovolemic state. - In MVT, a CT scan with portal vein contrast is the diagnostic modality of choice, frequently revealing thrombosis in the superior mesenteric vein, portal vein and/or possibly involving other splanchnic veins.
+Wires are the first device inserted into a patient, have the lowest profile, and are variable in properties. Vascular access wires are made of a metal core and an outer wire wrapped around the metal core. They are used to guide devices such as catheters and sheaths into a vessel. Characteristics of wires include: 
 
-### Laboratory Studies
+#### Diameter
 
-In AMI, various laboratory studies reveal characteristic changes. - A Complete Blood Count (CBC) often shows leukocytosis. There can also be either an increased Hematocrit (Hct) due to volume depletion or a decreased Hct if there's a gastrointestinal bleed. - The Comprehensive Metabolic Panel (CMP) may reveal electrolyte imbalances. - Liver enzymes can also be elevated. - Blood gas analysis often indicates metabolic acidosis, characterized by decreased bicarbonate (HCO3-). - Serum lactate levels are typically elevated, reflecting tissue hypoxia. - Additionally, there are increased levels of D-dimer, pointing to a hypercoagulable state, and elevated amylase, and Lactate Dehydrogenase (LDH), which are indicative of tissue damage and general inflammatory processes.
+-   Wire diameter is described in thousandths of an inch and typically range from 0.010-0.038”. 
+-   Vascular access is typically obtained with a 0.018” wire and is exchanged for a smaller or larger profile as needed. 
+-   The most common sizes used are 0.035”, 0.018” and 0.014”.
+
+#### Stiffness
+
+-   Wire stiffness is determined by the metal used as the core of the wire. 
+-   The same wire will become stiffer with a larger diameter. 
+-   Softer wires are used to manipulate catheters into vessels. 
+-   Stiffer wires are needed to push larger devices, such as balloons or endografts.
+
+#### Coating
+
+-   Wires have a hydrophilic or hydrophobic coating. 
+-   Hydrophilic wires have less friction when moving along the vessel wall and track more closely along the vessel lumen, increasing the risk of dissection. 
+-   Hydrophilic wires are preferable in highly tortuous vessels. 
+-   In contrast, hydrophobic wires keep more distance from the vessel wall and are less likely to dissect. 
+
+#### Tip Shape
+
+-   The tip shape and consistency of the wire is important.
+-   Angled tips are used to navigate into side branches of vessels. 
+-   Soft tips are designed to prevent trauma to the vessel wall. 
+-   Weighted tips are used to cross occlusions. 
+-   J-tips are used to prevent wiring of too small of vessels that may lead to trauma of end organs. 
+
+#### Length
+
+-   Wires are measured in centimeters (cm) and typically range from 80 - 300 cm. 
+-   Wires must not only be long enough to reach the target vessel from the point of access, but also need to be long enough to support exchanges outside of the body as needed. 
+-   Care must be taken to avoid too long of a wire for its intended purpose as it is harder to control the end of the wire outside of the body. 
+
+![Commonly used wires, curtosy of B. G. Northcutt, MD, A Shah, MD, Y Sheu, MD, L Carmi, MD.](images/wires.jpg){fig-align="middle" width="100%"}
+
+#### Function
+
+Wires can be categorized by function. Please find a list of each category with common examples of specific wires below.
+
+##### Access wires: 
+
+-   Short, typically 0.018” wires with a soft, non-directional tip to prevent any trauma to the vessel when entering, and a stiffer body to allow tracking of the introducer and sheath into the vessel.
+
+##### Guidewires:
+
+-   Generally are characterized as pushable, hydrophilic wires with a floppy, curved or angled tips that are designed to track through tortuous vessels without causing blunt trauma to the vessel wall. 
+-   Guidewires are also used for their directionality to cannulate branches.
+-   **Standard Glidewire (Terumo, Tokyo, Japan):** can be used as an access or guidewire. Hydrophilic coating, straight or angled tip, sized 0.018” - 0.035” in diameter and 150 cm or 260 cm in length.
+-   **Bentson (Cook Medical, Bloomington, IN):** flexible wire with a hydrophobic coating and curved tip. Used to access vessels that have a slight curve, or to introduce catheters or sheaths. Comes in 0.035” diameter and 150 cm or 260 cm in length. 
+-   **Rosen (Cook medical, Bloomington, IN):** stiff hydrophobic wire with J tip. Often used as the first wire exchanged for the access wire. 0.035” long and 80 cm to 260 cm in length. 
+
+##### Rail wires:
+
+-   Used as a platform to support catheter and sheath exchanges, as well as to advance devices, such as stents or endografts. 
+-   Rail wires come in a range of stiffness, from medium to very stiff. 
+-   They may have a straight, floppy, or curved tip.
+
+*Medium stiffness rail wires:*
+
+  -    **Bentson (Cook Medical, Bloomington, IN):** flexible wire with a hydrophobic coating and curved tip. Used to access vessels that have a slight curve, or to introduce catheters or sheaths. Comes in 0.035” diameter and 150 cm or 260 cm in length. 
+  -   **Rosen (Cook medical, Bloomington, IN):** stiff hydrophobic wire with J tip. Often used as the first wire exchanged for the access wire. 0.035” long and 80 cm to 260 cm in length. 
+
+*High stiffness rail wires:*
+
+  -   **Amplatz (Boston Scientific, Marlborough, MA):** stiff, hydrophobic, straight floppy or J-tip. 0.035” - 0.038” diameter and 75 cm - 260 cm in length. 
+  -   **Lunderquist (Cook Medical, Bloomington, IN):** one of the stiffest wires, hydrophobic, with floppy or curved tip. 0.035” diameter and 90 cm - 300 cm in length. Often used to advance large endografts. 
+  
+### Catheters
+
+Catheters are flexible, hollow tubes that are used in both the diagnosis and treatment of vascular disease. 
+
+::: callout-note
+Catheters are measured in French (1F = 0.33 mm) and the diameter corresponds to the outer diameter of the tube.
+
+![Outer diameter = OD, Inner diameter = ID.](images/ODID.jpg){fig-align="middle" width="50%"}
+:::
+
+Catheters vary by size, stiffness, hydrophilicity, radiopacity, and functionality, but can generally be described in two categories, flush catheters and selective catheters.
+
+#### Flush catheters:
+
+-   Contain multiple side holes just proximal to the end of the device to allow for the injection of contrast or other material, such as thrombolytics. 
+- **Omniflush (Angiodynamics, Latham, NY):** soft, flexible catheter with a radiopaque tip that is able to administer contrast to visualize vessels. [Omniflush device on back table](https://th.bing.com/th/id/R.4a5b0244f2e5f63cffb37b1b81d7655b?rik=JGXkMiGWf8YnMA&riu=http%3A%2F%2Fmyasiamed.com%2Fimages%2FMariner-Omni-Flush1.jpg&ehk=qI0yAEYrAScCyzwy7HCY6AdcYeqPSPo6aqTUJwh7tIw%3D&risl=&pid=ImgRaw&r=0)
+-   **Pigtail (Angiodynamics, Latham, NY):** Similar to the Omniflush with a looped end (Image YY).
+
+#### Selective catheters:
+
+-   Contain one hole at the distal end of the tube. 
+-   Selective catheters come in many different shapes and sizes. 
+-   Intuitively, the anatomy of the vessel to be tracked will determine the diameter and tip shape. 
+-   When attempting to cross the aortic bifurcation into the contralateral common iliac artery, a catheter with more of a J-tip or “Shepherd's hook” is preferable. 
+-   When attempting to cannulate vessel branches with a more acute angle, a smaller angle catheter tip should be selected. 
+-   Selective catheters can also be used to deliver contrast, but the contrast is only able to leave the catheter through the end of the device. 
+-   Angiograms with selective catheters are more tailored to specific vessels, such as a renal or mesenteric artery. 
+- **Selective Glidecath (Terumo, Tokyo, Japan):** hydrophilic catheter available in 17 different shapes, but the 45 degree is most common. Comes in 4F or 5F. Offers great trackability and pushability. [This image](https://www.terumois.com/products/catheters/glidecath/_jcr_content/content-par/columncontainer/column2_par/layout_container/grid-content-par/columncontainer_191691442/column1_par/columncontainer_547426510/column1_par/image_890878952.img.png/1604512081871.png) depicts some of the glidecath tip shapes.
+
+### Sheaths
+
+
 
 ------------------------------------------------------------------------
 
 ## Treatment
 
-AMI is a surgical emergency. In the management of AMI, initial medical steps include:
-
--   Fluid therapy for maintaining intravascular volume and visceral perfusion.
--   Vasopressors are avoided due to their potential to exacerbate ischemia.
--   Therapeutic anticoagulation, often with heparin, is crucial to limit thrombus propagation.
--   Concurrently, empiric broad-spectrum antibiotics to cover the microbes of the gastrointestinal tract are initiated.
-
-Briefly, as implied by its name, non-occlusive mesenteric ischemia does not involve an acute occlusion; therefore, treatment strategies are centered on hemodynamic stabilization and addressing the underlying cause. There is no role for vascular surgery in the treatment of NOMI. This often includes administering fluids and, in some cases, using vasodilators to enhance blood flow to the mesenteric arteries.
-
-Conversely, treatment for mesenteric venous thrombosis typically involves anticoagulants to dissolve the clot, coupled with interventions targeting contributing factors of Virchow's triad, such as hypercoagulability, venous stasis, or vascular injury.
-
-### Open Surgical Repair
-
-Historically, in the treatment of AMI, a majority of patients receive open surgery. The initial operative strategy in open surgical treatment involves damage control by resecting necrotic bowel and containing spillage, prioritizing revascularization next. The approach to revascularization is dependent on the underlying etiology of the embolic and/or thrombotic disease, generally focusing on embolectomy for the former and bypass for the latter.
-
-Bypass options vary, including short retrograde aorto-SMA bypass, long retrograde right iliac-SMA bypass, and antegrade supraceliac aorto-SMA bypass. Each option has specific indications and advantages. For example, a retrograde bypass from the iliac artery might be more suitable for high risk patients with multiple cardiopulmonary or renal comorbidities to avoid aortic cross clamping which is required to perform an aorto-SMA bypass.
-
-Post-revascularization, the viability of the bowel is reassessed using various methods, followed by either temporary or definitive bowel repair. Second-look laparotomy is considered for questionable bowel viability. This technique involves excising the necrotic sections of the intestine without performing an immediate reconnection, leaving a gap between healthy segments (i.e. bowel discontinuity). The patient's condition is then stabilized and the bowel reconnected during a follow-up surgery. This method is advantageous for managing sepsis and for evaluating the return of bowel viability after blood flow is restored.
-
-### Endovascular Repair
-
-Endovascular access to the SMA can be achieved through either though antegrade brachial or retrograde femoral approaches, with the latter requiring more wire manipulation due to the SMA's angle relative to the aorta.[@lim2018] Once arterial access is achieved, systemic heparin is administered. Angiography, catheters and wires help maneuver the device to the lesion. Angioplasty is then performed with or without stenting , typically targeting the SMA alone due to existing collateral circulation. A retrospective study comparing SMA revascularization versus both SMA and CA revascularization did not find significant differences in regards to recurrent symptoms or re-interventions.[@malgor2010]
-
-Endovascular approaches have increased in frequency and have shown a trend towards fewer complications like pneumonia and sepsis and lower transfusion requirements.[@branco2015] Despite this, a significant proportion of endovascularly treated patients may still require subsequent open surgery. For example, a systematic review estimated a rate of between 13 to 73% for post initial endovascular intervention laparotomy rates.[@murphy2019] Notably, endovascular therapy is often selected for less critically ill patients, potentially skewing mortality and complication rates. In cases of thrombotic occlusion, endovascular treatment tends to have lower mortality rates compared to open surgery, suggesting it might be more suitable for such conditions, especially in older or frailer patients.
-
-### Hybrid Repair
-
-There is also a retrograde hybrid stenting technique that can be employed which utilizes a combination of surgical and endovascular methods. It involves open surgical exposure of the SMA followed by retrograde endovascular access in order to intervene with a covered stent or a balloon angioplasty. or in situations when an exploratory laparotomy is indicated but a patient is too unstable to undergo clamping of the aorta required for a bypass.[@milner2004]
-
-In the context of retrograde open mesenteric stenting, 68 patients with AMI at a single institution were studied. Patients without peritonitis underwent percutaneous artery stenting. Of those that failed percutaneous stenting 14 out of 15 patients were successfully treated with retrograde open mesenteric stenting. The 30-day outcomes showed a 20% mortality rate and 91% primary stent patency, while the 12-month outcomes reported the same mortality rate but a slightly reduced stent patency of 83%. Of note, two patients experienced worsening bowel ischemia, requiring subsequent laparotomy and bowel resection.[@blauw2014]
-
-### Catheter-Directed Thrombolysis (CDT)
-
-Another option for revascularization for AMI is catheter-directed thrombolysis (CDT). In CDT, a sheath is first inserted into the proximal SMA. A catheter with multiple side holes or a microcatheter is then advanced to the site of the embolus. A thrombolytic medication is infused through the catheter to dissolve the clot, and the process is monitored by repeat angiography, which is typically performed at intervals of 12 to 24 hours to evaluate the success of the thrombolysis.
-
-### Decision Making
-
-Revascularization choices are determined by clinical evaluation and vascular imaging. It is important to note that the choice between open and endovascular approaches depends on multiple factors, including the nature of the occlusion and the patient's overall health. There are no current randomized trials comparing endovascular and open revascularization. In a meta analysis, perioperative mortality was more commonly associated with open revascularization at 39.3% compared with endovascular intervention at 24.9%.[@beaulieu2014] Further research is needed to find the optimal approach to AMI.
-
-Over nine years at a single institution, 70 patients with AMI were followed, 81% of whom received endovascular treatments. Technical failures were noted in 13% of cases but no failures occurred in the open surgery cohort, yet such patients had a higher likelihood of postoperative pulmonary or renal issues. Mortality rates were 50% for open surgery and 39% for endovascular approaches, with the median duration of symptoms being shorter for open surgery (26 hours) than endovascular (62 hours), and the length of bowel resection was greater in open surgery (160 cm) compared to endovascular (52 cm).[@arthurs2011]
-
-::: callout-note
-In summary:
-
--   For sub-acute AMI presentations without signs of bowel infarction, endovascular revascularization is appropriate; however, this should not postpone necessary surgical evaluation.
-
--   In cases where bowel viability is uncertain, the first choice should be either an open embolectomy, traditional bypass, or hybrid retrograde stenting methods.
-
--   Immediate laparotomy is imperative for severe AMI cases presenting with signs of peritonitis to manage bowel integrity promptly.
-
--   Of note, utilizing a hybrid approach can be advantageous, potentially reducing complications associated with vein harvesting and avoiding the implantation of prosthetic materials.
-:::
-
-------------------------------------------------------------------------
-
-## Outcomes
-
-The mortality associated with AMI post-revascularization remains hight at around 50%. Patients that required bowel resection due to necrosis are at an even higher risk of mortality.[@bala2022]
-
 ------------------------------------------------------------------------
 
 ## Surveillance
-
-When it comes to postoperative surveillance after interventions for AMI, the approach differs based on the underlying cause of the occlusion. For occlusions caused by a thrombosed plaque, regular monitoring is typically more stringent due to the risk of recurrence. In contrast, for embolic events, the adherence to close surveillance may be less stringent since the source of embolism may be transient or have been addressed, such as through cardiac arrhythmia management. However, if a bypass is performed, irrespective of the cause, surveillance is warranted to monitor the patency of the graft. On the other hand, after an embolectomy, where the embolus is directly removed, intensive long-term surveillance may not be as critical unless other risk factors are present.
-
-::: callout-note
-After mesenteric stenting or mesenteric bypass, duplex ultrasound is recommended within one month to establish a new baseline, with follow-up scans every six months for the first year and annually thereafter.
-
-In-stent restenosis is defined as peak systolic velocity (PSV) over 445 cm/sec for the SMA and over 289 cm/sec for the CA.[@soult2016] These values would indicate a need for re-imaging and potential re-intervention especially in the presence of symptoms.
-:::
 
 ------------------------------------------------------------------------
 
