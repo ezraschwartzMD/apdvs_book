@@ -300,7 +300,7 @@ Wires can be categorized by function. Please find a list of each category with c
 Catheters are flexible, hollow tubes that are used in both the diagnosis and treatment of vascular disease. 
 
 ::: callout-note
-Catheters are measured in French (1F = 0.33 mm) and the diameter corresponds to the outer diameter of the tube.
+Catheters are measured in French (1F = 0.33 mm) and the diameter corresponds to the **outer diameter** of the tube.
 
 ![Outer diameter = OD, Inner diameter = ID.](images/ODID.jpg){fig-align="middle" width="50%"}
 :::
@@ -326,11 +326,105 @@ Catheters vary by size, stiffness, hydrophilicity, radiopacity, and functionalit
 
 ### Sheaths
 
+Sheaths are hollow tubes that provide a conduit between outer environment (i.e. outside the body) and the vessel. Returning to our train analogy, a sheath is the “tunnel” that the track and train run through. 
 
+Sheaths are used to advance and exchange catheters, wires, stents, balloons, and other devices. Sheaths can be divided into short sheaths for access and long sheaths for diagnostics and treatment. Long sheaths are flexible enough to track along different vessels, but are also stiff enough to support the advancement or exchange of devices. 
+
+::: callout-note
+Sheaths are measured in French (1F = 0.33 mm) and the diameter corresponds to the **inner diameter** of the tube.
+
+*As such, a 6F catheter will pass through a 6F sheath*
+:::
+
+Key points about sheaths: 
+
+- Sheaths are measured based on the inner diameter of the sheath, in contrast to catheters, which are measured based on their outer diameter. 
+-   Sheaths contain a removable introducer, which is used to expand the tract from the outside into the vessel, and provide a smooth transition between the wire and the sheath.
+-   The side port on sheaths is used to flush the inner device with heparinized saline to prevent thrombus formation and distal embolization. It can also be used to inject contrast for diagnostic purposes. 
+-   Sheaths come in variable diameters, lengths, and tips. 
+-   Some sheaths, such as the **TourGuide (Medtronic, Minneapolis, MN)** are steerable. The operator can deflect the sheath tip up to 180 degrees. This is advantageous when cannulating branch arteries with sharp angles.
+
+It is also helpful to understand what diameter of sheath can be inserted into different points of access as this will change the approach for the procedure. Though there is variation across patients, the table below is a useful starting point to understand what size sheath can be inserted in target access arteries. 
+
+| Artery         | Inner Diameter (mm)  | Typical Access Sheath size (F) |
+|----------------|----------------------|--------------------------------|
+| Radial         | 2.3                  | 4-6                            |
+| Brachial       |                      | 5-7                            |
+| Axillary       |                      | 5-14                           |
+| Common Femoral | 6.6                  | 5-24                           |
+| Popliteal      | 4.7                  | 4-6                            |
+| Pedal          | 2.1                  | 4                              |
 
 ------------------------------------------------------------------------
 
-## Treatment
+## Balloons, Stents, and Endografts
+
+The delivery system for balloons consists of a catheter over the wire with the balloon built into the catheter tip. As such, advancing the balloon into place for angioplasty is no different from advancing a small catheter without a balloon.
+
+Similar to balloons, stents are contained in catheters that are advanced into position over wires. The interventional component (i.e. stent) is near the tip of the catheter.
+
+Both stents and balloons can elute drugs, most commonly *Paclitaxel,* an antiproliferative agent. Paclitaxel is lipophilic and remains active in the vessel wall following the procedure, preventing neointimal hyperplasia and improving patency.The impetus for using a drug-eluting stent or balloon in place of a standard stent or balloon is to decrease the chances of vascular remodeling following the procedure that may lead to restenosis. 
+
+In contrast to drug-eluting stents, drug-eluting balloons have the advantage of not leaving hardware in the vessel after intervention. Contrarily, drug-eluting stents remain in the vessel lumen after intervention, but are able to continue providing radial force.
+
+### Balloons
+
+Balloons are versatile endovascular tools and can be categorized by the degree to which they assume of the shape of the vessel. 
+
+**Compliant balloons: **
+-   Compliant balloons inflate to a specific volume and *conform to the shape of the vessel.* 
+-   For example, the **[Fogarty balloon](https://www.youtube.com/watch?v=2WK4Mt__CYs)** is a compliant balloon that can be used to remove thrombi in both open and endovascular procedures.
+
+**Semi-Compliant balloons:**
+-   These balloons have a slightly more rigid shape and therefore conform to a lesser degree to the shape of the container (i.e. vessel). 
+-   The **Coda balloon (Cook Medical, Bloomington, IN)** is semi-compliant and used to temporarily occlude large vessels.
+
+**Non-Compliant balloons:**
+-   Non-compliant inflate to a predetermined shape and size. 
+-   They are commonly used in angioplasty of peripheral and/or visceral stenosed vessels. 
+
+![Angioplasty with a non-compliant balloon courtesty of J. Heuser, and Wikimedia.](images/angioplasty.jpg){fig-align="center" width="30%"}
+
+Intraoperatively surgeons will often ask for the pressures of the balloon before using. 
+Non-compliant balloons have a **nominal pressure,** which is the average pressure in atmospheres (atm) required to inflate the balloon to its *predetermined size,* and a **burst pressure,** where *99.9% of balloons will not burst if inflated to this pressure.* 
+
+### Stents
+
+Stents may be covered or uncovered. **Covered stents** do not allow flow between the lumen of the stent and surrounding tissues, in contrast to **uncovered (bare metal) stents** which do allow flow through the stent. 
+
+Stents can be categorized by the means of deployment. 
+
+**Self-expanding stents** use a recoil mechanism during deployment to achieve a set diameter using stored energy from the packing of the stent. 
+
+Key characteristics of **self-expanding stents**: 
+
+-   Flexible 
+-   Low profile
+-   Deformable 
+-   Low radial force (lower dissection risk)
+
+
+**Balloon-expandable stents** are packaged around a balloon. The surgeon uses the balloon inside the stent to achieve a specific diameter based on the pressure used to inflate the balloon. As the diameter of the stent increases with higher balloon pressure, the length of stent decreases. 
+
+Key characteristics of **balloon-expandable stents**:
+
+-   Rigid 
+-   Large profile 
+-   Maintains shape over time 
+-   More accurate deployment
+-   High radial force (higher risk of dissection) 
+
+:::callout-tip
+**Highly tortuous vessels** often require a **self-expanding stent** because of the increased flexibility needed to prevent kinking or in-stent restenosis. 
+
+**Heavily calcified vessels** often require the increased radial force of **balloon-expandable stents** to achieve full patency. 
+:::
+
+![Balloon-expandable stent deployment courtesty. Blausen Medical. Retrieved on 22 February 20. Wikimedia.](images/balloonexpandstent.jpg){fig-align="center" width="40%"}
+
+### Endografts
+
+
 
 ------------------------------------------------------------------------
 
