@@ -39,6 +39,10 @@ book:
       - claudication.qmd
       - CLTI.qmd
 
+    - part: "Miscellaneous Topics"
+      chapters: 
+      - endobasics.qmd
+
     - feedback.qmd
     - references.qmd
 

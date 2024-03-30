@@ -28,7 +28,16 @@ By the end of this chapter, students will:
 ::: {.callout-note icon="false"}
 ## Key Facts
 
-1.  To do
+1.    Endovascular surgery is a minimally invasive approach to treat a variety of vascular pathologies, including peripheral artery disease, aortic aneurysms, venous diseases, and others by deploying baloons, stents, and or endografts.
+2.    The common femoral artery (CFA) is the most common site of access for endovascular surgery due to its larger size and lower risk of complications relative to other sites of vascular access
+3.    Using the analogy of a train on a track passing through a tunnel, a catheter can be thought of as the train, a wire as the train track, and a sheath as the surrounding tunnel.
+4.    Wires are used to guide devices such as catheters and sheaths into a vessel. 
+5.    Catheters are flexible, hollow tubes that are used in both the diagnosis and treatment of vascular disease. In an analogy of a train track, the catheter can be thought of as the train, the track is the wire, and the surrounding tunnel is the sheath.
+6.    Catheters are measured in French (1F = 0.33 mm) and the diameter corresponds to the outer diameter of the tube.
+7.    Sheaths are hollow tubes that provide conduit between outside the body and into the vessel, the “tunnel” in the train track analogy. Sheaths are used to advance and exchange catheters, wires, stents, balloons, and other devices.
+8.    Sheaths are measured in French (1F = 0.33 mm) and the diameter corresponds to the inner diameter of the tube.
+9.    **A 6F catheter will pass through a 6F sheath.**
+10.   Endovascular surgery is not without risks and complications. Complications include the formation of hematoma, pseudoaneurysm, retroperitoneal hematoma, fistula, dissection, thrombosis and embolism, and atheroembolism. Other complications include wire perforation vessel rupture.
 :::
 
 ::: callout-tip
@@ -339,7 +348,7 @@ Sheaths are used to advance and exchange catheters, wires, stents, balloons, and
 ::: callout-note
 Sheaths are measured in French (1F = 0.33 mm) and the diameter corresponds to the **inner diameter** of the tube.
 
-*As such, a 6F catheter will pass through a 6F sheath*
+*As such, a 6F catheter will pass through a 6F sheath.*
 :::
 
 Key points about sheaths:
