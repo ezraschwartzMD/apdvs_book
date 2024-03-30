@@ -466,17 +466,17 @@ Vascular surgeons perform a number of endovascular procedures. The most common i
 
 ![Inferior Vena Cava Filter courtesy of scientificanimations.com. Retrieved on 30 March. Wikimedia.](images/ivcfilter.jpg){fig-align="center" width="40%"}
 
-Procedure: 
+Procedure:
 
--   Access is usually obtained via the right femoral vein as it gives direct access to the IVC. 
+-   Access is usually obtained via the right femoral vein as it gives direct access to the IVC.
 
--   Ultrasound should be used to confirm that there is no thrombus at the access site - Access is then obtained via the Seldinger technique and a venacavogram is then obtained to assess the anatomy and the location of the renal veins 
+-   Ultrasound should be used to confirm that there is no thrombus at the access site - Access is then obtained via the Seldinger technique and a venacavogram is then obtained to assess the anatomy and the location of the renal veins
 
--   The filter is generally placed just below the renal veins to prevent renal vein thrombus if filter thrombosis occurs. 
+-   The filter is generally placed just below the renal veins to prevent renal vein thrombus if filter thrombosis occurs.
 
--   If a retrievable filter is placed, it should be removed as soon as the filter is no longer clinically indicated. 
+-   If a retrievable filter is placed, it should be removed as soon as the filter is no longer clinically indicated.
 
--   Filter retrieval becomes more challenging the longer the filter remains in place. 
+-   Filter retrieval becomes more challenging the longer the filter remains in place.
 
 -   Filter retrieval is generally performed through the internal jugular vein in the neck to give access to the hook at the superior end of the filter, which can be snared and removed.
 
@@ -502,17 +502,17 @@ Procedure:
 
 -   Access is typically obtained in the contralateral common femoral artery and a wire and catheter are passed up and over the aortic bifurcation to gain access to the operative (ipsilateral) side.
 
--   A series of angiograms are taken to assess the level of disease and based on this a final operative plan will be made. 
+-   A series of angiograms are taken to assess the level of disease and based on this a final operative plan will be made.
 
 -   There are multiple options for treatment including angioplasty, stenting, atherectomy, thrombectomy, and thrombolysis, to name a few.
 
-Possible Interventions: 
+Possible Interventions:
 
-- **Angioplasty:** a balloon is advanced across the area of concern (usually atherosclerosis causing a flow limitation) and expanded to dilate the area of stenosis.
+-   **Angioplasty:** a balloon is advanced across the area of concern (usually atherosclerosis causing a flow limitation) and expanded to dilate the area of stenosis.
 
-- **Stenting:** commonly after an angioplasty, a stent is placed to maintain patency of the area. There are multiple types of stents (covered above) that can be used depending on anatomic location, size, and indication. 
+-   **Stenting:** commonly after an angioplasty, a stent is placed to maintain patency of the area. There are multiple types of stents (covered above) that can be used depending on anatomic location, size, and indication.
 
-- **Atherectomy:** a procedure where a calcified plaque is physically removed from the artery. This can be done with a cutting blade, a spinning drill-like device, or a laser.
+-   **Atherectomy:** a procedure where a calcified plaque is physically removed from the artery. This can be done with a cutting blade, a spinning drill-like device, or a laser.
 
 ::: callout-note
 **Considerations for Atherectomy**
@@ -528,7 +528,7 @@ There is ongoing research into the outcomes of atherectomy versus stenting alone
 
 ### Fistulograms
 
-A fistulogram is an angiographic study used to interrogate and troubleshoot a disfunctional arteriovenous fistula. 
+A fistulogram is an angiographic study used to interrogate and troubleshoot a disfunctional arteriovenous fistula.
 
 Common complications of fistulas include:
 
@@ -543,6 +543,170 @@ Access is obtained in different locations depending on the culprit lesions (the 
 
 ## Risks
 
+As with any invasive procedure, even a minimally invasive procedure comes with its own set of risks, and as the complexity of the procedure increases so does the risk.
+
+The American Heart Association has put out guidelines to help stratify patients at risk for vascular complications.[@patel2010a]
+
+**Low risk cases** were defined as those with a complication rate below 1%. Characteristics include:
+
+-   Diagnostic angiograms without interventions.
+-   Short operative times.
+-   Small sheaths (5 Fr).
+-   Minimal anticoagulation.
+-   Younger male patients with larger body habitus and normal renal function were at lowest risk of complications.
+
+**Moderate risk cases** were defined as those with a complication rate of 1-3%. Risk factors include:
+
+-   Longer, more complex procedures.
+-   Involve larger sheaths (6-7Fr).
+
+**High risk cases** were defined as those with a complication rate \>3%. Risk factors include:
+
+-   Peripheral arterial disease patients
+-   Advanced age
+-   Female sex at birth
+-   Liver disease
+-   Coagulopathy
+-   Immunosuppression
+-   Status post valve replacement
+-   Renal dysfunction.
+-   Longer procedure times
+-   Larger sheaths (\>8Fr), use of arterial closure devices
+-   More likely to involve anticoagulation
+
+### Access Complications
+
+Although each procedure comes with its own specific risks (e.g. stroke for a carotid artery stent, distal embolization for atherectomy etc), there are multiple complications that can occur with any endovascular procedure. The procedure specific complications will be explored in further detail in each chapter. Common access complications are listed below.
+
+#### Groin Hematoma
+
+A groin hematoma is a collection of blood that has collected outside the lumen of the vessel, which often occurs after removal of the sheath.
+
+Groin hematoma characteristics:
+
+-   Occur in about 1-3 % of cases
+-   Often due to a stick not directly over the femoral head in which case manual pressure may not provide adequate hemostasis.
+-   Hematomas are rarely ever operated on unless they case skin compromise, severe pain, femoral nerve compression, or are rapidly expanding.
+-   Hematoma will generally be absorbed by the body.
+-   If they are operated on, there is a significant risk of infection (about 20%) and seroma formation.
+
+#### Pseudoaneurysms
+
+A pseudoaneurysm is defined as a collection of turbulent blood flow contained only by one or two layers of the arterial wall as opposed to a true aneurysm where all three layers are dilated (**occur in less than 1% of endovascular cases**). They occur secondary to injury (iatrogenic or trauma).
+
+**These must be managed urgently and treated appropriately to prevent significant morbidity and mortality.**
+
+##### Pseudoaneurysm presentation:
+
+-   Pulsatile often painful mass at a prior access site
+-   May lead to skin necrosis
+-   Bruit on auscultation
+
+##### Pseudoaneurysm risks:
+
+-   Vessel rupture
+-   Thrombus formation with distal embolization
+-   Skin necrosis
+-   Nerve compression
+-   Venous compression
+
+##### Etiology:
+
+Most often, seen at the femoral artery as an access site complication from:
+
+-   Failed deployment of a closure device
+-   Laceration of the artery or branch by an access needle
+-   Inadequate pressure or length of pressure being held.
+
+Patients who are obese, female, hypertensive or are on anticoagulation or antiplatelet therapy are at higher risk for femoral PSA.
+
+##### Workup:
+
+-   Duplex ultrasound of the site.
+-   Pulse exam to ensure adequate distal perfusion.
+
+##### Management:
+
+Management is dependent on size and presentation of the pseudoaneurysm. In the past, all pseudoaneurysms were treated operatively, but with new advances, minimally invasive techniques have become more common with good outcomes.
+
+-   For a small asymptomatic pseudoaneurysm (less than 2cm), an appropriate first step would be observation and repeat duplex ultrasound in about one month.
+-   For a persistent pseudoaneurysm after one month, a larger/loculated asymptomatic pseudoaneurysm, or a pseudoaneurysm that presents with minor pain at the site, minimally invasive intervention with ultrasound guided compression or ultrasound guided thrombin injection is appropriate.
+-   For any pseudoaneurysm presenting with persistent hemodynamic instability, limb ischemia, skin necrosis, AV fistula, nerve compression, expanding hematoma, an urgent operation is required.
+-   Urgent open repair generally consists of gaining proximal and distal control and then primary repair of the arterial defect.
+-   Urgent endovascular management may also be entailed by deploying coils in the sac and placing a covered stent in the femoral artery, therefore thrombosing the pseudoaneurysm.
+
+[@kassem2013][@kassem2014][@tulla2024]
+
+#### Retroperitoneal Hematoma
+
+A retroperitoneal hematoma is a collection of blood accumulating in the retroperitoneal space where the external iliac artery travels.
+
+Key points:
+
+-   It is a rare complication occurring in about 0.5% of cases.
+-   Retroperitonaly hematomas are a dreaded complication as they comes with high morbidity and mortality especially if not rapidly diagnosed.
+-   Retroperitoneal hematomas occur when the arterial stick in the artery during groin puncture is performed too high, above the level of the inferior epigastric artery.
+-   This leads to extravasation of blood into the retroperitoneal space after sheath removal.
+-   Retroperitoneal hematomas can usually can be treated with a closure device if diagnosed intra operatively or a covered stent from the contralateral side.
+
+#### Arteriovenous (AV) Fistula
+
+An arteriovenous fistula is an aberrant connection between an artery and a vein. Although commonly formed surgically for hemodialysis access, they can be caused iatrogenically during arterial access for endovascular intervention.
+
+Key points:
+
+-   They are rare and occur in less than 1% of groin access cases.
+-   Occur during inadvertent puncture of the deep femoral artery and deep femoral vein.
+-   Usually no intervention is needed.
+
+#### Dissection
+
+An arterial dissection is the separation of the layers of the arterial wall.
+
+Key points:
+
+-   May occur naturally (often secondary to hypertension) or iatrogenically (in the setting of arterial puncture). This most often occurs in the setting of a posteriorly lying plaque in the artery where the wire can separate the posterior layers.
+-   To prevent dissection, do not apply too much forward pressure when advancing a wire during initial arterial access. Do not inject fluid (saline or contrast) unless there is blood return to ensure the needle or catheter tip are in the true lumen.
+-   Treatment can be conservative in the case of an iatrogenic dissection or treated with stent placement if the dissection limits blood flow. Intravascular ultrasound can be used to further assess the dissection.
+
+#### Acute Thrombosis of Access Vessel
+
+Acute thrombus of the access vessel is when the artery where access is obtained completely "clots off." It is an incredibly rare complication caused by incorrect deployment of vascular closure devices, access site dissection, or occlusive sheath placement in a small or diseased vessel.
+
+### Endovascular Surgical Complications
+
+#### Atheroembolism
+
+Atheroembolism is the dislodgement of a portion of a cholesterol plaque leading to distal embolization causing acute thrombosis or partial occlusion.
+
+Key points: [@liew2005]
+
+-   Generally, when these come from the ascending aorta or arch, they will embolize to the cerebral and retinal vessels. On the other hand, when an embolus originates in the thoracic or descending aorta, it will likely embolize to the mesenteric, renal or lower extremity vessels.
+-   These emboli will then cause a further inflammatory response worsening outcomes.
+-   Outcomes are dependent on volume and size of emboli and can range from sub-clinical to fatal.
+-   Embolization is most common to the skin, kidneys, and GI tract though it is dependent on the site of the procedure.
+-   Unfortunately this condition is generally under diagnosed and challenging to treat. - Primary prevention is of utmost importance with good surgical technique.
+
+#### Wire Perforation 
+
+Wire perforation occurs when an angiographic wire creates a hole in a vessel. 
+
+Key points:
+
+-   Incredibly rare but treatable when diagnosed rapidly.
+-   Occurs when a large stiff hydrophilic wire is passed through a small vessel especially if not done under fluoroscopic guidance.
+-   Treatment involves transcatheter embolization of the perforation site.
+
+#### Vessel Rupture
+
+Vessel rupture occurs when a device or balloon is oversized for a vessel and causes a "blowout" of a vessel.
+
+Key points:
+
+-   Rupture can be cause by an oversized balloon or balloon expandable stent, by expanding a properly sized balloon in a heavily calcified vessel or by passage of a large device such as an EVAR device through a small vessel.
+-   Rupture is associated with a high morbidity and mortality especially if there is any delay in diagnosis. 
+-   Immediately upon recognition of vessel rupture, a balloon should be inflated in the region to obtain adequate hemostasis. Simultaneously, supplies should be can gathered for vessel repair. 
+-   Repair is usually done with a covered stent placed across the rupture. If adequate hemostasis cannot be obtained, open repair may be necessary. 
 
 ------------------------------------------------------------------------
 
@@ -550,23 +714,23 @@ Access is obtained in different locations depending on the culprit lesions (the 
 
 ### Scenario
 
-TO DO
+A 71 year old male with a past medical history of hypertension, hyperlipidemia, coronary artery disease with stent placement was diagnosed with acute type B aortic dissection three weeks ago. He was managed medically in the hospital and sent home after one week with blood pressure and pain well-controlled. An image from the CTA at time of diagnosis is seen below: 
+
+![CTA](images/endotc.jpg){fig-align="left" width="80%"}
+
+The proximal extent of the dissection was 3 cm distal to the left subclavian artery and the distal extent was 2 cm superior to the celiac artery, allowing good landing zones for an endograft. The left internal iliac artery is fully occluded, and the right internal iliac artery has roughly 50% stenosis. The left external iliac artery is heavily calcified and stenotic >50%. The right common and external iliac artery are patent without evidence of significant atherosclerosis. The patient is evaluated in the preoperative area prior to placement of a thoracic endograft in the hybrid operating room. 
 
 ### Exam
 
-**HEENT:** TO DO
+**HEENT:** Pupils round and reactive to light, no lymphadenopathy
 
-**Cardiac:** TO DO
+**Cardiac:** Regular rate and rhythm
 
-**Pulmonary:** TO DO
+**Pulmonary:** Clear to auscultation in all lung fields. No accessory muscle use. 
 
-**Abdominal:** TO DO
+**Abdominal:** Soft, non-tender, non-distended, no pulsatile masses felt. 
 
-**Vascular/Extremities:** TO DO
-
-### Imaging
-
-**Duplex Ultrasound:** TO DO
+**Vascular/Extremities:** Warm, non-edematous. Palpable pulses in all four extremities.
 
 ### Discussion Points
 
@@ -576,7 +740,11 @@ TO DO
 However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
 :::
 
-1.  TO DO
+1.    What clinical risk factors make this patient a good candidate for endovascular vs. open repair?
+2.    The endograft used for this operation requires at least an 18F sheath, which site of access should be used to insert and implant the graft?
+3.    What diameter and hydrophilicity of wire should be used to advance the thoracic endograft to the site of dissection?
+4.    The attending surgeon requested mean arterial pressures to be at least 90 mmHg throughout the operation. Why would intraoperative hypotension be concerning in this patient? What anatomic factors make this patient at particular risk?
+5.    If the patient developed pain at the site of access one week later, with a well-healing wound and palpable thrill on physical exam, what kind of access-related complication are you worried about and what would be your next step to confirm the diagnosis?
 
 ------------------------------------------------------------------------
 
@@ -606,6 +774,21 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ------------------------------------------------------------------------
 
+### Websites
+
+-   TeachMe Surgery: [Pseudoaneurysm](https://teachmesurgery.com/vascular/peripheral/pseudoaneurysm/)
+
+------------------------------------------------------------------------
+
+### Serious Games
+
+#### Touch Surgery Simulations.
+
+-   Must download the [Medtronic Touch Surgery mobile application](https://www.medtronic.com/covidien/en-us/products/digital-surgery/simulations.html) to access the modules. Available for Apple and Android mobile devices.
+-   [Femoral Artery Access](https://www.touchsurgery.com/simulations/femoral-artery-access)
+
+------------------------------------------------------------------------
+
 ### Gore Combat Manual
 
 The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
@@ -620,8 +803,29 @@ Please see pages 25-41, 49-61.
 
 Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.* Please create and/or log in to your YouTube account to have access to the videos.
 
-#### (Open) SMA Embolectomy
+#### Ultrasound-Guided Femoral Access
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/45Rs90giA8E?si=pF8Z0N80P6mivKkW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+#### ProGlide Vascular Closure Device Deployment
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/USuy4f15ugg?si=dAtLr6_awyeQ-u3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+#### Inferior Vena Cava (IVC) Filter Placement 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/29-8tVIrh6o?si=6NQ9eyFIayyuiP6S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+#### Standard IVC Filter Retrieval
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZqeMld1mNC0?si=cv7W5Rc5iXXXhcd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 <!-- Google tag (gtag.js) -->
 
 ```{=html}
