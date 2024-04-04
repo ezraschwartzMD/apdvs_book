@@ -1,0 +1,900 @@
+---
+title: "Radiation and Radiation Safety"
+chapter_number: 7
+title-block-banner: false
+title-block-style: plain
+authors: Lucas Canaan, Do, Mark Basilious, BS, Ezra Schwartz, MD, MS, MMS, Daniel Torrent MD, MPH, FACS.
+format: html
+editor: visual
+number-sections: false
+bibliography: references.bib
+smooth-scroll: true
+link-external-newwindow: true
+---
+
+#  {#sec-radsafety}
+
+::: {.callout-note icon="false"}
+## Chapter Learning Objectives
+
+By the end of this chapter, students will be able to:
+
+-   Recognize the fundamental types of ionizing radiation.
+-   Understand the sources of radiation in the vascular operating room.
+-   Recognize and practice radiation safety measures.
+-   Recognize adverse outcome of significant radiation exposure.\
+:::
+
+::: {.callout-note icon="false"}
+## Key Facts
+
+1.    The primary forms of ionizing radiation are alpha particles, beta particles, gamma rays, and x-rays.
+2.    In the operating environment, x-rays scatter leading to potential unexpected exposure.  
+3.    Lead aprons and glasses are important in protecting radiosensitive organs in the body.
+4.    Proper shielding, minimizing duration of radiation use, and increasing distance from the source are important measures to reducing the amount of radiation exposure.
+5.    The side effects of prolonged radiation exposure to healthcare providers include various health issues such as cataracts and reproductive dysfunction.
+:::
+
+::: callout-tip
+## How We Suggest Using the Pre/Post Questions
+
+The pre/post questions are listed below. They are all multiple choice questions with a single right answer. To best guide your learning, we have hidden the answers in a collapsible menu. Before reading the chapter, we suggest giving the questions a try, noting your answers on a notepad. After reading the chapter, return to the questions, re-evaluate your answers, and then open the collapsible menu to read the correct answer and discussion. Do not fret if you have difficulty answering the questions before reading the chapter! By the end of the chapter, we are certain you will have covered the knowledge necessary to answer the questions. There will be a teaching case at the end of the chapter. This is another opportunity to exercise your new knowledge!
+:::
+
+## Pre/Post Questions
+
+### Case Based Questions
+
+1.  A 45 year old vascular surgeon with 10 years of professional practice is preparing to perform a left upper extremity fistulogram due to concerns for prolonged bleeding after hemodialysis. *What is the most appropriate PPE that the student should wear during the case?*
+
+<!-- -->
+
+A.    Full leaded face shield, lead apron, and personal radiation badge 
+
+B.    Lead apron alone 
+
+C.    Leaded safety glasses 
+
+D.    Lower half of a 2-piece lead apron and thyroid shield 
+
+E.    Lead apron, leaded safety glasses 
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**A. Full leaded face shield, lead apron, and personal radiation badge **
+
+Discussion: The most appropriate PPE includes a full leaded face shield, lead apron, and radiation badge making answer a the correct answer. This will provide the most significant protection to the head and neck as well as vital organs of the body during the procedure. The radiation badge will help with long-term protection as it allows for cumulative tracking of exposure. A lead apron alone and or lead glasses alone is inadequate for optimal protection making answers b, c, and d incorrect. A full-face shield will be of greater protection than glasses which makes answer e incorrect. 
+
+:::
+
+2.  A 25 year old medical student has been invited to observe endovascular stent placement for an infrarenal AAA. *In addition to wearing appropriate PPE, what can the medical student do to reduce their exposure during the case?*
+
+<!-- -->
+
+A.    Stand as close to the radiation source as possible.
+
+B.    Turn their back to the radiation source.
+
+C.    Stand as far from the radiation source as possible.
+
+D.    Wear a radiation badge.
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**C. Stand as far from the radiation source as possible.**
+
+Discussion: Increasing one's distance from the radiation source is a key measure to to reduce radiation exposure. Radiation exposure decreases as the distance from the source increases. This phenomenon follows an inverse square law (1/d^2). Standing close to the source will increase their radiation dose making answer a incorrect. If wearing a lead smock, turning one's back to the radiation source will render the PPE useless. If wearing a leaded vest and skirt, turning one's back has no effect. Wearing a radiation badge is beneficial for long-term monitoring of radiation exposure but does not affect the amount of radiation exposure. 
+:::
+
+3.  A 55 year old vascular surgeon who has been practicing for 20 years has noticed some subtle changes in his vision. *What is the most likely underlying disease process?*
+
+<!-- -->
+
+A.    Optical neuropathy 
+
+B.    Glaucoma 
+
+C.    Opacification of the lens
+
+D.    Retinal angiopathy  
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**C. Opacification of the lens**
+
+Discussion: The lens is the most radiosensitive componenet of the eye. Lens opacification (i.e. cataracts) is the most common adverse effect of radiation exposure to the eye. There was no mention of increased intraocular pressure or abnormal fundoscopic exam making answers a, b, and d incorrect. 
+:::
+
+4.  A 65 year old female is presenting to the hospital for endovascular repair of a complicated AAA. There is prolonged radiation time with a calculated absorbed dose of 3.5 Gy. *What is the most likely skin exam finding during the patient's hospital course?*
+
+<!-- -->
+
+A.    Skin necrosis 
+
+B.    Burn 
+
+C.    No acute findings as the dose were too low 
+
+D.    Erythema 
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**D. Erythema**
+
+Discussion: With a dose of 3.5 Gy, the most likely result will be transient erythema between 2 to 24 hours from exposure. This can be found in table 2. Skin necrosis can occur, but it would need much higher doses making answer a wrong. It would be incorrect to say the dose is too low as 3.5 Gy making answer c invalid, and also below the threshold to cause a burn making answer b incorrect as well.
+:::
+
+5.  A 42 year old male on hemodialysis from a left upper extremity brachiocephalic fistula for CKD is seen for a fistulogram due the patient having trouble pulling during dialysis. The patient is placed in the supine position with left arm extended. The c-arm is initially perpendicular to the operating table. To achieve better views of the proximal vessels, the c-arm is rotated counterclockwise (from the perspective of looking from the patient's feet superiorly) so that the image intensifier is rotated more towards the patient's right shoulder. *What is the appropriate name for the c-arm position?*
+
+<!-- -->
+
+A.    LAO (left anterior oblique) 
+
+B.    RAO (right anterior oblique) 
+
+C.    Cranial 
+
+D.    Caudal 
+
+E.    AP (anterior posterior) 
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**B. RAO (right anterior oblique)**
+
+Discussion: When the image intensifier is rotated more towards the right shoulder, this is the RAO position making answer a correct. If the c-arm were rotated clockwise, with the c-arm over the left shoulder, this would be the LAO position. As no mention was made of rotating the c-arm towards the head or foot of the bed, answers c and d are incorrect. The AP position was the initial position of the c-arm when it is perpendicular to the OR table. 
+:::
+
+6.  A 27 year old female who is a circulating nurse in the  endovascular suite recently became pregnant. She has informed the radiation safety officer and staff of the endovascular suite. She is curious how best to monitor the radiation dose the fetus is receiving in utero. Where should the nurse place the fetal dosimetry badge? 
+
+<!-- -->
+
+A.    The dosimetry badge should be worn on the outside of the lead apron at chest level 
+
+B.    The dosimetry badge should be worn under the lead apron around chest 
+
+C.    The dosimetry badge should be worn outside the lead apron at the abdomen level. 
+
+D.    The dosimetry badge should be worn under the lead apron at the abdomen level. 
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**D. The dosimetry badge should be worn under the lead apron at the abdomen level.**
+
+Discussion: To monitor the dose to the unborn child, the dosimeter badge should be worn under the lead at the abdomen level, making answer d correct. We are concerned with the amount of radiation that is able to pass through  proper PPE. Wearing the badge outside the lead apron will indicate the amount of radiation exposure in front of the shielding and not an approximate fetal dose making answers a and c incorrect. If the badge is worn at the level of the chest, the dose will also not be the most accurate, making answer b incorrect. 
+:::
+------------------------------------------------------------------------
+
+## Introduction
+
+The use of radiation is fundamental to a vascular surgeon’s practice. Intraoperative fluoroscopy, computer tomography (CT), and plain film X-rays (to a lesser extent) are crucial tools in vascular surgery. The vascular surgery patient will likely undergo all these radiation-based imaging studies. 
+
+Vascular surgeons and other professionals (nurses, scrub technicians, imaging technicians, etc.) can be exposed to significant levels of radiation over a career of performing intraoperative fluoroscopy/angiography and endovascular surgery. As the medical community is well aware of these risks, many initiatives are underway to decrease the amount of radiation required to perform studies and interventions.
+
+Vascular patients are also exposed to radiation, although often at higher doses over shorter periods of time. Educating oneself about radiation and radiation safety is essential. This chapter will explore the basics of radiation, radiation safety principles and measures, and potential adverse outcomes of significant radiation exposure.
+
+------------------------------------------------------------------------
+
+## Radiation Penetrance
+
+A critical concept to understand when discussing occupational and patient exposure to radiation is penetrance. 
+
+-   **Penetrance** refers to the ability of emitted radiation to penetrate into or through materials and is defined as the fraction of radiation passing through a given object (or the inverse of attenuation).
+-   The **density** of materials or tissues determines their **ability to attenuate or block X-rays.**
+-   Dense tissues (bone) or materials (lead) absorb a greater fraction of radiation while less dense tissues (skin) or materials (water) allow for deeper penetration. 
+
+This concept is especially relevant to vascular surgeons and their patients as an increasing proportion of vascular procedures are performed endovascularly under live fluoroscopy which utilizes X-rays. 
+
+![Penetrating power of different types of radiation - alpha, beta, gamma and neutrons courtesty of Openclipart and Juhele. *X-rays have similar penetrance to gamma rays.*](images/penetrance.jpg){fig-align="left" width="50%"}
+
+## Radiation types
+
+Radiation can be broadly categorized into ionizing and non-ionizing forms. This chapter will focus on ionizing radiation, which is encountered by medical professionals in clinical settings. 
+
+Ionizing radiation falls within the higher frequency range of the electromagnetic spectrum. The commonly discussed types of ionizing radiation include X-rays, alpha particles, beta particles, gamma rays.
+
+### Alpha Particles
+
+Alpha particles, despite their high energy, have poor penetrance. As such, they do not penetrate the skin. However, they can be dangerous if inhaled or ingested. 
+
+### Beta Particles
+
+Beta particles, have slightly more penetration than alpha particles. 
+
+They have some ability to penetrate the skin. However, they can be easily blocked by less dense shielding like aluminum. 
+
+Similar to alpha particles, beta particles can also cause harm if ingested or inhaled. 
+
+### Gamma Rays
+
+Gamma rays possess significantly more energy and can penetrate through the human body and less dense shielding. 
+
+**Lead is effective in shielding against gamma rays due to its density.** Dense materials increase the likelihood of radiation interacting with subatomic particles, reducing the rays’ passage through the material. 
+
+As gamma rays pass through the body, they cause ionizing damage to tissue and DNA and should be treated with caution.
+
+### X-Rays
+
+X-rays, widely used in healthcare, share similarities with gamma rays in their ability to penetrate tissue. 
+
+Their application in medical imaging includes plain X-ray films, CT scans, and fluoroscopy. 
+
+**Lead is effective in shielding against x-rays due to its density.**
+
+The position of the x-ray emitting source of the the C-arm used for endovascular procedures is at the bottom of the arm, beneath the patient and the operating room table. **This is the location of highest exposure.**
+
+As the X-ray source emits radiation, **radiation scatter occurs**, moving upward and outward from the source.
+
+## Terminology
+
+It is imporant to understanding the terminology related to radiation exposure. 
+
+-   The **absorbed dose** refers to the energy from ionizing radiation per unit mass of exposed material, measured in **grays (Gy).** 
+-   The **equivalent dose** represents the mean absorbed dose of a specific organ or tissue, measured in **sieverts (Sv).** 
+-   The **effective dose,** also measured in *8sieverts (Sv),** accounts for total-body radiation exposure and is guided by the International Commission on Radiological Protection (ICRP) guidelines for comparing radiation effects on individuals. 
+
+X-ray technology for imaging comprises two critical components: the **radiation source,** where X-ray photons are generated, and the **detector.**
+
+-   The shape of the beam from the **source** is managed by the **collimator.** 
+-   As X-ray beam passes through the patient, they are captured by the detector and an image is created by **image intensifier.**
+
+In endovascular procedures using a C-arm, the detector portion (i.e. image intensifier) is above the patient, while the X-ray source is beneath the patient and table. 
+
+------------------------------------------------------------------------
+
+## Principles for Patient Safety with Radiation Exposure
+
+While any procedure that produces ionizing radiation will expose the patient to some degree of risk, it is the responsibility of the patient’s surgeon to ensure that the risk of the procedure is minimized as much as possible without compromising the efficacy of the therapy. A number of core principles should be considered whenever a provider is considering recommending or performing a treatment with ionizing radiation including:
+
+### Medical Necessity and Justification for the Procedure
+
+The potential benefits of the procedure should outweigh the risks of not performing the procedure or performing an alternative procedure without radiation exposure.
+
+### Exposure Optimization
+
+The radiation dose delivered, particularly for intraoperative exposures, should be optimized to be as low as possible while still achieving adequate image quality for the procedure and decision making. 
+
+This includes fluoroscopy techniques such as reducing the time under fluoroscopy by using **pulsed fluoroscopy** as opposed to continuous scanning, **collimating the X-ray beam** to the area of interest and **narrowing the beam** to only scan structures necessary, **adjusting the frame rate of fluoroscopy** images when temporal resolution is not necessary. 
+
+It also includes **effective preoperative planning,** including properly positioning the patient for optimal imaging to reduce repeated attempts, and planning with previous imaging to ensure good understanding of the vascular anatomy and to form a procedural plan prior to exposing the patient to additional radiation.
+
+### The ALARA Principles
+
+ALARA stands for *“As Low As Reasonably Possible,”* and refers to the balance between minimizing radiation exposure to the patient without compromising the quality of care. 
+
+**The energy of the X-rays:** Higher energy X-rays will have greater penetrance and pass through thicker and deeper tissue more easily. Energy is typically adjusted during the procedure to optimize for the depth of the structures being imaged.
+
+**The duration of exposure:** The dose of radiation delivered to the patient and the OR staff is directly correlated with the duration of exposure. This is why vascular surgeons try to limit the amount of time under fluoroscopy to the minimum required.
+
+**The distance from the source:** The intensity of radiation exposure decreases with distance from the emitting source in an inverse square relationship. The patient and surgeons at bedside and closest to the C-arm, therefore, receive significantly greater doses of radiation as compared to OR staff further away. 
+
+### Patient Education and Informed Consent:
+
+------------------------------------------------------------------------
+
+## Wires, Catheters, and Sheaths
+
+::: callout-tip
+Using the analogy of a train on a track passing through a tunnel, the catheter can be thought of as the train, the wire as the train track, and the sheath as the surrounding tunnel.
+:::
+
+### Wires
+
+Wires are the first device inserted into a patient, have the lowest profile, and are variable in properties. Vascular access wires are made of a metal core and an outer wire wrapped around the metal core. They are used to guide devices such as catheters and sheaths into a vessel. Characteristics of wires include:
+
+#### Diameter
+
+-   Wire diameter is described in thousandths of an inch and typically range from 0.010-0.038".
+-   Vascular access is typically obtained with a 0.018" wire and is exchanged for a smaller or larger profile as needed.
+-   The most common sizes used are 0.035", 0.018" and 0.014".
+
+#### Stiffness
+
+-   Wire stiffness is determined by the metal used as the core of the wire.
+-   The same wire will become stiffer with a larger diameter.
+-   Softer wires are used to manipulate catheters into vessels.
+-   Stiffer wires are needed to push larger devices, such as balloons or endografts.
+
+#### Coating
+
+-   Wires have a hydrophilic or hydrophobic coating.
+-   Hydrophilic wires have less friction when moving along the vessel wall and track more closely along the vessel lumen, increasing the risk of dissection.
+-   Hydrophilic wires are preferable in highly tortuous vessels.
+-   In contrast, hydrophobic wires keep more distance from the vessel wall and are less likely to dissect.
+
+#### Tip Shape
+
+-   The tip shape and consistency of the wire is important.
+-   Angled tips are used to navigate into side branches of vessels.
+-   Soft tips are designed to prevent trauma to the vessel wall.
+-   Weighted tips are used to cross occlusions.
+-   J-tips are used to prevent wiring of too small of vessels that may lead to trauma of end organs.
+
+#### Length
+
+-   Wires are measured in centimeters (cm) and typically range from 80 - 300 cm.
+-   Wires must not only be long enough to reach the target vessel from the point of access, but also need to be long enough to support exchanges outside of the body as needed.
+-   Care must be taken to avoid too long of a wire for its intended purpose as it is harder to control the end of the wire outside of the body.
+
+![Commonly used wires, curtosy of B. G. Northcutt, MD, A Shah, MD, Y Sheu, MD, L Carmi, MD.](images/wires.jpg){fig-align="middle" width="100%"}
+
+#### Function
+
+Wires can be categorized by function. Please find a list of each category with common examples of specific wires below.
+
+##### Access wires:
+
+-   Short, typically 0.018" wires with a soft, non-directional tip to prevent any trauma to the vessel when entering, and a stiffer body to allow tracking of the introducer and sheath into the vessel.
+
+##### Guidewires:
+
+-   Generally are characterized as pushable, hydrophilic wires with a floppy, curved or angled tips that are designed to track through tortuous vessels without causing blunt trauma to the vessel wall.
+-   Guidewires are also used for their directionality to cannulate branches.
+-   **Standard Glidewire (Terumo, Tokyo, Japan):** can be used as an access or guidewire. Hydrophilic coating, straight or angled tip, sized 0.018" - 0.035" in diameter and 150 cm or 260 cm in length.
+-   **Bentson (Cook Medical, Bloomington, IN):** flexible wire with a hydrophobic coating and curved tip. Used to access vessels that have a slight curve, or to introduce catheters or sheaths. Comes in 0.035" diameter and 150 cm or 260 cm in length.
+-   **Rosen (Cook medical, Bloomington, IN):** stiff hydrophobic wire with J tip. Often used as the first wire exchanged for the access wire. 0.035" long and 80 cm to 260 cm in length.
+
+##### Rail wires:
+
+-   Used as a platform to support catheter and sheath exchanges, as well as to advance devices, such as stents or endografts.
+-   Rail wires come in a range of stiffness, from medium to very stiff.
+-   They may have a straight, floppy, or curved tip.
+
+*Medium stiffness rail wires:*
+
+-   **Bentson (Cook Medical, Bloomington, IN):** flexible wire with a hydrophobic coating and curved tip. Used to access vessels that have a slight curve, or to introduce catheters or sheaths. Comes in 0.035" diameter and 150 cm or 260 cm in length.
+-   **Rosen (Cook medical, Bloomington, IN):** stiff hydrophobic wire with J tip. Often used as the first wire exchanged for the access wire. 0.035" long and 80 cm to 260 cm in length.
+
+*High stiffness rail wires:*
+
+-   **Amplatz (Boston Scientific, Marlborough, MA):** stiff, hydrophobic, straight floppy or J-tip. 0.035" - 0.038" diameter and 75 cm - 260 cm in length.
+-   **Lunderquist (Cook Medical, Bloomington, IN):** one of the stiffest wires, hydrophobic, with floppy or curved tip. 0.035" diameter and 90 cm - 300 cm in length. Often used to advance large endografts.
+
+### Catheters
+
+Catheters are flexible, hollow tubes that are used in both the diagnosis and treatment of vascular disease.
+
+::: callout-note
+Catheters are measured in French (1F = 0.33 mm) and the diameter corresponds to the **outer diameter** of the tube.
+
+![Outer diameter = OD, Inner diameter = ID.](images/ODID.jpg){fig-align="middle" width="50%"}
+:::
+
+Catheters vary by size, stiffness, hydrophilicity, radiopacity, and functionality, but can generally be described in two categories, flush catheters and selective catheters.
+
+#### Flush catheters:
+
+-   Contain multiple side holes just proximal to the end of the device to allow for the injection of contrast or other material, such as thrombolytics.
+-   **Omniflush (Angiodynamics, Latham, NY):** soft, flexible catheter with a radiopaque tip that is able to administer contrast to visualize vessels. [Omniflush device on back table](https://th.bing.com/th/id/R.4a5b0244f2e5f63cffb37b1b81d7655b?rik=JGXkMiGWf8YnMA&riu=http%3A%2F%2Fmyasiamed.com%2Fimages%2FMariner-Omni-Flush1.jpg&ehk=qI0yAEYrAScCyzwy7HCY6AdcYeqPSPo6aqTUJwh7tIw%3D&risl=&pid=ImgRaw&r=0)
+-   **Pigtail (Angiodynamics, Latham, NY):** Similar to the Omniflush with a looped end (Image YY).
+
+#### Selective catheters:
+
+-   Contain one hole at the distal end of the tube.
+-   Selective catheters come in many different shapes and sizes.
+-   Intuitively, the anatomy of the vessel to be tracked will determine the diameter and tip shape.
+-   When attempting to cross the aortic bifurcation into the contralateral common iliac artery, a catheter with more of a J-tip or "Shepherd's hook" is preferable.
+-   When attempting to cannulate vessel branches with a more acute angle, a smaller angle catheter tip should be selected.
+-   Selective catheters can also be used to deliver contrast, but the contrast is only able to leave the catheter through the end of the device.
+-   Angiograms with selective catheters are more tailored to specific vessels, such as a renal or mesenteric artery.
+-   **Selective Glidecath (Terumo, Tokyo, Japan):** hydrophilic catheter available in 17 different shapes, but the 45 degree is most common. Comes in 4F or 5F. Offers great trackability and pushability. [This image](https://www.terumois.com/products/catheters/glidecath/_jcr_content/content-par/columncontainer/column2_par/layout_container/grid-content-par/columncontainer_191691442/column1_par/columncontainer_547426510/column1_par/image_890878952.img.png/1604512081871.png) depicts some of the glidecath tip shapes.
+
+### Sheaths
+
+Sheaths are hollow tubes that provide a conduit between outer environment (i.e. outside the body) and the vessel. Returning to our train analogy, a sheath is the "tunnel" that the track and train run through.
+
+Sheaths are used to advance and exchange catheters, wires, stents, balloons, and other devices. Sheaths can be divided into short sheaths for access and long sheaths for diagnostics and treatment. Long sheaths are flexible enough to track along different vessels, but are also stiff enough to support the advancement or exchange of devices.
+
+::: callout-note
+Sheaths are measured in French (1F = 0.33 mm) and the diameter corresponds to the **inner diameter** of the tube.
+
+*As such, a 6F catheter will pass through a 6F sheath.*
+:::
+
+Key points about sheaths:
+
+-   Sheaths are measured based on the inner diameter of the sheath, in contrast to catheters, which are measured based on their outer diameter.
+-   Sheaths contain a removable introducer, which is used to expand the tract from the outside into the vessel, and provide a smooth transition between the wire and the sheath.
+-   The side port on sheaths is used to flush the inner device with heparinized saline to prevent thrombus formation and distal embolization. It can also be used to inject contrast for diagnostic purposes.
+-   Sheaths come in variable diameters, lengths, and tips.
+-   Some sheaths, such as the **TourGuide (Medtronic, Minneapolis, MN)** are steerable. The operator can deflect the sheath tip up to 180 degrees. This is advantageous when cannulating branch arteries with sharp angles.
+
+It is also helpful to understand what diameter of sheath can be inserted into different points of access as this will change the approach for the procedure. Though there is variation across patients, the table below is a useful starting point to understand what size sheath can be inserted in target access arteries.
+
+| Artery         | Inner Diameter (mm) | Typical Access Sheath size (F) |
+|----------------|---------------------|--------------------------------|
+| Radial         | 2.3                 | 4-6                            |
+| Brachial       |                     | 5-7                            |
+| Axillary       |                     | 5-14                           |
+| Common Femoral | 6.6                 | 5-24                           |
+| Popliteal      | 4.7                 | 4-6                            |
+| Pedal          | 2.1                 | 4                              |
+
+------------------------------------------------------------------------
+
+## Balloons, Stents, and Endografts
+
+The delivery system for balloons consists of a catheter over the wire with the balloon built into the catheter tip. As such, advancing the balloon into place for angioplasty is no different from advancing a small catheter without a balloon.
+
+Similar to balloons, stents are contained in catheters that are advanced into position over wires. The interventional component (i.e. stent) is near the tip of the catheter.
+
+Both stents and balloons can elute drugs, most commonly *Paclitaxel,* an antiproliferative agent. Paclitaxel is lipophilic and remains active in the vessel wall following the procedure, preventing neointimal hyperplasia and improving patency.The impetus for using a drug-eluting stent or balloon in place of a standard stent or balloon is to decrease the chances of vascular remodeling following the procedure that may lead to restenosis.
+
+In contrast to drug-eluting stents, drug-eluting balloons have the advantage of not leaving hardware in the vessel after intervention. Contrarily, drug-eluting stents remain in the vessel lumen after intervention, but are able to continue providing radial force.
+
+### Balloons
+
+Balloons are versatile endovascular tools and can be categorized by the degree to which they assume of the shape of the vessel.
+
+**Compliant balloons:** - Compliant balloons inflate to a specific volume and *conform to the shape of the vessel.* - For example, the [**Fogarty balloon**](https://www.youtube.com/watch?v=2WK4Mt__CYs) is a compliant balloon that can be used to remove thrombi in both open and endovascular procedures.
+
+**Semi-Compliant balloons:** - These balloons have a slightly more rigid shape and therefore conform to a lesser degree to the shape of the container (i.e. vessel). - The **Coda balloon (Cook Medical, Bloomington, IN)** is semi-compliant and used to temporarily occlude large vessels.
+
+**Non-Compliant balloons:** - Non-compliant inflate to a predetermined shape and size. - They are commonly used in angioplasty of peripheral and/or visceral stenosed vessels.
+
+![Angioplasty with a non-compliant balloon courtesty of J. Heuser, and Wikimedia.](images/angioplasty.jpg){fig-align="center" width="30%"}
+
+Intraoperatively surgeons will often ask for the pressures of the balloon before using. Non-compliant balloons have a **nominal pressure,** which is the average pressure in atmospheres (atm) required to inflate the balloon to its *predetermined size,* and a **burst pressure,** where *99.9% of balloons will not burst if inflated to this pressure.*
+
+### Stents
+
+Stents may be covered or uncovered. **Covered stents** do not allow flow between the lumen of the stent and surrounding tissues, in contrast to **uncovered (bare metal) stents** which do allow flow through the stent.
+
+Stents can be categorized by the means of deployment.
+
+**Self-expanding stents** use a recoil mechanism during deployment to achieve a set diameter using stored energy from the packing of the stent.
+
+Key characteristics of **self-expanding stents**:
+
+-   Flexible
+-   Low profile
+-   Deformable
+-   Low radial force (lower dissection risk)
+
+**Balloon-expandable stents** are packaged around a balloon. The surgeon uses the balloon inside the stent to achieve a specific diameter based on the pressure used to inflate the balloon. As the diameter of the stent increases with higher balloon pressure, the length of stent decreases.
+
+Key characteristics of **balloon-expandable stents**:
+
+-   Rigid
+-   Large profile
+-   Maintains shape over time
+-   More accurate deployment
+-   High radial force (higher risk of dissection)
+
+::: callout-tip
+**Highly tortuous vessels** often require a **self-expanding stent** because of the increased flexibility needed to prevent kinking or in-stent restenosis.
+
+**Heavily calcified vessels** often require the increased radial force of **balloon-expandable stents** to achieve full patency.
+:::
+
+![Balloon-expandable stent deployment courtesty of Blausen Medical. Retrieved on 22 February 20. Wikimedia.](images/balloonexpandstent.jpg){fig-align="center" width="40%"}
+
+### Endografts
+
+Endografts are tubes of fabric and interwoven metal used to exclude the diseased segment of an artery from circulation. The goal of an endograft is to prevent rupture or sac enlargement of an aneurysm by depressurizing the arterial walls.
+
+Endografts are comparatively larger than stents and can require very large sheaths (\>18F for endovascular aortic repair). To treat an aortic aneurysm with an endograft, there must be adequate sealing zones of healthy aorta above and below the aneurysm.
+
+::: callout-note
+Please see the AAA Chapter for a full review of endovascular aortic repair (EVAR).
+
+Please see the TAA/TAAA Chapter for a full review of thoracic endovascualr aortic repair (TEVAR)
+:::
+
+For patients that have extension of the aneurysm into the visceral vessels of the aorta, the use of a conventional, non-fenestrated endograft would block blood flow to the branches of the diseased segment of the aorta, such as the kidneys or bowel. Treatment of thoracoabdominal or complex abdominal aortic aneurysms with endovascular repair requires a graft that allows flow to branches of the aorta. Some common techniques for maintaining visceral blood flow include :
+
+**Fenestrated endografts** include small, circular holes in the main body of the endograft. The french word for window is "fenêtre." When the fenstrations (or windows) are placed in line with visceral vessel origins, balloon-expandable stents can be used to bridge to the main endograft to the native renal or mesenteric arteries.
+
+Additional characteristics about **fenestrated grafts**:
+
+-   They are ideal when the inner aortic diameter is small, making for a short distance (\<5 mm) between the endograft and native visceral artery.
+-   They require the pathway between the endograft and the native artery to be close to perpendicular; that is, the pathway for the stent out of the graft cannot be at too large of an angle due to risk of stent fracture or kinking.
+-   The part of the stent inside the endograft must be flared out with a balloon to prevent endoleak from inside the endograft into the aneurysm sac.
+-   An of a commercially available fenestrated endograft is the Cook Medical Zenith Fenestrated (ZFen) AAA endograft. Click [here](https://www.youtube.com/watch?v=PR65idZIQJM) to watch an animation of ZFen deployment.
+
+**Branched endografts** have side branches built-into the main body of the graft in place of fenestration. These branches extend from the outer body of the main graft towards the target vessel.
+
+Additional characteristics about **branched grafts**:
+
+-   They require a larger inner aortic diameter for more space between the endograft and target artery.
+-   Branches can receive self-expanding or balloon-expandable stents.
+
+------------------------------------------------------------------------
+
+## Common Endovascular Procedures
+
+Vascular surgeons perform a number of endovascular procedures. The most common include placement of an inferior vena cava (IVC) filter, diagnostic angiograms with angioplasty and stenting, fistulagrams, endovascular aneurysm repair (EVAR), and thrombectomy and thrombolysis. There are a number of basics that trainees should know before starting one of these procedures.
+
+### IVC Filter Placement
+
+-   An IVC Filter is a metal cage-like device placed in the IVC to prevent clots from embolizing to the pulmonary vasculature.
+-   The hook at the superior aspect of the filter is used to aid with retrieval.
+-   The struts will catch clots and will anchor into the walls of the IVC to prevent migration.
+-   **Placement of an IVC filter can be controversial** but it is commonly used to prevent pulmonary embolism in patients who have a strict contraindication to anticoagulation.
+-   They are sometimes placed prophylactically in high-risk trauma patients.
+
+![Inferior Vena Cava Filter courtesy of scientificanimations.com. Retrieved on 30 March. Wikimedia.](images/ivcfilter.jpg){fig-align="center" width="40%"}
+
+Procedure:
+
+-   Access is usually obtained via the right femoral vein as it gives direct access to the IVC.
+
+-   Ultrasound should be used to confirm that there is no thrombus at the access site - Access is then obtained via the Seldinger technique and a venacavogram is then obtained to assess the anatomy and the location of the renal veins
+
+-   The filter is generally placed just below the renal veins to prevent renal vein thrombus if filter thrombosis occurs.
+
+-   If a retrievable filter is placed, it should be removed as soon as the filter is no longer clinically indicated.
+
+-   Filter retrieval becomes more challenging the longer the filter remains in place.
+
+-   Filter retrieval is generally performed through the internal jugular vein in the neck to give access to the hook at the superior end of the filter, which can be snared and removed.
+
+::: callout-note
+Please find a more detailed review of IVC filters [here](https://www.ncbi.nlm.nih.gov/books/NBK549900/)
+:::
+
+### Lower Extremity Angiogram
+
+A lower extremity angiogram is the starting point for a vascular surgeon to perform a number of different interventions including angioplasty, stenting, and thrombectomy. An angiogram is a procedure in which contrast dye is used to display the vasculature and its disease burden under X-ray.
+
+::: callout-tip
+Before an angiogram, one should be aware of all prior interventions a patient has had, both open and endovascular. It can be useful to review old operative reports and imaging studies in order to know the patient's current anatomy.
+:::
+
+::: callout-tip
+In addition, the patient's most recent imaging studies should be reviewed including ABI/PVRs, arterial duplex, and any axial imaging such as a CTA.
+
+Please see Claudication Chapter for a summary of ABI/PVR testing and interpretation.
+:::
+
+Procedure:
+
+-   Access is typically obtained in the contralateral common femoral artery and a wire and catheter are passed up and over the aortic bifurcation to gain access to the operative (ipsilateral) side.
+
+-   A series of angiograms are taken to assess the level of disease and based on this a final operative plan will be made.
+
+-   There are multiple options for treatment including angioplasty, stenting, atherectomy, thrombectomy, and thrombolysis, to name a few.
+
+Possible Interventions:
+
+-   **Angioplasty:** a balloon is advanced across the area of concern (usually atherosclerosis causing a flow limitation) and expanded to dilate the area of stenosis.
+
+-   **Stenting:** commonly after an angioplasty, a stent is placed to maintain patency of the area. There are multiple types of stents (covered above) that can be used depending on anatomic location, size, and indication.
+
+-   **Atherectomy:** a procedure where a calcified plaque is physically removed from the artery. This can be done with a cutting blade, a spinning drill-like device, or a laser.
+
+::: callout-note
+**Considerations for Atherectomy**
+
+As plaque is broken into smaller pieces, there is a significant risk for **distal embolization** of plaque debris. To prevent this, an embolic protection device is often used which can filter blood and catch any smaller particulate matter that travels distally. Some of the devices include an aspiration device to remove clot and thrombus as it is removed.
+
+There is ongoing research into the outcomes of atherectomy versus stenting alone, but generally, the long-term patency rate is similar.[@atherect]
+:::
+
+-   **Thrombolysis:** a procedure where the clot is dissolved often with tPA and heparin to treat an acute thrombotic event. Often, angiograms are performed for acute limb ischemia from a clot rather than atherosclerotic disease. A lysis catheter or Cragg-Macnamara catheter can be placed. The **Cragg-Macnamara catheter** is a long catheter with multiple side ports where medication can be infused over the length of a thrombosed artery. This catheter can be left in place for **24-48 hours** and the medication is allowed to "bust" the acute clot. After this, the patient will be brought back to the operating room to evaluate the progress of the clot dissolution.[@giannakakis2017]
+
+-   **Thrombectomy:** a procedure where acute or subacute thrombus is removed from a vessel. This can be accomplished in a variety of ways. Commonly, a suction thrombectomy system can be used to remove thrombus from a vessel using vacuum force for example using the **Penumbra system.** Alternatively, a mechanical thrombectomy can be performed where a Fogarty catheter is deployed past a thrombus, a balloon inflated at the end of the catheter, and then manually pulled back towards an arteriotomy and the clot then removed.[@karnabatidis2011]
+
+### Fistulograms
+
+A fistulogram is an angiographic study used to interrogate and troubleshoot a disfunctional arteriovenous fistula.
+
+Common complications of fistulas include:
+
+-   Anastomotic strictures.
+-   Inflow issues (such as atherosclerosis of the inflow artery).
+-   Outflow issues (such as central venous stenosis).
+-   Thrombosed fistula.
+
+Access is obtained in different locations depending on the culprit lesions (the inflow artery, the fistula itself, the outflow veins) and can be treated with angioplasty and or stenting.
+
+------------------------------------------------------------------------
+
+## Risks
+
+As with any invasive procedure, even a minimally invasive procedure comes with its own set of risks, and as the complexity of the procedure increases so does the risk.
+
+The American Heart Association has put out guidelines to help stratify patients at risk for vascular complications.[@patel2010a]
+
+**Low risk cases** were defined as those with a complication rate below 1%. Characteristics include:
+
+-   Diagnostic angiograms without interventions.
+-   Short operative times.
+-   Small sheaths (5 Fr).
+-   Minimal anticoagulation.
+-   Younger male patients with larger body habitus and normal renal function were at lowest risk of complications.
+
+**Moderate risk cases** were defined as those with a complication rate of 1-3%. Risk factors include:
+
+-   Longer, more complex procedures.
+-   Involve larger sheaths (6-7Fr).
+
+**High risk cases** were defined as those with a complication rate \>3%. Risk factors include:
+
+-   Peripheral arterial disease patients
+-   Advanced age
+-   Female sex at birth
+-   Liver disease
+-   Coagulopathy
+-   Immunosuppression
+-   Status post valve replacement
+-   Renal dysfunction.
+-   Longer procedure times
+-   Larger sheaths (\>8Fr), use of arterial closure devices
+-   More likely to involve anticoagulation
+
+### Access Complications
+
+Although each procedure comes with its own specific risks (e.g. stroke for a carotid artery stent, distal embolization for atherectomy etc), there are multiple complications that can occur with any endovascular procedure. The procedure specific complications will be explored in further detail in each chapter. Common access complications are listed below.
+
+#### Groin Hematoma
+
+A groin hematoma is a collection of blood that has collected outside the lumen of the vessel, which often occurs after removal of the sheath.
+
+Groin hematoma characteristics:
+
+-   Occur in about 1-3 % of cases
+-   Often due to a stick not directly over the femoral head in which case manual pressure may not provide adequate hemostasis.
+-   Hematomas are rarely ever operated on unless they case skin compromise, severe pain, femoral nerve compression, or are rapidly expanding.
+-   Hematoma will generally be absorbed by the body.
+-   If they are operated on, there is a significant risk of infection (about 20%) and seroma formation.
+
+#### Pseudoaneurysms
+
+A pseudoaneurysm is defined as a collection of turbulent blood flow contained only by one or two layers of the arterial wall as opposed to a true aneurysm where all three layers are dilated (**occur in less than 1% of endovascular cases**). They occur secondary to injury (iatrogenic or trauma).
+
+**These must be managed urgently and treated appropriately to prevent significant morbidity and mortality.**
+
+##### Pseudoaneurysm presentation:
+
+-   Pulsatile often painful mass at a prior access site
+-   May lead to skin necrosis
+-   Bruit on auscultation
+
+##### Pseudoaneurysm risks:
+
+-   Vessel rupture
+-   Thrombus formation with distal embolization
+-   Skin necrosis
+-   Nerve compression
+-   Venous compression
+
+##### Etiology:
+
+Most often, seen at the femoral artery as an access site complication from:
+
+-   Failed deployment of a closure device
+-   Laceration of the artery or branch by an access needle
+-   Inadequate pressure or length of pressure being held.
+
+Patients who are obese, female, hypertensive or are on anticoagulation or antiplatelet therapy are at higher risk for femoral PSA.
+
+##### Workup:
+
+-   Duplex ultrasound of the site.
+-   Pulse exam to ensure adequate distal perfusion.
+
+##### Management:
+
+Management is dependent on size and presentation of the pseudoaneurysm. In the past, all pseudoaneurysms were treated operatively, but with new advances, minimally invasive techniques have become more common with good outcomes.
+
+-   For a small asymptomatic pseudoaneurysm (less than 2cm), an appropriate first step would be observation and repeat duplex ultrasound in about one month.
+-   For a persistent pseudoaneurysm after one month, a larger/loculated asymptomatic pseudoaneurysm, or a pseudoaneurysm that presents with minor pain at the site, minimally invasive intervention with ultrasound guided compression or ultrasound guided thrombin injection is appropriate.
+-   For any pseudoaneurysm presenting with persistent hemodynamic instability, limb ischemia, skin necrosis, AV fistula, nerve compression, expanding hematoma, an urgent operation is required.
+-   Urgent open repair generally consists of gaining proximal and distal control and then primary repair of the arterial defect.
+-   Urgent endovascular management may also be entailed by deploying coils in the sac and placing a covered stent in the femoral artery, therefore thrombosing the pseudoaneurysm.
+
+[@kassem2013][@kassem2014][@tulla2024]
+
+#### Retroperitoneal Hematoma
+
+A retroperitoneal hematoma is a collection of blood accumulating in the retroperitoneal space where the external iliac artery travels.
+
+Key points:
+
+-   It is a rare complication occurring in about 0.5% of cases.
+-   Retroperitonaly hematomas are a dreaded complication as they comes with high morbidity and mortality especially if not rapidly diagnosed.
+-   Retroperitoneal hematomas occur when the arterial stick in the artery during groin puncture is performed too high, above the level of the inferior epigastric artery.
+-   This leads to extravasation of blood into the retroperitoneal space after sheath removal.
+-   Retroperitoneal hematomas can usually can be treated with a closure device if diagnosed intra operatively or a covered stent from the contralateral side.
+
+#### Arteriovenous (AV) Fistula
+
+An arteriovenous fistula is an aberrant connection between an artery and a vein. Although commonly formed surgically for hemodialysis access, they can be caused iatrogenically during arterial access for endovascular intervention.
+
+Key points:
+
+-   They are rare and occur in less than 1% of groin access cases.
+-   Occur during inadvertent puncture of the deep femoral artery and deep femoral vein.
+-   Usually no intervention is needed.
+
+#### Dissection
+
+An arterial dissection is the separation of the layers of the arterial wall.
+
+Key points:
+
+-   May occur naturally (often secondary to hypertension) or iatrogenically (in the setting of arterial puncture). This most often occurs in the setting of a posteriorly lying plaque in the artery where the wire can separate the posterior layers.
+-   To prevent dissection, do not apply too much forward pressure when advancing a wire during initial arterial access. Do not inject fluid (saline or contrast) unless there is blood return to ensure the needle or catheter tip are in the true lumen.
+-   Treatment can be conservative in the case of an iatrogenic dissection or treated with stent placement if the dissection limits blood flow. Intravascular ultrasound can be used to further assess the dissection.
+
+#### Acute Thrombosis of Access Vessel
+
+Acute thrombus of the access vessel is when the artery where access is obtained completely "clots off." It is an incredibly rare complication caused by incorrect deployment of vascular closure devices, access site dissection, or occlusive sheath placement in a small or diseased vessel.
+
+### Endovascular Surgical Complications
+
+#### Atheroembolism
+
+Atheroembolism is the dislodgement of a portion of a cholesterol plaque leading to distal embolization causing acute thrombosis or partial occlusion.
+
+Key points: [@liew2005]
+
+-   Generally, when these come from the ascending aorta or arch, they will embolize to the cerebral and retinal vessels. On the other hand, when an embolus originates in the thoracic or descending aorta, it will likely embolize to the mesenteric, renal or lower extremity vessels.
+-   These emboli will then cause a further inflammatory response worsening outcomes.
+-   Outcomes are dependent on volume and size of emboli and can range from sub-clinical to fatal.
+-   Embolization is most common to the skin, kidneys, and GI tract though it is dependent on the site of the procedure.
+-   Unfortunately this condition is generally under diagnosed and challenging to treat. - Primary prevention is of utmost importance with good surgical technique.
+
+#### Wire Perforation 
+
+Wire perforation occurs when an angiographic wire creates a hole in a vessel. 
+
+Key points:
+
+-   Incredibly rare but treatable when diagnosed rapidly.
+-   Occurs when a large stiff hydrophilic wire is passed through a small vessel especially if not done under fluoroscopic guidance.
+-   Treatment involves transcatheter embolization of the perforation site.
+
+#### Vessel Rupture
+
+Vessel rupture occurs when a device or balloon is oversized for a vessel and causes a "blowout" of a vessel.
+
+Key points:
+
+-   Rupture can be cause by an oversized balloon or balloon expandable stent, by expanding a properly sized balloon in a heavily calcified vessel or by passage of a large device such as an EVAR device through a small vessel.
+-   Rupture is associated with a high morbidity and mortality especially if there is any delay in diagnosis. 
+-   Immediately upon recognition of vessel rupture, a balloon should be inflated in the region to obtain adequate hemostasis. Simultaneously, supplies should be can gathered for vessel repair. 
+-   Repair is usually done with a covered stent placed across the rupture. If adequate hemostasis cannot be obtained, open repair may be necessary. 
+
+------------------------------------------------------------------------
+
+## Teaching Case
+
+### Scenario
+
+A 71 year old male with a past medical history of hypertension, hyperlipidemia, coronary artery disease with stent placement was diagnosed with acute type B aortic dissection three weeks ago. He was managed medically in the hospital and sent home after one week with blood pressure and pain well-controlled. An image from the CTA at time of diagnosis is seen below: 
+
+![CTA](images/endotc.jpg){fig-align="left" width="80%"}
+
+The proximal extent of the dissection was 3 cm distal to the left subclavian artery and the distal extent was 2 cm superior to the celiac artery, allowing good landing zones for an endograft. The left internal iliac artery is fully occluded, and the right internal iliac artery has roughly 50% stenosis. The left external iliac artery is heavily calcified and stenotic >50%. The right common and external iliac artery are patent without evidence of significant atherosclerosis. The patient is evaluated in the preoperative area prior to placement of a thoracic endograft in the hybrid operating room. 
+
+### Exam
+
+**HEENT:** Pupils round and reactive to light, no lymphadenopathy
+
+**Cardiac:** Regular rate and rhythm
+
+**Pulmonary:** Clear to auscultation in all lung fields. No accessory muscle use. 
+
+**Abdominal:** Soft, non-tender, non-distended, no pulsatile masses felt. 
+
+**Vascular/Extremities:** Warm, non-edematous. Palpable pulses in all four extremities.
+
+### Discussion Points
+
+::: callout-note
+## N.B. There is no prepared answers for the questions below.
+
+However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
+:::
+
+1.    What clinical risk factors make this patient a good candidate for endovascular vs. open repair?
+2.    The endograft used for this operation requires at least an 18F sheath, which site of access should be used to insert and implant the graft?
+3.    What diameter and hydrophilicity of wire should be used to advance the thoracic endograft to the site of dissection?
+4.    The attending surgeon requested mean arterial pressures to be at least 90 mmHg throughout the operation. Why would intraoperative hypotension be concerning in this patient? What anatomic factors make this patient at particular risk?
+5.    If the patient developed pain at the site of access one week later, with a well-healing wound and palpable thrill on physical exam, what kind of access-related complication are you worried about and what would be your next step to confirm the diagnosis?
+
+------------------------------------------------------------------------
+
+## Key Articles
+
+1.  Patel MR, Jneid H, Derdeyn CP, Klein LW, Levine GN, Lookstein RA, White CJ, Yeghiazarians Y, Rosenfield K; American Heart Association Diagnostic and Interventional Cardiac Catheterization Committee of the Council on Clinical Cardiology, Council on Cardiovascular Radiology and Intervention, Council on Peripheral Vascular Disease, Council on Cardiovascular Surgery and Anesthesia, and Stroke Council. Arteriotomy closure devices for cardiovascular procedures: a scientific statement from the American Heart Association. Circulation. 2010 Nov 2;122(18):1882-93. doi: 10.1161/CIR.0b013e3181f9b345. Epub 2010 Oct 4. Erratum in: Circulation. 2010 Nov 2;122(18):e507. PMID: 20921445. [@patel2010]
+
+2.  Siracuse JJ, Farber A, Cheng TW, Raulli SJ, Jones DW, Kalish JA, Smeds MR, Rybin D, Schermerhorn ML; Vascular Quality Initiative. Common femoral artery antegrade and retrograde approaches have similar access site complications. J Vasc Surg. 2019 Apr;69(4):1160-1166.e2. doi: 10.1016/j.jvs.2018.06.226. Epub 2018 Dec 4. PMID: 30527937. [@siracuse2019]
+
+------------------------------------------------------------------------
+
+## Additional Resources
+
+### Audible Bleeding Content
+
+-   Holding Pressure Case Prep - [Endovascular Basics](https://www.audiblebleeding.com/2023/04/23/holding-pressure-case-prep-endovascular-basics/)
+
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/26623206/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
+
+</iframe>
+
+-   Audible Bleeding Exam Prep: [Endovascular Access](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/endovascular.html)
+
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/14202467/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
+
+</iframe>
+
+------------------------------------------------------------------------
+
+### Websites
+
+-   TeachMe Surgery: [Pseudoaneurysm](https://teachmesurgery.com/vascular/peripheral/pseudoaneurysm/)
+
+------------------------------------------------------------------------
+
+### Serious Games
+
+#### Touch Surgery Simulations.
+
+-   Must download the [Medtronic Touch Surgery mobile application](https://www.medtronic.com/covidien/en-us/products/digital-surgery/simulations.html) to access the modules. Available for Apple and Android mobile devices.
+-   [Femoral Artery Access](https://www.touchsurgery.com/simulations/femoral-artery-access)
+
+------------------------------------------------------------------------
+
+### Gore Combat Manual
+
+The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
+
+::: callout-tip
+Please see pages 25-41, 49-61.
+:::
+
+------------------------------------------------------------------------
+
+### Operative Footage
+
+Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.* Please create and/or log in to your YouTube account to have access to the videos.
+
+#### Ultrasound-Guided Femoral Access
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/45Rs90giA8E?si=pF8Z0N80P6mivKkW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+#### ProGlide Vascular Closure Device Deployment
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/USuy4f15ugg?si=dAtLr6_awyeQ-u3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+#### Inferior Vena Cava (IVC) Filter Placement 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/29-8tVIrh6o?si=6NQ9eyFIayyuiP6S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+#### Standard IVC Filter Retrieval
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZqeMld1mNC0?si=cv7W5Rc5iXXXhcd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+<!-- Google tag (gtag.js) -->
+
+```{=html}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WS28VX4802"></script>
+```
+```{=html}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WS28VX4802');
+</script>
+```
+---
+title: "RadSafety"
+---
