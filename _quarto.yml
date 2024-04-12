@@ -42,6 +42,7 @@ book:
     - part: "Miscellaneous Topics"
       chapters: 
       - endobasics.qmd
+      - radsafety.qmd
 
     - feedback.qmd
     - references.qmd
