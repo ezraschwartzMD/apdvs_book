@@ -28,11 +28,11 @@ By the end of this chapter, students will be able to:
 ::: {.callout-note icon="false"}
 ## Key Facts
 
-1.    The primary forms of ionizing radiation are alpha particles, beta particles, gamma rays, and x-rays.
-2.    In the operating environment, x-rays scatter leading to potential unexpected exposure.  
-3.    Lead aprons and glasses are important in protecting radiosensitive organs in the body.
-4.    Proper shielding, minimizing duration of radiation use, and increasing distance from the source are important measures to reducing the amount of radiation exposure.
-5.    The side effects of prolonged radiation exposure to healthcare providers include various health issues such as cataracts and reproductive dysfunction.
+1.  The primary forms of ionizing radiation are alpha particles, beta particles, gamma rays, and x-rays.
+2.  In the operating environment, x-rays scatter leading to potential unexpected exposure.\
+3.  Lead aprons and glasses are important in protecting radiosensitive organs in the body.
+4.  Proper shielding, minimizing duration of radiation use, and increasing distance from the source are important measures to reducing the amount of radiation exposure.
+5.  The side effects of prolonged radiation exposure to healthcare providers include various health issues such as cataracts and reproductive dysfunction.
 :::
 
 ::: callout-tip
@@ -49,76 +49,75 @@ The pre/post questions are listed below. They are all multiple choice questions 
 
 <!-- -->
 
-A.    Full leaded face shield, lead apron, and personal radiation badge 
+A.  Full leaded face shield, lead apron, and personal radiation badge
 
-B.    Lead apron alone 
+B.  Lead apron alone
 
-C.    Leaded safety glasses 
+C.  Leaded safety glasses
 
-D.    Lower half of a 2-piece lead apron and thyroid shield 
+D.  Lower half of a 2-piece lead apron and thyroid shield
 
-E.    Lead apron, leaded safety glasses 
+E.  Lead apron, leaded safety glasses
 
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
-**A. Full leaded face shield, lead apron, and personal radiation badge **
+**A. Full leaded face shield, lead apron, and personal radiation badge**
 
-Discussion: The most appropriate PPE includes a full leaded face shield, lead apron, and radiation badge making answer a the correct answer. This will provide the most significant protection to the head and neck as well as vital organs of the body during the procedure. The radiation badge will help with long-term protection as it allows for cumulative tracking of exposure. A lead apron alone and or lead glasses alone is inadequate for optimal protection making answers b, c, and d incorrect. A full-face shield will be of greater protection than glasses which makes answer e incorrect. 
-
+Discussion: The most appropriate PPE includes a full leaded face shield, lead apron, and radiation badge making answer a the correct answer. This will provide the most significant protection to the head and neck as well as vital organs of the body during the procedure. The radiation badge will help with long-term protection as it allows for cumulative tracking of exposure. A lead apron alone and or lead glasses alone is inadequate for optimal protection making answers b, c, and d incorrect. A full-face shield will be of greater protection than glasses which makes answer e incorrect.
 :::
 
 2.  A 25 year old medical student has been invited to observe endovascular stent placement for an infrarenal AAA. *In addition to wearing appropriate PPE, what can the medical student do to reduce their exposure during the case?*
 
 <!-- -->
 
-A.    Stand as close to the radiation source as possible.
+A.  Stand as close to the radiation source as possible.
 
-B.    Turn their back to the radiation source.
+B.  Turn their back to the radiation source.
 
-C.    Stand as far from the radiation source as possible.
+C.  Stand as far from the radiation source as possible.
 
-D.    Wear a radiation badge.
+D.  Wear a radiation badge.
 
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
 **C. Stand as far from the radiation source as possible.**
 
-Discussion: Increasing one's distance from the radiation source is a key measure to to reduce radiation exposure. Radiation exposure decreases as the distance from the source increases. This phenomenon follows an inverse square law (1/d^2). Standing close to the source will increase their radiation dose making answer a incorrect. If wearing a lead smock, turning one's back to the radiation source will render the PPE useless. If wearing a leaded vest and skirt, turning one's back has no effect. Wearing a radiation badge is beneficial for long-term monitoring of radiation exposure but does not affect the amount of radiation exposure. 
+Discussion: Increasing one's distance from the radiation source is a key measure to to reduce radiation exposure. Radiation exposure decreases as the distance from the source increases. This phenomenon follows an inverse square law (1/d\^2). Standing close to the source will increase their radiation dose making answer a incorrect. If wearing a lead smock, turning one's back to the radiation source will render the PPE useless. If wearing a leaded vest and skirt, turning one's back has no effect. Wearing a radiation badge is beneficial for long-term monitoring of radiation exposure but does not affect the amount of radiation exposure.
 :::
 
 3.  A 55 year old vascular surgeon who has been practicing for 20 years has noticed some subtle changes in his vision. *What is the most likely underlying disease process?*
 
 <!-- -->
 
-A.    Optical neuropathy 
+A.  Optical neuropathy
 
-B.    Glaucoma 
+B.  Glaucoma
 
-C.    Opacification of the lens
+C.  Opacification of the lens
 
-D.    Retinal angiopathy  
+D.  Retinal angiopathy
 
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
 **C. Opacification of the lens**
 
-Discussion: The lens is the most radiosensitive componenet of the eye. Lens opacification (i.e. cataracts) is the most common adverse effect of radiation exposure to the eye. There was no mention of increased intraocular pressure or abnormal fundoscopic exam making answers a, b, and d incorrect. 
+Discussion: The lens is the most radiosensitive componenet of the eye. Lens opacification (i.e. cataracts) is the most common adverse effect of radiation exposure to the eye. There was no mention of increased intraocular pressure or abnormal fundoscopic exam making answers a, b, and d incorrect.
 :::
 
 4.  A 65 year old female is presenting to the hospital for endovascular repair of a complicated AAA. There is prolonged radiation time with a calculated absorbed dose of 3.5 Gy. *What is the most likely skin exam finding during the patient's hospital course?*
 
 <!-- -->
 
-A.    Skin necrosis 
+A.  Skin necrosis
 
-B.    Burn 
+B.  Burn
 
-C.    No acute findings as the dose were too low 
+C.  No acute findings as the dose were too low
 
-D.    Erythema 
+D.  Erythema
 
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
@@ -132,48 +131,49 @@ Discussion: With a dose of 3.5 Gy, the most likely result will be transient eryt
 
 <!-- -->
 
-A.    LAO (left anterior oblique) 
+A.  LAO (left anterior oblique)
 
-B.    RAO (right anterior oblique) 
+B.  RAO (right anterior oblique)
 
-C.    Cranial 
+C.  Cranial
 
-D.    Caudal 
+D.  Caudal
 
-E.    AP (anterior posterior) 
+E.  AP (anterior posterior)
 
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
 **B. RAO (right anterior oblique)**
 
-Discussion: When the image intensifier is rotated more towards the right shoulder, this is the RAO position making answer a correct. If the c-arm were rotated clockwise, with the c-arm over the left shoulder, this would be the LAO position. As no mention was made of rotating the c-arm towards the head or foot of the bed, answers c and d are incorrect. The AP position was the initial position of the c-arm when it is perpendicular to the OR table. 
+Discussion: When the image intensifier is rotated more towards the right shoulder, this is the RAO position making answer a correct. If the c-arm were rotated clockwise, with the c-arm over the left shoulder, this would be the LAO position. As no mention was made of rotating the c-arm towards the head or foot of the bed, answers c and d are incorrect. The AP position was the initial position of the c-arm when it is perpendicular to the OR table.
 :::
 
-6.  A 27 year old female who is a circulating nurse in the  endovascular suite recently became pregnant. She has informed the radiation safety officer and staff of the endovascular suite. She is curious how best to monitor the radiation dose the fetus is receiving in utero. Where should the nurse place the fetal dosimetry badge? 
+6.  A 27 year old female who is a circulating nurse in the endovascular suite recently became pregnant. She has informed the radiation safety officer and staff of the endovascular suite. She is curious how best to monitor the radiation dose the fetus is receiving in utero. Where should the nurse place the fetal dosimetry badge?
 
 <!-- -->
 
-A.    The dosimetry badge should be worn on the outside of the lead apron at chest level 
+A.  The dosimetry badge should be worn on the outside of the lead apron at chest level
 
-B.    The dosimetry badge should be worn under the lead apron around chest 
+B.  The dosimetry badge should be worn under the lead apron around chest
 
-C.    The dosimetry badge should be worn outside the lead apron at the abdomen level. 
+C.  The dosimetry badge should be worn outside the lead apron at the abdomen level.
 
-D.    The dosimetry badge should be worn under the lead apron at the abdomen level. 
+D.  The dosimetry badge should be worn under the lead apron at the abdomen level.
 
 ::: {.callout-note icon="false" collapse="true"}
 ## Answer
 
 **D. The dosimetry badge should be worn under the lead apron at the abdomen level.**
 
-Discussion: To monitor the dose to the unborn child, the dosimeter badge should be worn under the lead at the abdomen level, making answer d correct. We are concerned with the amount of radiation that is able to pass through  proper PPE. Wearing the badge outside the lead apron will indicate the amount of radiation exposure in front of the shielding and not an approximate fetal dose making answers a and c incorrect. If the badge is worn at the level of the chest, the dose will also not be the most accurate, making answer b incorrect. 
+Discussion: To monitor the dose to the unborn child, the dosimeter badge should be worn under the lead at the abdomen level, making answer d correct. We are concerned with the amount of radiation that is able to pass through proper PPE. Wearing the badge outside the lead apron will indicate the amount of radiation exposure in front of the shielding and not an approximate fetal dose making answers a and c incorrect. If the badge is worn at the level of the chest, the dose will also not be the most accurate, making answer b incorrect.
 :::
+
 ------------------------------------------------------------------------
 
 ## Introduction
 
-The use of radiation is fundamental to a vascular surgeon’s practice. Intraoperative fluoroscopy, computer tomography (CT), and plain film X-rays (to a lesser extent) are crucial tools in vascular surgery. The vascular surgery patient will likely undergo all these radiation-based imaging studies. 
+The use of radiation is fundamental to a vascular surgeon's practice. Intraoperative fluoroscopy, computer tomography (CT), and plain film X-rays (to a lesser extent) are crucial tools in vascular surgery. The vascular surgery patient will likely undergo all these radiation-based imaging studies.
 
 Vascular surgeons and other professionals (nurses, scrub technicians, imaging technicians, etc.) can be exposed to significant levels of radiation over a career of performing intraoperative fluoroscopy/angiography and endovascular surgery. As the medical community is well aware of these risks, many initiatives are underway to decrease the amount of radiation required to perform studies and interventions.
 
@@ -183,47 +183,47 @@ Vascular patients are also exposed to radiation, although often at higher doses 
 
 ## Radiation Penetrance
 
-A critical concept to understand when discussing occupational and patient exposure to radiation is penetrance. 
+A critical concept to understand when discussing occupational and patient exposure to radiation is penetrance.
 
 -   **Penetrance** refers to the ability of emitted radiation to penetrate into or through materials and is defined as the fraction of radiation passing through a given object (or the inverse of attenuation).
 -   The **density** of materials or tissues determines their **ability to attenuate or block X-rays.**
--   Dense tissues (bone) or materials (lead) absorb a greater fraction of radiation while less dense tissues (skin) or materials (water) allow for deeper penetration. 
+-   Dense tissues (bone) or materials (lead) absorb a greater fraction of radiation while less dense tissues (skin) or materials (water) allow for deeper penetration.
 
-This concept is especially relevant to vascular surgeons and their patients as an increasing proportion of vascular procedures are performed endovascularly under live fluoroscopy which utilizes X-rays. 
+This concept is especially relevant to vascular surgeons and their patients as an increasing proportion of vascular procedures are performed endovascularly under live fluoroscopy which utilizes X-rays.
 
-![Penetrating power of different types of radiation - alpha, beta, gamma and neutrons courtesty of Openclipart and Juhele. *X-rays have similar penetrance to gamma rays.*](images/penetrance.jpg){fig-align="left" width="50%"}
+![Penetrating power of different types of radiation - alpha, beta, gamma and neutrons courtesty of Openclipart and Juhele. *X-rays have similar penetrance to gamma rays.*](images/penetrance.jpg){fig-align="center" width="75%"}
 
 ## Radiation types
 
-Radiation can be broadly categorized into ionizing and non-ionizing forms. This chapter will focus on ionizing radiation, which is encountered by medical professionals in clinical settings. 
+Radiation can be broadly categorized into ionizing and non-ionizing forms. This chapter will focus on ionizing radiation, which is encountered by medical professionals in clinical settings.
 
 Ionizing radiation falls within the higher frequency range of the electromagnetic spectrum. The commonly discussed types of ionizing radiation include X-rays, alpha particles, beta particles, gamma rays.
 
 ### Alpha Particles
 
-Alpha particles, despite their high energy, have poor penetrance. As such, they do not penetrate the skin. However, they can be dangerous if inhaled or ingested. 
+Alpha particles, despite their high energy, have poor penetrance. As such, they do not penetrate the skin. However, they can be dangerous if inhaled or ingested.
 
 ### Beta Particles
 
-Beta particles, have slightly more penetration than alpha particles. 
+Beta particles, have slightly more penetration than alpha particles.
 
-They have some ability to penetrate the skin. However, they can be easily blocked by less dense shielding like aluminum. 
+They have some ability to penetrate the skin. However, they can be easily blocked by less dense shielding like aluminum.
 
-Similar to alpha particles, beta particles can also cause harm if ingested or inhaled. 
+Similar to alpha particles, beta particles can also cause harm if ingested or inhaled.
 
 ### Gamma Rays
 
-Gamma rays possess significantly more energy and can penetrate through the human body and less dense shielding. 
+Gamma rays possess significantly more energy and can penetrate through the human body and less dense shielding.
 
-**Lead is effective in shielding against gamma rays due to its density.** Dense materials increase the likelihood of radiation interacting with subatomic particles, reducing the rays’ passage through the material. 
+**Lead is effective in shielding against gamma rays due to its density.** Dense materials increase the likelihood of radiation interacting with subatomic particles, reducing the rays' passage through the material.
 
 As gamma rays pass through the body, they cause ionizing damage to tissue and DNA and should be treated with caution.
 
 ### X-Rays
 
-X-rays, widely used in healthcare, share similarities with gamma rays in their ability to penetrate tissue. 
+X-rays, widely used in healthcare, share similarities with gamma rays in their ability to penetrate tissue.
 
-Their application in medical imaging includes plain X-ray films, CT scans, and fluoroscopy. 
+Their application in medical imaging includes plain X-ray films, CT scans, and fluoroscopy.
 
 **Lead is effective in shielding against x-rays due to its density.**
 
@@ -233,24 +233,28 @@ As the X-ray source emits radiation, **radiation scatter occurs**, moving upward
 
 ## Terminology
 
-It is imporant to understanding the terminology related to radiation exposure. 
+It is imporant to understanding the terminology related to radiation exposure.
 
--   The **absorbed dose** refers to the energy from ionizing radiation per unit mass of exposed material, measured in **grays (Gy).** 
--   The **equivalent dose** represents the mean absorbed dose of a specific organ or tissue, measured in **sieverts (Sv).** 
--   The **effective dose,** also measured in *8sieverts (Sv),** accounts for total-body radiation exposure and is guided by the International Commission on Radiological Protection (ICRP) guidelines for comparing radiation effects on individuals. 
+-   The **absorbed dose** refers to the energy from ionizing radiation per unit mass of exposed material, measured in **grays (Gy).**
+-   The **equivalent dose** represents the mean absorbed dose of a specific organ or tissue, measured in **sieverts (Sv).**
+-   The **effective dose,** also measured in \*8sieverts (Sv),\*\* accounts for total-body radiation exposure and is guided by the International Commission on Radiological Protection (ICRP) guidelines for comparing radiation effects on individuals.
 
 X-ray technology for imaging comprises two critical components: the **radiation source,** where X-ray photons are generated, and the **detector.**
 
--   The shape of the beam from the **source** is managed by the **collimator.** 
+-   The shape of the beam from the **source** is managed by the **collimator.**
 -   As X-ray beam passes through the patient, they are captured by the detector and an image is created by **image intensifier.**
 
-In endovascular procedures using a C-arm, the detector portion (i.e. image intensifier) is above the patient, while the X-ray source is beneath the patient and table. 
+In endovascular procedures using a C-arm, the detector portion (i.e. image intensifier) is above the patient, while the X-ray source is beneath the patient and table.
 
 ------------------------------------------------------------------------
 
-## Principles for Patient Safety with Radiation Exposure
+## Principles for Patient Safety and Radiation Exposure
 
-While any procedure that produces ionizing radiation will expose the patient to some degree of risk, it is the responsibility of the patient’s surgeon to ensure that the risk of the procedure is minimized as much as possible without compromising the efficacy of the therapy. A number of core principles should be considered whenever a provider is considering recommending or performing a treatment with ionizing radiation including:
+While any procedure that produces ionizing radiation will expose the patient to some degree of risk, it is the responsibility of the patient's surgeon to ensure that the risk of the procedure is minimized as much as possible without compromising the efficacy of the therapy.
+
+Certain considerations exist for special patient populations including pregnant patients. These are discussed later in this chapter.
+
+A number of core principles should be considered whenever a provider is considering recommending or performing a treatment with ionizing radiation including:
 
 ### Medical Necessity and Justification for the Procedure
 
@@ -258,256 +262,115 @@ The potential benefits of the procedure should outweigh the risks of not perform
 
 ### Exposure Optimization
 
-The radiation dose delivered, particularly for intraoperative exposures, should be optimized to be as low as possible while still achieving adequate image quality for the procedure and decision making. 
+The radiation dose delivered, particularly for intraoperative exposures, should be optimized to be as low as possible while still achieving adequate image quality for the procedure and decision making.
 
-This includes fluoroscopy techniques such as reducing the time under fluoroscopy by using **pulsed fluoroscopy** as opposed to continuous scanning, **collimating the X-ray beam** to the area of interest and **narrowing the beam** to only scan structures necessary, **adjusting the frame rate of fluoroscopy** images when temporal resolution is not necessary. 
+This includes fluoroscopy techniques such as reducing the time under fluoroscopy by using **pulsed fluoroscopy** as opposed to continuous scanning, **collimating the X-ray beam** to the area of interest and **narrowing the beam** to only scan structures necessary, **adjusting the frame rate of fluoroscopy** images when temporal resolution is not necessary.
 
 It also includes **effective preoperative planning,** including properly positioning the patient for optimal imaging to reduce repeated attempts, and planning with previous imaging to ensure good understanding of the vascular anatomy and to form a procedural plan prior to exposing the patient to additional radiation.
 
 ### The ALARA Principles
 
-ALARA stands for *“As Low As Reasonably Possible,”* and refers to the balance between minimizing radiation exposure to the patient without compromising the quality of care. 
+ALARA stands for *"As Low As Reasonably Possible,"* and refers to the balance between minimizing radiation exposure to the patient without compromising the quality of care.
 
 **The energy of the X-rays:** Higher energy X-rays will have greater penetrance and pass through thicker and deeper tissue more easily. Energy is typically adjusted during the procedure to optimize for the depth of the structures being imaged.
 
 **The duration of exposure:** The dose of radiation delivered to the patient and the OR staff is directly correlated with the duration of exposure. This is why vascular surgeons try to limit the amount of time under fluoroscopy to the minimum required.
 
-**The distance from the source:** The intensity of radiation exposure decreases with distance from the emitting source in an inverse square relationship. The patient and surgeons at bedside and closest to the C-arm, therefore, receive significantly greater doses of radiation as compared to OR staff further away. 
+**The distance from the source:** The intensity of radiation exposure decreases with distance from the emitting source in an inverse square relationship. The patient and surgeons at bedside and closest to the C-arm, therefore, receive significantly greater doses of radiation as compared to OR staff further away.
 
 ### Patient Education and Informed Consent:
 
+Patients should be informed about the risks of exposure to ionizing radiation, the benefits of the procedure, and the efforts made to reduce total dosage.
+
+Patients should provide informed consent before any intervention whenever possible, and should be encouraged to ask questions and voice concerns prior to the initiation of treatment.
+
+### Patient monitoring and dose recording:
+
+During fluoroscopy-guided procedures, patient radiation doses should be monitored and recorded accurately to help understand the patient's cumulative radiation exposure.
+
+In a hybrid OR, the total radiation is recorded on the large screen. If not, you can always ask the hybrid room technician.
+
+### Radiation shielding:
+
+The use of personal protective devices made of dense materials, such as lead aprons, thyroid collars, and other protective shields, serve to attenuate radiation.
+
 ------------------------------------------------------------------------
 
-## Wires, Catheters, and Sheaths
+## Shielding
+
+Shielding serves to protect vital organs from radiation exposure and damage. The most common type of shielding is lead, typically in the form of a skirt, vest, and thyroid shield worn beneath the surgical gown.
+
+Lead aprons and other lead-lined materials are highly effective in protecting personnel from radiation exposure. Lead, being a very dense material, absorbs a significant portion of the radiation from X-ray beams that would otherwise reach the person wearing it. These lead protection devices are specifically designed to safeguard vital organs and those most sensitive to radiation exposure---such as organs not shielded by overlying bone. This includes the torso, reproductive organs, and the thyroid gland.
+
+Reported effectiveness of worn lead varies. Some sources claim that a lead apron with a thickness of 0.5 mm can reduce radiation scatter by 90%, while others suggest a lesser reduction. However, there is a consensus that the apron should be at least 0.25 mm thick both in the front and back. [@cheon2018]
+
+Additional shielding such as lead screens can be found in the OR to provide further protection against scattered X-rays.
+
+------------------------------------------------------------------------
+
+## Radiation Badges
+
+Radiation badges or "dosimeters" are personal wearable devices designed to measure the amount of radiation exposure an individual receives. They measure the total exposure accumulated over a set period of time. It's important to note that these devices specifically measure ionizing radiation and not other forms.
+
+There are several types of badges available. Film badges are commonly used in clinical practice. They are worn by a single person and are evaluated every 30 days. Other types of badges provide real-time quantification of radiation exposure, with readings recorded at the beginning and end of each shift. A radiation officer is typically tasked with tracking these exposure levels.
+
+When an individual's exposure approaches a certain threshold, which is typically set below the maximum allowable dose for a year, measures are taken to further minimize their exposure. For instance, if an employee has reached a significant exposure level two months into the year, the radiation compliance officer would discuss strategies to reduce their exposure. Strategies include maintaining greater distance from radiation sources, rotating through cases more frequently, and avoiding involvement in procedures with a higher risk of elevated radiation levels.
+
+If an employee surpasses their annual exposure limits, they are typically prohibited from participating in procedures involving radiation for the remainder of the year. The specific limits of exposure are detailed later in the chapter.
+
+------------------------------------------------------------------------
+
+## Lead Glasses and Eye Protection
+
+In the endovascular suite, it's common to see individuals wearing leaded glasses. A 2016 study compared different types of glasses and their effectiveness in reducing radiation exposure. The results showed that all leaded glasses outperformed non-leaded safety glasses, with an average reduction in dose of approximately **90.3%**. [@waddell2016] This study is just one of many that highlight the efficacy of lead glasses in minimizing eye exposure during procedures involving radiation.
+
+Despite the significant reduction achieved with the use of **lead safety glasses**, there's a caveat regarding a false sense of security. Due to the scattering of radiation during procedures, the eye can be exposed to radiation at oblique angles (i.e. around the glasses), leading to increased exposure and limited reduction in dose. [@kirkwood2020] In such scenarios, the optimal solution for reducing eye exposure would be a **full visor or face shield with lateral eye shielding**. A study by Samara et al. demonstrated that the most substantial dose reduction was observed in the full visor group.[@samara2022]
+
+**Wearing lead safety glasses during interventions is recommended** as it reduces radiation exposure and helps maintain eye health, particularly for individuals at risk of accumulating significant lifetime radiation exposure.
+
+------------------------------------------------------------------------
+
+## Imaging Technique
+
+Now that we've covered both radiation equipment and safety gear, it's crucial to underscore the importance of imaging technique. This concept is critical because it addresses the multifaceted aspects of minimizing radiation exposure during procedures. 
+
+The radiation dose depends on both the **intensity of imaging** and the **duration of fluoroscopic exposure**. [@rial2021] During endovascular procedures, the operating surgeon can control these factors by:
+
+1.  **Pulse imaging**: Instead of continuously scanning the patient, the surgeon can pulsate images (i.e. shoot several plain x-rays). This approach reduces scatter and lowers overall exposure. It\'s especially effective when high temporal resolution isn\'t necessary.
+
+2.  **Collimator use**: The surgeon can use the collimator to narrow the X-ray beam, focusing solely on the area of interest. This method effectively reduces both dose and scatter.
+
+The image intensifier should be positioned closer to the patient to optimize image quality. Conversely, the X-ray tube should be placed further away from the area being imaged. 
+
+If the X-ray tube is too close, imaging quality can degrade and radiation dose increases. This strategic arrangement ensures that the image quality remains high while minimizing patient exposure to radiation.
+
+:::callout-tip
+See a visual summary of correct and incorrect technique [here.](https://ars.els-cdn.com/content/image/1-s2.0-S0741521410017313-gr1_lrg.jpg)
+:::
+
+Another crucial aspect of radiation exposure is a person\'s **distance from the radiation source**. Radiation exposure decreases as the distance from the source increases. This phenomenon follows an **inverse square law (1/d\^2)**. [@kim2018]
+
+::: callout-note
+Suppose a medical student is initially **one foot away** from a radiation source, and their exposure is measured at **500 mGy/min**. If they then move **ten feet away f**rom the source, their exposure would reduce significantly to **5 mGy/min**. This example vividly demonstrates why distance from the source plays a pivotal role in minimizing radiation exposure.
+:::
 
 ::: callout-tip
-Using the analogy of a train on a track passing through a tunnel, the catheter can be thought of as the train, the wire as the train track, and the sheath as the surrounding tunnel.
+See a visual summary of the inverse square law and distance from radiation source [here.](https://ars.els-cdn.com/content/image/1-s2.0-S0741521410017313-gr2_lrg.jpg)
 :::
-
-### Wires
-
-Wires are the first device inserted into a patient, have the lowest profile, and are variable in properties. Vascular access wires are made of a metal core and an outer wire wrapped around the metal core. They are used to guide devices such as catheters and sheaths into a vessel. Characteristics of wires include:
-
-#### Diameter
-
--   Wire diameter is described in thousandths of an inch and typically range from 0.010-0.038".
--   Vascular access is typically obtained with a 0.018" wire and is exchanged for a smaller or larger profile as needed.
--   The most common sizes used are 0.035", 0.018" and 0.014".
-
-#### Stiffness
-
--   Wire stiffness is determined by the metal used as the core of the wire.
--   The same wire will become stiffer with a larger diameter.
--   Softer wires are used to manipulate catheters into vessels.
--   Stiffer wires are needed to push larger devices, such as balloons or endografts.
-
-#### Coating
-
--   Wires have a hydrophilic or hydrophobic coating.
--   Hydrophilic wires have less friction when moving along the vessel wall and track more closely along the vessel lumen, increasing the risk of dissection.
--   Hydrophilic wires are preferable in highly tortuous vessels.
--   In contrast, hydrophobic wires keep more distance from the vessel wall and are less likely to dissect.
-
-#### Tip Shape
-
--   The tip shape and consistency of the wire is important.
--   Angled tips are used to navigate into side branches of vessels.
--   Soft tips are designed to prevent trauma to the vessel wall.
--   Weighted tips are used to cross occlusions.
--   J-tips are used to prevent wiring of too small of vessels that may lead to trauma of end organs.
-
-#### Length
-
--   Wires are measured in centimeters (cm) and typically range from 80 - 300 cm.
--   Wires must not only be long enough to reach the target vessel from the point of access, but also need to be long enough to support exchanges outside of the body as needed.
--   Care must be taken to avoid too long of a wire for its intended purpose as it is harder to control the end of the wire outside of the body.
-
-![Commonly used wires, curtosy of B. G. Northcutt, MD, A Shah, MD, Y Sheu, MD, L Carmi, MD.](images/wires.jpg){fig-align="middle" width="100%"}
-
-#### Function
-
-Wires can be categorized by function. Please find a list of each category with common examples of specific wires below.
-
-##### Access wires:
-
--   Short, typically 0.018" wires with a soft, non-directional tip to prevent any trauma to the vessel when entering, and a stiffer body to allow tracking of the introducer and sheath into the vessel.
-
-##### Guidewires:
-
--   Generally are characterized as pushable, hydrophilic wires with a floppy, curved or angled tips that are designed to track through tortuous vessels without causing blunt trauma to the vessel wall.
--   Guidewires are also used for their directionality to cannulate branches.
--   **Standard Glidewire (Terumo, Tokyo, Japan):** can be used as an access or guidewire. Hydrophilic coating, straight or angled tip, sized 0.018" - 0.035" in diameter and 150 cm or 260 cm in length.
--   **Bentson (Cook Medical, Bloomington, IN):** flexible wire with a hydrophobic coating and curved tip. Used to access vessels that have a slight curve, or to introduce catheters or sheaths. Comes in 0.035" diameter and 150 cm or 260 cm in length.
--   **Rosen (Cook medical, Bloomington, IN):** stiff hydrophobic wire with J tip. Often used as the first wire exchanged for the access wire. 0.035" long and 80 cm to 260 cm in length.
-
-##### Rail wires:
-
--   Used as a platform to support catheter and sheath exchanges, as well as to advance devices, such as stents or endografts.
--   Rail wires come in a range of stiffness, from medium to very stiff.
--   They may have a straight, floppy, or curved tip.
-
-*Medium stiffness rail wires:*
-
--   **Bentson (Cook Medical, Bloomington, IN):** flexible wire with a hydrophobic coating and curved tip. Used to access vessels that have a slight curve, or to introduce catheters or sheaths. Comes in 0.035" diameter and 150 cm or 260 cm in length.
--   **Rosen (Cook medical, Bloomington, IN):** stiff hydrophobic wire with J tip. Often used as the first wire exchanged for the access wire. 0.035" long and 80 cm to 260 cm in length.
-
-*High stiffness rail wires:*
-
--   **Amplatz (Boston Scientific, Marlborough, MA):** stiff, hydrophobic, straight floppy or J-tip. 0.035" - 0.038" diameter and 75 cm - 260 cm in length.
--   **Lunderquist (Cook Medical, Bloomington, IN):** one of the stiffest wires, hydrophobic, with floppy or curved tip. 0.035" diameter and 90 cm - 300 cm in length. Often used to advance large endografts.
-
-### Catheters
-
-Catheters are flexible, hollow tubes that are used in both the diagnosis and treatment of vascular disease.
-
-::: callout-note
-Catheters are measured in French (1F = 0.33 mm) and the diameter corresponds to the **outer diameter** of the tube.
-
-![Outer diameter = OD, Inner diameter = ID.](images/ODID.jpg){fig-align="middle" width="50%"}
-:::
-
-Catheters vary by size, stiffness, hydrophilicity, radiopacity, and functionality, but can generally be described in two categories, flush catheters and selective catheters.
-
-#### Flush catheters:
-
--   Contain multiple side holes just proximal to the end of the device to allow for the injection of contrast or other material, such as thrombolytics.
--   **Omniflush (Angiodynamics, Latham, NY):** soft, flexible catheter with a radiopaque tip that is able to administer contrast to visualize vessels. [Omniflush device on back table](https://th.bing.com/th/id/R.4a5b0244f2e5f63cffb37b1b81d7655b?rik=JGXkMiGWf8YnMA&riu=http%3A%2F%2Fmyasiamed.com%2Fimages%2FMariner-Omni-Flush1.jpg&ehk=qI0yAEYrAScCyzwy7HCY6AdcYeqPSPo6aqTUJwh7tIw%3D&risl=&pid=ImgRaw&r=0)
--   **Pigtail (Angiodynamics, Latham, NY):** Similar to the Omniflush with a looped end (Image YY).
-
-#### Selective catheters:
-
--   Contain one hole at the distal end of the tube.
--   Selective catheters come in many different shapes and sizes.
--   Intuitively, the anatomy of the vessel to be tracked will determine the diameter and tip shape.
--   When attempting to cross the aortic bifurcation into the contralateral common iliac artery, a catheter with more of a J-tip or "Shepherd's hook" is preferable.
--   When attempting to cannulate vessel branches with a more acute angle, a smaller angle catheter tip should be selected.
--   Selective catheters can also be used to deliver contrast, but the contrast is only able to leave the catheter through the end of the device.
--   Angiograms with selective catheters are more tailored to specific vessels, such as a renal or mesenteric artery.
--   **Selective Glidecath (Terumo, Tokyo, Japan):** hydrophilic catheter available in 17 different shapes, but the 45 degree is most common. Comes in 4F or 5F. Offers great trackability and pushability. [This image](https://www.terumois.com/products/catheters/glidecath/_jcr_content/content-par/columncontainer/column2_par/layout_container/grid-content-par/columncontainer_191691442/column1_par/columncontainer_547426510/column1_par/image_890878952.img.png/1604512081871.png) depicts some of the glidecath tip shapes.
-
-### Sheaths
-
-Sheaths are hollow tubes that provide a conduit between outer environment (i.e. outside the body) and the vessel. Returning to our train analogy, a sheath is the "tunnel" that the track and train run through.
-
-Sheaths are used to advance and exchange catheters, wires, stents, balloons, and other devices. Sheaths can be divided into short sheaths for access and long sheaths for diagnostics and treatment. Long sheaths are flexible enough to track along different vessels, but are also stiff enough to support the advancement or exchange of devices.
-
-::: callout-note
-Sheaths are measured in French (1F = 0.33 mm) and the diameter corresponds to the **inner diameter** of the tube.
-
-*As such, a 6F catheter will pass through a 6F sheath.*
-:::
-
-Key points about sheaths:
-
--   Sheaths are measured based on the inner diameter of the sheath, in contrast to catheters, which are measured based on their outer diameter.
--   Sheaths contain a removable introducer, which is used to expand the tract from the outside into the vessel, and provide a smooth transition between the wire and the sheath.
--   The side port on sheaths is used to flush the inner device with heparinized saline to prevent thrombus formation and distal embolization. It can also be used to inject contrast for diagnostic purposes.
--   Sheaths come in variable diameters, lengths, and tips.
--   Some sheaths, such as the **TourGuide (Medtronic, Minneapolis, MN)** are steerable. The operator can deflect the sheath tip up to 180 degrees. This is advantageous when cannulating branch arteries with sharp angles.
-
-It is also helpful to understand what diameter of sheath can be inserted into different points of access as this will change the approach for the procedure. Though there is variation across patients, the table below is a useful starting point to understand what size sheath can be inserted in target access arteries.
-
-| Artery         | Inner Diameter (mm) | Typical Access Sheath size (F) |
-|----------------|---------------------|--------------------------------|
-| Radial         | 2.3                 | 4-6                            |
-| Brachial       |                     | 5-7                            |
-| Axillary       |                     | 5-14                           |
-| Common Femoral | 6.6                 | 5-24                           |
-| Popliteal      | 4.7                 | 4-6                            |
-| Pedal          | 2.1                 | 4                              |
-
-------------------------------------------------------------------------
-
-## Balloons, Stents, and Endografts
-
-The delivery system for balloons consists of a catheter over the wire with the balloon built into the catheter tip. As such, advancing the balloon into place for angioplasty is no different from advancing a small catheter without a balloon.
-
-Similar to balloons, stents are contained in catheters that are advanced into position over wires. The interventional component (i.e. stent) is near the tip of the catheter.
-
-Both stents and balloons can elute drugs, most commonly *Paclitaxel,* an antiproliferative agent. Paclitaxel is lipophilic and remains active in the vessel wall following the procedure, preventing neointimal hyperplasia and improving patency.The impetus for using a drug-eluting stent or balloon in place of a standard stent or balloon is to decrease the chances of vascular remodeling following the procedure that may lead to restenosis.
-
-In contrast to drug-eluting stents, drug-eluting balloons have the advantage of not leaving hardware in the vessel after intervention. Contrarily, drug-eluting stents remain in the vessel lumen after intervention, but are able to continue providing radial force.
-
-### Balloons
-
-Balloons are versatile endovascular tools and can be categorized by the degree to which they assume of the shape of the vessel.
-
-**Compliant balloons:** - Compliant balloons inflate to a specific volume and *conform to the shape of the vessel.* - For example, the [**Fogarty balloon**](https://www.youtube.com/watch?v=2WK4Mt__CYs) is a compliant balloon that can be used to remove thrombi in both open and endovascular procedures.
-
-**Semi-Compliant balloons:** - These balloons have a slightly more rigid shape and therefore conform to a lesser degree to the shape of the container (i.e. vessel). - The **Coda balloon (Cook Medical, Bloomington, IN)** is semi-compliant and used to temporarily occlude large vessels.
-
-**Non-Compliant balloons:** - Non-compliant inflate to a predetermined shape and size. - They are commonly used in angioplasty of peripheral and/or visceral stenosed vessels.
-
-![Angioplasty with a non-compliant balloon courtesty of J. Heuser, and Wikimedia.](images/angioplasty.jpg){fig-align="center" width="30%"}
-
-Intraoperatively surgeons will often ask for the pressures of the balloon before using. Non-compliant balloons have a **nominal pressure,** which is the average pressure in atmospheres (atm) required to inflate the balloon to its *predetermined size,* and a **burst pressure,** where *99.9% of balloons will not burst if inflated to this pressure.*
-
-### Stents
-
-Stents may be covered or uncovered. **Covered stents** do not allow flow between the lumen of the stent and surrounding tissues, in contrast to **uncovered (bare metal) stents** which do allow flow through the stent.
-
-Stents can be categorized by the means of deployment.
-
-**Self-expanding stents** use a recoil mechanism during deployment to achieve a set diameter using stored energy from the packing of the stent.
-
-Key characteristics of **self-expanding stents**:
-
--   Flexible
--   Low profile
--   Deformable
--   Low radial force (lower dissection risk)
-
-**Balloon-expandable stents** are packaged around a balloon. The surgeon uses the balloon inside the stent to achieve a specific diameter based on the pressure used to inflate the balloon. As the diameter of the stent increases with higher balloon pressure, the length of stent decreases.
-
-Key characteristics of **balloon-expandable stents**:
-
--   Rigid
--   Large profile
--   Maintains shape over time
--   More accurate deployment
--   High radial force (higher risk of dissection)
 
 ::: callout-tip
-**Highly tortuous vessels** often require a **self-expanding stent** because of the increased flexibility needed to prevent kinking or in-stent restenosis.
-
-**Heavily calcified vessels** often require the increased radial force of **balloon-expandable stents** to achieve full patency.
+If you are not scrubbed, the ideal place to stand is as far away from the x-ray source while making sure you can still see the images and interact with the surgical team.
 :::
 
-![Balloon-expandable stent deployment courtesty of Blausen Medical. Retrieved on 22 February 20. Wikimedia.](images/balloonexpandstent.jpg){fig-align="center" width="40%"}
+When discussing the positioning of the C-arm, it's useful to become familiar with some common terminology. To improve visualization of the target area, the C-arm can rotate left and right, and cranially or caudally. **All terminology is relative to the radiation source (under the table) and not the intensifier (above the patient).** Two frequently encountered positions are **RAO (right anterior oblique)** and **LAO (left anterior oblique).**
 
-### Endografts
-
-Endografts are tubes of fabric and interwoven metal used to exclude the diseased segment of an artery from circulation. The goal of an endograft is to prevent rupture or sac enlargement of an aneurysm by depressurizing the arterial walls.
-
-Endografts are comparatively larger than stents and can require very large sheaths (\>18F for endovascular aortic repair). To treat an aortic aneurysm with an endograft, there must be adequate sealing zones of healthy aorta above and below the aneurysm.
-
-::: callout-note
-Please see the AAA Chapter for a full review of endovascular aortic repair (EVAR).
-
-Please see the TAA/TAAA Chapter for a full review of thoracic endovascualr aortic repair (TEVAR)
+:::callout-tip
+See a visual summary of C-arm rotation [here.](https://thoracickey.com/wp-content/uploads/2016/06/B9780750675727500084_gr1.jpg)
 :::
-
-For patients that have extension of the aneurysm into the visceral vessels of the aorta, the use of a conventional, non-fenestrated endograft would block blood flow to the branches of the diseased segment of the aorta, such as the kidneys or bowel. Treatment of thoracoabdominal or complex abdominal aortic aneurysms with endovascular repair requires a graft that allows flow to branches of the aorta. Some common techniques for maintaining visceral blood flow include :
-
-**Fenestrated endografts** include small, circular holes in the main body of the endograft. The french word for window is "fenêtre." When the fenstrations (or windows) are placed in line with visceral vessel origins, balloon-expandable stents can be used to bridge to the main endograft to the native renal or mesenteric arteries.
-
-Additional characteristics about **fenestrated grafts**:
-
--   They are ideal when the inner aortic diameter is small, making for a short distance (\<5 mm) between the endograft and native visceral artery.
--   They require the pathway between the endograft and the native artery to be close to perpendicular; that is, the pathway for the stent out of the graft cannot be at too large of an angle due to risk of stent fracture or kinking.
--   The part of the stent inside the endograft must be flared out with a balloon to prevent endoleak from inside the endograft into the aneurysm sac.
--   An of a commercially available fenestrated endograft is the Cook Medical Zenith Fenestrated (ZFen) AAA endograft. Click [here](https://www.youtube.com/watch?v=PR65idZIQJM) to watch an animation of ZFen deployment.
-
-**Branched endografts** have side branches built-into the main body of the graft in place of fenestration. These branches extend from the outer body of the main graft towards the target vessel.
-
-Additional characteristics about **branched grafts**:
-
--   They require a larger inner aortic diameter for more space between the endograft and target artery.
--   Branches can receive self-expanding or balloon-expandable stents.
 
 ------------------------------------------------------------------------
 
-## Common Endovascular Procedures
+## Pregnant Populations 
 
 Vascular surgeons perform a number of endovascular procedures. The most common include placement of an inferior vena cava (IVC) filter, diagnostic angiograms with angioplasty and stenting, fistulagrams, endovascular aneurysm repair (EVAR), and thrombectomy and thrombolysis. There are a number of basics that trainees should know before starting one of these procedures.
 
@@ -742,9 +605,9 @@ Key points: [@liew2005]
 -   Embolization is most common to the skin, kidneys, and GI tract though it is dependent on the site of the procedure.
 -   Unfortunately this condition is generally under diagnosed and challenging to treat. - Primary prevention is of utmost importance with good surgical technique.
 
-#### Wire Perforation 
+#### Wire Perforation
 
-Wire perforation occurs when an angiographic wire creates a hole in a vessel. 
+Wire perforation occurs when an angiographic wire creates a hole in a vessel.
 
 Key points:
 
@@ -759,9 +622,9 @@ Vessel rupture occurs when a device or balloon is oversized for a vessel and cau
 Key points:
 
 -   Rupture can be cause by an oversized balloon or balloon expandable stent, by expanding a properly sized balloon in a heavily calcified vessel or by passage of a large device such as an EVAR device through a small vessel.
--   Rupture is associated with a high morbidity and mortality especially if there is any delay in diagnosis. 
--   Immediately upon recognition of vessel rupture, a balloon should be inflated in the region to obtain adequate hemostasis. Simultaneously, supplies should be can gathered for vessel repair. 
--   Repair is usually done with a covered stent placed across the rupture. If adequate hemostasis cannot be obtained, open repair may be necessary. 
+-   Rupture is associated with a high morbidity and mortality especially if there is any delay in diagnosis.
+-   Immediately upon recognition of vessel rupture, a balloon should be inflated in the region to obtain adequate hemostasis. Simultaneously, supplies should be can gathered for vessel repair.
+-   Repair is usually done with a covered stent placed across the rupture. If adequate hemostasis cannot be obtained, open repair may be necessary.
 
 ------------------------------------------------------------------------
 
@@ -769,11 +632,11 @@ Key points:
 
 ### Scenario
 
-A 71 year old male with a past medical history of hypertension, hyperlipidemia, coronary artery disease with stent placement was diagnosed with acute type B aortic dissection three weeks ago. He was managed medically in the hospital and sent home after one week with blood pressure and pain well-controlled. An image from the CTA at time of diagnosis is seen below: 
+A 71 year old male with a past medical history of hypertension, hyperlipidemia, coronary artery disease with stent placement was diagnosed with acute type B aortic dissection three weeks ago. He was managed medically in the hospital and sent home after one week with blood pressure and pain well-controlled. An image from the CTA at time of diagnosis is seen below:
 
 ![CTA](images/endotc.jpg){fig-align="left" width="80%"}
 
-The proximal extent of the dissection was 3 cm distal to the left subclavian artery and the distal extent was 2 cm superior to the celiac artery, allowing good landing zones for an endograft. The left internal iliac artery is fully occluded, and the right internal iliac artery has roughly 50% stenosis. The left external iliac artery is heavily calcified and stenotic >50%. The right common and external iliac artery are patent without evidence of significant atherosclerosis. The patient is evaluated in the preoperative area prior to placement of a thoracic endograft in the hybrid operating room. 
+The proximal extent of the dissection was 3 cm distal to the left subclavian artery and the distal extent was 2 cm superior to the celiac artery, allowing good landing zones for an endograft. The left internal iliac artery is fully occluded, and the right internal iliac artery has roughly 50% stenosis. The left external iliac artery is heavily calcified and stenotic \>50%. The right common and external iliac artery are patent without evidence of significant atherosclerosis. The patient is evaluated in the preoperative area prior to placement of a thoracic endograft in the hybrid operating room.
 
 ### Exam
 
@@ -781,9 +644,9 @@ The proximal extent of the dissection was 3 cm distal to the left subclavian art
 
 **Cardiac:** Regular rate and rhythm
 
-**Pulmonary:** Clear to auscultation in all lung fields. No accessory muscle use. 
+**Pulmonary:** Clear to auscultation in all lung fields. No accessory muscle use.
 
-**Abdominal:** Soft, non-tender, non-distended, no pulsatile masses felt. 
+**Abdominal:** Soft, non-tender, non-distended, no pulsatile masses felt.
 
 **Vascular/Extremities:** Warm, non-edematous. Palpable pulses in all four extremities.
 
@@ -795,11 +658,11 @@ The proximal extent of the dissection was 3 cm distal to the left subclavian art
 However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
 :::
 
-1.    What clinical risk factors make this patient a good candidate for endovascular vs. open repair?
-2.    The endograft used for this operation requires at least an 18F sheath, which site of access should be used to insert and implant the graft?
-3.    What diameter and hydrophilicity of wire should be used to advance the thoracic endograft to the site of dissection?
-4.    The attending surgeon requested mean arterial pressures to be at least 90 mmHg throughout the operation. Why would intraoperative hypotension be concerning in this patient? What anatomic factors make this patient at particular risk?
-5.    If the patient developed pain at the site of access one week later, with a well-healing wound and palpable thrill on physical exam, what kind of access-related complication are you worried about and what would be your next step to confirm the diagnosis?
+1.  What clinical risk factors make this patient a good candidate for endovascular vs. open repair?
+2.  The endograft used for this operation requires at least an 18F sheath, which site of access should be used to insert and implant the graft?
+3.  What diameter and hydrophilicity of wire should be used to advance the thoracic endograft to the site of dissection?
+4.  The attending surgeon requested mean arterial pressures to be at least 90 mmHg throughout the operation. Why would intraoperative hypotension be concerning in this patient? What anatomic factors make this patient at particular risk?
+5.  If the patient developed pain at the site of access one week later, with a well-healing wound and palpable thrill on physical exam, what kind of access-related complication are you worried about and what would be your next step to confirm the diagnosis?
 
 ------------------------------------------------------------------------
 
@@ -870,7 +733,7 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 
 </iframe>
 
-#### Inferior Vena Cava (IVC) Filter Placement 
+#### Inferior Vena Cava (IVC) Filter Placement
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/29-8tVIrh6o?si=6NQ9eyFIayyuiP6S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
@@ -881,6 +744,7 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqeMld1mNC0?si=cv7W5Rc5iXXXhcd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 </iframe>
+
 <!-- Google tag (gtag.js) -->
 
 ```{=html}
