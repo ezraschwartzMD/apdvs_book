@@ -302,9 +302,19 @@ Shielding serves to protect vital organs from radiation exposure and damage. The
 
 Lead aprons and other lead-lined materials are highly effective in protecting personnel from radiation exposure. Lead, being a very dense material, absorbs a significant portion of the radiation from X-ray beams that would otherwise reach the person wearing it. These lead protection devices are specifically designed to safeguard vital organs and those most sensitive to radiation exposure---such as organs not shielded by overlying bone. This includes the torso, reproductive organs, and the thyroid gland.
 
+::: callout-note
+Please find an example of lead [here:](https://infabcorp.com/product/lead-apron-revolution-vest-skirt/)
+
+Please find an example of a thyroid shield [here:](https://infabcorp.com/products/accessories/thyroid-shield/)
+:::
+
 Reported effectiveness of worn lead varies. Some sources claim that a lead apron with a thickness of 0.5 mm can reduce radiation scatter by 90%, while others suggest a lesser reduction. However, there is a consensus that the apron should be at least 0.25 mm thick both in the front and back. [@cheon2018]
 
 Additional shielding such as lead screens can be found in the OR to provide further protection against scattered X-rays.
+
+::: callout-note
+Please find an examples of lead shields [here:](https://phillips-safety.com/product-category/radiation/lead-shield/?page=1)
+:::
 
 ------------------------------------------------------------------------
 
@@ -313,6 +323,10 @@ Additional shielding such as lead screens can be found in the OR to provide furt
 Radiation badges or "dosimeters" are personal wearable devices designed to measure the amount of radiation exposure an individual receives. They measure the total exposure accumulated over a set period of time. It's important to note that these devices specifically measure ionizing radiation and not other forms.
 
 There are several types of badges available. Film badges are commonly used in clinical practice. They are worn by a single person and are evaluated every 30 days. Other types of badges provide real-time quantification of radiation exposure, with readings recorded at the beginning and end of each shift. A radiation officer is typically tasked with tracking these exposure levels.
+
+::: callout-note
+Please find more information about radiation badges [here:](https://www.radetco.com/radiation-badge-101-everything-you-need-to-know/)
+:::
 
 When an individual's exposure approaches a certain threshold, which is typically set below the maximum allowable dose for a year, measures are taken to further minimize their exposure. For instance, if an employee has reached a significant exposure level two months into the year, the radiation compliance officer would discuss strategies to reduce their exposure. Strategies include maintaining greater distance from radiation sources, rotating through cases more frequently, and avoiding involvement in procedures with a higher risk of elevated radiation levels.
 
@@ -328,6 +342,10 @@ Despite the significant reduction achieved with the use of **lead safety glasses
 
 **Wearing lead safety glasses during interventions is recommended** as it reduces radiation exposure and helps maintain eye health, particularly for individuals at risk of accumulating significant lifetime radiation exposure.
 
+::: callout-note
+Please find an examples of lead glasses [here:](https://phillips-safety.com/shop/radiation/radiation-glasses/radiation-glasses-t9538s/)
+:::
+
 ------------------------------------------------------------------------
 
 ## Imaging Technique
@@ -336,19 +354,19 @@ Now that we've covered both radiation equipment and safety gear, it's crucial to
 
 The radiation dose depends on both the **intensity of imaging** and the **duration of fluoroscopic exposure**. [@rial2021] During endovascular procedures, the operating surgeon can control these factors by:
 
-1.  **Pulse imaging**: Instead of continuously scanning the patient, the surgeon can pulsate images (i.e. shoot several plain x-rays). This approach reduces scatter and lowers overall exposure. It\'s especially effective when high temporal resolution isn\'t necessary.
+1.  **Pulse imaging**: Instead of continuously scanning the patient, the surgeon can pulsate images (i.e. shoot several plain x-rays). This approach reduces scatter and lowers overall exposure. It's especially effective when high temporal resolution isn't necessary.
 
 2.  **Collimator use**: The surgeon can use the collimator to narrow the X-ray beam, focusing solely on the area of interest. This method effectively reduces both dose and scatter.
 
-The image intensifier should be positioned closer to the patient to optimize image quality. Conversely, the X-ray tube should be placed further away from the area being imaged. 
+The image intensifier should be positioned closer to the patient to optimize image quality. Conversely, the X-ray tube should be placed further away from the area being imaged.
 
 If the X-ray tube is too close, imaging quality can degrade and radiation dose increases. This strategic arrangement ensures that the image quality remains high while minimizing patient exposure to radiation.
 
-:::callout-tip
+::: callout-tip
 See a visual summary of correct and incorrect technique [here.](https://ars.els-cdn.com/content/image/1-s2.0-S0741521410017313-gr1_lrg.jpg)
 :::
 
-Another crucial aspect of radiation exposure is a person\'s **distance from the radiation source**. Radiation exposure decreases as the distance from the source increases. This phenomenon follows an **inverse square law (1/d\^2)**. [@kim2018]
+Another crucial aspect of radiation exposure is a person's **distance from the radiation source**. Radiation exposure decreases as the distance from the source increases. This phenomenon follows an **inverse square law (1/d\^2)**. [@kim2018]
 
 ::: callout-note
 Suppose a medical student is initially **one foot away** from a radiation source, and their exposure is measured at **500 mGy/min**. If they then move **ten feet away f**rom the source, their exposure would reduce significantly to **5 mGy/min**. This example vividly demonstrates why distance from the source plays a pivotal role in minimizing radiation exposure.
@@ -364,267 +382,163 @@ If you are not scrubbed, the ideal place to stand is as far away from the x-ray 
 
 When discussing the positioning of the C-arm, it's useful to become familiar with some common terminology. To improve visualization of the target area, the C-arm can rotate left and right, and cranially or caudally. **All terminology is relative to the radiation source (under the table) and not the intensifier (above the patient).** Two frequently encountered positions are **RAO (right anterior oblique)** and **LAO (left anterior oblique).**
 
-:::callout-tip
+::: callout-tip
 See a visual summary of C-arm rotation [here.](https://thoracickey.com/wp-content/uploads/2016/06/B9780750675727500084_gr1.jpg)
 :::
 
 ------------------------------------------------------------------------
 
-## Pregnant Populations 
+## Adverse Outcomes Given Prolonged Radiation Exposure
 
-Vascular surgeons perform a number of endovascular procedures. The most common include placement of an inferior vena cava (IVC) filter, diagnostic angiograms with angioplasty and stenting, fistulagrams, endovascular aneurysm repair (EVAR), and thrombectomy and thrombolysis. There are a number of basics that trainees should know before starting one of these procedures.
+### Limits
 
-### IVC Filter Placement
+Various governing agencies in the US and around the world have established limits on yearly radiation exposure.
 
--   An IVC Filter is a metal cage-like device placed in the IVC to prevent clots from embolizing to the pulmonary vasculature.
--   The hook at the superior aspect of the filter is used to aid with retrieval.
--   The struts will catch clots and will anchor into the walls of the IVC to prevent migration.
--   **Placement of an IVC filter can be controversial** but it is commonly used to prevent pulmonary embolism in patients who have a strict contraindication to anticoagulation.
--   They are sometimes placed prophylactically in high-risk trauma patients.
+Currently, the United States Occupational Safety and Health Administration, Nuclear Regulatory Commissions, and Department of Energy all stipulate a **yearly limit of 5,000 mrem/year (50 Sv)**. [@radiatio][@informat]
 
-![Inferior Vena Cava Filter courtesy of scientificanimations.com. Retrieved on 30 March. Wikimedia.](images/ivcfilter.jpg){fig-align="center" width="40%"}
+Some agencies further specify this **limit to 1,250 mrem/quarter (12.5 Sv)**. [@radiatioa]
 
-Procedure:
+### Deterministic versus stochastic radiation effects
 
--   Access is usually obtained via the right femoral vein as it gives direct access to the IVC.
+Before delving into the various risks associated with radiation exposure, it's essential to provide a brief overview of the types of radiation effects. These effects can be broadly categorized into deterministic and stochastic effects.
 
--   Ultrasound should be used to confirm that there is no thrombus at the access site - Access is then obtained via the Seldinger technique and a venacavogram is then obtained to assess the anatomy and the location of the renal veins
+**Deterministic effects**, also known as non-stochastic effects, occur when specific radiation dose thresholds are exceeded leading to adverse outcomes. They are **dose-dependent** and result in significant damage, such as cell death in a specific organ. Examples of deterministic effects include cataracts, infertility, and non-malignant skin lesions. [@weerakkody2008] Making sure thresholds are not surpassed is pertinent not only for individuals working in the endovascular suite but also for ensuring patient safety.
 
--   The filter is generally placed just below the renal veins to prevent renal vein thrombus if filter thrombosis occurs.
+The table below outlines the various adverse deterministic (non-stochastic) effects associated with radiation doses in comparison to the average exposure during endovascular aneurysm repair (EVAR).[@weerakkody2008]
 
--   If a retrievable filter is placed, it should be removed as soon as the filter is no longer clinically indicated.
+**Radiation absorbed dose and associated side effect compared to EVAR**
 
--   Filter retrieval becomes more challenging the longer the filter remains in place.
+| System        | Side Effect              | Source            | Dose (Gy)                                           | Average EVAR dose (Gy) \[31\]               |
+|---------------|---------------|---------------|---------------|---------------|
+| Integumentary | Early transient erythema | Stewart, et. al.  | Single dose: 2                                      | .85 median (interquartile range .51 - 3.74) |
+|               | Burns                    | Williams          | Single dose: 5-10                                   | "                                           |
+| Reproductive  | Sterility                | Williams          | Single dose: 3-6                                    | "                                           |
+| Thyroid       | Hypothyroidism           | Nagayama          | Cumulative dose High dose: 15-44 Low dose: variable | "                                           |
+| Ocular        | Cataracts                | Williams, et. al. | Single dose .5                                      | "                                           |
 
--   Filter retrieval is generally performed through the internal jugular vein in the neck to give access to the hook at the superior end of the filter, which can be snared and removed.
+The table above underscores a crucial consideration: deterministic effects may potentially arise in cases with prolonged run times. Endovascular aneurysm repair (EVAR) is a routine procedure for modern vascular surgeons. While the duration of these procedures may vary, considering the cited range of radiation dosages from 0.51 to 3.74 [@weerakkody2008], it's conceivable that patients could experience post-operative adverse events solely due to the effects of radiation exposure.
 
-::: callout-note
-Please find a more detailed review of IVC filters [here](https://www.ncbi.nlm.nih.gov/books/NBK549900/)
-:::
+In contrast, stochastic effects result from repeated exposure to radiation levels below a certain threshold. A notable example of stochastic effects is cancer. Stochastic effects are probabilistic in nature. For example, the likelihood of developing leukemia after a single chest X-ray is low. However, if someone were to undergo a head-to-toe CT scan daily for a year, the probability of developing leukemia would significantly increase, even though there isn't a direct correlation between the dose of radiation and the observed effect. [@hamada2014]
 
-### Lower Extremity Angiogram
+### The Eye and Radiation Exposure:
 
-A lower extremity angiogram is the starting point for a vascular surgeon to perform a number of different interventions including angioplasty, stenting, and thrombectomy. An angiogram is a procedure in which contrast dye is used to display the vasculature and its disease burden under X-ray.
+During radiological procedures, one organ that often goes unnoticed but is significantly exposed is the **eye**, specifically the **lens**.
 
-::: callout-tip
-Before an angiogram, one should be aware of all prior interventions a patient has had, both open and endovascular. It can be useful to review old operative reports and imaging studies in order to know the patient's current anatomy.
-:::
+The lens of the eye is particularly **sensitive to radiation** .
 
-::: callout-tip
-In addition, the patient's most recent imaging studies should be reviewed including ABI/PVRs, arterial duplex, and any axial imaging such as a CTA.
+-   **Cataracts**: **Prolonged exposure** to significant radiation levels can lead to **opacification of the lens** (i.e. cataracts)
 
-Please see Claudication Chapter for a summary of ABI/PVR testing and interpretation.
-:::
+-   This gradual process ultimately results in the development of **cataracts**, with the most common subtype being **posterior subcapsular (PSC) cataracts**. [@loganovsky2020]
 
-Procedure:
+-   A study conducted in 2013 examined the dose-effect relationship of radiation on the eyes of interventional cardiologists and electrophysiologists. The study found that up to 25% of the physicians involved had exceeded current exposure thresholds and were at risk of developing radiation-induced cataracts. [@jacob2012]
 
--   Access is typically obtained in the contralateral common femoral artery and a wire and catheter are passed up and over the aortic bifurcation to gain access to the operative (ipsilateral) side.
+Other ocular pathologies associated with radiation exposure include:
 
--   A series of angiograms are taken to assess the level of disease and based on this a final operative plan will be made.
+-   **Cataracts**: Prolonged exposure to radiation may lead to the development of cataracts, causing clouding of the lens.
 
--   There are multiple options for treatment including angioplasty, stenting, atherectomy, thrombectomy, and thrombolysis, to name a few.
+-   **Glaucoma**: Radiation exposure can contribute to glaucoma, a condition characterized by increased intraocular pressure.
 
-Possible Interventions:
+-   **Optic Neuropathy**: Damage to the optic nerve due to radiation exposure can result in vision impairment.
 
--   **Angioplasty:** a balloon is advanced across the area of concern (usually atherosclerosis causing a flow limitation) and expanded to dilate the area of stenosis.
+-   **Retinal Angiopathy**: Radiation may impact retinal blood vessels, leading to angiopathy.
 
--   **Stenting:** commonly after an angioplasty, a stent is placed to maintain patency of the area. There are multiple types of stents (covered above) that can be used depending on anatomic location, size, and indication.
+-   **Dry Eye Syndrome**: Radiation exposure can cause dryness and discomfort in the eyes.
 
--   **Atherectomy:** a procedure where a calcified plaque is physically removed from the artery. This can be done with a cutting blade, a spinning drill-like device, or a laser.
+In recent years, there has been **growing research interest** in understanding the potential adverse effects of **long-term radiation exposure** on ocular health.
 
-::: callout-note
-**Considerations for Atherectomy**
+The increased understanding of these risks has prompted a greater emphasis on the **importance of safety equipment** to protect the eyes. Proper use of protective gear such as **lead glasses and face shields** is crucial for minimizing radiation exposure to ocular tissues.
 
-As plaque is broken into smaller pieces, there is a significant risk for **distal embolization** of plaque debris. To prevent this, an embolic protection device is often used which can filter blood and catch any smaller particulate matter that travels distally. Some of the devices include an aspiration device to remove clot and thrombus as it is removed.
+### The Skin and Radiation Exposure:
 
-There is ongoing research into the outcomes of atherectomy versus stenting alone, but generally, the long-term patency rate is similar.[@atherect]
-:::
+Skin changes of varying severity are a well-documented adverse reaction to radiation exposure. These changes can range from mild redness and irritation to severe necrosis and the development of secondary skin cancers. Importantly, these changes may not always manifest immediately.
 
--   **Thrombolysis:** a procedure where the clot is dissolved often with tPA and heparin to treat an acute thrombotic event. Often, angiograms are performed for acute limb ischemia from a clot rather than atherosclerotic disease. A lysis catheter or Cragg-Macnamara catheter can be placed. The **Cragg-Macnamara catheter** is a long catheter with multiple side ports where medication can be infused over the length of a thrombosed artery. This catheter can be left in place for **24-48 hours** and the medication is allowed to "bust" the acute clot. After this, the patient will be brought back to the operating room to evaluate the progress of the clot dissolution.[@giannakakis2017]
+Adverse effects to the skin vary according to the cumulative dose of radiation. For example, at the large cumulative dose of 50 Gy, fibrosis may occur, presenting as induration, skin retraction, edema, restricted motion, ulceration, and necrosis. [@bennardo2021] This underscores the importance of understanding a patient's radiation exposure history, as it could increase their susceptibility to radiation-induced injury.
 
--   **Thrombectomy:** a procedure where acute or subacute thrombus is removed from a vessel. This can be accomplished in a variety of ways. Commonly, a suction thrombectomy system can be used to remove thrombus from a vessel using vacuum force for example using the **Penumbra system.** Alternatively, a mechanical thrombectomy can be performed where a Fogarty catheter is deployed past a thrombus, a balloon inflated at the end of the catheter, and then manually pulled back towards an arteriotomy and the clot then removed.[@karnabatidis2011]
+The most commonly encountered adverse skin effect is **acute radiation dermatitis**.
 
-### Fistulograms
+-   Acute radiation dermatitis characterized by redness and ulceration, can occur with relatively low doses, such as **2 Gy.** [@stewart2012][@bennardo2021]
 
-A fistulogram is an angiographic study used to interrogate and troubleshoot a disfunctional arteriovenous fistula.
+-   This level of exposure is concerning not only for individuals undergoing routine radiation therapy for cancer treatment but also for those in prolonged surgeries requiring fluoroscopy, as highlighted in Weerakkody's study on endovascular aneurysm repair (EVAR). [@weerakkody2008a] 
 
-Common complications of fistulas include:
+-   Symptoms of **acute radiation dermatitis typically appear within 2 to 24 hours** following exposure.
 
--   Anastomotic strictures.
--   Inflow issues (such as atherosclerosis of the inflow artery).
--   Outflow issues (such as central venous stenosis).
--   Thrombosed fistula.
+-   As the radiation dose increases, the severity of side effects worsens, and the time to onset of these effects also lengthens. For instance, a single radiation dose of 10 Gy may result in dermal atrophy, but this may not be evident until more than 10 weeks after exposure. [@stewart2012]
 
-Access is obtained in different locations depending on the culprit lesions (the inflow artery, the fistula itself, the outflow veins) and can be treated with angioplasty and or stenting.
+This discussion doesn't cover all possible adverse effects related to skin radiation exposure. Rather, it provides an overview of common findings based on typical exposure scenarios in vascular surgery patients. Further information on the effects of single and cumulative radiation doses on the skin can be found in studies by Stewart ([@stewart2012]) and Bennardo ([@bennardo2021]), respectively.
+
+### Thyroid Dysfunction, Thyroid Cancer, and Radiation Exposure
+
+It is widely acknowledged that **radiation exposure during childhood** significantly increases the risk of developing **thyroid cancer**. Key risk factors in this context include both the **dose of radiation received** and the **age at the time of exposure**.[@iglesias2017] However, when it comes to establishing a similar relationship in **adulthood**, the evidence has been less straightforward.
+
+In **October 2023**, **The Journal of Radiation Research** published a **systematic review and meta-analysis** specifically examining the **incidence of thyroid cancer following radiation exposure in adults**. While some studies suggested an **increased risk of cancer** in adults exposed to radiation, the relative risk at a **dose of 10 mGy** (milligray) was **deemed insignificant**. In other words, the risk did not show a significant elevation at this particular dose level.
+
+While a definitive link between radiation exposure and thyroid cancer in adult populations remains elusive, several studies have **hinted at a potential association** between **low-dose ionizing radiation** and **thyroid dysfunction**. 
+
+-   There have been reports of hypothyroidism marked by elevated levels of thyroid-stimulating hormone (TSH) and lower-than-average levels of free triiodothyronine (T3) and thyroxine (T4) compared to unexposed individuals. [@cioffi2020]
+
+Given the potential implications of radiation exposure to thyroid disfunction and cancer, additional research into the long-term effects of ionizing radiation exposure on thyroid function is warranted. Numerous studies have emphasized the need for further investigation in this area.
+
+### Reproductive Function and Radiation Exposure
+
+One of the significant concerns associated with radiation exposure is its impact on reproductive health. 
+
+In the **female reproductive system**, ionizing radiation primarily affects the **ovaries**, potentially leading to:
+
+1\. **Ovarian Insufficiency**: Prolonged exposure to radiation may result in **ovarian insufficiency**, affecting the ovaries' ability to function optimally.
+
+2\. **Delayed Puberty**: Radiation exposure can also contribute to **delayed puberty** in females.
+
+3\. **Infertility**: Ultimately, these effects may culminate in **infertility**.
+
+Some sources suggest that **radiation to the head** during routine medical procedures could disrupt the **hypothalamic-pituitary-gonadal (HPG) axis**. [@marci2018] This disruption may lead to hormonal dysregulation, further impacting reproductive health.
+
+Radiation exposure to **male reproductive organs** can disrupt spermatogenesis, depending on the stage of sperm development. The damage from ionizing radiation may lead to decreased sperm motility, increased fragmentation, and DNA alterations. [@wdowiak2019]
+
+### Hematologic Disease and Radiation Exposure
+
+Prolonged low-dose radiation exposure has the potential to cause serious hematological effects. Numerous studies, including those conducted outside the medical field, have examined hematologicaly consequences of employees at risk of radiation exposure.
+
+A particularly noteworthy study, published in 2015, involved an international cohort of observers within the nuclear industry. Their research revealed compelling evidence linking low-dose radiation exposure to the development of non-chronic lymphocytic leukemia (CLL). [@leuraud2015]
+
+-   Specifically, the study highlighted a **direct correlation** between cumulative red bone marrow dose over a two-year period and the excess relative risk of developing leukemia. 
+
+-   Their findings indicated that the relative risk of leukemia mortality was approximately 2.96 per Gy of exposure (RR = 2.94 per Gy). 
+
+While we won't delve into the intricate details of these findings in this chapter, they underscore the critical importance of considering lifelong radiation exposure and the need for effective protective measures.
 
 ------------------------------------------------------------------------
 
-## Risks
+## Pregnant Populations
 
-As with any invasive procedure, even a minimally invasive procedure comes with its own set of risks, and as the complexity of the procedure increases so does the risk.
+When it comes to **radiation exposure during pregnancy**, there are important guidelines and considerations to keep in mind.
 
-The American Heart Association has put out guidelines to help stratify patients at risk for vascular complications.[@patel2010a]
+-   To monitor the radiation dose absorbed by the fetus, a dosimeter or radiation badge is typically worn under the lead apron at the level of the abdomen.
 
-**Low risk cases** were defined as those with a complication rate below 1%. Characteristics include:
+-   This dosimeter is checked monthly, and the absorbed dose is calculated accordingly.
 
--   Diagnostic angiograms without interventions.
--   Short operative times.
--   Small sheaths (5 Fr).
--   Minimal anticoagulation.
--   Younger male patients with larger body habitus and normal renal function were at lowest risk of complications.
+-   **Fetal Harm Threshold**: Ensure that the radiation dose does not exceed **0.5 mSv per month** or a maximum fetal dose of **5 mSv** throughout the entire pregnancy
 
-**Moderate risk cases** were defined as those with a complication rate of 1-3%. Risk factors include:
+The following table adapted from a study by Vu et al. ([@elder2013]) summarizes the deterministic effects of radiation during pregnancy.
 
--   Longer, more complex procedures.
--   Involve larger sheaths (6-7Fr).
+| Deterministic effect                       | Gestation (weeks) | Threshold dose (mGy) |
+|----------------------------------|-------------------|-------------------|
+| Embryonic death                            | 3 -- 4            | 100 -- 200           |
+| Major malformations                        | 4 -- 8            | 250 -- 500           |
+| Growth retardation                         | 4 -- 8            | 200 -- 500           |
+| Irreversible whole body growth retardation | 8 -- 15           | 250 -- 500           |
+| Severe mental disability                   | 8 -- 15 \>16      | 60 -- 500 \>1,500    |
+| Microcephaly                               | 8 -- 15           | \>20,000             |
+| Decrease in intelligence quotient          | \>16              | \>100                |
 
-**High risk cases** were defined as those with a complication rate \>3%. Risk factors include:
+### Lead Thickness Considerations for Pregnant Providers:
 
--   Peripheral arterial disease patients
--   Advanced age
--   Female sex at birth
--   Liver disease
--   Coagulopathy
--   Immunosuppression
--   Status post valve replacement
--   Renal dysfunction.
--   Longer procedure times
--   Larger sheaths (\>8Fr), use of arterial closure devices
--   More likely to involve anticoagulation
+-   **Minimum Thickness**: Pregnant individuals should wear a lead apron with a minimum thickness of **0.5 mm**. This ensures proper coverage of the abdomen, shielding the fetus from radiation exposure.
 
-### Access Complications
+-   **Double-Thickness Option**: Alternatively, a double-thickness lead apron (1.0 mm) can be worn. According to Vu et al. ([@elder2013]), this reduces the absorbed dose from **9 mrem** to **3 mrem**.
 
-Although each procedure comes with its own specific risks (e.g. stroke for a carotid artery stent, distal embolization for atherectomy etc), there are multiple complications that can occur with any endovascular procedure. The procedure specific complications will be explored in further detail in each chapter. Common access complications are listed below.
+-   **Weight Consideration**: However, it's essential to recognize that wearing a thicker lead apron may increase the risk of **back injury** due to the added weight. Balancing protection and comfort is crucial.
 
-#### Groin Hematoma
-
-A groin hematoma is a collection of blood that has collected outside the lumen of the vessel, which often occurs after removal of the sheath.
-
-Groin hematoma characteristics:
-
--   Occur in about 1-3 % of cases
--   Often due to a stick not directly over the femoral head in which case manual pressure may not provide adequate hemostasis.
--   Hematomas are rarely ever operated on unless they case skin compromise, severe pain, femoral nerve compression, or are rapidly expanding.
--   Hematoma will generally be absorbed by the body.
--   If they are operated on, there is a significant risk of infection (about 20%) and seroma formation.
-
-#### Pseudoaneurysms
-
-A pseudoaneurysm is defined as a collection of turbulent blood flow contained only by one or two layers of the arterial wall as opposed to a true aneurysm where all three layers are dilated (**occur in less than 1% of endovascular cases**). They occur secondary to injury (iatrogenic or trauma).
-
-**These must be managed urgently and treated appropriately to prevent significant morbidity and mortality.**
-
-##### Pseudoaneurysm presentation:
-
--   Pulsatile often painful mass at a prior access site
--   May lead to skin necrosis
--   Bruit on auscultation
-
-##### Pseudoaneurysm risks:
-
--   Vessel rupture
--   Thrombus formation with distal embolization
--   Skin necrosis
--   Nerve compression
--   Venous compression
-
-##### Etiology:
-
-Most often, seen at the femoral artery as an access site complication from:
-
--   Failed deployment of a closure device
--   Laceration of the artery or branch by an access needle
--   Inadequate pressure or length of pressure being held.
-
-Patients who are obese, female, hypertensive or are on anticoagulation or antiplatelet therapy are at higher risk for femoral PSA.
-
-##### Workup:
-
--   Duplex ultrasound of the site.
--   Pulse exam to ensure adequate distal perfusion.
-
-##### Management:
-
-Management is dependent on size and presentation of the pseudoaneurysm. In the past, all pseudoaneurysms were treated operatively, but with new advances, minimally invasive techniques have become more common with good outcomes.
-
--   For a small asymptomatic pseudoaneurysm (less than 2cm), an appropriate first step would be observation and repeat duplex ultrasound in about one month.
--   For a persistent pseudoaneurysm after one month, a larger/loculated asymptomatic pseudoaneurysm, or a pseudoaneurysm that presents with minor pain at the site, minimally invasive intervention with ultrasound guided compression or ultrasound guided thrombin injection is appropriate.
--   For any pseudoaneurysm presenting with persistent hemodynamic instability, limb ischemia, skin necrosis, AV fistula, nerve compression, expanding hematoma, an urgent operation is required.
--   Urgent open repair generally consists of gaining proximal and distal control and then primary repair of the arterial defect.
--   Urgent endovascular management may also be entailed by deploying coils in the sac and placing a covered stent in the femoral artery, therefore thrombosing the pseudoaneurysm.
-
-[@kassem2013][@kassem2014][@tulla2024]
-
-#### Retroperitoneal Hematoma
-
-A retroperitoneal hematoma is a collection of blood accumulating in the retroperitoneal space where the external iliac artery travels.
-
-Key points:
-
--   It is a rare complication occurring in about 0.5% of cases.
--   Retroperitonaly hematomas are a dreaded complication as they comes with high morbidity and mortality especially if not rapidly diagnosed.
--   Retroperitoneal hematomas occur when the arterial stick in the artery during groin puncture is performed too high, above the level of the inferior epigastric artery.
--   This leads to extravasation of blood into the retroperitoneal space after sheath removal.
--   Retroperitoneal hematomas can usually can be treated with a closure device if diagnosed intra operatively or a covered stent from the contralateral side.
-
-#### Arteriovenous (AV) Fistula
-
-An arteriovenous fistula is an aberrant connection between an artery and a vein. Although commonly formed surgically for hemodialysis access, they can be caused iatrogenically during arterial access for endovascular intervention.
-
-Key points:
-
--   They are rare and occur in less than 1% of groin access cases.
--   Occur during inadvertent puncture of the deep femoral artery and deep femoral vein.
--   Usually no intervention is needed.
-
-#### Dissection
-
-An arterial dissection is the separation of the layers of the arterial wall.
-
-Key points:
-
--   May occur naturally (often secondary to hypertension) or iatrogenically (in the setting of arterial puncture). This most often occurs in the setting of a posteriorly lying plaque in the artery where the wire can separate the posterior layers.
--   To prevent dissection, do not apply too much forward pressure when advancing a wire during initial arterial access. Do not inject fluid (saline or contrast) unless there is blood return to ensure the needle or catheter tip are in the true lumen.
--   Treatment can be conservative in the case of an iatrogenic dissection or treated with stent placement if the dissection limits blood flow. Intravascular ultrasound can be used to further assess the dissection.
-
-#### Acute Thrombosis of Access Vessel
-
-Acute thrombus of the access vessel is when the artery where access is obtained completely "clots off." It is an incredibly rare complication caused by incorrect deployment of vascular closure devices, access site dissection, or occlusive sheath placement in a small or diseased vessel.
-
-### Endovascular Surgical Complications
-
-#### Atheroembolism
-
-Atheroembolism is the dislodgement of a portion of a cholesterol plaque leading to distal embolization causing acute thrombosis or partial occlusion.
-
-Key points: [@liew2005]
-
--   Generally, when these come from the ascending aorta or arch, they will embolize to the cerebral and retinal vessels. On the other hand, when an embolus originates in the thoracic or descending aorta, it will likely embolize to the mesenteric, renal or lower extremity vessels.
--   These emboli will then cause a further inflammatory response worsening outcomes.
--   Outcomes are dependent on volume and size of emboli and can range from sub-clinical to fatal.
--   Embolization is most common to the skin, kidneys, and GI tract though it is dependent on the site of the procedure.
--   Unfortunately this condition is generally under diagnosed and challenging to treat. - Primary prevention is of utmost importance with good surgical technique.
-
-#### Wire Perforation
-
-Wire perforation occurs when an angiographic wire creates a hole in a vessel.
-
-Key points:
-
--   Incredibly rare but treatable when diagnosed rapidly.
--   Occurs when a large stiff hydrophilic wire is passed through a small vessel especially if not done under fluoroscopic guidance.
--   Treatment involves transcatheter embolization of the perforation site.
-
-#### Vessel Rupture
-
-Vessel rupture occurs when a device or balloon is oversized for a vessel and causes a "blowout" of a vessel.
-
-Key points:
-
--   Rupture can be cause by an oversized balloon or balloon expandable stent, by expanding a properly sized balloon in a heavily calcified vessel or by passage of a large device such as an EVAR device through a small vessel.
--   Rupture is associated with a high morbidity and mortality especially if there is any delay in diagnosis.
--   Immediately upon recognition of vessel rupture, a balloon should be inflated in the region to obtain adequate hemostasis. Simultaneously, supplies should be can gathered for vessel repair.
--   Repair is usually done with a covered stent placed across the rupture. If adequate hemostasis cannot be obtained, open repair may be necessary.
+As always, healthcare providers should adhere to the ALARA principles outlined above (i.e. maintaining a maximum reasonable distance from the source, using the collimator, pulse imaging, etc.).
 
 ------------------------------------------------------------------------
 
@@ -632,23 +546,7 @@ Key points:
 
 ### Scenario
 
-A 71 year old male with a past medical history of hypertension, hyperlipidemia, coronary artery disease with stent placement was diagnosed with acute type B aortic dissection three weeks ago. He was managed medically in the hospital and sent home after one week with blood pressure and pain well-controlled. An image from the CTA at time of diagnosis is seen below:
-
-![CTA](images/endotc.jpg){fig-align="left" width="80%"}
-
-The proximal extent of the dissection was 3 cm distal to the left subclavian artery and the distal extent was 2 cm superior to the celiac artery, allowing good landing zones for an endograft. The left internal iliac artery is fully occluded, and the right internal iliac artery has roughly 50% stenosis. The left external iliac artery is heavily calcified and stenotic \>50%. The right common and external iliac artery are patent without evidence of significant atherosclerosis. The patient is evaluated in the preoperative area prior to placement of a thoracic endograft in the hybrid operating room.
-
-### Exam
-
-**HEENT:** Pupils round and reactive to light, no lymphadenopathy
-
-**Cardiac:** Regular rate and rhythm
-
-**Pulmonary:** Clear to auscultation in all lung fields. No accessory muscle use.
-
-**Abdominal:** Soft, non-tender, non-distended, no pulsatile masses felt.
-
-**Vascular/Extremities:** Warm, non-edematous. Palpable pulses in all four extremities.
+A 75-year-old male is scheduled for an angiogram of the left lower extremity to investigate and potentially treat claudication symptoms. The attending vascular surgeon, with over 25 years of experience in endovascular therapy, takes precautionary measures by wearing a thyroid shield, prescription glasses, and a 2-piece lead apron. However, due to challenges in navigating the stenosed arterial system, the fluoroscopy time during the procedure was extended. Subsequently, the calculated radiation dose amounted to 3 Gy.
 
 ### Discussion Points
 
@@ -658,19 +556,18 @@ The proximal extent of the dissection was 3 cm distal to the left subclavian art
 However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
 :::
 
-1.  What clinical risk factors make this patient a good candidate for endovascular vs. open repair?
-2.  The endograft used for this operation requires at least an 18F sheath, which site of access should be used to insert and implant the graft?
-3.  What diameter and hydrophilicity of wire should be used to advance the thoracic endograft to the site of dissection?
-4.  The attending surgeon requested mean arterial pressures to be at least 90 mmHg throughout the operation. Why would intraoperative hypotension be concerning in this patient? What anatomic factors make this patient at particular risk?
-5.  If the patient developed pain at the site of access one week later, with a well-healing wound and palpable thrill on physical exam, what kind of access-related complication are you worried about and what would be your next step to confirm the diagnosis?
+1.  What could be done to reduce the dose of radiation to the surgeon?
+2.  What could be done to reduce the dose of radiation to the OR staff?\
+3.  What gaps are present in the surgeon's PPE?
+4.  What are some potential adverse effects of prolonged radiation exposure to the surgeon?
+5.  Given the level of radiation, what adverse effects might be noted in the patient?
+6.  If the case were to progress longer, what might be the subsequent adverse outcomes to the patient?
 
 ------------------------------------------------------------------------
 
 ## Key Articles
 
-1.  Patel MR, Jneid H, Derdeyn CP, Klein LW, Levine GN, Lookstein RA, White CJ, Yeghiazarians Y, Rosenfield K; American Heart Association Diagnostic and Interventional Cardiac Catheterization Committee of the Council on Clinical Cardiology, Council on Cardiovascular Radiology and Intervention, Council on Peripheral Vascular Disease, Council on Cardiovascular Surgery and Anesthesia, and Stroke Council. Arteriotomy closure devices for cardiovascular procedures: a scientific statement from the American Heart Association. Circulation. 2010 Nov 2;122(18):1882-93. doi: 10.1161/CIR.0b013e3181f9b345. Epub 2010 Oct 4. Erratum in: Circulation. 2010 Nov 2;122(18):e507. PMID: 20921445. [@patel2010]
-
-2.  Siracuse JJ, Farber A, Cheng TW, Raulli SJ, Jones DW, Kalish JA, Smeds MR, Rybin D, Schermerhorn ML; Vascular Quality Initiative. Common femoral artery antegrade and retrograde approaches have similar access site complications. J Vasc Surg. 2019 Apr;69(4):1160-1166.e2. doi: 10.1016/j.jvs.2018.06.226. Epub 2018 Dec 4. PMID: 30527937. [@siracuse2019]
+1.  Mitchell EL, Furey P. Prevention of radiation injury from medical imaging. J Vasc Surg. 2011 Jan;53(1 Suppl):22S-27S. doi: 10.1016/j.jvs.2010.05.139. Epub 2010 Sep 16. PMID: 20843625. [@mitchell2011]
 
 ------------------------------------------------------------------------
 
@@ -678,32 +575,23 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ### Audible Bleeding Content
 
--   Holding Pressure Case Prep - [Endovascular Basics](https://www.audiblebleeding.com/2023/04/23/holding-pressure-case-prep-endovascular-basics/)
+-  Audible Bleeding Exam Prep: [Radiation Safety](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/radiation.html)
 
-<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/26623206/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
-
-</iframe>
-
--   Audible Bleeding Exam Prep: [Endovascular Access](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/endovascular.html)
-
-<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/14202467/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/35hhWGRGCgohzpmLbHpazi?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
 
 </iframe>
 
-------------------------------------------------------------------------
+-   Special Topic: Occupational Hazards for the Vascular Surgeon. Listen to the episode below and find additional information [here](https://www.audiblebleeding.com/occupational-hazards/), or find the episode wherever you listen to podcasts.
 
-### Websites
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1h9h3nZ8qrlOgtDYLLaFx8?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
 
--   TeachMe Surgery: [Pseudoaneurysm](https://teachmesurgery.com/vascular/peripheral/pseudoaneurysm/)
+</iframe>
 
-------------------------------------------------------------------------
+- JVS Author Spotlight - Jasmine Bhinder, MD. Listen to the episode below and find additional information [here](https://www.audiblebleeding.com/jvsjan2023/), or find the episode wherever you listen to podcasts.
 
-### Serious Games
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3PrBz3lZXIxgAXfjJc1who?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
 
-#### Touch Surgery Simulations.
-
--   Must download the [Medtronic Touch Surgery mobile application](https://www.medtronic.com/covidien/en-us/products/digital-surgery/simulations.html) to access the modules. Available for Apple and Android mobile devices.
--   [Femoral Artery Access](https://www.touchsurgery.com/simulations/femoral-artery-access)
+</iframe>
 
 ------------------------------------------------------------------------
 
@@ -712,38 +600,11 @@ However, we feel this chapter contains all the necessary information to answer t
 The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
 
 ::: callout-tip
-Please see pages 25-41, 49-61.
+Please see pages 43-46.
 :::
 
 ------------------------------------------------------------------------
 
-### Operative Footage
-
-Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.* Please create and/or log in to your YouTube account to have access to the videos.
-
-#### Ultrasound-Guided Femoral Access
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/45Rs90giA8E?si=pF8Z0N80P6mivKkW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
-</iframe>
-
-#### ProGlide Vascular Closure Device Deployment
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/USuy4f15ugg?si=dAtLr6_awyeQ-u3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
-</iframe>
-
-#### Inferior Vena Cava (IVC) Filter Placement
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/29-8tVIrh6o?si=6NQ9eyFIayyuiP6S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
-</iframe>
-
-#### Standard IVC Filter Retrieval
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZqeMld1mNC0?si=cv7W5Rc5iXXXhcd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
-</iframe>
 
 <!-- Google tag (gtag.js) -->
 
