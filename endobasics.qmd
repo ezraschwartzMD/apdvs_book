@@ -769,7 +769,7 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ### Audible Bleeding Content
 
--   Holding Pressure Case Prep - [Endovascular Basics](https://www.audiblebleeding.com/2023/04/23/holding-pressure-case-prep-endovascular-basics/)
+-   Holding Pressure Case Prep: [Endovascular Basics](https://www.audiblebleeding.com/2023/04/23/holding-pressure-case-prep-endovascular-basics/)
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/26623206/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
 

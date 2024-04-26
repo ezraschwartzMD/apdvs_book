@@ -150,6 +150,18 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ------------------------------------------------------------------------
 
+## Additional Resources
+
+### Audible Bleeding Content
+
+-  Audible Bleeding Exam Prep: [Social Deprivation in Vascular Surgery](https://www.audiblebleeding.com/2024/04/25/social-deprivation-in-vascular-surgery/)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5xuG1czQKmYYihEpN063ue?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
+</iframe>
+
+------------------------------------------------------------------------
+
 <!-- Google tag (gtag.js) -->
 
 ```{=html}
