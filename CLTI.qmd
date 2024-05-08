@@ -322,7 +322,7 @@ Lastly, diagnostic angiography is an invasive imaging technique that provides de
 ### Classification Systems
 
 ::: callout-tip
-Below, we will introduce and summarize the most common classification systems. For a high-yield summary of all classification systems, please see this [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4232437/).  [@hardman2014]
+Below, we will introduce and summarize the most common classification systems. For a high-yield summary of all classification systems, please see this [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4232437/). [@hardman2014]
 :::
 
 #### The Rutherford Classification and Fontaine Grading
@@ -351,7 +351,7 @@ Below, we will introduce and summarize the most common classification systems. F
 -   While an oversimplication, the premise of the WIfI system is that the risk of amputation increases as the disease burden of the limb in question progresses from WIfI stage 1 (very low risk) to tage 4 (high risk).
 
 | Wound (ulcer or gangrene)                 | Ischemia (Toe Pressure/TcPO2 and ABI) | foot Infection                                                                                     |
-|-------------------|-------------------|-----------------------------------|
+|-------------------|-------------------|----------------------------------|
 | 0: No ulcer or no gangrene                | 0: TP \>= 60 mmHg, ABI \>= 0.80       | 0: Not infected                                                                                    |
 | 1: Small ulcer and no gangrene            | 1: TP = 40-59 mmHg, ABI 0.60-0.79     | 1: Mild (=\< 2 cm cellulitis)                                                                      |
 | 2: Deep ulcer or gangrene limited to toes | 2: TP 30-39 mmHg, ABI 0.40-0.59       | 2: Moderate (\> 2 cm cellulitis or involving structures deeper than skin and subcutaneous tissues) |
@@ -369,7 +369,7 @@ The SVS Guidelines Mobile App has an easy-to-use WIfI Calculator. - [Apple App S
 Scoring System below [@wijnand2021]
 
 | Femoro-Popliteal (FP) Grading |                                                                                                                                                                                        |
-|-------------------|-----------------------------------------------------|
+|--------------------|----------------------------------------------------|
 | 0                             | Mild or no significant (\<50%) disease                                                                                                                                                 |
 | 1                             | Total length SFA disease \<1/3 (\<10 cm); may include single focal CTO (\<5 cm) as long as not flush occlusion; popliteal artery with mild or no significant disease                   |
 | 2                             | Total length SFA disease 1/3--2/3 (10--20 cm); may include CTO totaling \<1/3 (10 cm) but not flush occlusion; focal popliteal artery stenosis \<2 cm, not involving trifurcation      |
@@ -377,7 +377,7 @@ Scoring System below [@wijnand2021]
 | 4                             | Total length SFA occlusion \>20 cm; popliteal disease \>5 cm or extending into trifurcation; any popliteal CTO                                                                         |
 
 | Infra-Popliteal (IP) Grading |                                                                                                                                           |
-|--------------------|----------------------------------------------------|
+|---------------------|---------------------------------------------------|
 | 0                            | Mild or no significant (\<50%) disease                                                                                                    |
 | 1                            | Focal stenosis \<3 cm not including TP trunk                                                                                              |
 | 2                            | Total length of target artery disease \<1/3 (\<10 cm); single focal CTO (\<3 cm not including TP trunk or target artery origin)           |
@@ -463,7 +463,7 @@ Below is a sample algorithm for treatment management of a patient with PAD that 
 
 ------------------------------------------------------------------------
 
-## Outcomes 
+## Outcomes
 
 -   Patients with CLTI have variable outcomes with regard to limb loss and overall mortality.
 -   Approximately 90% of all CLTI patients undergo a revascularization procedure (bypass or endovascular intervention) in their lifetime. [@conte2019c]
@@ -474,20 +474,20 @@ Below is a sample algorithm for treatment management of a patient with PAD that 
 
 ------------------------------------------------------------------------
 
-## Surveillance 
+## Surveillance
 
 ### Medical Treatment Surveillance
 
--   Patients with CLTI have variable outcomes with regard to  limb loss and overall mortality. 
--   After revascularization procedures, Patients remain on dual antiplatelet therapy (DAPT) for 1-6 months. 
+-   Patients with CLTI have variable outcomes with regard to limb loss and overall mortality.
+-   After revascularization procedures, Patients remain on dual antiplatelet therapy (DAPT) for 1-6 months.
 -   Through DAPT has been show to have increased bleeding risk, it may result in increased survival and reduced risk of amputation. [@conte2019c]
 -   There is not a clear benefit to the use of of cilostazol, a PDE inhibitor, after endovascular interventions for CLTI. [@conte2019c]
 
 ### Endovascular Surveillance
 
--   Early failure of endovascular procedures is common. As such, it is recommend that patients undergo duplex ultrasound surveillance and duplex guided interventions to prompt long-term patency. However, there are no set guidelines for how long and how frequently to perform surveillance. 
--   Recommended methods of surveillance include clinic visits, ankle-brachial indexes (ABIs), and duplex scans. 
--   Surveillance intervals can range from 3-6 months. 
+-   Early failure of endovascular procedures is common. As such, it is recommend that patients undergo duplex ultrasound surveillance and duplex guided interventions to prompt long-term patency. However, there are no set guidelines for how long and how frequently to perform surveillance.
+-   Recommended methods of surveillance include clinic visits, ankle-brachial indexes (ABIs), and duplex scans.
+-   Surveillance intervals can range from 3-6 months.
 -   Ultimately, there is no strong evidence of benefit of routine duplex surveillance after endovascular intervention of CLTI; however, patients with the characteristics below may benefit from duplex surveillance. [@conte2019c]
 
 | Patient Risk Factors that may Prompt Duplex Surveillance |
@@ -500,16 +500,16 @@ Below is a sample algorithm for treatment management of a patient with PAD that 
 
 ### Vein and Prosthetic Bypass Surveillance
 
-Surveillance of vein grafts after bypass surgery may solely be clinical and may include the vascular laboratory as well. The SVS recommends a 2 year surveillance program postoperatively to detect new symptoms, monitor changes in ABIs, and monitor for stenotic lesions within graft or at surveillance sites. 
+Surveillance of vein grafts after bypass surgery may solely be clinical and may include the vascular laboratory as well. The SVS recommends a 2 year surveillance program postoperatively to detect new symptoms, monitor changes in ABIs, and monitor for stenotic lesions within graft or at surveillance sites.
 
--   Duplex surveillance and intervention based on duplex findings lead to better patency rates of the vein graft. 
--   Though there are no set guidelines for frequency of surveillance. Many studies in the literature often perform surveillance 30 days postoperatively and at 3-6 months intervals. 
--   Ultimately, though duplex surveillance does result in better patency of vein grafts, there is no clear evidence that duplex surveillance for CLTI results in clinical benefits for patients. 
+-   Duplex surveillance and intervention based on duplex findings lead to better patency rates of the vein graft.
+-   Though there are no set guidelines for frequency of surveillance. Many studies in the literature often perform surveillance 30 days postoperatively and at 3-6 months intervals.
+-   Ultimately, though duplex surveillance does result in better patency of vein grafts, there is no clear evidence that duplex surveillance for CLTI results in clinical benefits for patients.
 
-Prosthetic bypasses are known to fail more frequently and more early compared to vein bypasses. Similar to vein bypassess, the SVS does not have hard recommendations for when to perform duplex surveillance. 
+Prosthetic bypasses are known to fail more frequently and more early compared to vein bypasses. Similar to vein bypassess, the SVS does not have hard recommendations for when to perform duplex surveillance.
 
 -   Many studies perform duplex at 30 days postoperatively and at 6 month intervals.
--   Despite this, the duplex itself does not always always reliably detect intervenable lesions as it does in vein bypasses. 
+-   Despite this, the duplex itself does not always always reliably detect intervenable lesions as it does in vein bypasses.
 
 ------------------------------------------------------------------------
 
@@ -590,6 +590,7 @@ The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.g
 ::: callout-tip
 Please see pages 85-98.
 :::
+
 ------------------------------------------------------------------------
 
 ### Operative Footage
@@ -604,7 +605,9 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 
 #### Common Femoral Endarterectomy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YnsofXmPpH8?si=BVXE89IlgizW3Xak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YnsofXmPpH8?si=BVXE89IlgizW3Xak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
 
 #### Left Femoral to Peroneal Bypass by Reversed Ipsilateral Great Saphenous Vein (Surgical or Extra-anatomic Bypass)
 
