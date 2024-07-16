@@ -33,7 +33,7 @@ This eBook is the result of a partnership between the APDVS and the Audible Blee
 
 **Chaitanya Dandu, MD.** *Yale School of Medicine* [\@ChaituDandu](https://twitter.com/ChaituDandu)
 
-**Mark Basilious** MS3; *Weill Cornell Medical College* [\@markrbasilious](https://x.com/markrbasilious)
+**Mark Basilious** MS4; *Weill Cornell Medical College* [\@markrbasilious](https://x.com/markrbasilious)
 
 ------------------------------------------------------------------------
 
@@ -83,13 +83,11 @@ This eBook is the result of a partnership between the APDVS and the Audible Blee
 
 **Lucas Canaan, DO.** General Surgery Resident; *Northeast Georgia Health System* [Academic Profile](https://www.ngmcgme.org/resident/lucas-canaan-do/)
 
+**Shannon McDonnell** Integrated Vascular Surgery Resident; *Ohio State Wexner Medical Center* [\@shan_mcdonnnell](https://x.com/shan_mcdonnnell)
+
 ------------------------------------------------------------------------
 
 ### Student Contributors
-
-**Ivana Zhang** MS4; *Jacobs School of Medicine And Biomedical Sciences at University at Buffalo*
-
-**Shannon McDonnell** MS4; *Stritch School of Medicine at Loyola University Chicago*
 
 **Jeremy Zack** MS4; *Sidney Kimmel Medical College* [LinkedIn](https://www.linkedin.com/in/jeremy-zack/)
 
@@ -97,7 +95,7 @@ This eBook is the result of a partnership between the APDVS and the Audible Blee
 
 ### Medical Illustrators
 
-**Ivana Zhang** MS4; *Jacobs School Of Medicine And Biomedical Sciences at University at Buffalo*
+**Ivana Zhang** General Surgery Resident; *Coney Island Hospital, Brooklyn, N.Y*
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WS28VX4802"></script>
