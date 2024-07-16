@@ -216,7 +216,8 @@ There are several different types of closure devices. Each type can be different
 
 A common closure device you are likely to encounter on a vascular surgery service is the **Perclose ProGlide** (Abbott Vascular, Chicago, IL), a suture-mediated closure device. Other closure devices include the **Angioseal** (Terumo, Tokyo, Japan), which deploys a bioabsorbable anchor to the arterial puncture site with surrounding collagen to promote closure, and the **MYNXGRIP** (Cordis, Miami Lakes, FL), which uses a balloon pressed against the site of arterial puncture and an adhesive sealant outside the vessel that dissolves slowly as the puncture site heals. Less commonly used closure devices include the **Angiosea**l (Terumo, Tokyo, Japan), which deploys a bioabsorbable anchor to the arterial puncture site with surrounding collagen to promote closure. Other less commonly used closure devices include the **Manta, StarClose, Vascade, and Cardiva**.
 
-A step-by-step guide to deploying a **Perclose device** is shown in [this animated video](https://www.youtube.com/watch?v=NAO_YC48Dvo) and listed below.
+::: callout-tip 
+A step-by-step guide to deploying **Perclose devices** is shown in [this animated video](https://youtu.be/rwsuR0q4yUs?si=j25UduZrhO7LOf4g) and listed below.
 
 1.  Exchange the procedural sheath for a guide wire so only the guide wire is left in the vessel.
 2.  Advance the flushed perclose device over the guidewire until the wire exit port is at skin level.
@@ -229,6 +230,7 @@ A step-by-step guide to deploying a **Perclose device** is shown in [this animat
 8.  Use the Snared Knot Pusher or Prostyle Suture Trimmer to advance the knot to the level of skin. 9 Pull the thread taught while removing perclose device.
 9.  Advance the knot over the guidewire and remove the guide wire once the bleeding is controlled.
 10. Pull both threads tightly and remove the knot advancing device.
+:::
 
 ------------------------------------------------------------------------
 
