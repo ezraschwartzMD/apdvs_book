@@ -6,6 +6,7 @@ book:
   author: "The APDVS and contributors"
   date: "01/31/2023"
   description: "eBook Companion"
+  site-url: "https://www.apdvsebook.com"
   sidebar:
     style: docked
     background: light
