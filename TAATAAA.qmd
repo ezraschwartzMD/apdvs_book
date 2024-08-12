@@ -509,7 +509,6 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aw9dLiUpgKo?si=6_7g0WTlHVIVilr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 <iframe>
-
 ------------------------------------------------------------------------
 
 <!-- Google tag (gtag.js) -->
