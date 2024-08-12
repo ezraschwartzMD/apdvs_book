@@ -1,0 +1,528 @@
+---
+title: "Thoracic and Thoracoabdominal Aneurysms (TAA/TAAA)"
+chapter_number: 5
+title-block-banner: false
+title-block-style: plain
+authors: Drayson Campbell, BS, and Chanlder Long, MD , FACS
+format: html
+editor: visual
+number-sections: false
+bibliography: references.bib
+smooth-scroll: true
+link-external-newwindow: true
+---
+
+#  {#sec-taataaa}
+
+::: {.callout-note icon="false"}
+## Chapter Learning Objectives
+
+By the end of this chapter, students will:
+
+-   Understand TAA/TAAA etiology, risk factors, and classification schemes
+-   Describe common indications for TAA & TAAA repair
+-   Select appropriate risk-reducing medical therapies for patients with TAAs & TAAAs
+-   Understand risks and benefits of open versus endovascular repair of TAAs/TAAAs
+-   List key indications for left subclavian artery revascularization
+-   Describe indications for spinal cord protection in TAA/TAAA repair
+:::
+
+::: {.callout-note icon="false"}
+## Key Facts
+
+1.  TAAs are uncommon, with an annual incidence of 6-16 per 100,000 people.
+2.  TAA and TAAA repair is recommended when the maximal aortic cross-sectional diameter exceeds 5.5 cm.
+3.  TEVAR is a minimally invasive way to repair many TAAs, but is not suitable for all aneurysmal anatomies.
+4.  Extensive preoperative imaging (i.e. CTA) should be performed when possible to detail the arterial anatomy from the head to the pelvis to aid in operative decision-making.
+5.  Spinal cord ischemia is the most common complication of open or endovascular TAA/TAAA repair.
+6.  Spinal drains and controlled hypertension prevent ischemia when a significant portion of the thoracic aorta requires repair.
+:::
+
+::: callout-tip
+## How We Suggest Using the Pre/Post Questions
+
+The pre/post questions are listed below. They are all multiple choice questions with a single right answer. To best guide your learning, we have hidden the answers in a collapsible menu. Before reading the chapter, we suggest giving the questions a try, noting your answers on a notepad. After reading the chapter, return to the questions, re-evaluate your answers, and then open the collapsible menu to read the correct answer and discussion. Do not fret if you have difficulty answering the questions before reading the chapter! By the end of the chapter, we are certain you will have covered the knowledge necessary to answer the questions. There will be a teaching case at the end of the chapter. This is another opportunity to exercise your new knowledge!
+:::
+
+## Pre/Post Questions
+
+### Case Based Questions
+
+1.  A 70-year-old man with a history of hypertension and a 50 pack-year smoking history presents to the emergency department with a new onset cough. For the last week, he has had a dry, nonproductive cough that is not worsened or improved by positional changes, appetite, or activity. He has not seen a physician in 20 years, takes no medications, and otherwise feels "normal". His blood pressure is 185/115 but other vitals are within normal limits. Physical examination is significant for an S3, pulsatile abdominal mass, diminished femoral pulses, and absent pedal pulses, but is otherwise normal. *After administration of antihypertensive agents, what is the next best step in the evaluation of this patient?*
+
+<!-- -->
+
+A.  Electrocardiogram (ECG)
+
+B.  CT Angiography of the chest, abdomen, and pelvis
+
+C.  Transthoracic echocardiogram
+
+D.  Chest X-ray
+
+E. Magnetic resonance angiography of the chest, abdomen, and pelvis
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**B. CT Angiography of the chest, abdomen, and pelvis**
+
+Discussion: In a patient with hypertension, a significant smoking history, a likely abdominal aortic aneurysm, and a new-onset cough, suspicion for associated thoracic aortic aneurysmal pathology should be high. Given elevated blood pressure is the most significant risk factor for rupture, he was given antihypertensive agents. The next step is to determine which imaging modality is best suited for evaluation of thoracic aortic pathology in a high risk patient in the emergency department: a CTA of his chest, abdomen, and pelvis. ECG's are not sensitive for detecting aortic pathology (choice A). A transthoracic echocardiogram does not have sufficient penetration for visualization of the entire thoracic aorta(choice C). While a transesophageal echocardiogram or MRA of the chest, abdomen, and pelvis (choice E)are sufficiently sensitive and specific to diagnose a thoracic aortic aneurysm, they are not the most practical in the emergency department setting. Lastly, a chest X-ray (choice D) is not appropriate for this patient with many risk factors for a thoracic aortic aneurysm.
+:::
+
+2.  While undergoing imaging evaluation to stage newly-diagnosed breast cancer, a 75-year-old female is found to have a thoracic aortic aneurysm measuring 5 cm in diameter. She has no symptoms and denies any other medical history. *Which of the following is the most appropriate next step in management?*
+
+<!-- -->
+
+A.  Immediate referral for surgical repair
+
+B.  Medical management with beta-blockers
+
+C.  Observation with serial imaging
+
+D.  Endovascular repair with TEVAR
+
+E.  Genetic testing for connective tissue disorders
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**C. Observation with serial imaging**
+
+Discussion: In asymptomatic patients with thoracic aortic aneurysms, observation with serial imaging is recommended to monitor the rate of growth. Repair (choices A and D) is typically indicated when the aneurysm reaches a diameter of 5.5 cm or more, or if there is evidence of rapid expansion, symptoms, or other high-risk features. Insufficient information was provided to guide anti-hypertensive management (choice B). Genetic testing is not necessary in an individual without classical physical exam findings and/or a strong family history (choice E).
+:::
+
+3.  A 58-year-old male presents with back pain and lower extremity weakness. MRI reveals a Crawford Type III thoracoabdominal aortic aneurysm extending from his mid-descending thoracic aorta to below his renal arteries with a maximal diameter of 5.4 cm and with associated spinal cord compression at the T10 level. *Which of the following interventions is most likely to prevent further neurological deterioration in this patient?*
+
+<!-- -->
+
+A.  Open surgical repair with spinal cord protection
+
+B.  Endovascular repair with fenestrated stent grafts
+
+C.  Administration of high-dose corticosteroids
+
+D.  Immediate decompressive laminectomy
+
+E.  Observation with serial neurological exams
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**A. Open surgical repair with spinal cord protection.**
+
+Discussion: In patients with thoracic aortic aneurysms causing spinal cord compression and neurological deficits, open surgical repair with spinal cord protection measures, such as cerebrospinal fluid drainage and distal aortic perfusion, is the preferred intervention to prevent further neurological deterioration. In the absence of symptoms, this patient's aortic diameter is 5.4, which is just below the criteria where repair is recommended (5.5cm) in relatively low-surgical-risk patients. Due to the acute nature of his symptoms, delay of intervention (choice E) or complex endovascular repair (choice B) are not the best options. His symptoms and underlying pathology would not be addressed with steroids or a decompressive laminectomy (choices C and D).
+:::
+
+4.  In a busy primary care clinic, a 65-year-old man with no complaints presents for his routine check-up. He has a history of hypertension, diabetes, a cholecystectomy in his 50s, and has smoked 2 packs of cigarettes a day since he was 30 years old. After discussing his need for routine abdominal aortic aneurysm (AAA) screening, he asks about aneurysms elsewhere because his closest friend recently died from a ruptured thoracic aortic aneurysm (TAA). *Which of the following statements regarding screening for TAA is most accurate?*
+
+<!-- -->
+
+A.  A single CT angiography for TAA screening is recommended in individuals aged 50 and older, regardless of risk factors
+
+B.  CT angiography for TAA screening should be performed once in patients aged 65 to 75 with a significant smoking history
+
+C.  Screening for TAA should be performed if his AAA screening is positive, and can be performed with the same imaging modality: duplex ultrasonography
+
+D.  Screening for TAA is not routinely recommended in asymptomatic individuals without strong risk factors
+
+E.  While imaging is not necessary to screen for a TAA in this patient, measuring his blood pressure in both arms at each annual visit may prompt early investigation for thoracic aortic pathology.
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**D. Screening for TAA is not routinely recommended in asymptomatic individuals without strong risk factors.**
+
+Discussion: While certain high-risk populations may benefit from screening, such as those with a family history of aortic disease or connective tissue disorders, routine screening in asymptomatic individuals without a personal or family history of thoracic aortic disease is not recommended due to the low prevalence of TAA in the population and the potential risks associated with unnecessary imaging (making answers A, B, and C incorrect). While he should receive further workup if his AAA ultrasound screening is positive, ultrasound is not the most appropriate next step as transthoracic ultrasound insufficiently visualizes the thoracic aorta and transesophageal ultrasound is invasive- CTA or MRA would be more appropriate. Lastly, while discrepancies in blood pressure between limbs may be a useful diagnostic clue in a symptomatic patient presenting with suspected aortic dissection, this approach is not sensitive nor specific enough to affect clinical decision-making in this patient (choice E).
+:::
+
+5.  A 34 year old man with Marfan syndrome is in the recovery room after an open thoracoabominal aortic aneurysm (TAAA) repair with a Coselli graft, a four branch graft commonly used for open TAAA repairs. A spinal drain was placed preoperatively. Due to an electronic medical record malfunction, the postoperative orders are inaccessible. The nurse, a cardiac-ICU veteran, pages you to inform you that his vitals seem outside the typical control window. His heart rate is 75 bpm, his blood pressure is 160/95, his respirations are 17 per minute, and his SpO2 is 97% on room air. *Which is the most appropriate order to place?*
+
+<!-- -->
+
+A.  IV labetalol
+
+B.  IV nifedipine
+
+C.  Oral carvedilol
+
+D.  Oral lisinopril
+
+E.  Oral nifedipine
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**A. IV labetalol.**
+
+Discussion: Given this patient is experiencing postoperative hypertension, urgent blood pressure control is needed. While oral options may be sufficient to lower his blood pressure to reach goals, the delay in onset could result in inadequate control or overcorrection and a loss of spinal cord perfusion. Thus, IV medications are the best choice making answers C, D, and E incorrect. While he is currently non-tachycardic, administration of IV nicardipine could result in reflexive elevation of his HR, thereby increasing aortic wall stress. IV labetalol is most appropriate of the options listed as it allows for rapid titration to achieve tight blood pressure control and its concurrent beta blockade will not only limit reflex tachycardia but also lower the patients HR to a desired near-bradycardic goal.
+:::
+
+6.  A 62-year-old male with a history of coronary artery disease undergoes preoperative evaluation for coronary artery bypass grafting with left internal mammary artery to left anterior descending artery (LIMA-LAD) bypass. A descending thoracic aortic aneurysm is noted on preoperative CTA with involvement of the left subclavian artery and a maximum diameter of 4.5cm. This patient undergoes LIMA-LAD without any postoperative complications and is subsequently followed by vascular surgery for thoracic aneurysm observation. Two years later, after missing all scheduled follow up appointments, his descending thoracic aortic aneurysm was found to be 6.7 cm in diameter. Due to his anatomic restrictions, the vascular surgeon notes the need to land the proximal aspect of the graft in zone 2 with coverage of the left subclavian artery (LSA) to achieve adequate stent graft seal. Femoral and iliac artery diameters are adequate for graft delivery, there are no aberrant vessel origins in the thoracic aorta, his left vertebral artery is hypoplastic, his right vertebral artery is robust, and his circle of willis is intact. Preoperative workup is notable for a creatinine of 1.4 and an ejection fraction of 40%. *What is the most important technical consideration regarding potential coverage versus revascularization of the LSA?*
+
+<!-- -->
+
+A.  Coverage of the LSA increases stroke risk
+
+B.  Coverage of the LSA increases subclavian steal risk
+
+C.  Revascularization of the LSA should not be considered due to his poor EF and CKD that would heavily complicate any attempt at open or complex endovascular revascularization (branched or fenestrated TEVAR).
+
+D.  Revascularization of the LSA is absolutely necessary in this patient due to the risk for myocardial infarction
+
+E.  Revascularization of the LSA should be deferred to the post-operative period
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**D. Revascularization of the LSA is absolutely necessary in this patient due to the risk for myocardial infarction.**
+
+Discussion: This is a tricky one. Although this patients' comorbidities greatly increase his risk for complications (particularly contrast induced nephropathy and intraoperative myocardial infarction), the immense size and rapid growth of his TAA suggest significant risk of rupture, meaning TEVAR is likely indicated. However, his anatomy presents challenges regarding the need to cover the LSA to achieve adequate proximal seal in the graft. Thus, the decision regarding LSA revascularization needs to be made. Three general categories exist for LSA revascularization: no revascularization, surgical/open revascularization, and endovascular revascularization.
+
+Although seemingly a distractor, his history of a LIMA-LAD bypass is a critical component of this patient's operative management, as the LIMA is a direct branch of the LSA. Coverage without revascularization of the LSA would likely result in severe flow limitation to this patient's LAD and result in an MI. Complex endovascular revascularization with a branched or fenestrated TEVAR or surgical revascularization of the LSA is therefore necessary.
+
+While coverage of the LSA would increase stroke risk, it is not the most important consideration given his hypoplastic left vertebral artery. Subclavian steal is a consideration and could complicate his postoperative course if the LSA was covered, but this patient's LAD perfusion via the LSA-LIMA-LAD pathway is more important.
+:::
+
+------------------------------------------------------------------------
+
+## Introduction
+
+Although abdominal aortic aneurysms (AAAs) and ascending aortic aneurysms are the most common type of aortic aneurysm, descending thoracic aortic aneurysms (TAAs) are common enough and are of significant concern. When these aneurysms extend from the thoracic to the abdominal aorta, they are termed thoracoabdominal aortic aneurysms (TAAAs). The incidence of descending thoracic aneurysmal pathology is approximately 6 to 16 per 100,000 per year, affecting men at approximately 1.7 times the rates of women.[@upchurch2021][@laroy1989][@bickerstaff1982] TAAs primarily affect the elderly, with the average newly diagnosed patient being 65 years old.[@bickerstaff1982] However, unlike AAAs, there are no recommended population-level screening guidelines. Thus, most TAAs are diagnosed incidentally or if extended workup is performed following identification of peripheral aneurysms.[@upchurch2021]
+
+TAA rupture is the primary cause of mortality. While numerous observational studies of the natural history of untreated TAAs have been performed in the last 50 years, the work is greatly limited by the co-inclusion of TAAAs and dissection-associated TAAs. This biased sample is primarily due to low numbers of isolated TAAs. The median survival of untreated TAAs is likely less than 5 years but heavily depends on individual patients' comorbidities, aneurysm size, and the presence and rate of growth (see the [SVS clinical practice guidelines](https://www.jvascsurg.org/article/S0741-5214(20)31521-4/fulltext) for more specific information).[@upchurch2021]
+
+------------------------------------------------------------------------
+
+## Etiology
+
+The etiology of thoracic aortic aneurysms is multifactorial with an appreciable genetic component and typical aneurysmal risk factors (e.g., hypertension, smoking, atherosclerosis), vasculitis (e.g., takayasu, giant cell), chronic type B dissections, and inherited connective tissue disorders (i.e., Marfan, Loeys-Dietz, Ehlers-Danlos).[@upchurch2021][@coady1999][@biddinger1997][@hasham2003] Similar to AAAs, TAAs are most commonly caused by medial degeneration, characterized by elastic tissue fragmentation and a loss of smooth muscle in the arterial wall (See AAA Chapter). Additionally, atherosclerosis and its associated increase in local inflammation results in leukocyte accumulation and proliferation of the disease through incompletely understood mechanisms.[@upchurch2021]
+
+------------------------------------------------------------------------
+
+## Anatomy
+
+A thorough understanding of aortic anatomy in TAAs/TAAAs is critical to operative planning. In short, the aorta is divided into 11 zones, the first 6 of which occur in the thorax. Zone transitions occur after arterial branches or at anatomic landmarks. Arch anatomy is also important, and classification of arches is based on the distance from the top of the arch to the origin of the innominate artery in multiples of the left common carotid artery diameter.[@upchurch2021][@lahlouh2022] Arch variants that may affect the operative plan include the "bovine arch" (where the innominate and the left common carotid artery share a common trunk) and aberrant origins of the right subclavian artery, vertebral arteries, or the thyroid ima artery. Additionally, cerebral vasculature should be evaluated. The presence of an intact circle of willis and patency vertebral arteries are most important when considering the need for and risks of covering branches off the aorta.
+
+::: callout-tip
+Please see the [SVS classifications of the aortic zones and arch](https://www.jvascsurg.org/article/S0741-5214(20)31521-4/fulltext#secsectitle0060)
+:::
+
+Dr. Stanley Crawford created a classification scheme whereby five different types of TAAA are identified, each spanning a different location and/or extent of aorta.[@crawford1986] A type I TAAA travels the length of the descending thoracic aorta from left subclavian artery to the suprarenal aorta. Type II is the longest TAAA, extending from the left subclavian to below the renal arteries. A type III TAAA extends from the mid-thoracic aorta to below the renal arteries. Type IV spans the entire extent of the abdominal aorta and Type V is the shortest length TAAA, extending from the mid-thoracic aorta to the suprarenal aorta.
+
+::: callout-tip
+Please see Figure 1 of [Dr. Frederick and Dr. Woo's article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3741772/) for a wonderful depiction of TAAA Crawford classifications.
+:::
+
+::: callout-note
+A memory aid to recall the type and location of TAAAs according to the Crawford Classification is to think about a bouncing ball.
+
+In Crawford type I, the ball (i.e. aneurysm) is located between the descending thoracic aorta from the left subclavian artery to the suprarenal aorta.
+
+In Crawford type II, the "ball falls" and includes the infrarenal aorta.
+
+In type III, the "ball continues to fall" and is now located between the mid-thoracic aorta and the infrarenal aorta.
+
+In type IV, the "ball is still falling" and is located between the diaphragm and the aortic bifurcation. In type V, the "ball bounces back upwards" and is located between the mid-thoracic aorta and the suprarenal aorta.
+:::
+
+------------------------------------------------------------------------
+
+## Diagnostics and Imaging
+
+### The History and Physical- Abbreviated
+
+A thorough clinical history is invaluable in determining patient risk for a TAA and in guiding the need for imaging. Additionally, while patients are often asymptomatic, aneurysmal expansion may result in symptoms secondary to compression of adjacent thoracic structures, such as dysphagia, shortness of breath, and hoarseness.
+
+Risk factors for TAA/TAAA to elicit on history include:
+
+-   Uncontrolled hypertension
+-   Genetic disorders (conective tissue disorders like vascular Ehlers-Danlos, Marfan's, etc.)
+-   Inflammatory vasculitis
+-   Surgical history
+-   Family history of aortic pathology
+
+### Diagnostics
+
+If clinical suspicion is low for a TAA, a chest X-ray is a reasonable first radiographic test. However, in patients with a high risk of TAA, urgent CT angiography (CTA) is warranted. The diagnosis of a TAA can be made when a segment of aorta in the chest is seen to have dilated to a diameter greater than 1.5 times normal. This typically means a diameter greater than 4.5cm in the ascending aorta and aortic arch and 3 to 3.5cm in the descending thoracic aorta. Magnetic resonance angiography and transesophageal echocardiography may be used instead of CTA, but the logistics of scheduling and associated cost often limit their utility. Inconclusive results from a CTA, MRA, or TEE should prompt the use of another imaging modality.
+
+![](images/TAAalgo.jpg)
+
+A CTA is usually preferred due to its rapid ability to assess aneurysm size and extent in addition to cerebral, thoracic, abdominal, and pelvic anatomy. This additional information can significantly decisions regarding brachial and femoral access sites, extent of aortic coverage, availability of proximal and distal landing zones (i.e., normal aorta to which an endograft attaches to), and implications of potential branch coverage (e.g., coverage of the left subclavian artery in a patient with a hypoplastic right vertebral artery).
+
+::: {callout-note}
+TEVAR often involves covering the left subclavian artery origin thereby completely occluding flow to the artery and its important branches (including the left vertebral artery). Recall, the left and right vertebral arteries are a major arterial supply to the brainstem. The internal carotid arteries and the Circle of Willis allow for retrograde flow, but only to an extent. It is important, therefore, to consider the patency of the right vertebral artery (a branch of the right subclavian artery) and create a plan to reperfuse the left subclavian artery (and left vertebral artery) in parallel with TEVAR. Often, this parallel procedure involves an open left CCA to left subclavian artery bypass unless advanced endovascular options (discussed below) are pursued.
+:::
+
+------------------------------------------------------------------------
+
+## Treatment
+
+### Medical Management
+
+Typical goals for patients during the pre-, intra-, and post-operative period include systolic blood pressure \<140 and heart rate \<60 to limit aortic wall stress, which is especially important in the case of symptomatic aneurysms. Beta blockers (or alpha/beta blockers) are first line and commonly supplemented with calcium channel blockers, ACE inhibitors or ARBs. However, blood pressure goals become slightly more complex when spinal drains are placed (more on this below). Additionally, patients with dyslipidemia should receive a statin to achieve an LDL goal of \<70 mg/dL. Patients who smoke should receive education, pharmacotherapy, and cognitive-behavioral therapy, if possible.[@2010acc2010]
+
+### Thoracic Aortic Aneurysm (TAA)
+
+Repair of a TAA is indicated in the elective setting when the thoracic aorta has reached a cross-sectional diameter of 5.5 cm, according to SVS guidelines.1 This is the threshold at which the risk of rupture surpasses the risk of repair. Several factors must be considered when weighing repair options, and these may alter the threshold at which intervention is provided. Examples that may lead to earlier intervention than the 5.5cm diameter include: saccular shape, infected (mycotic) aneurysm, connective tissue disorder (e.g., Ehlers-Danlos), and family history of aneurysms (particularly if ruptured). Conversely, patients with severe comorbidities and severely decreased life expectancy may not receive intervention even if well above the 5.5 cm cross-sectional diameter guideline. Additionally, when patients present symptomatically or with a ruptured aneurysm, urgent or emergent repair should be undertaken regardless of aneurysm size.[@upchurch2021]
+
+#### Thoracic Endovascular Aortic Repair (TEVAR)
+
+Thoracic endovascular aortic repair (TEVAR) is a means of using a minimally invasive system of wires, sheaths, and balloons to position a covered stent graft in the aorta to exclude the aneurysmal wall from blood flow and prevent it from further growth. Although proximity to the left subclavian artery (LSA) does not preclude endovascular repair without concomitant LSA revascularization, the Society of Vascular Surgery generally recommends preoperative or concomitant LSA revascularization. Specific indications for which LSA revascularization is strongly recommended include:
+
+-   Presence of a patent left internal mammary artery to coronary artery bypass graft
+-   Termination of the left vertebral artery into the posterior inferior cerebellar artery
+-   Absent, atretic, or occluded right vertebral artery
+-   Patent left arm arteriovenous shunt for dialysis
+-   Prior infrarenal aortic operation or endovascular aneurysm repair with previously ligated or covered lumbar and middle sacral arteries
+-   Planned extensive coverage (≥15 cm) of the DTA
+-   Hypogastric artery occlusion or significant occlusive disease
+-   Presence of aneurysm disease in the young patient, for whom future therapy involving the distal thoracic aorta may be necessary [@upchurch2021]
+
+Hybrid approaches use bypasses to the supra-aortic trunks from a non-aneurysmal source (i.e. most commonly a left common carotid to subclavian bypass) prior to placing a TEVAR across the origins of one or multiple great vessels.[@upchurch2021] Such an approach allows a patient to undergo repair without the morbidity and potential mortality risk of a larger open traditional TAA repair procedure.
+
+:::{.callout-tip}
+Watch a concise lecture on [Endovascular Management of Thoracic and Thoraco-Abdominal Aneurysm](https://www.youtube.com/watch?v=Cwxa0z2GS08). (N.B. Fellowship level)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cwxa0z2GS08?si=rEOqT36xU-xf4VKa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+:::
+
+#### FEVAR / BEVAR / PMEG
+
+However, in effort to further minimize invasiveness of open LSA revascularization, endovascular devices with fenestrations or branches (termed F-EVAR or B-EVAR) and complex physician-modified endovascular grafts (PMEGs) have been developed. These devices exclude aneurysmal pathology and revascularize important branch arteries and can be configured in a multitude of ways, both in "off-the-shelf" configurations and in customizable, patient-anatomy-specific configurations (PMEGs) guided by preoperative CT scans. However, due to device complexity, their use is often limited to elective repairs.[@upchurch2021]
+
+To properly align the branch(es) or fenestration(s) with their target arteries, additional access sites are commonly utilized. Typically, an additional wire is placed through the left subclavian artery which is accessed via the left brachial or radial artery (depending on required sheath size) often percutaneously. Due to operating time and alignment of all the device components, patients are at risk of higher doses of contrast and radiation exposure.[@upchurch2021]
+
+### Thoracoabdominal Aortic Aneurysm (TAAA)
+
+Repairing TAAAs presents a formidable challenge, often requiring open repair with a large incision extending from the left flank down to the lower abdomen. Repair is typically indicated at a cross-sectional diameter of 5.5 cm and is affected by factors noted above in TAAs.[@upchurch2021] Open surgical repair involves numerous anastomosis of a multibranched graft (Coselli graft) starting with the proximal anastomosis site. Each major artery involved in the aneurysm is subsequently anastomosed to the graft, working proximally to distally, until the distal anastomosis site is reached. Concomitant implantation of intercostal arteries is sometimes done to preserve spinal perfusion, particularly when a significant portion of the descending thoracic aorta is involved. Additionally, if temporary extracorporeal bypass is incorporated into the operation, cannulas can be placed into the involved branch arteries to preserve oxygenation.
+
+::: {callout-note}
+Click [here](https://www.youtube.com/watch?v=npIEpp8ZQNU) to watch an open TAAA repair.
+:::
+
+To provide an alternative, FEVAR, BEVAR, and PMEGs have been used in recent years, as discussed previously. However, concerns regarding high post-endovascular reintervention rates and increased spinal cord ischemia have made endovascular TAAA repair controversial, particularly for young and low-risk patients.[@laroy1989] No randomized clinical trial has been performed to guide management in patients who are equally suited for both, and the complexity of aneurysmal anatomy may result in hybrid options outside the scope of the current discussion.
+
+:::{.callout-tip}
+Watch a concise lecture on Open Surgical Management of Thoracic and Thoraco-Abdominal Aneurysm [here](https://www.youtube.com/watch?v=ov8wRAAMVN8) and [here](https://www.youtube.com/watch?v=1Xw_YQjkecE&t=2s). (N.B. Fellowship level)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ov8wRAAMVN8?si=yH_xrqjRMo_f95qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Xw_YQjkecE?si=m7NcTpNxQmmIpFpC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+:::
+
+### Spinal Drains
+
+Spinal cord injury is a severe complication of TAA and TAAA repair. While spinal protection is likely beneficial in a portion of patients receiving treatment, debate exists on which patients are best suited for CSF drainage in the presence of spinal cord drain risks (intracranial and neuraxial bleeding, stroke, infection, retained catheter fragments).[@miller2022] On one hand, spinal drain placement has been shown to reduce paraplegia rates after open repair in type I or type II TAAAs.[@coselli2002] However, the lack of clinical trial data with open TAA repair, standard TEVAR, TEVAR with hybrid LSA surgical revascularization, FEVAR/BEVAR/PMEG leaves significant room for ongoing research.[@miller2022]
+
+Mechanistically, cerebrospinal fluid (CSF) drainage generates a larger pressure gradient to facilitate perfusion, which is compounded in the presence of altered blood pressure goals (typically controlled hypertension with a mean arterial pressure \>90 mm Hg).[@upchurch2021]
+
+Currently, the Society for Vascular Surgery recommends placement of a spinal drain in the following cases (the reader may not many similarities between this list and the list provided above of indications for LSA revascularization):
+
+-   Extensive coverage (\>15cm)
+
+-   Poor hypogastric artery perfusion due to occlusions or significant stenosis
+
+-   Coverage of important collaterals that feed the spinal cord (e.g., subclavian and hypogastric arteries)
+
+-   Patients that have had previous aortic coverage, including open or endovascular abdominal aortic aneurysm repair
+
+-   Diseased or occluded vertebral arteries
+
+[@upchurch2021]
+
+:::{.callout-tip}
+Watch a short lecture by Dr. Adam Beck on spinal cord ischemia after TEVAR [here](https://www.youtube.com/watch?v=-oCetxXHiOM) or the full-length version [here](https://www.youtube.com/watch?v=AKWK5YqcR1w).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-oCetxXHiOM?si=SKwbYCmDSC2WvSqb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AKWK5YqcR1w?si=EjRfijGeUsYhqGmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+:::
+------------------------------------------------------------------------
+
+## Outcomes
+
+The typical complications to be vigilant of in the immediate postoperative period are bleeding, access site complications (e.g., lower or upper extremity acute limb ischemia from large sheaths used to deliver endograft in TEVARs, retroperitoneal hematomas), acute kidney injury (secondary to contrast or suprarenal cross-clamping), stroke, spinal cord injury with temporary or permanent paralysis, and post-implantation syndrome. Death, spinal cord injury, and stroke are the most common complications, occurring at rates of approximately 4.8%, 4.6%, and 3.2-6.2% in specialized centers of excellence, respectively.[@coselli2000] In contrast open surgical repair of ruptured TAAs is associated with significantly higher mortality, with 1 in 4 patients not surviving past 24 hours post-operatively.[@barbato2007] Among all patients with TAAs, those who receive open repair have higher rates early postoperative complications but lower rates of reintervention and late complications.[@chiu2019]
+
+### Prevention of complications
+
+Patients should receive early transfusion (maintaining a hemoglobin above 8g/dL or above 10g/dL if spinal cord injury is suspected) Frequent postoperative neurologic and pulse exams (often q1hour or q2hour) are a mainstay of early detection of access site complications. Acute kidney injury risk can be reduced by minimizing cross-clamp time and contrast dosing alongside adequate volume resuscitation. As mentioned previously spinal cord injuries are likely reduced through the implementation of spinal drains and controlled hypertension.[@upchurch2021] Removal of the spinal drain is equally important to spinal cord placement, as premature removal could complicate patients' postoperative course. Removal is typically governed by institution-specific protocols and is typically only considered once the post-operative course has stabilized, platelet count is above 100,000, and no coagulopathy is present (INR \<1.6). Neurologic evaluation should continue after removal of the drain.[@upchurch2021]
+
+### Post-implantation syndrome
+
+Post-implantation syndrome is a phenomenon characterized by the triad of fever, leukocytosis, and increased inflammatory marks, likely secondary to endothelial dysfunction due to endograft placement. Patients with this syndrome are often treated empirically for suspected infection, and consideration of this syndrome should be made if there is a lack of response to empiric antibiotics. While typically well-tolerated, post-inflammatory syndrome can lead to fatality. There is no universally agreed-upon regimen for prevention and treatment of post-implantation syndrome, but typical post-operative optimization efforts are likely beneficial (e.g., early mobilization, respiratory physiotherapy, anti-inflammatory drugs, and adequate pain management).[@upchurch2021][@voûte2012]
+
+------------------------------------------------------------------------
+
+## Surveillance
+
+Typical postoperative monitoring includes, at minimum, a CTA at 1 month and annually thereafter. If an endoleak, graft migration, or other unexpected finding is present at the 1-month scan, a 6-month CTA should be added. Reintervention rates vary greatly between institutions, partially due to the ongoing debate of when to repair versus observe endoleaks (e.g., namely small-to-moderate sized type II endoleaks) and the use of "off the shelf" versus custom endografts. More long-term data is needed to understand the safety of screening intervals greater than 1 year.[@upchurch2021]
+
+Similar follow-up typically occurs early in the postoperative course after open surgical repair. However discrete guidelines such as those following TEVAR (above) are not available. Typical follow-up regimens are practice-specific and decisions are often made on a case-by-case basis.
+
+------------------------------------------------------------------------
+
+## Teaching Case
+
+### Scenario
+
+A 68-year-old male with a significant smoking history and a medical history of hypertension, hyperlipidemia, chronic kidney disease (CKD), and a left-sided arteriovenous (AV) fistula for hemodialysis presents to your clinic as a new patient after an incidental thoracic aortic aneurysm was identified on routine screening for lung cancer. He reports no symptoms or new complaints, including no chest discomfort, hoarseness, shortness of breath, syncope, or pain.
+
+### Exam
+
+Vitals: 98.6°F, HR: 85 bpm, BP: 160/95, RR: 17, SpO2: 96% on room air
+
+**HEENT:** No hoarseness, pulsatile mass in the left neck, no jugular venous distention (JVD).
+
+**Cardiac:** Regular rate and rhythm (RRR), clear S1 and S2, no murmurs.
+
+**Pulmonary:** Clear to auscultation bilaterally, no increased work of breathing.
+
+**Abdominal:** Soft, non-distended (ND), non-tender (NT), no palpable masses.
+
+**Vascular/Extremities:**
+
+-   Carotid pulses: 2+ bilaterally, no bruits.
+-   Brachial pulses: 1+ bilaterally.
+-   Radial pulses: 1+ bilaterally.
+-   Ulnar pulses: 1+ bilaterally.
+-   Left-sided AV fistula with a thrill.
+-   Femoral pulses: 2+ bilaterally, no bruits
+-   Popliteal pulses: 1+ bilaterally.
+-   Dorsalis pedis pulses: 1+ bilaterally.
+-   Posterior tibial pulses: 1+ bilaterally.
+-   No edema, cyanosis, or clubbing.
+
+### Imaging
+
+**Low-dose CT of the Chest (CTA)**
+
+Impression: Thoracic aortic aneurysm measuring approximately 6.0 cm in diameter involving the descending thoracic aorta. The aneurysm extends proximally to the origin of the left subclavian artery (LSA) and distally to the mid-thoracic aorta with an estimated total length of 14 cm.
+
+### Discussion Points
+
+::: callout-note
+## N.B. There is no prepared answers for the questions below.
+
+However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
+:::
+
+1.  Explain the pathophysiology behind the patient's asymptomatic presentation?
+2.  What are the primary risk factors likely contributed to the development of his TAA?
+3.  Does this patient meet criteria for repair? Are there any additional tests you would like to order?
+4.  Discuss options for surgical repair, including open, endovascular (including complex endovascular, and hybrid repair.
+5.  Discuss the potential complications of LSA involvement in this patient's aneurysm.
+6.  What are the immediate and long-term management strategies for this patient's condition, both medical and surgical?
+
+------------------------------------------------------------------------
+
+## Key Articles
+
+1.  Upchurch GR, Escobar GA, Azizzadeh A, Beck AW, Conrad MF, Matsumura JS, et al. Society for Vascular Surgery clinical practice guidelines of thoracic endovascular aortic repair for descending thoracic aortic aneurysms. J Vasc Surg. 2021 Jan 1;73(1):55S-83S.[@upchurch2021]
+
+2.  LaRoy LL, Cormier PJ, Matalon TA, Patel SK, Turner DA, Silver B. Imaging of abdominal aortic aneurysms. AJR Am J Roentgenol. 1989 Apr;152(4):785--92. [@laroy1989]
+
+3.  Bickerstaff LK, Pairolero PC, Hollier LH, Melton LJ, Van Peenen HJ, Cherry KJ, et al. Thoracic aortic aneurysms: a population-based study. Surgery. 1982 Dec;92(6):1103--8. [@bickerstaff1982]
+
+4.  Coady MA, Davies RR, Roberts M, Goldstein LJ, Rogalski MJ, Rizzo JA, et al. Familial patterns of thoracic aortic aneurysms. Arch Surg Chic Ill 1960. 1999 Apr;134(4):361--7. [@coady1999]
+
+5.  Biddinger A, Rocklin M, Coselli J, Milewicz DM. Familial thoracic aortic dilatations and dissections: a case control study. J Vasc Surg. 1997 Mar;25(3):506--11. [@biddinger1997]
+
+6.  Hasham SN, Willing MC, Guo D chuan, Muilenburg A, He R, Tran VT, et al. Mapping a locus for familial thoracic aortic aneurysms and dissections (TAAD2) to 3p24-25. Circulation. 2003 Jul 1;107(25):3184--90. [@hasham2003]
+
+7.  Lahlouh M, Chenoune Y, Blanc R, Szewczyk J, Passat N. Aortic arch anatomy characterization from MRA: A CNN-based segmentation approach. In: International Symposium on Biomedical Imaging (ISBI) \[Internet\]. Kolkata, India; 2022 \[cited 2024 Apr 28\]. p. 1--5. Available from: https://hal.science/hal-03517593 [@lahlouh2022]
+
+8.  Crawford ES, Crawford JL, Safi HJ, Coselli JS, Hess KR, Brooks B, et al. Thoracoabdominal aortic aneurysms: preoperative and intraoperative factors determining immediate and long-term results of operations in 605 patients. J Vasc Surg. 1986 Mar;3(3):389--404. [@crawford1986]
+
+9.  Hiratzka LF, Bakris GL, Beckman JA, Bersin RM, Carr VF, Casey DE, et al. 2010 ACCF/AHA/AATS/ACR/ASA/SCA/SCAI/SIR/STS/SVM guidelines for the diagnosis and management of patients with Thoracic Aortic Disease: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines, American Association for Thoracic Surgery, American College of Radiology, American Stroke Association, Society of Cardiovascular Anesthesiologists, Society for Cardiovascular Angiography and Interventions, Society of Interventional Radiology, Society of Thoracic Surgeons, and Society for Vascular Medicine. Circulation. 2010 Apr 6;121(13):e266-369. [@2010acc2010]
+
+10. Coselli JS, LeMaire SA, Miller CC, Schmittling ZC, Köksoy C, Pagan J, et al. Mortality and paraplegia after thoracoabdominal aortic aneurysm repair: a risk factor analysis. Ann Thorac Surg. 2000 Feb;69(2):409--14. [@coselli2000]
+
+11. Barbato JE, Kim JY, Zenati M, Abu-Hamad G, Rhee RY, Makaroun MS, et al. Contemporary results of open repair of ruptured descending thoracic and thoracoabdominal aortic aneurysms. J Vasc Surg. 2007 Apr;45(4):667--76. [@barbato2007]
+
+12. Chiu P, Goldstone AB, Schaffer JM, Lingala B, Miller DC, Mitchell RS, et al. Endovascular Versus Open Repair of Intact Descending Thoracic Aortic Aneurysms. J Am Coll Cardiol. 2019 Feb 19;73(6):643--51. [@chiu2019]
+
+13. Mt V, Fm BG, Km van de L, Cg KN, Se H, Rj S, et al. Stent graft composition plays a material role in the postimplantation syndrome. J Vasc Surg \[Internet\]. 2012 Dec \[cited 2024 Apr 28\];56(6). Available from: https://pubmed.ncbi.nlm.nih.gov/23092643/ [@voûte2012]
+
+14. Miller LK, Patel VI, Wagener G. Spinal Cord Protection for Thoracoabdominal Aortic Surgery. J Cardiothorac Vasc Anesth. 2022 Feb;36(2):577-586. doi: 10.1053/j.jvca.2021.06.024. Epub 2021 Jun 26. PMID: 34366215. [@miller2022]
+
+15. Coselli JS, LeMaire SA, Köksoy C, Schmittling ZC, Curling PE. Cerebrospinal fluid drainage reduces paraplegia after thoracoabdominal aortic aneurysm repair: results of a randomized clinical trial. J Vasc Surg. 2002 Apr;35(4):631-9. doi: 10.1067/mva.2002.122024. PMID: 11932655. [@coselli2002]
+
+------------------------------------------------------------------------
+
+## Additional Resources
+
+### Audible Bleeding Content
+
+-   Audible Bleeding Exam Prep: [TAA Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/taaa.html)
+-   Audible Bleeding Rouleaux Club Exam Prep - Thoracoabdominal Aortic Aneurysms with Mr. Michael Jenkins. Listen to it below and find [additional information here](https://www.audiblebleeding.com/rouleaux-taaa/), or find the episode wherever you listen to podcasts. <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/21372632/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+------------------------------------------------------------------------
+
+### Websites
+
+-   TeachMe Surgery: [TAA Chapter](https://teachmesurgery.com/vascular/arterial/thoracic-aorta-aneurysm/)
+
+------------------------------------------------------------------------
+
+### Serious Games
+
+#### Touch Surgery Simulations.
+
+-   Must download the [Medtronic Touch Surgery mobile application](https://www.medtronic.com/covidien/en-us/products/digital-surgery/simulations.html) to access the modules. Available for Apple and Android mobile devices.
+-   [Type IV Thoracoabdominal Aneurysm (TAA) with External Axillo-Unifemoral Bypass]https://www.touchsurgery.com/simulations/type-iv-thoracoabdominal-aneurysm-taa-with-external-axillo-unifemoral-bypass)
+
+------------------------------------------------------------------------
+
+### Gore Combat Manual
+
+The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
+
+::: callout-tip
+Please see pages 77-79.
+:::
+
+------------------------------------------------------------------------
+
+### Operative Footage
+
+Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.* Please create and/or log in to your YouTube account to have access to the videos.
+
+#### Open Surgical Management of Thoracic & Thoraco-Abdominal Aortic Aneurysm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Xw_YQjkecE?si=EnT7NLdLWTTdx3Xd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+#### TEVAR for Descending Thoracic Aneurysm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aw9dLiUpgKo?si=6_7g0WTlHVIVilr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+<iframe>
+
+------------------------------------------------------------------------
+
+<!-- Google tag (gtag.js) -->
+
+```{=html}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WS28VX4802"></script>
+```
+```{=html}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WS28VX4802');
+</script>
+```
