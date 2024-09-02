@@ -1,6 +1,6 @@
 ---
 title: "Radiation and Radiation Safety"
-chapter_number: 7
+chapter_number: 10
 title-block-banner: false
 title-block-style: plain
 authors: Lucas Canaan, Do, Mark Basilious, BS, Ezra Schwartz, MD, MS, MMS, Daniel Torrent MD, MPH, FACS.

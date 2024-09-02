@@ -1,6 +1,6 @@
 ---
 title: "Basics of Endovascular Surgery (Endo Basics)"
-chapter_number: 7
+chapter_number: 9
 title-block-banner: false
 title-block-style: plain
 authors: Jeremy Zack, Nitin Jethmalani, MD, Babak Abai, MD, FACS.
@@ -28,16 +28,16 @@ By the end of this chapter, students will:
 ::: {.callout-note icon="false"}
 ## Key Facts
 
-1.    Endovascular surgery is a minimally invasive approach to treat a variety of vascular pathologies, including peripheral artery disease, aortic aneurysms, venous diseases, and others by deploying baloons, stents, and or endografts.
-2.    The common femoral artery (CFA) is the most common site of access for endovascular surgery due to its larger size and lower risk of complications relative to other sites of vascular access
-3.    Using the analogy of a train on a track passing through a tunnel, a catheter can be thought of as the train, a wire as the train track, and a sheath as the surrounding tunnel.
-4.    Wires are used to guide devices such as catheters and sheaths into a vessel. 
-5.    Catheters are flexible, hollow tubes that are used in both the diagnosis and treatment of vascular disease. In an analogy of a train track, the catheter can be thought of as the train, the track is the wire, and the surrounding tunnel is the sheath.
-6.    Catheters are measured in French (1F = 0.33 mm) and the diameter corresponds to the outer diameter of the tube.
-7.    Sheaths are hollow tubes that provide conduit between outside the body and into the vessel, the “tunnel” in the train track analogy. Sheaths are used to advance and exchange catheters, wires, stents, balloons, and other devices.
-8.    Sheaths are measured in French (1F = 0.33 mm) and the diameter corresponds to the inner diameter of the tube.
-9.    **A 6F catheter will pass through a 6F sheath.**
-10.   Endovascular surgery is not without risks and complications. Complications include the formation of hematoma, pseudoaneurysm, retroperitoneal hematoma, fistula, dissection, thrombosis and embolism, and atheroembolism. Other complications include wire perforation vessel rupture.
+1.  Endovascular surgery is a minimally invasive approach to treat a variety of vascular pathologies, including peripheral artery disease, aortic aneurysms, venous diseases, and others by deploying baloons, stents, and or endografts.
+2.  The common femoral artery (CFA) is the most common site of access for endovascular surgery due to its larger size and lower risk of complications relative to other sites of vascular access
+3.  Using the analogy of a train on a track passing through a tunnel, a catheter can be thought of as the train, a wire as the train track, and a sheath as the surrounding tunnel.
+4.  Wires are used to guide devices such as catheters and sheaths into a vessel.
+5.  Catheters are flexible, hollow tubes that are used in both the diagnosis and treatment of vascular disease. In an analogy of a train track, the catheter can be thought of as the train, the track is the wire, and the surrounding tunnel is the sheath.
+6.  Catheters are measured in French (1F = 0.33 mm) and the diameter corresponds to the outer diameter of the tube.
+7.  Sheaths are hollow tubes that provide conduit between outside the body and into the vessel, the "tunnel" in the train track analogy. Sheaths are used to advance and exchange catheters, wires, stents, balloons, and other devices.
+8.  Sheaths are measured in French (1F = 0.33 mm) and the diameter corresponds to the inner diameter of the tube.
+9.  **A 6F catheter will pass through a 6F sheath.**
+10. Endovascular surgery is not without risks and complications. Complications include the formation of hematoma, pseudoaneurysm, retroperitoneal hematoma, fistula, dissection, thrombosis and embolism, and atheroembolism. Other complications include wire perforation vessel rupture.
 :::
 
 ::: callout-tip
@@ -216,7 +216,7 @@ There are several different types of closure devices. Each type can be different
 
 A common closure device you are likely to encounter on a vascular surgery service is the **Perclose ProGlide** (Abbott Vascular, Chicago, IL), a suture-mediated closure device. Other closure devices include the **Angioseal** (Terumo, Tokyo, Japan), which deploys a bioabsorbable anchor to the arterial puncture site with surrounding collagen to promote closure, and the **MYNXGRIP** (Cordis, Miami Lakes, FL), which uses a balloon pressed against the site of arterial puncture and an adhesive sealant outside the vessel that dissolves slowly as the puncture site heals. Less commonly used closure devices include the **Angiosea**l (Terumo, Tokyo, Japan), which deploys a bioabsorbable anchor to the arterial puncture site with surrounding collagen to promote closure. Other less commonly used closure devices include the **Manta, StarClose, Vascade, and Cardiva**.
 
-::: callout-tip 
+::: callout-tip
 A step-by-step guide to deploying **Perclose devices** is shown in [this animated video](https://youtu.be/rwsuR0q4yUs?si=j25UduZrhO7LOf4g) and listed below.
 
 1.  Exchange the procedural sheath for a guide wire so only the guide wire is left in the vessel.
@@ -698,9 +698,9 @@ Key points: [@liew2005]
 -   Embolization is most common to the skin, kidneys, and GI tract though it is dependent on the site of the procedure.
 -   Unfortunately this condition is generally under diagnosed and challenging to treat. - Primary prevention is of utmost importance with good surgical technique.
 
-#### Wire Perforation 
+#### Wire Perforation
 
-Wire perforation occurs when an angiographic wire creates a hole in a vessel. 
+Wire perforation occurs when an angiographic wire creates a hole in a vessel.
 
 Key points:
 
@@ -715,9 +715,9 @@ Vessel rupture occurs when a device or balloon is oversized for a vessel and cau
 Key points:
 
 -   Rupture can be cause by an oversized balloon or balloon expandable stent, by expanding a properly sized balloon in a heavily calcified vessel or by passage of a large device such as an EVAR device through a small vessel.
--   Rupture is associated with a high morbidity and mortality especially if there is any delay in diagnosis. 
--   Immediately upon recognition of vessel rupture, a balloon should be inflated in the region to obtain adequate hemostasis. Simultaneously, supplies should be can gathered for vessel repair. 
--   Repair is usually done with a covered stent placed across the rupture. If adequate hemostasis cannot be obtained, open repair may be necessary. 
+-   Rupture is associated with a high morbidity and mortality especially if there is any delay in diagnosis.
+-   Immediately upon recognition of vessel rupture, a balloon should be inflated in the region to obtain adequate hemostasis. Simultaneously, supplies should be can gathered for vessel repair.
+-   Repair is usually done with a covered stent placed across the rupture. If adequate hemostasis cannot be obtained, open repair may be necessary.
 
 ------------------------------------------------------------------------
 
@@ -725,11 +725,11 @@ Key points:
 
 ### Scenario
 
-A 71 year old male with a past medical history of hypertension, hyperlipidemia, coronary artery disease with stent placement was diagnosed with acute type B aortic dissection three weeks ago. He was managed medically in the hospital and sent home after one week with blood pressure and pain well-controlled. An image from the CTA at time of diagnosis is seen below: 
+A 71 year old male with a past medical history of hypertension, hyperlipidemia, coronary artery disease with stent placement was diagnosed with acute type B aortic dissection three weeks ago. He was managed medically in the hospital and sent home after one week with blood pressure and pain well-controlled. An image from the CTA at time of diagnosis is seen below:
 
 ![CTA](images/endotc.jpg){fig-align="left" width="80%"}
 
-The proximal extent of the dissection was 3 cm distal to the left subclavian artery and the distal extent was 2 cm superior to the celiac artery, allowing good landing zones for an endograft. The left internal iliac artery is fully occluded, and the right internal iliac artery has roughly 50% stenosis. The left external iliac artery is heavily calcified and stenotic >50%. The right common and external iliac artery are patent without evidence of significant atherosclerosis. The patient is evaluated in the preoperative area prior to placement of a thoracic endograft in the hybrid operating room. 
+The proximal extent of the dissection was 3 cm distal to the left subclavian artery and the distal extent was 2 cm superior to the celiac artery, allowing good landing zones for an endograft. The left internal iliac artery is fully occluded, and the right internal iliac artery has roughly 50% stenosis. The left external iliac artery is heavily calcified and stenotic \>50%. The right common and external iliac artery are patent without evidence of significant atherosclerosis. The patient is evaluated in the preoperative area prior to placement of a thoracic endograft in the hybrid operating room.
 
 ### Exam
 
@@ -737,9 +737,9 @@ The proximal extent of the dissection was 3 cm distal to the left subclavian art
 
 **Cardiac:** Regular rate and rhythm
 
-**Pulmonary:** Clear to auscultation in all lung fields. No accessory muscle use. 
+**Pulmonary:** Clear to auscultation in all lung fields. No accessory muscle use.
 
-**Abdominal:** Soft, non-tender, non-distended, no pulsatile masses felt. 
+**Abdominal:** Soft, non-tender, non-distended, no pulsatile masses felt.
 
 **Vascular/Extremities:** Warm, non-edematous. Palpable pulses in all four extremities.
 
@@ -751,11 +751,11 @@ The proximal extent of the dissection was 3 cm distal to the left subclavian art
 However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
 :::
 
-1.    What clinical risk factors make this patient a good candidate for endovascular vs. open repair?
-2.    The endograft used for this operation requires at least an 18F sheath, which site of access should be used to insert and implant the graft?
-3.    What diameter and hydrophilicity of wire should be used to advance the thoracic endograft to the site of dissection?
-4.    The attending surgeon requested mean arterial pressures to be at least 90 mmHg throughout the operation. Why would intraoperative hypotension be concerning in this patient? What anatomic factors make this patient at particular risk?
-5.    If the patient developed pain at the site of access one week later, with a well-healing wound and palpable thrill on physical exam, what kind of access-related complication are you worried about and what would be your next step to confirm the diagnosis?
+1.  What clinical risk factors make this patient a good candidate for endovascular vs. open repair?
+2.  The endograft used for this operation requires at least an 18F sheath, which site of access should be used to insert and implant the graft?
+3.  What diameter and hydrophilicity of wire should be used to advance the thoracic endograft to the site of dissection?
+4.  The attending surgeon requested mean arterial pressures to be at least 90 mmHg throughout the operation. Why would intraoperative hypotension be concerning in this patient? What anatomic factors make this patient at particular risk?
+5.  If the patient developed pain at the site of access one week later, with a well-healing wound and palpable thrill on physical exam, what kind of access-related complication are you worried about and what would be your next step to confirm the diagnosis?
 
 ------------------------------------------------------------------------
 
@@ -826,7 +826,7 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 
 </iframe>
 
-#### Inferior Vena Cava (IVC) Filter Placement 
+#### Inferior Vena Cava (IVC) Filter Placement
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/29-8tVIrh6o?si=6NQ9eyFIayyuiP6S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
@@ -837,6 +837,7 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqeMld1mNC0?si=cv7W5Rc5iXXXhcd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 </iframe>
+
 <!-- Google tag (gtag.js) -->
 
 ```{=html}

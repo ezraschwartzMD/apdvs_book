@@ -1,0 +1,494 @@
+---
+title: "Chronic Venous Insufficiency (CVI)"
+chapter_number: 8
+title-block-banner: false
+title-block-style: plain
+authors: Emily Goodman, MD, Mark Basilious, BS, Ethan Romero, MS, and Chelsea Dorsey, MD.
+format: html
+editor: visual
+number-sections: false
+bibliography: references.bib
+smooth-scroll: true
+link-external-newwindow: true
+---
+
+#  {#sec-cvi}
+
+::: {.callout-note icon="false"}
+## Chapter Learning Objectives
+
+By the end of this chapter, students will:
+
+-   
+:::
+
+::: {.callout-note icon="false"}
+## Key Facts
+
+1.  Chronic venous disease (CVD) is highly prevalent in the United States, affecting 25% of women and 15% of men, with 1% to 4% progressing to advanced stages such as chronic venous insufficiency (CVI) with venous ulcers.
+2.  The economic burden of CVD is substantial, with estimated annual healthcare costs in the US ranging from \$1.9 to \$3 billion, primarily impacting Medicare.
+3.  CVD arises from venous hypertension due to valvular incompetence, thrombotic obstruction, or extrinsic compression, leading to manifestations such as edema, hyperpigmentation, and venous ulcers.
+4.  Superficial, deep, and perforating veins play crucial roles in venous circulation, with dysfunctional valves in the great saphenous vein commonly causing significant venous reflux.
+5.  Duplex ultrasound is the primary diagnostic tool for CVD, assessing venous obstruction and reflux. The Clinical-Etiology-Anatomy-Pathophysiology (CEAP) classification system categorizes disease severity based on clinical manifestations and pathophysiology.
+6.  The Venous Clinical Severity Score (VCSS) complements CEAP for evaluating disease progression and treatment outcomes.
+7.  Management of CVD includes conservative approaches (compression therapy), pharmacological interventions, and various procedures including endovenous ablation, phlebectomy, and sclerotherapy.
+8.  Endovenous treatments such as radiofrequency ablation (RFA) and endovenous laser ablation (EVLA) are preferred over traditional surgeries due to lower morbidity and quicker recovery times.
+9.  Surgical interventions significantly improve quality of life and symptom relief compared to conservative therapies for severe CVD.
+10. Long-term surveillance with duplex ultrasound is essential to monitor disease progression and recurrence post-treatment, with early intervention shown to accelerate ulcer healing and reduce recurrence rates.
+:::
+
+::: callout-tip
+## How We Suggest Using the Pre/Post Questions
+
+The pre/post questions are listed below. They are all multiple choice questions with a single right answer. To best guide your learning, we have hidden the answers in a collapsible menu. Before reading the chapter, we suggest giving the questions a try, noting your answers on a notepad. After reading the chapter, return to the questions, re-evaluate your answers, and then open the collapsible menu to read the correct answer and discussion. Do not fret if you have difficulty answering the questions before reading the chapter! By the end of the chapter, we are certain you will have covered the knowledge necessary to answer the questions. There will be a teaching case at the end of the chapter. This is another opportunity to exercise your new knowledge!
+:::
+
+## Pre/Post Questions
+
+### Case Based Questions
+
+1.  A 55-year-old male presents with aching legs, swelling, and skin discoloration. Physical examination reveals dilated veins and hyperpigmentation. *Which diagnostic modality is most appropriate initially?*
+
+<!-- -->
+
+A.  Magnetic resonance imaging (MRI)
+
+B.  Venous duplex ultrasound
+
+C.  Arterial Doppler ultrasound
+
+D.  Computed tomography (CT) scan
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**B. Venous duplex ultrasound**
+
+Discussion: Venous duplex ultrasound is the initial diagnostic study of choice for evaluating chronic venous disease. It helps detect venous obstruction or reflux, which are critical in diagnosing and planning management for patients with symptoms like aching legs, swelling, and skin changes indicative of venous insufficiency. MRI, arterial Doppler ultrasound, and CT scan are not typically used as initial diagnostic tests for chronic venous disease.
+:::
+
+2.  A 40-year-old female presents with varicose veins that are causing discomfort. She has no skin changes or ulcers. *What is the most appropriate initial treatment for her condition?*
+
+<!-- -->
+
+A.  Endovenous laser ablation (EVLA)
+
+B.  Sclerotherapy
+
+C.  Conservative therapy with compression stockings
+
+D.  High ligation and stripping of the great saphenous vein
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**C. Conservative therapy with compression stockings**
+
+Discussion: Conservative therapy with compression stockings is the initial treatment for patients with symptomatic varicose veins without skin changes or ulcers. This approach aims to relieve symptoms and may be sufficient for managing early-stage disease. EVLA, sclerotherapy, and surgical interventions like high ligation and stripping are considered for more advanced cases or when conservative measures fail.
+:::
+
+3.  A patient with chronic venous insufficiency (CVI) presents with a venous ulcer that has failed to heal with conservative measures. *What is the next appropriate step in management?*
+
+<!-- -->
+
+A.  Initiate high-dose oral antibiotics
+
+B.  Perform surgical ligation of perforator veins
+
+C.  Consider endovenous ablation of refluxing superficial veins
+
+D.  Apply topical corticosteroids
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**C. Consider endovenous ablation of refluxing superficial veins.**
+
+Discussion: For patients with chronic venous insufficiency (CVI) and non-healing venous ulcers, consideration should be given to endovenous ablation of refluxing superficial veins to reduce venous hypertension and promote ulcer healing. High-dose antibiotics, surgical ligation of perforator veins, and topical corticosteroids are not primary treatments for CVI-related ulcers.
+:::
+
+4.  A patient with chronic venous disease (CVD) is evaluated using the CEAP classification system and scored as C4b. *What does this classification indicate??*
+
+<!-- -->
+
+A.  Active venous ulcer
+
+B.  Skin pigmentation or eczema
+
+C.  Lipodermatosclerosis or atrophie blanche
+
+D.  Telangiectasias or reticular veins
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**C. Lipodermatosclerosis or atrophie blanche.**
+
+Discussion: The CEAP classification C4b indicates the presence of lipodermatosclerosis or atrophie blanche, which are manifestations of chronic venous disease characterized by changes in the skin and subcutaneous tissue. Options A, B, and D correspond to other classifications within the CEAP system.
+:::
+
+5.  A patient undergoes endovenous laser ablation (EVLA) for symptomatic varicose veins. *Post-procedure, what is a potential complication that should be monitored using duplex ultrasound?*
+
+<!-- -->
+
+A.  Allergic reaction to the laser
+
+B.  Endothermal heat-induced thrombosis (EHIT)
+
+C.  Superficial wound infection
+
+D.  Hypotension from anesthesia
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**B. Endothermal heat-induced thrombosis (EHIT).**
+
+Discussion: Endothermal heat-induced thrombosis (EHIT) is a potential complication of endovenous laser ablation (EVLA), where heat generated by the laser can extend thrombus into the deep venous system. Monitoring with duplex ultrasound post-procedure helps detect EHIT early. Allergic reactions, superficial wound infections, and hypotension are less common complications and managed differently.
+:::
+
+6.  A patient with chronic venous disease (CVD) undergoes surgical ligation and stripping of the great saphenous vein (GSV). *What is a known advantage of this procedure compared to endovenous ablation techniques?*
+
+<!-- -->
+
+A.  Lower risk of procedural complications
+
+B.  Shorter recovery time
+
+C.  Less risk of recurrence
+
+D.  Suitable for patients with deep vein thrombosis (DVT)
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**C. Less risk of recurrence.**
+
+Discussion: Surgical ligation and stripping of the great saphenous vein (GSV) have been associated with lower recurrence rates compared to endovenous ablation techniques. While endovenous ablation offers advantages such as shorter recovery times and lower procedural complications, it may have slightly higher recurrence rates in some studies. Surgical ligation and stripping are not suitable for patients with active deep vein thrombosis (DVT) and are generally reserved for superficial reflux.
+:::
+
+------------------------------------------------------------------------
+
+## Introduction
+
+Chronic venous disease (CVD) is one of the most common chronic diseases in the United States. The more common manifestations of venous disease are [telangiectasia](https://ufhealth.org/assets/adam/2998.jpg), reticular veins, and [varicose veins](https://dermnetnz.org/assets/Uploads/varicose-veins-01__WatermarkedWyJXYXRlcm1hcmtlZCJd.JPG). Chronic venous insufficiency (CVI) is a term reserved for advanced chronic venous disease from functional abnormalities of the venous system, commonly manifesting with hyperpigmentation, edema, [lipodermatosclerosis](https://dermnetnz.org/assets/Uploads/vascular/s/lds2__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpg), and venous ulcers. Common risk factors for CVI include family history of venous disease, increasing age, smoking, obesity, prolonged standing or sitting, history of venous thrombosis, pregnancy, history of lower extremity trauma, and surgery.
+
+Venous disease is increasing in prevalence largely due to the aging global population. In the United States, more than 25 million adults (25% of women and 15% of men) are affected by CVD with a disproportionately greater incidence and prevalence reported amongst women at any age (Azar et al., 2022; Kim et al., 2021). Approximately 1% - 4% of the adult population (2.6% in women and 1.9% in men) is affected by more advanced stages of the disease including chronic, non-healing venous ulcers (Markovic & Shortell, 2023).
+
+Socioeconomic factors also play a role in disease incidence and progression; patients without health insurance are 2.6 times more likely to have venous ulcers compared to insured patients (Scott et al., 1995). Furthermore, disadvantaged populations have increased rates of recurrent ulceration as well as delayed healing times. This is explained in part by the high cost of treatment for patients with CVI, though delayed treatment of advanced disease ultimately results in a greater overall cost burden (Kim et al., 2021).
+
+When CVI progresses to its advanced stages and wounds develop it can negatively impact a patient's quality of life. It also creates an economic burden to society; not only are the direct healthcare costs high, but the severe symptoms and wounds from CVI can affect one's ability to contribute to the workforce. A review from 2019 estimated the global market for the treatment of varicose veins alone will increase by approximately 35% in 2021 when compared to 2016, increasing from \$290.59 million to \$396 million (Davies, 2019). Meanwhile, the management of venous ulcers in the United States has an estimated annual healthcare cost between \$1.9 and \$3 billion, with the greatest cost burden on the Medicare system (Markovic & Shortell, 2023).
+
+Venous disease represents a unique challenge to our healthcare system, negatively affecting the quality of life and overall health of a large portion of the population. Recognizing the early signs of CVD and implementing timely interventions can drastically improve patient outcomes. Therefore, it is of the utmost importance that physicians and healthcare providers in all specialties are familiar with venous disease, so that it can be recognized and treated in its earlier stages.
+
+------------------------------------------------------------------------
+
+## Etiology
+
+The peripheral venous system uses valves within the veins to prevent retrograde flow. Skeletal muscle contractions serve to pump blood forward, allowing travel against gravity and return to the heart. Patent veins, functioning valves, and muscle pumps are necessary for the venous system to operate properly.
+
+The [veins of the lower extremities](https://legacyclinic.com/wp-content/uploads/2023/06/1.01-600x424-BendMarketing-AMM-162764-2048x1448.jpg) are classified as superficial (above the muscular fascia), deep (below the muscular fascia), and perforating veins (penetrating the muscular fascia). The [superficial venous system](https://cdn.amegroups.cn/journals/amepc/files/journals/2/articles/12745/public/12745-PB3-R1.png?x-oss-process=image/resize,p_60&v=1714927225768) drains the cutaneous microcirculation and consists of the great saphenous vein (GSV) and small saphenous vein (SSV), collectively known as "truncal veins", in addition to several other accessory veins. [Deep veins](https://teachmeanatomy.info/wp-content/uploads/Overview-of-the-Deep-Veins-of-the-Lower-Limb.jpg) follow the course of corresponding arteries and consist of the plantar, tibial, popliteal, femoral, deep femoral, and common femoral veins. Perforating veins cross the fascial layer, connecting superficial and deep veins. Throughout the deep and superficial veins are several one-way valves that help blood travel toward the heart while preventing it from returning to the feet (Meissner, 2005).
+
+CVD results from functional abnormalities of the venous system that cause elevated venous pressure, also known as venous hypertension. Valvular incompetence, thrombotic obstruction, or extrinsic compression can all impede blood return and cause venous hypertension. Dysfunctional calf muscle pumps can also exacerbate the problem. Persistent venous hypertension can result in insufficiency and subsequent inflammation leading to edema, hyperpigmentation of the skin, subcutaneous tissue fibrosis (known as lipodermatosclerosis), and eventually, ulceration.
+
+Incompetence of the valves in the superficial venous system allows for [retrograde flow](https://stamfordphysicalmed.com/wp-content/uploads/2019/04/Vericose-Vein.png) of blood, which is called "reflux." Failure of valves located at the junctions of the deep and superficial systems can be a source of reflux leading to CVI. For example, the great saphenous vein (GSV) drains into the femoral vein at the [saphenofemoral junction](https://onlinelibrary.wiley.com/cms/asset/2fb938c9-392a-44a5-a473-aca89633cf39/ca22386-fig-0002-m.png); a valve lies at this junction in 94% to 100% of individuals, and this is the most common site for clinically significant reflux (Moore, 2018). Obstruction of the deep venous system also limits the outflow of blood resulting from an intrinsic process such as deep vein thrombosis (DVT) or due to extrinsic compression. Deep venous outflow obstruction significantly contributes to the pathogenesis of secondary CVD and has a more rapid progression of the disease with a high rate of the development of ulcers (Eberhardt & Raffetto, 2014).
+
+*Differential Diagnosis for Leg Swelling With or Without Pain*
+
+| Category           | Condition                                   | Key Features                                                                     | Comments                                                                                           |
+|--------------|--------------|--------------------|-------------------------|
+| Vascular           | Chronic Venous Insufficiency (CVI)          | Edema, skin changes (hemosiderin staining, lipodermatosclerosis), varicose veins | Symptoms worsen with standing, relieved by elevation; aching may be present                        |
+|                    | Deep Vein Thrombosis (DVT)                  | Unilateral swelling, pain, warmth, erythema                                      | Requires urgent evaluation due to risk of pulmonary embolism                                       |
+|                    | Lymphedema                                  | Non-pitting edema, often unilateral, thickened skin                              | Often painless, may have history of trauma, infection, or malignancy                               |
+|                    | Superficial Thrombophlebitis                | Painful, red, cord-like structure along vein                                     | Less severe than DVT; commonly occurs in varicose veins                                            |
+| Cardiac            | Congestive Heart Failure (CHF)              | Bilateral pitting edema, worse in the evening, dyspnea                           | Often associated with other signs of heart failure (e.g., orthopnea, paroxysmal nocturnal dyspnea) |
+| Renal              | Nephrotic Syndrome                          | Bilateral pitting edema, frothy urine, facial swelling                           | May present with proteinuria, hypoalbuminemia                                                      |
+| Hepatic            | Cirrhosis                                   | Bilateral edema, ascites, jaundice                                               | Portal hypertension leads to edema; may have history of liver disease                              |
+| Endocrine          | Hypothyroidism                              | Bilateral non-pitting edema, dry skin, hair loss                                 | Often with fatigue, cold intolerance, weight gain                                                  |
+| Musculoskeletal    | Chronic Exertional Compartment Syndrome     | Pain and swelling with exercise, relieved by rest                                | Typically bilateral, associated with physical activity                                             |
+|                    | Infection (Cellulitis, Abscess)             | Unilateral swelling, erythema, warmth, tenderness                                | Fever and localized signs of infection                                                             |
+|                    | Trauma (Sprain, Fracture, Hematoma)         | Swelling, pain, bruising, decreased range of motion                              | History of injury; localized swelling                                                              |
+| Malignancy         | Lymphoma or Other Cancers                   | Painless swelling, often unilateral, systemic symptoms                           | May have "B" symptoms (fever, night sweats, weight loss); consider metastasis in older adults      |
+| Medication-Induced | Calcium Channel Blockers (e.g., Amlodipine) | Bilateral swelling, more prominent in lower legs                                 | Medication history important; often no associated pain                                             |
+|                    | NSAIDs, Steroids, etc.                      | Bilateral or unilateral swelling, typically without significant pain             | Common side effect of various medications                                                          |
+| Pregnancy-Related  | Pre-eclampsia                               | Bilateral swelling, headache, visual changes, hypertension                       | Requires urgent evaluation; occurs after 20 weeks of pregnancy                                     |
+|                    | Normal Pregnancy                            | Mild bilateral swelling, worse at end of day                                     | Common in late pregnancy due to increased blood volume and pressure on pelvic veins                |
+
+------------------------------------------------------------------------
+
+## Diagnostics and Imaging
+
+The diagnosis of CVD is suggested by the presence of typical symptoms (aching, throbbing, fatigue, heaviness) and physical examination findings (varicose veins, edema, skin changes, and ulceration). Duplex ultrasound is the initial diagnostic study to evaluate for CVD. It aims to detect the presence of venous obstruction or venous reflux. It is reproducible, noninvasive, and inexpensive; it has largely replaced venography as the initial diagnostic imaging modality for CVD.
+
+Venous duplex ultrasound should be performed for patients with significant symptoms and exam findings suggestive of venous obstruction or reflux, lower extremity ulcers, history of DVT presenting with persistent lower extremity symptoms (swelling, heaviness, pain), and for patients where the cause of leg swelling is undetermined. Venous duplex ultrasound is also helpful for planning interventions. Understanding the distribution and severity of venous reflux is essential. Given CVD can present with variable symptoms and signs, a standardized clinical classification system for diagnosing CVD is critical to understanding the natural history of the disease and how to best treat it. The Clinical-Etiology-Anatomy-Pathophysiology (CEAP) classification system (Fig. 1) is used to determine the complexity of the clinical manifestations of CVD, providing a reliable and reproducible classification system to describe the patient's current status. While CVD encompasses the full spectrum of abnormalities of the venous system, the designation of CVI is reserved for advanced venous disease-producing edema, skin changes, or venous ulcers (C3-C6) (Eklof et al., 2009; Lurie et al., 2020).
+
+| Clinical Signs (C)                                           | Etiology (E)                   | Anatomy (A)                       | Pathophysiology (P)                            |
+|-----------------------|----------------|----------------|-----------------|
+| C0: No visible signs of venous disease                       | Ec: Congenital                 | As: Superficial                   | Pr: Reflux                                     |
+| C1: Telangiectasias or reticular veins                       | Ep: Primary                    | Ad: Deep                          | Po: Obstruction                                |
+| C2: Varicose veins                                           | Es: Secondary                  | Ap: Perforator                    | Pr,o: Reflux and Obstruction                   |
+| C3: Edema                                                    | En: No venous cause identified | An: No venous location identified | Pn: No pathophysiologic dysfunction identified |
+| C4: Changes in skin and subcutaneous tissue secondary to CVD |                                |                                   |                                                |
+| C4a: Pigmentation or eczema                                  |                                |                                   |                                                |
+| C4b: Lipodermatosclerosis or atrophie blanche                |                                |                                   |                                                |
+| C4c: Corona phlebectatica                                    |                                |                                   |                                                |
+| C5: Healed venous ulcer                                      |                                |                                   |                                                |
+| C6: Active venous ulcer                                      |                                |                                   |                                                |
+| C6r: Recurrent active venous ulcer                           |                                |                                   |                                                |
+
+Fig. 1: *CEAP Classification of Venous Disorders*
+
+While the CEAP classification system is the global standard for describing clinical features of CVD, it is not sensitive to changes in disease over time and thus is a poor prognosticator of progression and treatment outcomes. In response, the Venous Clinical Severity Score (VCSS) (Fig. 2) was formulated as a complementary evaluative instrument based on ten categories graded on a scale of 0 to 3 for a final total score between 0 and 30 (Vasquez et al., 2010).
+
+| Descriptor          | Absent (0)    | Mild (1)              | Moderate (2)           | Severe (3)                 |
+|---------------|---------------|---------------|---------------|---------------|
+| Pain                | None          | Occasional            | Daily not limiting     | Daily limiting             |
+| Varicose veins      | None          | Few                   | Calf or thigh          | Calf and thigh             |
+| Venous edema        | None          | Foot and ankle        | Below knee             | Knee and above             |
+| Skin pigmentation   | None or focal | Limited perimalleolar | Diffuse lower 1/3 calf | Wider above lower 1/3 calf |
+| Inflammation        | None          | Limited perimalleolar | Diffuse lower 1/3 calf | Wider above lower 1/3 calf |
+| Induration          | None          | Limited perimalleolar | Diffuse lower 1/3 calf | Wider above lower 1/3 calf |
+| No. active ulcer    | None          | 1                     | 2                      | ≥3                         |
+| Ulcer duration      | None          | \< 3 mo               | 3-12 mo                | \> 1 y                     |
+| Ulcer diameter      | None          | \< 2 cm               | 2-6 cm                 | \> 6 cm                    |
+| Compression therapy | Not used      | Intermittent          | Most days              | Full compliance            |
+
+## Fig. 2: *Revised Venous Clinical Severity Score (VCSS)*
+
+## Treatment
+
+Management of CVD requires an individualized approach which may include conservative, pharmacological, and/or interventional therapies. Surgical intervention for CVI focuses on treating refluxing axial veins and correcting the underlying chronic venous hypertension. Management decisions (Fig. 3) are guided according to a thorough evaluation of CEAP classification (e.g., varicose veins or CVI), source of reflux (superficial, deep, and/or perforator), vessel anatomy, and baseline candidacy for surgical intervention (Azar et al., 2022).
+
+| CEAP classification           | Recommended therapy                                                         |
+|---------------------|---------------------------------------------------|
+| Asymptomatic C1               | Conservative                                                                |
+| Symptomatic C1                | Conservative and/or sclerotherapy                                           |
+| Symptomatic C2-C6 with reflux | Superficial venous ablation, phlebectomy, or vein stripping and/or ligation |
+
+Fig. 3: *Therapy recommendations based on CEAP classification score*
+
+### Conservative Management
+
+Initial therapy for the majority of patients with CVD is conservative treatment with compression and leg elevation. Compression therapy includes elastic stockings or wraps or pneumatic compression devices. Typically, 20-30 mmHg compression is used to treat symptomatic varicose veins, although higher levels can be used in patients with more advanced disease. Graduated compression stockings oppose tissue expansion during muscle contraction, narrowing the superficial veins' diameters, subsequently decreasing venous reflux and venous hypertension, which are two key elements in the pathophysiology of CVD (Gloviczki et al., 2024).
+
+Although compression stockings provide symptomatic relief for patients with varicose veins, a systematic review from 2009 found there is no evidence for prevention of recurrence or cessation of disease progression (Palfreyman & Michaels, 2009). The Society for Vascular Surgery, the American Venous Forum, and the American Vein and Lymphatic 2023 clinical practice guidelines for the management of varicose veins of the lower extremities recommends against a 3 month trial of compression therapy prior to intervention for patients with symptomatic varicose veins who are candidates for surgical intervention (Gloviczki et al., 2024).
+
+Despite the lack of evidence supporting the long term efficacy of compression therapy, insurance companies and the Centers for Medicare and Medicaid Services frequently require a 3 month trial of compression stockings before surgical intervention for C2 disease (Gloviczki et al., 2024).
+
+### Endovenous & Surgical Interventions
+
+![Fig. 4: :Endovenous and surgical interventions for superficial and deep vein pathology:](images/venousalgo.jpg){fig-align="center" width="100%"} While conservative treatment is often offered as an initial step, it does not address the underlying pathology. Patients with symptomatic superficial reflux who are candidates for endovenous or surgical intervention should be offered early corrective therapy (Azar et al., 2022). Surgical treatment of varicose veins or CVI due to superficial venous incompetence is accomplished by removing, ablating, or ligating the venous segment with reflux. Current options include but are not limited to the following: endovenous thermal ablation, chemical ablation, high ligation, ligation and stripping, phlebectomy, and sclerotherapy (Figs. 4, 5). The majority of these procedures are performed in a minimally invasive fashion under local anesthesia with or without sedation. For more invasive surgical interventions, general anesthesia may be utilized.
+
+| Endovenous Intervention                          | Vessel(s) Treated                                                                                          |
+|------------------------|------------------------------------------------|
+| Thermal ablation (RFA, EVLA)                     | Saphenous vein trunks, perforator veins                                                                    |
+| Chemical ablation (foam sclerosants)             | Saphenous vein trunks/tributaries, perforator veins, varicose veins not connected to saphenous vein trunks |
+| Mechanochemical ablation (MOCA) Adhesive closure | Saphenous vein trunks                                                                                      |
+| Visual/Surface sclerotherapy                     | Varicose veins, reticular veins, telangiectasias                                                           |
+| Angioplasty/stenting                             | Deep veins                                                                                                 |
+
+Fig. 5: *Vessel-specific endovenous treatment modalities*
+
+#### Endovenous Ablation
+
+Endovenous ablation is a minimally invasive procedure recommended for patients with ongoing symptoms of CVD with superficial venous reflux (Sadek & Kabnick, 2023). Ablation is performed in an outpatient setting under local anesthesia using a variety of techniques including thermal, chemical, or mechanical methods to occlude the vessel and prevent retrograde flow. By reducing venous flow volumes, endovenous ablation treats underlying venous hypertension, thereby reducing the risk of harm to the cutaneous tissues which may result in edema, hyperpigmentation, lipodermatosclerosis, and ulceration (Hager et al., 2016).
+
+Endovenous treatments for varicose veins emerged as an alternative to open surgery and are now the standard of care due to improved safety and efficacy (Rautio et al., 2002). The most widespread technologies used for the treatment of truncal vein reflux are radiofrequency ablation (RFA) and endovenous laser ablation (EVLA). Both techniques utilize [heat to induce closure](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-319-91164-9_63/MediaObjects/447456_1_En_63_Fig3_HTML.png) of the dysfunctional veins. RFA works by delivering radiofrequency energy, heating the vein wall to cause destruction of the endothelium, contraction of vein wall collagen, thrombus formation, and eventual fibrosis of the vein resulting in a durable ablation (Weiss et al., 2001). The radiofrequency ablation (RFA) catheter should be placed 2 cm from the saphenofemoral junction (SFJ) so as to prevent endothermal heat-induced thrombosis ([EHIT](https://www.researchgate.net/publication/323791212/figure/fig1/AS:618764257226758@1524536303586/Endovenous-heat-induced-thrombosis-EHIT-classification-Class-1-Venous-thrombosis-to.png)). Similarly, EVLA delivers laser energy to an area, resulting ultimately in fibrosis and occlusion of the target vein (Perrin, 2005).
+
+Non-thermal non-tumescent (NTNT) ablation methods offer alternatives to heat-based vein treatments, employing techniques such as mechanochemical ablation (MOCA), cyanoacrylate adhesive, and sclerosant foams. MOCA combines mechanical damage with the direct injection of a sclerosant to close the vein, enhancing the effectiveness of the chemical agent (Boersma et al., 2014). Cyanoacrylate adhesive, injected directly into the vein, promotes vessel closure through inflammation and subsequent fibrotic occlusion. For larger vessels, chemical ablation via ultrasound-guided delivery of foam sclerosants like polidocanol and sodium tetradecyl sulfate (STS) is preferred (Bootun et al., 2018).
+
+#### High Ligation & Stripping
+
+Though minimally invasive endovenous methods are associated with reduced convalescence, recurrence, and morbidity compared to open surgery, great saphenous vein (GSV) ligation with or without stripping may be chosen for patients with reflux and varicose veins in the GSV distribution where ablation is not an option (Gloviczki et al., 2024). High ligation of the GSV is accomplished via an oblique incision below the groin crease, centered over the SFJ which can be located and marked using duplex ultrasound. The GSV and its six main tributaries near its termination are circumferentially dissected and ligated. It is crucial to perform ligation of the GSV close to the femoral vein without impinging on and thus narrowing the femoral vein. Care must also be taken to not leave a long stump proximally because this increases the risk of venous thromboembolism.
+
+Recurrence rates are reduced when GSV stripping is performed in addition to high ligation (HL&S) versus high ligation alone (Iafrati, 2023). After the GSV is ligated at the SFJ, a vein stripper is passed distally and a second incision is made near the knee. The GSV is then tied to the stripper and both the stripper and the vein are drawn out through the distal incision, stripping in a downward direction, avulsing its tributaries and removing it from circulation. Top-down passage of the stripper minimizes the potential for saphenous nerve injury as well as unintentional passage of the stripper into the femoral vein through a thigh perforator (Iafrati, 2023).
+
+#### Stab Phlebectomy
+
+Stab phlebectomy, also known as ambulatory phlebectomy, is a technique used to remove residual superficial varicosities following endovenous ablation or high ligation and stripping (HLS) of the great saphenous vein (GSV) or small saphenous vein (SSV). These residual varicosities, if not addressed, can continue to drain via alternative pathways, remaining both symptomatic and cosmetically displeasing. The procedure involves making small 1-3 mm incisions through which [varicose veins are hooked, extracted, and removed](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-4939-1326-8_12/MediaObjects/302544_1_En_12_Fig9_HTML.gif). This method has largely replaced older techniques that left larger scars, as these smaller incisions typically heal with minimal scarring and do not usually require sutures. The phlebectomy not only improves aesthetic outcomes but also helps alleviate symptoms by removing venous pressure from untreated tributaries (Iafrati, 2023).
+
+#### Sclerotherapy
+
+[Injection sclerotherapy](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/6763-sclerotherapy) is a minimally invasive percutaneous technique that uses chemical irritants to close unwanted superficial veins. Primarily employed in the treatment of telangiectasias, reticular veins, and small nonaxial varicose veins less than 6 mm in diameter, sclerotherapy can address both symptomatic and asymptomatic veins. This method involves injecting a sclerosant that damages the endothelial lining of the vein, leading to thrombosis and subsequent fibrosis, effectively eliminating the vein. While liquid sclerotherapy is typically used for smaller veins, larger varicosities may require foam sclerotherapy, which uses a foam-like consistency to enhance contact with the vein wall (Azar et al., 2022; Iafrati, 2023).
+
+#### Interventions for Deep Venous Insufficiency: Stenting, Venoplasty, and Valvular Reconstruction
+
+Due to increased risks and technical challenges associated with the treatment of deep venous reflux, treatment is typically reserved for patients with ulcer recurrence refractory to therapies targeting superficial/perforator insufficiency (Dalsing et al., 2023). CEAP C4-C6 patients without superficial truncal reflux or those whose superficial treatment has failed may be offered stenting to correct deep venous obstruction.
+
+liac and inferior vena cava (IVC) stenting remains somewhat controversial and is typically reserved for a specific subset of patients who are most likely to benefit from the procedure. These patients often include those with significant venous outflow obstruction, such as those suffering from May-Thurner syndrome, chronic venous insufficiency, or post-thrombotic syndrome that has not responded adequately to conservative treatments. It is now recognized that asymptomatic venous obstruction is far more common than previously thought, and there remains debate about which patients are suitable candidates for iliocaval stenting. In appropriately selected patients, iliocaval stenting can provide symptomatic relief with long-term patency rates \>70% and relatively low DVT risk. [@hwang2020]
+
+Patients with deep venous reflux due to congenital, primary, or secondary (post-thrombotic syndrome following DVT) valvular incompetence may be candidates for valvular reconstruction if symptoms recur following attempted conservative and/or endovenous therapies for superficial reflux. These patients usually have class C4b to C6 disease or disabling signs and symptoms such as severe edema (C3) (Dalsing et al., 2023). Treatment options focus on either correcting the anatomical defect of the incompetent valve via [internal valvuloplasty](https://ars.els-cdn.com/content/image/1-s2.0-S1078588411000827-gr6.jpg)/[external valvuloplasty](https://ars.els-cdn.com/content/image/1-s2.0-S1078588411000827-gr7.jpg), or by replacing the architecture via [valve transposition](https://ars.els-cdn.com/content/image/1-s2.0-S1078588411000827-gr8.jpg) or [vein transplantation](https://ars.els-cdn.com/content/image/1-s2.0-S1078588411000827-gr10.jpg) (Maleti & Perrin, 2011). Most recently, promising results from the [SAVVE trial](https://evtoday.com/news/envvenos-venovalve-savve-trial-topline-efficacy-data-presented) studying the use of a novel synthetic neovalve (VenoValve) represent an additional treatment modality for chronic venous insufficiency.
+
+------------------------------------------------------------------------
+
+## Outcomes & Surveillance
+
+
+### Compression Therapy vs. Surgical Intervention
+
+-   For patients with severe varicose veins (C2), surgical treatment (HL&S, phlebectomy) was associated with significant improvements to QoL, symptom relief, and patient satisfaction as compared to conservative treatment (lifestyle modification, leg elevation, and/or compression stockings) (Michaels et al., 2006).
+-   In a randomized trial comparing compression to surgical stripping of the GSV in patients with C2-C3 venous disease, VCSS decreased from 4.6 to 3.5 in the compression group (P <0.01) and from 4.8 to 0.6 in the surgery group (P <0.001) (Sell et al., 2014). Therefore, the Society for Vascular Surgery recommends against a three-month trial of conservative therapy prior to intervention for patients with C2 and C3 disease (Gloviczki et al., 2024). 
+-   In the landmark [ESCHAR trial](https://pubmed.ncbi.nlm.nih.gov/15183623/), patients with C5-C6 disease randomized to HL&S and compression as compared to compression alone were found to have no significant differences in ulcer healing time (89% for the compression group and 93% for the compression plus surgery group at three years) but significantly lower rates of ulcer recurrence (56% for the compression group and 31% for the compression plus surgery group at 4 years, P < 0.01). 
+
+### Endovenous Treatment of Saphenous Reflux
+
+-   Both EVLA and RFA are considered first-line therapies for the treatment of symptomatic saphenous reflux and are preferred over open surgery due to decreased postoperative morbidity and reduced convalescence time (Gloviczki et al., 2024; Sadek & Kabnick, 2023).
+-   A meta-analysis of 64 studies comparing RFA, EVLA, foam therapy, or surgery for the treatment of truncal veins demonstrated higher success rates for RFA and EVLA (84% and 94%) as compared to surgery and foam sclerotherapy (78% and 77%) after 3 years (van den Bos et al., 2009).
+-   Patients with varicosities, enlarged reticular veins, or telangiectasias in addition to saphenous reflux benefit from simultaneous treatment with EVLA/RFA and ambulatory phlebectomy as opposed to staged treatment with improvement in early disease severity and QoL scores (Aherne et al., 2020).
+-   Duplex ultrasound follow-up examination is recommended between 3-7 days following the procedure to assess for successful ablation as well as [endothermal heat-induced thrombosis](https://ars.els-cdn.com/content/image/1-s2.0-S2213333X12000108-gr2.jpg) (extension of proximal thrombus into deep system) (Sadek & Kabnick, 2023). EHIT may be treated with anticoagulants depending on the degree of extension (Kabnick et al., 2021).
+
+### Disease Progression & Recurrence
+
+-   The [EVRA trial](https://www.nejm.org/doi/full/10.1056/NEJMoa1801214) demonstrates that patients who receive early endovenous ablation of superficial venous reflux with compression had shorter ulcer healing times (56 vs 82 days) as opposed to patients with compression therapy alone and deferred intervention (6 months) (Gohel Manjit S. et al., 2018).
+-   Patients receiving open or endovenous treatment of C2-C6 disease experience varicose vein recurrence rates of up to 35% at two-year follow-up and 65% at 11 years follow up (Wittens et al., 2015). The majority of recurrent varicose veins are due to disease progression (development of venous reflux).
+-   Long-term surveillance typically includes venous duplex ultrasound imaging, hemodynamic assessment, and reclassification by the CEAP/VCSS criteria.
+
+------------------------------------------------------------------------
+
+## Surveillance
+
+Typical postoperative monitoring includes, at minimum, a CTA at 1 month and annually thereafter. If an endoleak, graft migration, or other unexpected finding is present at the 1-month scan, a 6-month CTA should be added. Reintervention rates vary greatly between institutions, partially due to the ongoing debate of when to repair versus observe endoleaks (e.g., namely small-to-moderate sized type II endoleaks) and the use of "off the shelf" versus custom endografts. More long-term data is needed to understand the safety of screening intervals greater than 1 year.[@upchurch2021]
+
+Similar follow-up typically occurs early in the postoperative course after open surgical repair. However discrete guidelines such as those following TEVAR (above) are not available. Typical follow-up regimens are practice-specific and decisions are often made on a case-by-case basis.
+
+------------------------------------------------------------------------
+
+## Teaching Case
+
+### Scenario
+
+Mr. C.V.D is a 62-year-old male presenting to the vascular clinic with complaints of bilateral leg swelling, pain, and skin changes over the past year. He describes aching pain that worsens with prolonged standing and improves with leg elevation. He denies any recent trauma or surgery to his lower extremities. He reports a history of occasional night cramps in his calves and states that his symptoms have progressively worsened despite using over-the-counter pain relievers intermittently.
+
+**PMHx:** Significant for hypertension, hyperlipidemia, and type 2 diabetes mellitus. He underwent coronary artery bypass grafting (CABG) surgery 7 years ago and takes aspirin 81 mg daily for cardiovascular protection. His diabetes is managed with metformin 1000 mg twice daily.
+
+**PSHx:** He is a retired school teacher and leads a sedentary lifestyle. He does not smoke and consumes alcohol occasionally. He lives with his wife who helps him manage his medications and activities of daily living.
+
+**FHx:** There is a family history of venous thromboembolism (VTE) on his father's side, but no history of chronic venous disease.
+
+### Exam
+
+Vitals: Blood pressure 138/82 mmHg, heart rate 72 bpm, respiratory rate 16 breaths/min, temperature 98.6°F (37°C).
+
+**General:** Appears well-nourished and in no acute distress.
+
+**Cardiac:** Regular rate and rhythm (RRR), clear S1 and S2, no murmurs.
+
+**Pulmonary:** Clear to auscultation bilaterally, no increased work of breathing.
+
+**Abdominal:** Soft, non-distended (ND), non-tender (NT), no palpable masses.
+
+**Vascular/Extremities:**
+
+-   Inspection: Bilateral pitting edema extending from mid-calf to ankles. Skin changes noted with hyperpigmentation, hemosiderin deposits, and mild venous eczema.
+-   Palpation: Mild tenderness over the posterior medial aspect of the left calf. No warmth or cords appreciated.
+-   Peripheral pulses: Palpable dorsalis pedis and posterior tibial pulses bilaterally.
+-   Neurological: Intact sensation and 2+ strength throughout lower extremities.
+
+### Laboratory Findings:
+
+-   Complete Blood Count (CBC): Within normal limits.
+-   Comprehensive Metabolic Panel (CMP): Normal renal and hepatic function.
+-   Hemoglobin A1c: 6.7% (consistent with his known diabetes).
+-   D-dimer: Elevated at 600 ng/mL (normal < 500 ng/mL), suggesting ongoing low-grade thrombotic activity or venous insufficiency.
+
+### Imaging
+
+**Bilateral Venous Duplex Ultrasound**
+
+Impression: 
+-   Findings reveal bilateral superficial venous reflux in the great saphenous veins (GSVs) with retrograde flow into the femoral vein.
+-   Deep venous system is patent with no evidence of acute or chronic deep vein thrombosis (DVT).
+-   Perforator veins are dilated and incompetent bilaterally.
+
+### Discussion Points
+
+::: callout-note
+## N.B. There is no prepared answers for the questions below.
+
+However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
+:::
+
+1.    Based on the patient's history and physical examination findings, what are the key diagnostic criteria for chronic venous disease (CVD) in this case?
+
+2.    Describe the pathophysiology of chronic venous insufficiency (CVI) and how it leads to the clinical manifestations observed in this patient.
+
+3.    What are the advantages of using the CEAP classification system in clinical practice? How does it help in categorizing and managing patients with chronic venous disease?
+
+4.    Discuss the role of duplex ultrasound in the diagnosis and management of chronic venous disease. What information does it provide that is crucial for treatment planning in this case?
+
+5.    What conservative measures would you recommend for this patient to manage symptoms and prevent disease progression? How would you tailor these recommendations based on the severity of their symptoms?
+
+6.    Explain the rationale behind using compression therapy in the management of chronic venous disease. What are the different types of compression therapies available, and how would you decide the appropriate regimen for this patient?
+
+7.    What are the indications for considering pharmacological interventions in patients with chronic venous disease? Which specific medications might be considered, and how do they work to improve symptoms?
+
+8.    Discuss the potential complications associated with chronic venous disease, particularly in this patient with advanced symptoms. How would you monitor and manage these complications to optimize long-term outcomes?
+
+9.    Describe the principles and techniques involved in endovenous ablation procedures for treating superficial venous reflux. How do these procedures compare to traditional surgical approaches?
+
+10.   What are the key elements of a comprehensive management plan for this patient, considering both short-term symptom relief and long-term prevention of complications?
+
+------------------------------------------------------------------------
+
+## Key Articles
+
+
+
+------------------------------------------------------------------------
+
+## Additional Resources
+
+### Audible Bleeding Content
+
+-   Audible Bleeding Exam Prep: [Venous Disease](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/venous-disease.html)- -   Rouleaux Club Exam Prep - [Venous Disease](https://www.audiblebleeding.com/rouleaux-venous/)
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/21303671/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
+
+</iframe>
+------------------------------------------------------------------------
+
+### Websites
+
+-   TeachMe Surgery: [Varicose Veins](https://teachmesurgery.com/vascular/venous/varicose-veins/)
+-   TeachMe Surgery: [Deep Venous Insufficiency](https://teachmesurgery.com/vascular/venous/deep-venous-insufficiency/)
+
+------------------------------------------------------------------------
+
+### Gore Combat Manual
+
+The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
+
+::: callout-tip
+Please see pages 165-175.
+:::
+
+------------------------------------------------------------------------
+
+### Operative Footage
+
+Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.* Please create and/or log in to your YouTube account to have access to the videos.
+
+#### Endovenous Ablation
+
+
+#### High Ligation & Stripping
+
+#### Stab Phlebectomy
+
+#### Sclerotherapy
+
+#### Interventions for Deep Venous Insufficiency: Stenting, Venoplasty, and Valvular Reconstruction 
+
+<!-- Google tag (gtag.js) -->
+
+```{=html}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WS28VX4802"></script>
+```
+```{=html}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WS28VX4802');
+</script>
+```
