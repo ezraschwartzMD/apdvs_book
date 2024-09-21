@@ -200,7 +200,7 @@ Incompetence of the valves in the superficial venous system allows for [retrogra
 *Differential Diagnosis for Leg Swelling With or Without Pain*
 
 | Category           | Condition                                   | Key Features                                                                     | Comments                                                                                           |
-|------------------|------------------|------------------|--------------------|
+|------------------|------------------|------------------|-------------------|
 | Vascular           | Chronic Venous Insufficiency (CVI)          | Edema, skin changes (hemosiderin staining, lipodermatosclerosis), varicose veins | Symptoms worsen with standing, relieved by elevation; aching may be present                        |
 |                    | Deep Vein Thrombosis (DVT)                  | Unilateral swelling, pain, warmth, erythema                                      | Requires urgent evaluation due to risk of pulmonary embolism                                       |
 |                    | Lymphedema                                  | Non-pitting edema, often unilateral, thickened skin                              | Often painless, may have history of trauma, infection, or malignancy                               |
@@ -227,7 +227,7 @@ The diagnosis of CVD is suggested by the presence of typical symptoms (aching, t
 Venous duplex ultrasound should be performed for patients with significant symptoms and exam findings suggestive of venous obstruction or reflux, lower extremity ulcers, history of DVT presenting with persistent lower extremity symptoms (swelling, heaviness, pain), and for patients where the cause of leg swelling is undetermined. Venous duplex ultrasound is also helpful for planning interventions. Understanding the distribution and severity of venous reflux is essential. Given CVD can present with variable symptoms and signs, a standardized clinical classification system for diagnosing CVD is critical to understanding the natural history of the disease and how to best treat it. The Clinical-Etiology-Anatomy-Pathophysiology (CEAP) classification system (Fig. 1) is used to determine the complexity of the clinical manifestations of CVD, providing a reliable and reproducible classification system to describe the patient's current status. While CVD encompasses the full spectrum of abnormalities of the venous system, the designation of CVI is reserved for advanced venous disease-producing edema, skin changes, or venous ulcers (C3-C6) [@eklof2009][@lurie2020].
 
 | Clinical Signs (C)                                           | Etiology (E)                   | Anatomy (A)                       | Pathophysiology (P)                            |
-|--------------------|------------------|------------------|------------------|
+|-------------------|------------------|------------------|------------------|
 | C0: No visible signs of venous disease                       | Ec: Congenital                 | As: Superficial                   | Pr: Reflux                                     |
 | C1: Telangiectasias or reticular veins                       | Ep: Primary                    | Ad: Deep                          | Po: Obstruction                                |
 | C2: Varicose veins                                           | Es: Secondary                  | Ap: Perforator                    | Pr,o: Reflux and Obstruction                   |
@@ -264,7 +264,7 @@ While the CEAP classification system is the global standard for describing clini
 Management of CVD requires an individualized approach which may include conservative, pharmacological, and/or interventional therapies. Surgical intervention for CVI focuses on treating refluxing axial veins and correcting the underlying chronic venous hypertension. Management decisions (Fig. 3) are guided according to a thorough evaluation of CEAP classification (e.g., varicose veins or CVI), source of reflux (superficial, deep, and/or perforator), vessel anatomy, and baseline candidacy for surgical intervention [@azar2022a].
 
 | CEAP classification           | Recommended therapy                                                         |
-|------------------------|------------------------------------------------|
+|-------------------------|-----------------------------------------------|
 | Asymptomatic C1               | Conservative                                                                |
 | Symptomatic C1                | Conservative and/or sclerotherapy                                           |
 | Symptomatic C2-C6 with reflux | Superficial venous ablation, phlebectomy, or vein stripping and/or ligation |
@@ -284,7 +284,7 @@ Despite the lack of evidence supporting the long term efficacy of compression th
 ![Fig. 4: :Endovenous and surgical interventions for superficial and deep vein pathology:](images/venousalgo.jpg){fig-align="center" width="100%"} While conservative treatment is often offered as an initial step, it does not address the underlying pathology. Patients with symptomatic superficial reflux who are candidates for endovenous or surgical intervention should be offered early corrective therapy [@azar2022a]. Surgical treatment of varicose veins or CVI due to superficial venous incompetence is accomplished by removing, ablating, or ligating the venous segment with reflux. Current options include but are not limited to the following: endovenous thermal ablation, chemical ablation, high ligation, ligation and stripping, phlebectomy, and sclerotherapy (Figs. 4, 5). The majority of these procedures are performed in a minimally invasive fashion under local anesthesia with or without sedation. For more invasive surgical interventions, general anesthesia may be utilized.
 
 | Endovenous Intervention                          | Vessel(s) Treated                                                                                          |
-|-------------------------|----------------------------------------------|
+|--------------------------|----------------------------------------------|
 | Thermal ablation (RFA, EVLA)                     | Saphenous vein trunks, perforator veins                                                                    |
 | Chemical ablation (foam sclerosants)             | Saphenous vein trunks/tributaries, perforator veins, varicose veins not connected to saphenous vein trunks |
 | Mechanochemical ablation (MOCA) Adhesive closure | Saphenous vein trunks                                                                                      |
@@ -426,67 +426,67 @@ However, we feel this chapter contains all the necessary information to answer t
 
 KEY ARTICLES
 
-1.  Aherne, T., Ryan, É., Boland, M., McKevitt, K., Hassanin, A., Tubassam, M., Tang, T. Y., & Walsh, S. (2020). Concomitant vs. Staged Treatment of Varicose Tributaries as an Adjunct to Endovenous Ablation: A Systematic Review and Meta-Analysis. Journal of Vascular Surgery, 72, 1506. https://doi.org/10.1016/j.jvs.2020.08.008
+1.  Aherne, T., Ryan, É., Boland, M., McKevitt, K., Hassanin, A., Tubassam, M., Tang, T. Y., & Walsh, S. (2020). Concomitant vs. Staged Treatment of Varicose Tributaries as an Adjunct to Endovenous Ablation: A Systematic Review and Meta-Analysis. Journal of Vascular Surgery, 72, 1506. https://doi.org/10.1016/j.jvs.2020.08.008 [@aherne2020a]
 
-2.  Azar, J., Rao, A., & Oropallo, A. (2022). Chronic venous insufficiency: A comprehensive review of management. Journal of Wound Care, 31(6), 510--519. https://doi.org/10.12968/jowc.2022.31.6.510
+2.  Azar, J., Rao, A., & Oropallo, A. (2022). Chronic venous insufficiency: A comprehensive review of management. Journal of Wound Care, 31(6), 510--519. https://doi.org/10.12968/jowc.2022.31.6.510 [@azar2022b]
 
-3.  Boersma, D., van Eekeren, R. R., Kelder, H. J., Werson, D. A., Holewijn, S., Schreve, M. A., Reijnen, M. M., & de Vries, J. P. P. (2014). Mechanochemical endovenous ablation versus radiofrequency ablation in the treatment of primary small saphenous vein insufficiency (MESSI trial): Study protocol for a randomized controlled trial. Trials, 15(1), 421. https://doi.org/10.1186/1745-6215-15-421
+3.  Boersma, D., van Eekeren, R. R., Kelder, H. J., Werson, D. A., Holewijn, S., Schreve, M. A., Reijnen, M. M., & de Vries, J. P. P. (2014). Mechanochemical endovenous ablation versus radiofrequency ablation in the treatment of primary small saphenous vein insufficiency (MESSI trial): Study protocol for a randomized controlled trial. Trials, 15(1), 421. https://doi.org/10.1186/1745-6215-15-421 [@boersma2014a]
 
-4.  Bootun, R., Lane, T. R. A., Franklin, I. J., & Davies, A. H. (2018). Endovenous Sealing of Superficial Veins. In C. I. O. Chaar (Ed.), Current Management of Venous Diseases (pp. 145--152). Springer International Publishing. https://doi.org/10.1007/978-3-319-65226-9_11
+4.  Bootun, R., Lane, T. R. A., Franklin, I. J., & Davies, A. H. (2018). Endovenous Sealing of Superficial Veins. In C. I. O. Chaar (Ed.), Current Management of Venous Diseases (pp. 145--152). Springer International Publishing. https://doi.org/10.1007/978-3-319-65226-9_11 [@bootun2017a]
 
-5.  Dalsing, M. C., Maleti, O., & Westin, G. G. (2023). Chronic Venous Insufficiency: Deep Vein Valve Reconstruction---ClinicalKey. In Rutherford's Vascular Surgery and Endovascular Therapy (10th ed., pp. 2098--2111). Elsevier. https://www-clinicalkey-com.ezproxy.med.cornell.edu/#!/content/book/3-s2.0-B9780323775571001594
+5.  Dalsing, M. C., Maleti, O., & Westin, G. G. (2023). Chronic Venous Insufficiency: Deep Vein Valve Reconstruction---ClinicalKey. In Rutherford's Vascular Surgery and Endovascular Therapy (10th ed., pp. 2098--2111). Elsevier. https://www-clinicalkey-com.ezproxy.med.cornell.edu/#!/content/book/3-s2.0-B9780323775571001594 [@sidawy2023d]
 
-6.  Davies, A. H. (2019). The Seriousness of Chronic Venous Disease: A Review of Real-World Evidence. Advances in Therapy, 36(1), 5--12. https://doi.org/10.1007/s12325-019-0881-7
+6.  Davies, A. H. (2019). The Seriousness of Chronic Venous Disease: A Review of Real-World Evidence. Advances in Therapy, 36(1), 5--12. https://doi.org/10.1007/s12325-019-0881-7 [@davies2019a]
 
-7.  Eberhardt, R. T., & Raffetto, J. D. (2014). Chronic Venous Insufficiency. Circulation, 130(4), 333--346. https://doi.org/10.1161/CIRCULATIONAHA.113.006898
+7.  Eberhardt, R. T., & Raffetto, J. D. (2014). Chronic Venous Insufficiency. Circulation, 130(4), 333--346. https://doi.org/10.1161/CIRCULATIONAHA.113.006898 [@eberhardt2014a]
 
-8.  Eklof, B., Perrin, M., Delis, K. T., Rutherford, R. B., & Gloviczki, P. (2009). Updated terminology of chronic venous disorders: The VEIN-TERM transatlantic interdisciplinary consensus document. Journal of Vascular Surgery, 49(2), 498--501. https://doi.org/10.1016/j.jvs.2008.09.014
+8.  Eklof, B., Perrin, M., Delis, K. T., Rutherford, R. B., & Gloviczki, P. (2009). Updated terminology of chronic venous disorders: The VEIN-TERM transatlantic interdisciplinary consensus document. Journal of Vascular Surgery, 49(2), 498--501. https://doi.org/10.1016/j.jvs.2008.09.014 [@eklof2009a]
 
-9.  Gloviczki, P., Lawrence, P. F., Wasan, S. M., Meissner, M. H., Almeida, J., Brown, K. R., Bush, R. L., Iorio, M. D., Fish, J., Fukaya, E., Gloviczki, M. L., Hingorani, A., Jayaraj, A., Kolluri, R., Murad, M. H., Obi, A. T., Ozsvath, K. J., Singh, M. J., Vayuvegula, S., & Welch, H. J. (2024). The 2023 Society for Vascular Surgery, American Venous Forum, and American Vein and Lymphatic Society clinical practice guidelines for the management of varicose veins of the lower extremities. Journal of Vascular Surgery: Venous and Lymphatic Disorders, 12(1). https://doi.org/10.1016/j.jvsv.2023.08.011
+9.  Gloviczki, P., Lawrence, P. F., Wasan, S. M., Meissner, M. H., Almeida, J., Brown, K. R., Bush, R. L., Iorio, M. D., Fish, J., Fukaya, E., Gloviczki, M. L., Hingorani, A., Jayaraj, A., Kolluri, R., Murad, M. H., Obi, A. T., Ozsvath, K. J., Singh, M. J., Vayuvegula, S., & Welch, H. J. (2024). The 2023 Society for Vascular Surgery, American Venous Forum, and American Vein and Lymphatic Society clinical practice guidelines for the management of varicose veins of the lower extremities. Journal of Vascular Surgery: Venous and Lymphatic Disorders, 12(1). https://doi.org/10.1016/j.jvsv.2023.08.011 [@gloviczki2024a]
 
-10. Gohel Manjit S., Heatley Francine, Liu Xinxue, Bradbury Andrew, Bulbulia Richard, Cullum Nicky, Epstein David M., Nyamekye Isaac, Poskitt Keith R., Renton Sophie, Warwick Jane, & Davies Alun H. (2018). A Randomized Trial of Early Endovenous Ablation in Venous Ulceration. New England Journal of Medicine, 378(22), 2105--2114. https://doi.org/10.1056/NEJMoa1801214
+10. Gohel Manjit S., Heatley Francine, Liu Xinxue, Bradbury Andrew, Bulbulia Richard, Cullum Nicky, Epstein David M., Nyamekye Isaac, Poskitt Keith R., Renton Sophie, Warwick Jane, & Davies Alun H. (2018). A Randomized Trial of Early Endovenous Ablation in Venous Ulceration. New England Journal of Medicine, 378(22), 2105--2114. https://doi.org/10.1056/NEJMoa1801214 [@gohel2018a]
 
-11. Hager, E. S., Washington, C., Steinmetz, A., Wu, T., Singh, M., & Dillavou, E. (2016). Factors that influence perforator vein closure rates using radiofrequency ablation, laser ablation, or foam sclerotherapy. Journal of Vascular Surgery: Venous and Lymphatic Disorders, 4(1), 51--56. https://doi.org/10.1016/j.jvsv.2015.08.004
+11. Hager, E. S., Washington, C., Steinmetz, A., Wu, T., Singh, M., & Dillavou, E. (2016). Factors that influence perforator vein closure rates using radiofrequency ablation, laser ablation, or foam sclerotherapy. Journal of Vascular Surgery: Venous and Lymphatic Disorders, 4(1), 51--56. https://doi.org/10.1016/j.jvsv.2015.08.004 [@hager2016a]
 
-12. Hwang, S., Ramos, J., Berger, K., Veyg, D., Kim, S., Marin, M., Faries, P., & Ting, W. (2020). Long-term Outcomes After Iliocaval Venous Stenting. Journal of Vascular Surgery, 72(5), e368. https://doi.org/10.1016/j.jvs.2020.08.090
+12. Hwang, S., Ramos, J., Berger, K., Veyg, D., Kim, S., Marin, M., Faries, P., & Ting, W. (2020). Long-term Outcomes After Iliocaval Venous Stenting. Journal of Vascular Surgery, 72(5), e368. https://doi.org/10.1016/j.jvs.2020.08.090 [@hwang2020a]
 
-13. Iafrati, M. D. (2023). Varicose Veins: Surgical Treatment. In A. N. Sidawy & B. A. Perler (Eds.), Rutherford's Vascular Surgery and Endovascular Therapy (10th ed., Vol. 2, pp. 2031--2048). Elsevier. https://www-clinicalkey-com.ezproxy.med.cornell.edu/#!/content/book/3-s2.0-B9780323775571001545?scrollTo=%23top
+13. Iafrati, M. D. (2023). Varicose Veins: Surgical Treatment. In A. N. Sidawy & B. A. Perler (Eds.), Rutherford's Vascular Surgery and Endovascular Therapy (10th ed., Vol. 2, pp. 2031--2048). Elsevier. https://www-clinicalkey-com.ezproxy.med.cornell.edu/#!/content/book/3-s2.0-B9780323775571001545?scrollTo=%23top [@sidawy2023d]
 
-14. Kabnick, L. S., Sadek, M., Bjarnason, H., Coleman, D. M., Dillavou, E. D., Hingorani, A. P., Lal, B. K., Lawrence, P. F., Malgor, R. D., & Puggioni, A. (2021). Classification and treatment of endothermal heat-induced thrombosis: Recommendations from the American Venous Forum and the Society for Vascular Surgery. Journal of Vascular Surgery: Venous and Lymphatic Disorders, 9(1), 6--22. https://doi.org/10.1016/j.jvsv.2020.06.008
+14. Kabnick, L. S., Sadek, M., Bjarnason, H., Coleman, D. M., Dillavou, E. D., Hingorani, A. P., Lal, B. K., Lawrence, P. F., Malgor, R. D., & Puggioni, A. (2021). Classification and treatment of endothermal heat-induced thrombosis: Recommendations from the American Venous Forum and the Society for Vascular Surgery. Journal of Vascular Surgery: Venous and Lymphatic Disorders, 9(1), 6--22. https://doi.org/10.1016/j.jvsv.2020.06.008 [@kabnick2021]
 
-15. Kim, Y., Png, C. Y. M., Sumpio, B. J., DeCarlo, C. S., & Dua, A. (2021). Defining the human and health care costs of chronic venous insufficiency. Seminars in Vascular Surgery, 34(1), 59--64. https://doi.org/10.1053/j.semvascsurg.2021.02.007
+15. Kim, Y., Png, C. Y. M., Sumpio, B. J., DeCarlo, C. S., & Dua, A. (2021). Defining the human and health care costs of chronic venous insufficiency. Seminars in Vascular Surgery, 34(1), 59--64. https://doi.org/10.1053/j.semvascsurg.2021.02.007 [@kim2021a]
 
-16. Lurie, F., Passman, M., Meisner, M., Dalsing, M., Masuda, E., Welch, H., Bush, R. L., Blebea, J., Carpentier, P. H., Maeseneer, M. D., Gasparis, A., Labropoulos, N., Marston, W. A., Rafetto, J., Santiago, F., Shortell, C., Uhl, J. F., Urbanek, T., Rij, A. van, ... Wakefield, T. (2020). The 2020 update of the CEAP classification system and reporting standards. Journal of Vascular Surgery: Venous and Lymphatic Disorders, 8(3), 342--352. https://doi.org/10.1016/j.jvsv.2019.12.075
+16. Lurie, F., Passman, M., Meisner, M., Dalsing, M., Masuda, E., Welch, H., Bush, R. L., Blebea, J., Carpentier, P. H., Maeseneer, M. D., Gasparis, A., Labropoulos, N., Marston, W. A., Rafetto, J., Santiago, F., Shortell, C., Uhl, J. F., Urbanek, T., Rij, A. van, ... Wakefield, T. (2020). The 2020 update of the CEAP classification system and reporting standards. Journal of Vascular Surgery: Venous and Lymphatic Disorders, 8(3), 342--352. https://doi.org/10.1016/j.jvsv.2019.12.075 [@lurie2020a]
 
-17. Maleti, O., & Perrin, M. (2011). Reconstructive Surgery for Deep Vein Reflux in the Lower Limbs: Techniques, Results and Indications. European Journal of Vascular and Endovascular Surgery, 41(6), 837--848. https://doi.org/10.1016/j.ejvs.2011.02.013
+17. Maleti, O., & Perrin, M. (2011). Reconstructive Surgery for Deep Vein Reflux in the Lower Limbs: Techniques, Results and Indications. European Journal of Vascular and Endovascular Surgery, 41(6), 837--848. https://doi.org/10.1016/j.ejvs.2011.02.013 [@maleti2011a]
 
-18. Markovic, J. N., & Shortell, C. K. (2023). Treatment of Chronic Venous Disorders. In Rutherford's vascular surgery and endovascular therapy, 2-volume set (10th ed., Vol. 2). Elsevier. https://www-clinicalkey-com.ezproxy.med.cornell.edu/#!/content/book/3-s2.0-B9780323775571001570
+18. Markovic, J. N., & Shortell, C. K. (2023). Treatment of Chronic Venous Disorders. In Rutherford's vascular surgery and endovascular therapy, 2-volume set (10th ed., Vol. 2). Elsevier. https://www-clinicalkey-com.ezproxy.med.cornell.edu/#!/content/book/3-s2.0-B9780323775571001570 [@sidawy2023d]
 
-19. Meissner, M. H. (2005). Lower Extremity Venous Anatomy. Seminars in Interventional Radiology, 22(3), 147--156. https://doi.org/10.1055/s-2005-921948
+19. Meissner, M. H. (2005). Lower Extremity Venous Anatomy. Seminars in Interventional Radiology, 22(3), 147--156. https://doi.org/10.1055/s-2005-921948 [@meissner2005a]
 
-20. Michaels, J. A., Campbell, W. B., Brazier, J. E., Macintyre, J. B., Palfreyman, S. J., Ratcliffe, J., & Rigby, K. (2006). Randomised clinical trial, observational study and assessment of cost-effectiveness of the treatment of varicose veins (REACTIV trial). Health Technology Assessment (Winchester, England), 10(13), 1--196, iii--iv. https://doi.org/10.3310/hta10130
+20. Michaels, J. A., Campbell, W. B., Brazier, J. E., Macintyre, J. B., Palfreyman, S. J., Ratcliffe, J., & Rigby, K. (2006). Randomised clinical trial, observational study and assessment of cost-effectiveness of the treatment of varicose veins (REACTIV trial). Health Technology Assessment (Winchester, England), 10(13), 1--196, iii--iv. https://doi.org/10.3310/hta10130 [@michaels2006a]
 
-21. Moore, W. S. (2018). Moore's Vascular and Endovascular Surgery E-Book: Moore's Vascular and Endovascular Surgery E-Book. Elsevier Health Sciences. https://books.google.com/books?id=1fReDwAAQBAJ
+21. Moore, W. S. (2018). Moore's Vascular and Endovascular Surgery E-Book: Moore's Vascular and Endovascular Surgery E-Book. Elsevier Health Sciences. https://books.google.com/books?id=1fReDwAAQBAJ [@moores2019]
 
-22. Palfreyman, S. J., & Michaels, J. A. (2009). A systematic review of compression hosiery for uncomplicated varicose veins. Phlebology, 24 Suppl 1, 13--33. https://doi.org/10.1258/phleb.2009.09s003
+22. Palfreyman, S. J., & Michaels, J. A. (2009). A systematic review of compression hosiery for uncomplicated varicose veins. Phlebology, 24 Suppl 1, 13--33. https://doi.org/10.1258/phleb.2009.09s003 [@palfreyman2009a]
 
-23. Perrin, M. (2005). Endovenous treatment of lower-limb varices by laser and radiofrequency. Phlebolymphology, 337--346.
+23. Perrin, M. (2005). Endovenous treatment of lower-limb varices by laser and radiofrequency. Phlebolymphology, 337--346. [@perrina]
 
-24. Rautio, T., Ohinmaa, A., Perälä, J., Ohtonen, P., Heikkinen, T., Wiik, H., Karjalainen, P., Haukipuro, K., & Juvonen, T. (2002). Endovenous obliteration versus conventional stripping operation in the treatment of primary varicose veins: A randomized controlled trial with comparison of the costs. Journal of Vascular Surgery, 35(5), 958--965. https://doi.org/10.1067/mva.2002.123096
+24. Rautio, T., Ohinmaa, A., Perälä, J., Ohtonen, P., Heikkinen, T., Wiik, H., Karjalainen, P., Haukipuro, K., & Juvonen, T. (2002). Endovenous obliteration versus conventional stripping operation in the treatment of primary varicose veins: A randomized controlled trial with comparison of the costs. Journal of Vascular Surgery, 35(5), 958--965. https://doi.org/10.1067/mva.2002.123096 [@rautio2002a]
 
-25. Sadek, M., & Kabnick, L. S. (2023). Varicose Veins: Endovenous Ablation and Sclerotherapy. In A. N. Sidawy & B. A. Perler (Eds.), Rutherford's Vascular Surgery and Endovascular Therapy (10th ed., Vol. 2, pp. 2049--2062). Elsevier. https://www-clinicalkey-com.ezproxy.med.cornell.edu/#!/content/book/3-s2.0-B9780323775571001557?scrollTo=%23hl0001071
+25. Sadek, M., & Kabnick, L. S. (2023). Varicose Veins: Endovenous Ablation and Sclerotherapy. In A. N. Sidawy & B. A. Perler (Eds.), Rutherford's Vascular Surgery and Endovascular Therapy (10th ed., Vol. 2, pp. 2049--2062). Elsevier. https://www-clinicalkey-com.ezproxy.med.cornell.edu/#!/content/book/3-s2.0-B9780323775571001557?scrollTo=%23hl0001071 [@sidawy2023d]
 
-26. Scott, T. E., LaMorte, W. W., Gorin, D. R., & Menzoian, J. O. (1995). Risk factors for chronic venous insufficiency: A dual case-control study. Journal of Vascular Surgery, 22(5), 622--628. https://doi.org/10.1016/S0741-5214(95)70050-1
+26. Scott, T. E., LaMorte, W. W., Gorin, D. R., & Menzoian, J. O. (1995). Risk factors for chronic venous insufficiency: A dual case-control study. Journal of Vascular Surgery, 22(5), 622--628. https://doi.org/10.1016/S0741-5214(95)70050-1 [@scott1995a]
 
-27. Sell, H., Vikatmaa, P., Albäck, A., Lepäntalo, M., Malmivaara, A., Mahmoud, O., & Venermo, M. (2014). Compression Therapy Versus Surgery in the Treatment of Patients with Varicose Veins: A RCT. European Journal of Vascular and Endovascular Surgery, 47(6), 670--677. https://doi.org/10.1016/j.ejvs.2014.02.015
+27. Sell, H., Vikatmaa, P., Albäck, A., Lepäntalo, M., Malmivaara, A., Mahmoud, O., & Venermo, M. (2014). Compression Therapy Versus Surgery in the Treatment of Patients with Varicose Veins: A RCT. European Journal of Vascular and Endovascular Surgery, 47(6), 670--677. https://doi.org/10.1016/j.ejvs.2014.02.015 [@sell2014a]
 
-28. van den Bos, R. (2009). Minimally invasive techniques in the treatment of saphenous varicose veins. 21, 206--207.
+28. Nijsten T, van den Bos RR, Goldman MP, Kockaert MA, Proebstle TM, Rabe E, Sadick NS, Weiss RA, Neumann MH. Minimally invasive techniques in the treatment of saphenous varicose veins. J Am Acad Dermatol. 2009 Jan;60(1):110-9. doi: 10.1016/j.jaad.2008.07.046. Epub 2008 Oct 2. PMID: 18835063.[@nijsten2009]
 
-29. Vasquez, M. A., Rabe, E., McLafferty, R. B., Shortell, C. K., Marston, W. A., Gillespie, D., Meissner, M. H., & Rutherford, R. B. (2010). Revision of the venous clinical severity score: Venous outcomes consensus statement: Special communication of the American Venous Forum Ad Hoc Outcomes Working Group. Journal of Vascular Surgery, 52(5), 1387--1396. https://doi.org/10.1016/j.jvs.2010.06.161
+29. Vasquez, M. A., Rabe, E., McLafferty, R. B., Shortell, C. K., Marston, W. A., Gillespie, D., Meissner, M. H., & Rutherford, R. B. (2010). Revision of the venous clinical severity score: Venous outcomes consensus statement: Special communication of the American Venous Forum Ad Hoc Outcomes Working Group. Journal of Vascular Surgery, 52(5), 1387--1396. https://doi.org/10.1016/j.jvs.2010.06.161 [@vasquez2010a]
 
-30. Weiss, R. A., Feied, C., & Weiss, M. A. (2001). Vein Diagnosis & Treatment: A Comprehensive Approach. McGraw-Hill Companies,Incorporated. https://books.google.com/books?id=RxOeOW3a-UQC
+30. Weiss, R. A., Feied, C., & Weiss, M. A. (2001). Vein Diagnosis & Treatment: A Comprehensive Approach. McGraw-Hill Companies,Incorporated. https://books.google.com/books?id=RxOeOW3a-UQC [@weiss2001a]
 
-31. Wittens, C., Davies, A. H., Bækgaard, N., Broholm, R., Cavezzi, A., Chastanet, S., Wolf, M. de, Eggen, C., Giannoukas, A., Gohel, M., Kakkos, S., Lawson, J., Noppeney, T., Onida, S., Pittaluga, P., Thomis, S., Toonder, I., Vuylsteke, M., Committee, E. G., ... Rosales, A. (2015). Editor's Choice -- Management of Chronic Venous Disease: Clinical Practice Guidelines of the European Society for Vascular Surgery (ESVS). European Journal of Vascular and Endovascular Surgery, 49(6), 678--737. https://doi.org/10.1016/j.ejvs.2015.02.007
+31. Wittens, C., Davies, A. H., Bækgaard, N., Broholm, R., Cavezzi, A., Chastanet, S., Wolf, M. de, Eggen, C., Giannoukas, A., Gohel, M., Kakkos, S., Lawson, J., Noppeney, T., Onida, S., Pittaluga, P., Thomis, S., Toonder, I., Vuylsteke, M., Committee, E. G., ... Rosales, A. (2015). Editor's Choice -- Management of Chronic Venous Disease: Clinical Practice Guidelines of the European Society for Vascular Surgery (ESVS). European Journal of Vascular and Endovascular Surgery, 49(6), 678--737. https://doi.org/10.1016/j.ejvs.2015.02.007 [@wittens2015a]
 
 ------------------------------------------------------------------------
 
