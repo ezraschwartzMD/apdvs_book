@@ -307,6 +307,10 @@ Though minimally invasive endovenous methods are associated with reduced convale
 
 Recurrence rates are reduced when GSV stripping is performed in addition to high ligation (HL&S) versus high ligation alone [@sidawy2023c]. After the GSV is ligated at the SFJ, a vein stripper is passed distally and a second incision is made near the knee. The GSV is then tied to the stripper and both the stripper and the vein are drawn out through the distal incision, stripping in a downward direction, avulsing its tributaries and removing it from circulation. Top-down passage of the stripper minimizes the potential for saphenous nerve injury as well as unintentional passage of the stripper into the femoral vein through a thigh perforator [@sidawy2023c].
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VVjHFapkX2w?si=DekKELZqW5vmgx0G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
 #### Stab Phlebectomy
 
 Stab phlebectomy, also known as ambulatory phlebectomy, is a technique used to remove residual superficial varicosities following endovenous ablation or high ligation and stripping (HLS) of the great saphenous vein (GSV) or small saphenous vein (SSV). These residual varicosities, if not addressed, can continue to drain via alternative pathways, remaining both symptomatic and cosmetically displeasing. The procedure involves making small 1-3 mm incisions through which [varicose veins are hooked, extracted, and removed](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-4939-1326-8_12/MediaObjects/302544_1_En_12_Fig9_HTML.gif). This method has largely replaced older techniques that left larger scars, as these smaller incisions typically heal with minimal scarring and do not usually require sutures. The phlebectomy not only improves aesthetic outcomes but also helps alleviate symptoms by removing venous pressure from untreated tributaries [@sidawy2023c].
@@ -315,6 +319,10 @@ Stab phlebectomy, also known as ambulatory phlebectomy, is a technique used to r
 
 [Injection sclerotherapy](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/6763-sclerotherapy) is a minimally invasive percutaneous technique that uses chemical irritants to close unwanted superficial veins. Primarily employed in the treatment of telangiectasias, reticular veins, and small nonaxial varicose veins less than 6 mm in diameter, sclerotherapy can address both symptomatic and asymptomatic veins. This method involves injecting a sclerosant that damages the endothelial lining of the vein, leading to thrombosis and subsequent fibrosis, effectively eliminating the vein. While liquid sclerotherapy is typically used for smaller veins, larger varicosities may require foam sclerotherapy, which uses a foam-like consistency to enhance contact with the vein wall [@azar2022a][@sidawy2023c].
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OtRq8IQqJWQ?si=xE5BZcGekX9VKSb1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
 #### Interventions for Deep Venous Insufficiency: Stenting, Venoplasty, and Valvular Reconstruction
 
 Due to increased risks and technical challenges associated with the treatment of deep venous reflux, treatment is typically reserved for patients with ulcer recurrence refractory to therapies targeting superficial/perforator insufficiency [@sidawy2023c]. CEAP C4-C6 patients without superficial truncal reflux or those whose superficial treatment has failed may be offered stenting to correct deep venous obstruction.
@@ -322,6 +330,16 @@ Due to increased risks and technical challenges associated with the treatment of
 liac and inferior vena cava (IVC) stenting remains somewhat controversial and is typically reserved for a specific subset of patients who are most likely to benefit from the procedure. These patients often include those with significant venous outflow obstruction, such as those suffering from May-Thurner syndrome, chronic venous insufficiency, or post-thrombotic syndrome that has not responded adequately to conservative treatments. It is now recognized that asymptomatic venous obstruction is far more common than previously thought, and there remains debate about which patients are suitable candidates for iliocaval stenting. In appropriately selected patients, iliocaval stenting can provide symptomatic relief with long-term patency rates \>70% and relatively low DVT risk [@hwang2020].
 
 Patients with deep venous reflux due to congenital, primary, or secondary (post-thrombotic syndrome following DVT) valvular incompetence may be candidates for valvular reconstruction if symptoms recur following attempted conservative and/or endovenous therapies for superficial reflux. These patients usually have class C4b to C6 disease or disabling signs and symptoms such as severe edema (C3) [@sidawy2023c]. Treatment options focus on either correcting the anatomical defect of the incompetent valve via [internal valvuloplasty](https://ars.els-cdn.com/content/image/1-s2.0-S1078588411000827-gr6.jpg)/[external valvuloplasty](https://ars.els-cdn.com/content/image/1-s2.0-S1078588411000827-gr7.jpg), or by replacing the architecture via [valve transposition](https://ars.els-cdn.com/content/image/1-s2.0-S1078588411000827-gr8.jpg) or [vein transplantation](https://ars.els-cdn.com/content/image/1-s2.0-S1078588411000827-gr10.jpg) [@maleti2011]. Most recently, promising results from the [SAVVE trial](https://evtoday.com/news/envvenos-venovalve-savve-trial-topline-efficacy-data-presented) studying the use of a novel synthetic neovalve (VenoValve) represent an additional treatment modality for chronic venous insufficiency.
+
+::: callout-tip
+
+Video Tutorial: Diagnosis and Management of Deep Venous Incompetence with Dr. Ulises Baltazar
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_YIoutxmMTA?si=divyLk7UmzVdiryI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+
 
 ------------------------------------------------------------------------
 
@@ -515,19 +533,47 @@ Please see pages 165-175.
 
 ------------------------------------------------------------------------
 
+::: callout-tip
+-   Video Tutorial: Diagnosis and Management of Varicose Veins with Dr. Mitul Patel
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ApAXHWAaJmk?si=BwdOrX52JATPXYC1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+-   Video Tutorial: Diagnosis and Management of Varicose Veins with Dr. Ruth Bush
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b-2-szBUxVM?si=0XjayW6RK1IzRO2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+:::
+
+------------------------------------------------------------------------
+
 ### Operative Footage
 
 Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.* Please create and/or log in to your YouTube account to have access to the videos.
 
-#### Endovenous Ablation
+#### Endovenous Laser Ablation (EVLA/EVLT) of the Greater Saphenous Vein
 
-#### High Ligation & Stripping
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WGW8BUKp76g?si=CIKkPi8hUhDjSszK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
-#### Stab Phlebectomy
+</iframe>
 
-#### Sclerotherapy
+### Mechanochemical Endovenous Ablation (MOCA) of the Greater Saphenous Vein
 
-#### Interventions for Deep Venous Insufficiency: Stenting, Venoplasty, and Valvular Reconstruction
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKzT1k3Ib8k?si=HxKaBvERlSBI3IAZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+### Cyanoacrylate Adhesive (VenaSeal) Treatment of Greater Saphenous Vein
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1yeGgVbwoO4?si=LBVPkjesZeCdGNlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WZKozMmHnfE?si=YG3FCdMTIHUMFKhS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 <!-- Google tag (gtag.js) -->
 
