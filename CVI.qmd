@@ -3,7 +3,7 @@ title: "Chronic Venous Insufficiency (CVI)"
 chapter_number: 8
 title-block-banner: false
 title-block-style: plain
-authors: Emily Goodman, MD, Mark Basilious, BS, Ethan Romero, MS, and Chelsea Dorsey, MD.
+authors: Ethan Romero, BA, Mark Basilious, BS, Emily Goodman, MD, and Chelsea Dorsey, MD.
 format: html
 editor: visual
 number-sections: false

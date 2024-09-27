@@ -38,6 +38,10 @@ book:
       chapters: 
       - claudication.qmd
       - CLTI.qmd
+      
+    - part: "Venous Disease"
+      chapters: 
+      - CVI.qmd
 
     - part: "Miscellaneous Topics"
       chapters: 
