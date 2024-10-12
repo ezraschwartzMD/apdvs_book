@@ -3,7 +3,7 @@ title: "Acute Limb Ischemia (ALI)"
 chapter_number: 6
 title-block-banner: false
 title-block-style: plain
-authors: Gowri Gowda, MD, Bernadette Aulivola, MD, FACS, Kelly Kempe, MD, RPVI, FACS, Kaled Diab, MD, and Lindsey Korepta, MD, FACS.
+authors: Pavan Guduri, Alan Sumskim Gowri Gowda, MD, Jonathan Cardella, MD, FRCS.
 format: html
 editor: visual
 number-sections: false
@@ -285,6 +285,8 @@ Endovascular surgery for the management of ALI provides minimally invasive optio
 
 In severe cases of ALI where irreversible tissue damage is obvious such as in patients with Rutherford III classification, **primary amputation** may be the most viable treatment option. With irreversible neurovascular damage and tissue necrosis, primary amputation serves to prevent further spread of tissue damage and infection.
 
+
+![](images/ALIFlow.jpg){fig-align="center" width="100%"}
 ------------------------------------------------------------------------
 
 ## Post-Operative Complications & Management
@@ -366,7 +368,7 @@ LLE: Warm, well perfused, knee replacement incision site clean, dry, intact with
 
 ### Imaging
 
-**Duplex Ultrasound:**
+- to do
 
 ### Discussion Points
 
@@ -405,6 +407,8 @@ However, we feel this chapter contains all the necessary information to answer t
 
 8.  Björck, M., Earnshaw, J. J., Acosta, S., Bastos Gonçalves, F., Cochennec, F., Debus, E. S., Hinchliffe, R., Jongkind, V., Koelemay, M. J. W., Menyhei, G., Svetlikov, A. V., Tshomba, Y., Van Den Berg, J. C., Esvs Guidelines Committee, de Borst, G. J., Chakfé, N., Kakkos, S. K., Koncar, I., Lindholt, J. S., Tulamo, R., ... Rai, K. (2020). Editor's Choice - European Society for Vascular Surgery (ESVS) 2020 Clinical Practice Guidelines on the Management of Acute Limb Ischaemia. European journal of vascular and endovascular surgery : the official journal of the European Society for Vascular Surgery, 59(2), 173--218. https://doi.org/10.1016/j.ejvs.2019.09.006 [@björck2020]
 
+------------------------------------------------------------------------
+
 ## Additional Resources
 
 ### Audible Bleeding Content
@@ -437,7 +441,29 @@ Please see pages 85, 98-100.
 
 Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.* Please create and/or log in to your YouTube account to have access to the videos.
 
-TO DO
+#### Popliteal and Tibial Thromboembolectomy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VJGAJ2GFrPE?si=BLvpYOfPjxBuWtaz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+#### Left Common Femoral Artery to Anterior Tibial Artery Bypass using PTFE Graft
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xG2aF-vNSr4?si=Z9jtuQH0mf2G_P_H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+#### Below Knee Amputation 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7CR-j-3o27E?si=PDHwlLi1uaZvpcCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+#### Leg Fasciotomy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AYlcxypkZ4w?si=hZfrwKGvjgeRlM4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 <!-- Google tag (gtag.js) -->
 
