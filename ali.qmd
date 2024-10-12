@@ -12,7 +12,7 @@ smooth-scroll: true
 link-external-newwindow: true
 ---
 
-#  {#sec-chroniclimbthreateningischemia}
+#  {#sec-acutelimbischemia}
 
 ::: {.callout-note icon="false"}
 ## Chapter Learning Objectives
@@ -42,7 +42,7 @@ The pre/post questions are listed below. They are all multiple choice questions 
 
 ### Case Based Questions
 
-1.  A 61-year-old man with a history of heavy smoking, hypertension, diabetes mellitus, and chronic peripheral arterial disease with intermittent claudication presents to the ED with 3 hours of severe, acute-onset pain in his right foot. He takes aspirin daily, a beta-blocker for his hypertension, and metformin for his diabetes. He has a cool right foot compared with the left, with absent pulses and Doppler signals, loss of fine touch, and proprioception in the right foot to the ankle. He has weakness with plantar/dorsiflexion of the toes in the right foot compared with the left. *What is this patient's grade of ischemia based on the Rutherford classification of acute limb ischemia?*
+1.  A 61-year-old man with a history of heavy smoking, hypertension, diabetes mellitus, and peripheral arterial disease with intermittent claudication presents to the ED with 3 hours of severe, acute-onset pain in his right foot. He takes aspirin daily, a beta-blocker for his hypertension, and metformin for his diabetes. His right foot is cool compared to his left foot. A thorough physical exam reveals no palpable pulses or audible doppler signals in his dorsalis pedis or posterior tibial arteries in the right foot. In addition, he has loss of fine touch, and proprioception to the ankle. He also has weakness with plantar/dorsiflexion of the toes in the right foot. *Based on Rutherford's classification of acute limb ischemia, what category of acute limb ischemia does this patient have?*
 
 <!-- -->
 
@@ -59,12 +59,24 @@ D.  III
 
 **C. IIb.**
 
-Discussion: Here is the Rutherford classification of acute limb ischemia: - Stage I: viable limb that is not immediately threatened (intact motor and sensory function, with audible arterial and venous signals) - Stage IIa: marginally threatened and salvageable limb if properly treated (intact motor function and sensory deficit in the toes \[or none at all\], with often inaudible arterial signal) - Stage IIb: immediately threatened limb that is salvageable only with immediate revascularization (mild to moderate motor loss with significant sensory loss, with usually inaudible arterial signal) - Stage III: Irreversibly damaged limb with major tissue loss or permanent nerve damage (profound motor and sensory loss, generally with paralysis and inaudible arterial signal)
+Discussion:
+
+Here is the Rutherford classification of acute limb ischemia:
+
+Stage I: viable limb that is not immediately threatened (intact motor and sensory function, with audible arterial and venous signals)
+
+Stage IIa: marginally threatened and salvageable limb if properly treated (intact motor function and sensory deficit in the toes \[or none at all\], with often inaudible arterial signal)
+
+Stage IIb: immediately threatened limb that is salvageable only with immediate revascularization (mild to moderate motor loss with significant sensory loss, with usually inaudible arterial signal)
+
+Stage III: Irreversibly damaged limb with major tissue loss or permanent nerve damage (profound motor and sensory loss, generally with paralysis and inaudible arterial signal)
+
+This patient falls into class IIb because he has both mild motor loss and sensory loss.
 
 *Rutherford RB, Baker JD, Ernst C, et al. Recommended standards for reports dealing with lower extremity ischemia: Revised version. J Vasc Surg. 1997;26(3):517-538.*
 :::
 
-2.  A 62-year-old man with diabetes, hypertension, congestive heart failure, and peripheral arterial disease presents with rest pain and decreased sensation and power in his left leg. He has been told he has acute limb ischemia and requires intervention. While you are obtaining consent for surgery, the patient asks about his chances of survival without intervention. *Which of the following statements applies to his situation?*
+2.  A 62-year-old man with diabetes, hypertension, congestive heart failure, and peripheral arterial disease presents to the ED with rest pain,decreased sensation up to his calf, and difficulty with movement of his toes in his left leg. He has been told he has acute limb ischemia and requires intervention. While you are obtaining consent for surgery, the patient asks about his chances of survival without intervention. *Which of the following statements applies to his situation?*
 
 <!-- -->
 
@@ -81,10 +93,12 @@ D.  The mortality rate is not affected by his treatment of his ischemic limb.
 
 **B. The 30-day mortality rate is increased (approximately 60%) if no revascularization is performed.**
 
-Discussion: The mortality associated with no intervention in patients with acutely ischemic limbs is unacceptably high, despite the frailty and numerous comorbidities from which these patients generally suffer. *Sidawy AN, Perler BA, eds. Rutherford's Vascular Surgery and Endovascular Therapy. 9th ed. Philadelphia, PA: Elsevier; 2019.*
+Discussion: The mortality associated with no intervention in patients with acutely ischemic limbs is unacceptably high, despite the frailty and numerous comorbidities from which these patients generally suffer.
+
+*Sidawy AN, Perler BA, eds. Rutherford's Vascular Surgery and Endovascular Therapy. 9th ed. Philadelphia, PA: Elsevier; 2019.*
 :::
 
-3.  A 56-year-old man with chronic rate-controlled atrial fibrillation stopped coumadin prior to a colonoscopy 1 week ago. He is otherwise healthy and takes no other medications. He presents with pain in his left calf after walking two miles in 90 degree temperatures. He has absent pulses of his popliteal, anterior tibial and dorsal peroneal arteries in that leg. This is accompanied by pallor and pain. What is the most likely etiology?
+3.  A 56-year-old man with chronic rate-controlled atrial fibrillation stopped coumadin prior to a colonoscopy 1 week ago. He is otherwise healthy and takes no other medications. He presents with pain in his left calf after walking two miles in 90 degree temperatures. He is found to have both absent pulses and doppler signals in both his dorsalis pedis and posterior tibial arteries in that leg. *This is accompanied by pallor and pain. What is the most likely etiology?*
 
 <!-- -->
 
@@ -106,7 +120,7 @@ E.  Thrombosis from hypercoagulability
 Discussion: The two major causes of acute arterial occlusion are emboli and thrombosis. An embolic source accounts for 80% of cases. Sources of emboli include the heart, usually in patients with a history of atrial fibrillation or myocardial infarction or valvular heart disease. A proximal arterial source, usually an atherosclerotic plaque or aneurysm, or a paradoxical emboli, in which venous emboli cross a patent foramen ovale to embolize in the arterial tree, are also common sources of an occlusive embolus. The most common sites in the lower extremity for emboli to become lodged are, in descending order, the femoral, iliac, aorta, and popliteal arteries. While a paradoxical embolus is possible, it is less common. This patient is relatively healthy, so hypotension is unlikely. The patient is not hypercoagulable.
 :::
 
-4.  A 68-year-old man with a history of uncontrolled diabetes, atrial fibrillation, and hypertension presents to the emergency department for pain in his left leg. A computed tomography angiogram shows a cutoff sign at the left femoral at the bifurcation of the superior femoral artery and the profunda femoris artery. *Which of the following physical examination findings would be seen in this man if your suspected etiology is an acute arterial embolism?*
+4.  A 68-year-old man with a history of uncontrolled diabetes, atrial fibrillation, and hypertension presents to the emergency department for pain in his left leg. A computed tomography angiogram shows a cutoff sign at the left femoral at the bifurcation of the superficial femoral artery and the profunda femoris artery. *Which of the following physical examination findings would be seen in this man if your suspected etiology is an acute arterial embolism?*
 
 <!-- -->
 
@@ -125,20 +139,40 @@ E.  Loss of sensation over the foot, complete loss of motor function at the ankl
 
 **D. Decreased foot and lower leg sensation, lower leg pain, leg pallor, decreased temperature compared to contralateral leg, and absent pedal and femoral pulses.**
 
-Discussion: An arterial embolism refers to an acute event where thrombogenic material lodges in an arterial tree, usually at a branching point. Various etiologies exist, including septic and cardiogenic sources. In a patient with atrial fibrillation, a laminated thrombus with a cardiac origin is likely the cause of his embolus. As previously mentioned, when an embolus occurs, it often becomes lodged at an arterial bifurcation, usually at a narrowed peripheral location where the arterial caliber changes. One of the more common locations for obstruction is the common femoral artery at the bifurcation of the superficial femoral artery and profunda femoris, which can lead to an acute arterial cutoff sign as seen in the computed tomography angiogram described in this case. Patients presenting with acute limb ischemia classically present with one or more of the six Ps: pulselessness, pallor, pain, paresthesia, paralysis, and poikilothermia. The man has several of these findings, making the diagnosis of an acute embolic event reasonable. The findings of buttock claudication, erectile dysfunction, and decreased femoral pulses are a classic presentation of Leriche syndrome, which is caused by chronic aortoiliac occlusive disease. Bilateral decreased foot sensation and pain is more likely seen in a patient with diabetic neuropathy and venous stasis. Reproducible calf pain that improves with rest and has decreased signals is consistent with chronic peripheral arterial disease and claudication. Lastly, a patient with loss of sensation, decreased motor function, and mottling of the skin but with palpable femoral pulses has irreversible, Rutherford Class III acute limb ischemia, likely due to infrageniculate thrombosis.
+Discussion: An arterial embolism refers to an acute event where thrombogenic material lodges in an arterial tree, usually at a branching point. Various etiologies exist, including septic and cardiogenic sources. In a patient with atrial fibrillation, a laminated thrombus with a cardiac origin is likely the cause of his embolus. As previously mentioned, when an embolus occurs, it often becomes lodged at an arterial bifurcation, usually at a narrowed peripheral location where the arterial caliber changes. One of the more common locations for obstruction is the common femoral artery at the bifurcation of the superficial femoral artery and profunda femoris, which can lead to an acute arterial cutoff sign as seen in the computed tomography angiogram described in this case. Patients presenting with acute limb ischemia classically present with one or more of the six Ps: pulselessness, pallor, pain, paresthesia, paralysis, and poikilothermia. The man has several of these findings, making the diagnosis of an acute embolic event reasonable. The findings of buttock claudication, erectile dysfunction, and decreased femoral pulses are a classic presentation of Leriche syndrome, which is caused by chronic aortoiliac occlusive disease. Bilateral decreased foot sensation and pain is more likely seen in a patient with diabetic neuropathy and venous stasis. Reproducible calf pain that improves with rest and has decreased signals is consistent with chronic peripheral arterial disease and claudication. Lastly, a patient with loss of sensation, decreased motor function, and mottling of the skin but with palpable femoral pulses has a high likelihood of having irreversible, Rutherford III acute limb ischemia, commonly due to infrageniculate thrombosis.
+:::
+
+5.  A 74 year old male with a history of metastatic pancreatic cancer, hypertension, prior HTN, hyperlipidemia presents to the ED with acute onset pain in his right leg. CT scan shows cutoff sign at the P3 segment just proximal to the right tibial trifurcation. In addition to pain, the patient endorses decreased sensation of his right lower leg. On exam his right leg is cool to touch and has absent pedal and popliteal doppler signals. *What is the first step in management of this patient?*
+
+<!-- -->
+
+A.  Emergent open surgical embolectomy with bypass
+
+B.  Catheter based thrombolysis
+
+C.  Percutaneous fogarty thrombectomy
+
+D.  Start a therapeutic heparin drip
+
+::: {.callout-note icon="false" collapse="true"}
+## Answer
+
+**D. Start a therapeutic heparin drip.**
+
+Discussion: The first step in treatment of acute limb ischemia before any intervention is considered or initiated is systemic anticoagulation with heparin or a direct thrombin inhibitor in the case of a heparin allergy. In fact, if there is a high suspicion for ALI with no Heparin may even be started during the diagnostic work-up if there is a high clinical suspicion of ALI.
 :::
 
 ------------------------------------------------------------------------
 
 ## Introduction
 
-**Acute Limb Ischemia (ALI) is a vascular emergency characterized by a sudden decrease in limb arterial perfusion.** Without timely operative revascularization, it can lead to limb loss and death.
+**Acute Limb Ischemia (ALI) is a vascular emergency characterized by a sudden decrease in limb arterial perfusion.** [@creager2012] Without timely operative revascularization, it can lead to limb loss and death.
 
-Recent data indicates an incidence of approximately 1.5 cases per 10,000 people annually, with a 10-15% 30-day mortality and amputation rates despite early revascularization.[@olinic2019]
+Recent data indicates an incidence of approximately 1.5 cases per 10,000 people annually, with a 9% 30-day mortality rate and a 12.7% 30-day amputation rate despite early revascularization. [@olinic2019]
 
-ALI is commonly caused by arterial embolism or thrombosis, with **risk factors** including smoking, diabetes, age, hypertension, hyperlipidemia, family history of vascular disease, and obesity.[@sidawy2023][@smith2024a]
+ALI is commonly caused by arterial embolism or thrombosis, with **risk factors** including smoking, diabetes, age, hypertension, hyperlipidemia, family history of vascular disease, and obesity. [@sidawy2023][@smith2024a]
 
-Clinical manifestations vary based on the affected artery and collateral blood vessels, with the 6 P's (pain, pulselessness, pallor, poikilothermia, paresthesias, and paralysis) serving as diagnostic indicators. These symptoms make sense. If you have no flow, there will be no pulse. With no pulse, there will be no red blood (pallor) or warm blood (poikliothermia) in the affected limb. Lack of blood flow causes ischemia leading to pain, nerve ischemia/death (paraesthesia), and eventual paralysis.
+Clinical manifestations vary based on the affected artery and collateral blood vessels, with the 6 P's (**pain, pulselessness, pallor, poikilothermia, paresthesias, and paralysis**) serving as diagnostic indicators. These symptoms make sense. If you have no flow, there will be no pulse. With no pulse, there will be no red blood (pallor) or warm blood (poikliothermia) in the affected limb. Lack of blood flow causes ischemia leading to pain, nerve ischemia/death (paraesthesia), and eventual paralysis.
 
 CT angiography is the preferred imaging modality, aiding in both diagnosis and intraoperative strategy. Treatment options range from anticoagulation alone to open or endovascular surgery, depending on the severity of ALI.[@sidawy2023a]
 
@@ -168,45 +202,38 @@ As briefly mentioned in the introduction, ALI is caused by a sudden reduction in
 
 ###Embolism
 
-Embolism is defined as an obstruction in the arterial system due to material passing through the arterial system and reaching a point of obstruction in a peripheral artery. *Emboli typically get lodged at arterial bifurcation sites as the vessels naturally narrow there. For example in the lower extremity, the bifurcation of the common femoral artery into the superficial femoral artery and profunda is a common site of obstruction.*
+Embolic events occur when material, typically clot, dislodges from a source and travels in the arterial system until it deposits in a vessel causing an obstruction. Emboli typically get lodged at arterial bifurcation sites or in atherosclerotic vessels. For example in the lower extremity, clot commonly lodges at the bifurcation where the common femoral artery divides into the superficial femoral artery and profunda. Patients who have acute limb ischemia due to embolic sources typically have severe symptoms due to lack of collateral development (N.B. collateralization is a common finding in patients with chronic limb ischemia).
 
-*Symptoms of ALI caused by an embolic source are severe as the patient likely has no collateral development.* Symptoms are also progressive due to the development of a secondary thrombus both proximal and distal to the occlusion.
+*Embolic events can typically be categorized into those that come from cardiac and those that come from noncardiac sources.*
 
-Sources of emboli can be subdivided into cardiac and noncardiac in nature. - *The most common etiology of cardiac emboli is atrial fibrillation,* a condition that causes uncoordinated contractions of the atrium and ventricle and stasis of blood in the left atrial appendage which can then embolize. Mural thrombi and left ventricular aneurysms, often a sequelae of an acute myocardial infarction can also result in embolism. It is important to be aware of cardiac valve disease as a potential cause of emboli, however the improvement in medical management of these patients has led to a significant reduction in these cases. Cardiac tumors, endocarditis, and paradoxical emboli are a few other sources of cardiac emboli. - *Non-cardiac embolism can be caused by atheroembolism,* which typically occurs in patients with a history of atherosclerotic disease in arteries such as the aortic arch or descending thoracic artery. This occurs when fragments of plaque or thrombus detach from the walls of the affected arteries and travel through the arterial system similar to a cardiac emboli. These cases may be spontaneous or secondary to interarterial wire or catheter manipulation. - Finally, patients with hypercoagulable conditions may develop a noncardiogenic aortic mural thrombus that can embolize to a limb.
+The most common etiology of cardiac emboli is atrial fibrillation, a condition that causes uncoordinated contractions of the atrium leading to stasis of blood and clot formation (typically in the left atrial appendage) which can then embolize. Other common cardiac sources include, but are not limited to, left ventricular aneurysms, mural thrombi in the ventricles, endocarditis, and valvular disease.
+
+Non-cardiac embolism can be caused by atheroembolism, which typically occurs in patients with a history of atherosclerotic disease in arteries such as the aortic arch or descending thoracic artery. This occurs when fragments of plaque or thrombus detach from the walls of the affected arteries and travel through the arterial system similar to a cardiac emboli. These cases may be spontaneous or secondary to intraarterial wire or catheter manipulation. Finally, patients with hypercoagulable conditions may develop an aortic mural thrombus that can embolize to a limb.
 
 ### Thrombosis
 
-Thrombosis, the formation of a blood clot within an artery, can be due to various causes with *atherosclerotic obstruction being the most common.* - In the case of atherosclerosis, an acute arterial occlusion develops on a severe stenotic lesion. *Symptoms of ALI in this case are less severe and more progressive in nature than symptoms caused by emboli as the body has had ample time to develop a robust collateral circulation.* - Vasospasm due to secondary Raynaud's disease can result in digital ischemia and requires timely diagnosis and treatment with anticoagulation, thrombolytics, vasodilators, or prostanoids. - Thrombosis within a vessel can also be due to a hypercoagulable state. This is usually in the case of malignant disease which leads to venous thrombosis but can also be due to heparin induced thrombocytopenia. - Finally, vascular patients in particular may develop thrombosis from an aortic dissection or bypass graft occlusion.
+Thrombosis, the formation of a blood clot within an artery, can be due to various causes with rupture of a plaque being the most common. In the case of atherosclerosis, an acute arterial occlusion develops on a severe stenotic lesion. *Symptoms of ALI in this case are less severe and more progressive in nature than symptoms caused by emboli as the body has had ample time to develop a robust collateral circulation.* Vasospasm due to secondary Raynaud's disease can result in digital ischemia and requires timely diagnosis and treatment with anticoagulation, thrombolytics, vasodilators, or prostanoids. Thrombosis within a vessel can also be due to a hypercoagulable state. This is usually in the case of malignant disease which leads to venous thrombosis but can also be due to heparin induced thrombocytopenia. Finally, vascular patients in particular may develop thrombosis from an aortic dissection or bypass graft occlusion.
 
 ------------------------------------------------------------------------
 
 ## Diagnostics and Imaging
 
-The first step in the diagnosis of ALI is a thorough history and physical exam of the patient as well as the timeline of symptom onset.
+### Clinical Diagnosis
 
-### Patient History
+The first step in the diagnosis of ALI is a thorough history and physical exam of the patient. While taking a history, it is important to elucidate the duration and extent of symptoms, cardiovascular risk factors, and past medical history from the patient. Furthermore, it is crucial to establish whether the patient is taking any anticoagulant medications, and if they are, ascertain the timing of their most recent dose.
 
-A complete history including assessment of risk factors and past medical history can lead to both diagnosis and etiology of the current episode; duration of symptoms is important to elicit as irreversible muscle necrosis occurs within 6 to 8 hours.
+As mentioned above in the introduction, the 6 P's (pain, pulselessness, pallor, poikilothermia, paresthesias, and paralysis) can be used as a guide in the diagnosis of ALI. However, symptoms can range depending on the severity of ischemia and pre-existence of collaterals. It is important to note that ALI presenting with less severe symptoms may be misdiagnosed as musculoskeletal disease, sciatica, or other generalized causes of limb pain.
 
-As mentioned in the introduction above, the 6 P's (pain, pulselessness, pallor, poikilothermia, paresthesias, and paralysis) can be used as a guide in the diagnosis of ALI. However, symptoms can range depending on the severity of ischemia and pre-existence of collaterals. It is important to note that ALI presenting with less severe symptoms may be misdiagnosed as musculoskeletal disease, sciatica, or other generalized causes of limb pain.
-
-### Physical Exam
-
-Physical exam findings of the affected limb are essential for diagnosis and classification with regards to severity and need for a revascularization procedure.
-
--   Extremely pale skin color in the affected limb is a sign of total ischemia; this finding may be more difficult to elicit based on the patient's baseline skin color.
--   Loss of sensation and more specifically loss of fine touch and proprioception should be evaluated.
--   Muscle tenderness, particularly in the calf when a lower extremity is involved indicates advanced ischemia.
--   Finally, a vascular exam with a handheld doppler should be performed and can be both diagnostic and reveal the level of occlusion.
+Physical exam findings of the affected limb are essential for diagnosis and classification with regards to severity and need for a revascularization procedure. Extremely pale skin color in the affected limb is a sign of total ischemia; this finding may be more difficult to elicit based on the patient's baseline skin color. Loss of sensation and more specifically loss of fine touch and proprioception should be evaluated. Muscle tenderness, particularly in the calf when a lower extremity is involved indicates advanced ischemia. Finally, a vascular exam with a doppler should be performed and can be both diagnostic and reveal the level of occlusion.
 
 *The gold standard of classifying ALI of the lower extremity and determining need for intervention is based on this combination of sensory/motor clinical findings and a vascular exam with doppler findings.*
 
-**As indicated in the table below, patients who are classified as Class 2 or above will require surgical intervention.**
+**As indicated in table 1 below, patients who are classified as Class 2 or above will require surgical intervention.**
 
 Timing of treatment is an important consideration; patients who fall under class 2a are marginally threatened and do not require immediate intervention versus those who fall under class 2b and 3.
 
 | Rutherford Class                   | Sensory Impairment                        | Motor Impairment | Doppler Signals                   |
-|-------------------|-------------------|----------------|------------------|
+|------------------|------------------|------------------|------------------|
 | Class I (No immediate threat)      | None                                      | None             | Arterial: audible Venous: audible |
 | Class IIa (Marginally Threatened)  | Minimal                                   | None             | Arterial: audible Venous: audible |
 | Class IIb (Immediately Threatened) | Involves forefoot with possible rest pain | Mild to moderate | Arterial: absent Venous: present  |
@@ -228,7 +255,7 @@ Transfemoral angiography or angiography through an alternative access vessel sit
 
 ### Initial management
 
-As mentioned in the previous section, treatment and timing of treatment for ALI depends on the Rutherford class. Initiation of systemic anticoagulation with heparin or a direct thrombin inhibitor in the case of a heparin allergy is always the first step in management. Heparin may even be started during the diagnostic work-up if there is a high clinical suspicion of ALI. Initial labs that should be ordered include a CBC, CMP, baseline fibrinogen, blood-type, and cross-matching.
+AAs mentioned in the previous section, treatment and timing of treatment for ALI depends on the Rutherford class. However, there is a universal set of things that should be done for any patient regardless of their class. Initiation of systemic anticoagulation with heparin or a direct thrombin inhibitor in the case of a heparin induced thrombocytopenia (HIT) is always the first step in management. Heparin may even be started during the diagnostic work-up if there is a high clinical suspicion of ALI. Initial labs that should be ordered include a CBC, CMP, baseline fibrinogen, and a type and screen.
 
 ### Operative management
 
@@ -248,19 +275,58 @@ Surgical revascularization options include catheter embolectomy/thrombectomy, su
 
 Endovascular surgery for the management of ALI provides minimally invasive options for patients who are not good candidates for open revascularization. Endovascular surgical options include catheter directed thrombolysis, mechanical thrombectomy, or pharmacomechanical thrombectomy and there are numerous devices on the market for the application of these therapies.
 
-**In catheter-directed thrombolysis (CDT),** utilized in viable (class I) and marginally threatened (class IIa) cases of ALI, a tPA infusion catheter is inserted into a selected artery percutaneously and provides targeted anticoagulation to the affected lesion reducing systemic effects. The lytic catheter is positioned just distal to the end of the thrombus and proximal to the origin of the thrombus. The lytic agent is initiated at placement and continues over a 10-12 hour period with fibrinogen level monitoring every 4 hours; therapy should be discontinued if fibrinogen levels drop \<100. Major contraindications for this procedure include a head injury, intracranial surgery, spine surgery, or stroke within the last 3 months, an active bleeding disorder, a GI bleeding disorder within 10 days, and a cerebrovascular accident within 6 months.
+**In catheter-directed thrombolysis (CDT),** utilized in viable (class I) and marginally threatened (class IIa) cases of ALI, a tPA infusion catheter is inserted into a selected artery percutaneously and provides targeted anticoagulation to the affected lesion reducing systemic effects. The lytic catheter is positioned just distal to the end of the thrombus and proximal to the origin of the thrombus. The lytic agent is initiated at placement and continues over a 10-12 hour period with fibrinogen level monitoring every 4 hours; therapy should be discontinued if fibrinogen levels drop \<100. Major contraindications for this procedure include a head injury, intracranial surgery, spine surgery, or stroke within the last 3 months, an active bleeding disorder, a GI bleeding disorder within 10 days, a cerebrovascular accident within 6 months, known intracranial aneurysm, tumor, or vascular malformation.
 
-\*\*Mechanical thrombectomy\* uses aspiration, hydrodynamic forces, or mechanical/rotational forces to clear a thrombus. The procedural steps are similar to catheter-directed thrombolysis in terms of percutaneous access and cannulation of the target vessel. This procedure utilizes an aspiration mechanical thrombectomy catheter to simultaneously provide fragmentation and aspiration to restore arterial flow.
+\***Mechanical thrombectomy** uses aspiration, hydrodynamic forces, or mechanical/rotational forces to clear a thrombus. The procedural steps are similar to catheter-directed thrombolysis in terms of percutaneous access and cannulation of the target vessel. This procedure utilizes an aspiration mechanical thrombectomy catheter to simultaneously provide fragmentation and aspiration to restore arterial flow.
 
 **Pharmacomechanical thrombectomy** is a very similar concept as mechanical thrombectomy. In addition to mechanical clot extraction, it applies thrombolytic therapy with a lytic agent . The advantage of this therapy in comparison to catheter directed thrombolysis is the decreased lytic dose and duration of thrombolysis required.
+
+#### Other
+
+In severe cases of ALI where irreversible tissue damage is obvious such as in patients with Rutherford III classification, **primary amputation** may be the most viable treatment option. With irreversible neurovascular damage and tissue necrosis, primary amputation serves to prevent further spread of tissue damage and infection.
+
+------------------------------------------------------------------------
+
+## Post-Operative Complications & Management
+
+The major postoperative complications of ALI are systemic end organ insults from sequelae of ischemia-reperfusion (IR) injury. Reperfusion resulting in rhabdomyolysis, myoglobinuria, and compartment syndrome must be monitored for. Baseline and surveillance creatine phosphokinase as well as surveillance for electrolyte abnormalities, acid base abnormalities, and urine abnormalities including hemoglobinuria, myoglobinuria, and oliguria should be performed.
+
+### Four Compartment Fasciotomy
+
+Prophylactic decompression fasciotomy is recommended in cases with greater than 6 hours of ischemia time and/or in patients with sensory and/or motor deficits. Compartment syndrome is largely a clinical diagnosis however, you can also utilize a stryker needle as a diagnostic tool and objectively measure compartment pressures. Typically, intracompartmental pressure \> 30mmHg or 30 mmHg below the patient's diastolic blood pressure suggests a high likelihood of compartment syndrome particularly if your clinical suspicion is high. It is important to release all four lower leg compartments during fasciotomy.
+
+There are several techniques to release the anterior and lateral compartments. The common techniques include making a 4 to 6 cm incision on the lateral aspect of the tibia between the fibula and the crest of the tibia. A plane is then developed between the skin and underlying fascia, which is then incised and released. The posterior compartment release involves making vertical incisions behind the posteromedial edge of the tibia. The great saphenous vein and the saphenous nerve are identified and protected during the posterior compartment release. A plane is again developed between the skin and fascia and the fascia is incised to release the compartment. The tibial attachments of the soleus are taken down in order to expose the deep posterior compartment, after which the fascia overlying the flexor digitorum logus is incised to release the deep posterior compartment.
+
+### Medical Management
+
+Postoperative medical management will vary depending on the etiology of the acute limb ischemia incident. If the cause was determined to be embolic, either long term anticoagulation with Vitamin K antagonists (VKA; e.g. warfarin a.k.a. "Coumadin") or direct xa inhibitors (e.g. apixaban a.k.a. "Eliquis," rivaroxaban a.k.a. "Xarelto") should be initiated or the clinician should gain further insight into why the medication was missed and how to prevent that from occurring again. If the cause was thrombotic in nature, the patient should be counseled on starting best medical therapy with an aspirin and statin. In both cases, patients should have timely follow up scheduled with their vascular surgeon and primary care provider and smoking cessation should be encouraged.
 
 ------------------------------------------------------------------------
 
 ## Outcomes
 
+-   Patients with ALI tend to have poor long term morbidity and mortality outcomes
+-   Bypass for ALI is associated with increased rates of major limb loss (22.4%) and mortality (20.9%) at 1 year compared to bypass for all other reasons
+-   In a large scale national patient inquiry study of patients discharged with ALI, rates of major limb amputation (12.7%) and mortality (9.3%) were high at discharge
+-   Rates of limb salvage for catheter-based and surgical revascularization seem comparable, with catheter based interventions proving more costly
+
 ------------------------------------------------------------------------
 
 ## Surveillance
+
+### Medical surveillance following ALI discharge
+
+After bypass or catheter based intervention, patients should resume their preoperative medications for angina, hypertension, arrhythmia, and congestive heart failure. Antiplatelet therapy with aspirin is recommended for cerebrovascular protective effects and may also improve early graft patency. Anticoagulation may be considered in addition to antiplatelet therapy based on patient specific factors such as etiology of clot, graft characteristics, and comorbidities.
+
+### Clinical and vascular laboratory surveillance following ALI discharge
+
+Patients undergoing bypass due to ALI can follow SVS guidelines for vein grafts. [@zierler2018]
+
+-   Early postoperative baseline arterial duplex ultrasound, ABI/PVR, clinical examination with follow up at 3, 6, 12 months, and annually after.
+
+-   More frequent surveillance may be considered for individuals with abnormalities on DUS
+
+The SVS does not have standard surveillance guidelines for patients undergoing catheter based intervention for ALI.
 
 ------------------------------------------------------------------------
 
@@ -268,17 +334,35 @@ Endovascular surgery for the management of ALI provides minimally invasive optio
 
 ### Scenario
 
+A 73-year-old woman with a past medical history of HTN, HLD, Type 2 Diabetes, and Atrial Fibrillation (on xarelto) presents to the emergency department with severe right lower extremity pain. She states she has had this severe pain for 2 days which has progressed to the point of where it limits her mobility. She says she has tried over the counter pain medication as well as gabapentin but nothing has resolved the pain. The patient recently had a left knee replacement surgery 10 days ago. Post procedure, the patient was confused about when to resume her xarelto and as such has not been taking it.
+
+Family Hx: Diabetes, HLD, Factor V Leiden Social Hx: Former smoker (1 pack per day for 15 years) Surgical Hx: Laparoscopic Cholecystectomy, Vaginal Hysterectomy, Left Total Knee Replacement
+
 ### Exam
+
+**Vitals:**
+
+Temp: Afebrile HR: 102 BP: 150/67 RR: 18 O2: 96 on room air
 
 **HEENT:**
 
+Normocephalic, atraumatic, mucous membranes moist, pupils equally round and reactive
+
 **Cardiac:**
+
+Regular rate and irregular rhythm
 
 **Pulmonary:**
 
 **Abdominal:**
 
+Clear to auscultation bilaterally, no rales/rhonchi/wheezing
+
 **Vascular/Extremities:**
+
+RLE: Pale appearing foot, tender to palpation, cool to touch, delayed capillary refill Femoral: 2 + palpable Popliteal: 2+ palpable PT: non palpable, no audible doppler signals DP: nonpalpable, no audible doppler signals
+
+LLE: Warm, well perfused, knee replacement incision site clean, dry, intact with no surrounding redness, warmth, or erythema Femoral: 2 + palpable Popliteal: 2+ palpable PT: 2 + palpable DP: 2 + palpable
 
 ### Imaging
 
@@ -292,15 +376,34 @@ Endovascular surgery for the management of ALI provides minimally invasive optio
 However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
 :::
 
-1.  to do
+1.  Please explain the pathophysiology of the patient's lower extremity pain
+2.  Please list the patient's risk factors for Acute Limb Ischemia
+3.  Explain the findings on the CTA?
+4.  What next steps should be pursued to pursue treatment for the patient?
+5.  How timely do you need to be with regards to intervening on this patient?
+6.  What additional imaging would help with surgical planning for the patient?
+7.  What surgical treatment could be offered to this patient?
+8.  What follow up labs/surveillance/counseling should be provided to this patient?
 
 ------------------------------------------------------------------------
 
 ## Key Articles
 
-1. Creager MA, Kaufman JA, Conte MS. Clinical practice. Acute limb ischemia. N Engl J Med. 2012 Jun 7;366(23):2198-206. doi: 10.1056/NEJMcp1006054. PMID: 22670905. [@creager2012]
+1.  Creager MA, Kaufman JA, Conte MS. Clinical practice. Acute limb ischemia. N Engl J Med. 2012 Jun 7;366(23):2198-206. doi: 10.1056/NEJMcp1006054. PMID: 22670905. [@creager2012]
 
 2.  Olinic DM, Stanek A, Tătaru DA, Homorodean C, Olinic M. Acute Limb Ischemia: An Update on Diagnosis and Management. J Clin Med. 2019 Aug 14;8(8):1215. doi: 10.3390/jcm8081215. PMID: 31416204; PMCID: PMC6723825. [@olinic2019]
+
+3.  Sidawy, A. N., Perler, B. A., & Rutherford, R. B. (2023). Rutherford's vascular surgery and endovascular therapy. Elsevier. [@sidawy2023d]
+
+4.  Smith DA, Lilie CJ. Acute Arterial Occlusion. \[Updated 2023 Jan 2\]. In: StatPearls \[Internet\]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK441851/# [@smith2023]
+
+5.  Baril DT, Patel VI, Judelson DR, Goodney PP, McPhee JT, Hevelone ND, Cronenwett JL, Schanzer A; Vascular Study Group of New England. Outcomes of lower extremity bypass performed for acute limb ischemia. J Vasc Surg. 2013 Oct;58(4):949-56. doi: 10.1016/j.jvs.2013.04.036. Epub 2013 May 25. PMID: 23714364; PMCID: PMC3930450. [@baril2013]
+
+6.  Eliason JL, Wainess RM, Proctor MC, Dimick JB, Cowan JA Jr, Upchurch GR Jr, Stanley JC, Henke PK. A national and single institutional experience in the contemporary treatment of acute lower extremity ischemia. Ann Surg. 2003 Sep;238(3):382-9; discussion 389-90. doi: 10.1097/01.sla.0000086663.49670.d1. PMID: 14501504; PMCID: PMC1422711. [@eliason2003]
+
+7.  R. Eugene Zierler, William D. Jordan, Brajesh K. Lal, Firas Mussa, Steven Leers, Joseph Fulton, William Pevec, Andrew Hill, M. Hassan Murad, The Society for Vascular Surgery practice guidelines on follow-up after vascular surgery arterial procedures, Journal of Vascular Surgery, Volume 68, Issue 1, 2018, Pages 256-284, SSN 0741-5214, https://doi.org/10.1016/j.jvs.2018.04.018 (https://www.sciencedirect.com/science/article/pii/S0741521418308966) [@zierler2018a]
+
+8.  Björck, M., Earnshaw, J. J., Acosta, S., Bastos Gonçalves, F., Cochennec, F., Debus, E. S., Hinchliffe, R., Jongkind, V., Koelemay, M. J. W., Menyhei, G., Svetlikov, A. V., Tshomba, Y., Van Den Berg, J. C., Esvs Guidelines Committee, de Borst, G. J., Chakfé, N., Kakkos, S. K., Koncar, I., Lindholt, J. S., Tulamo, R., ... Rai, K. (2020). Editor's Choice - European Society for Vascular Surgery (ESVS) 2020 Clinical Practice Guidelines on the Management of Acute Limb Ischaemia. European journal of vascular and endovascular surgery : the official journal of the European Society for Vascular Surgery, 59(2), 173--218. https://doi.org/10.1016/j.ejvs.2019.09.006 [@björck2020]
 
 ## Additional Resources
 
@@ -308,7 +411,9 @@ However, we feel this chapter contains all the necessary information to answer t
 
 -   Audible Bleeding Exam Prep: [Acute Limb Ischemia Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/ali.html)
 
-<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/16441412/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/16441412/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
+
+</iframe>
 
 ------------------------------------------------------------------------
 
