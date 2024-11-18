@@ -3,7 +3,7 @@ title: "Acute Limb Ischemia (ALI)"
 chapter_number: 6
 title-block-banner: false
 title-block-style: plain
-authors: Pavan Guduri, Alan Sumskim Gowri Gowda, MD, Jonathan Cardella, MD, FRCS.
+authors: Pavan Guduri, MD, Alan Sumski, MD, MS, Gowri Gowda, MD, Jonathan Cardella, MD, FRCS.
 format: html
 editor: visual
 number-sections: false
@@ -29,7 +29,10 @@ By the end of this chapter, students will:
 ::: {.callout-note icon="false"}
 ## Key Facts
 
-1.  To Do
+1.    Acute Limb Ischemia  (ALI) refers to a vascular emergency that can lead to limb loss and death if not treated in a timely manner. 
+2.    History and clinical examination is crucial in the workup of ALI as patients can present with a wide range of neurovascular symptoms.   
+3.    Rutherford Classification is a classification system developed to categorize the degree of severity of ALI and guide management and treatment. 
+4.    Treatment of ALI ranges from medical management, endovascular surgery, open surgery and hybrid open/endovascular procedures depending on the severity of disease. 
 :::
 
 ::: callout-tip
@@ -44,7 +47,6 @@ The pre/post questions are listed below. They are all multiple choice questions 
 
 1.  A 61-year-old man with a history of heavy smoking, hypertension, diabetes mellitus, and peripheral arterial disease with intermittent claudication presents to the ED with 3 hours of severe, acute-onset pain in his right foot. He takes aspirin daily, a beta-blocker for his hypertension, and metformin for his diabetes. His right foot is cool compared to his left foot. A thorough physical exam reveals no palpable pulses or audible doppler signals in his dorsalis pedis or posterior tibial arteries in the right foot. In addition, he has loss of fine touch, and proprioception to the ankle. He also has weakness with plantar/dorsiflexion of the toes in the right foot. *Based on Rutherford's classification of acute limb ischemia, what category of acute limb ischemia does this patient have?*
 
-<!-- -->
 
 A.  I
 
@@ -170,13 +172,13 @@ Discussion: The first step in treatment of acute limb ischemia before any interv
 
 Recent data indicates an incidence of approximately 1.5 cases per 10,000 people annually, with a 9% 30-day mortality rate and a 12.7% 30-day amputation rate despite early revascularization. [@olinic2019]
 
-ALI is commonly caused by arterial embolism or thrombosis, with **risk factors** including smoking, diabetes, age, hypertension, hyperlipidemia, family history of vascular disease, and obesity. [@sidawy2023][@smith2024a]
+ALI is commonly caused by arterial embolism or thrombosis, with **risk factors** including smoking, diabetes, age, hypertension, hyperlipidemia, family history of vascular disease, and obesity.  [@sidawy2023] [@smith2024a]
 
-Clinical manifestations vary based on the affected artery and collateral blood vessels, with the 6 P's (**pain, pulselessness, pallor, poikilothermia, paresthesias, and paralysis**) serving as diagnostic indicators. These symptoms make sense. If you have no flow, there will be no pulse. With no pulse, there will be no red blood (pallor) or warm blood (poikliothermia) in the affected limb. Lack of blood flow causes ischemia leading to pain, nerve ischemia/death (paraesthesia), and eventual paralysis.
+Clinical manifestations vary based on the affected artery and collateral blood vessels, with the 6 P's (**pain, pulselessness, pallor, poikilothermia, paresthesias, and paralysis**) serving as diagnostic indicators. These symptoms make sense. If you have no flow, there will be no pulse. With no pulse, there will be no red blood (pallor) or warm blood (poikliothermia) in the affected limb. Lack of blood flow causes ischemia leading to pain, nerve ischemia/death (paraesthesia), and eventual paralysis. Review a pictogram of the 6 P's [here](https://teachmesurgery.com/wp-content/uploads/2020/03/The-6-Ps.jpg.webp).
 
-CT angiography is the preferred imaging modality, aiding in both diagnosis and intraoperative strategy. Treatment options range from anticoagulation alone to open or endovascular surgery, depending on the severity of ALI.[@sidawy2023a]
+CT angiography is the preferred imaging modality, aiding in both diagnosis and intraoperative strategy. Treatment options range from anticoagulation alone to open or endovascular surgery, depending on the severity of ALI. [@sidawy2023a]
 
-::: Callout-tip
+::: callout-tip
 The **6 P's** are highly testable and extremely important to recognize. Again, they are:
 
 -   Pain (sometimes lessenes when limb is in a dependent position, i.e. gravity help blood flow)
@@ -193,14 +195,13 @@ The **6 P's** are highly testable and extremely important to recognize. Again, t
 
 Most patients initially present with pain, pallor, pulselessness, and poikliothermia.[@smith2024]
 :::
-
 ------------------------------------------------------------------------
 
 ## Etiology
 
 As briefly mentioned in the introduction, ALI is caused by a sudden reduction in blood supply to the affected limb. The two major causes of ALI are embolism and thrombosis.
 
-###Embolism
+### Embolism
 
 Embolic events occur when material, typically clot, dislodges from a source and travels in the arterial system until it deposits in a vessel causing an obstruction. Emboli typically get lodged at arterial bifurcation sites or in atherosclerotic vessels. For example in the lower extremity, clot commonly lodges at the bifurcation where the common femoral artery divides into the superficial femoral artery and profunda. Patients who have acute limb ischemia due to embolic sources typically have severe symptoms due to lack of collateral development (N.B. collateralization is a common finding in patients with chronic limb ischemia).
 
@@ -285,7 +286,6 @@ Endovascular surgery for the management of ALI provides minimally invasive optio
 
 In severe cases of ALI where irreversible tissue damage is obvious such as in patients with Rutherford III classification, **primary amputation** may be the most viable treatment option. With irreversible neurovascular damage and tissue necrosis, primary amputation serves to prevent further spread of tissue damage and infection.
 
-
 ![](images/ALIFlow.jpg){fig-align="center" width="100%"}
 ------------------------------------------------------------------------
 
@@ -295,22 +295,45 @@ The major postoperative complications of ALI are systemic end organ insults from
 
 ### Four Compartment Fasciotomy
 
-Prophylactic decompression fasciotomy is recommended in cases with greater than 6 hours of ischemia time and/or in patients with sensory and/or motor deficits. Compartment syndrome is largely a clinical diagnosis however, you can also utilize a stryker needle as a diagnostic tool and objectively measure compartment pressures. Typically, intracompartmental pressure \> 30mmHg or 30 mmHg below the patient's diastolic blood pressure suggests a high likelihood of compartment syndrome particularly if your clinical suspicion is high. It is important to release all four lower leg compartments during fasciotomy.
+Prophylactic decompression fasciotomy is recommended in cases with greater than 6 hours of ischemia time and/or in patients with sensory and/or motor deficits. Compartment syndrome is largely a clinical diagnosis however, you can also utilize a Stryker needle as a diagnostic tool and objectively measure compartment pressures. Typically, intracompartmental pressure \> 30mmHg or 30 mmHg below the patient's diastolic blood pressure suggests a high likelihood of compartment syndrome particularly if your clinical suspicion is high. It is important to release all four lower leg compartments during fasciotomy.
 
+![The four compartments of the lower leg.](images/compartments.jpg){fig-align="center" width="80%"}
+
+
+![Muscle groups of the lower leg compartments; Red = Anterior, Blue = Lateral, Pink Superficial Posterior, Green = Deep Posterior; animation by Polygon data are from BodyParts3D and shared under a Creative Commons license.](images/compartmentsgif.gif){fig-align="center" width="80%"}
 There are several techniques to release the anterior and lateral compartments. The common techniques include making a 4 to 6 cm incision on the lateral aspect of the tibia between the fibula and the crest of the tibia. A plane is then developed between the skin and underlying fascia, which is then incised and released. The posterior compartment release involves making vertical incisions behind the posteromedial edge of the tibia. The great saphenous vein and the saphenous nerve are identified and protected during the posterior compartment release. A plane is again developed between the skin and fascia and the fascia is incised to release the compartment. The tibial attachments of the soleus are taken down in order to expose the deep posterior compartment, after which the fascia overlying the flexor digitorum logus is incised to release the deep posterior compartment.
+
+::: {.callout-tip}
+Watch a video of a four-compartment fasciotomy here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AYlcxypkZ4w?si=hZfrwKGvjgeRlM4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+:::
+
+::: {.callout-tip}
+
+The contents of each compartment are **often** questioned and students should be familiar with the organization fo the lower limb.
+
+|     Compartment       	| Muscles                                                                                  	| Neurovascular structures                                       	|
+|-----------------------	|------------------------------------------------------------------------------------------	|----------------------------------------------------------------	|
+| Anterior              	| tibialis anterior, extensor hallucis longus, extensor digitorum longus, peroneus tertius 	| deep peroneal nerve, anterior tibial vessels (artery and vein) 	|
+| Lateral               	| peroneus longus, peroneus brevis                                                         	| superficial peroneal nerve, peroneal artery                                     	|
+| Superficial Posterior 	| gastrocnemius, plantaris, soleus                                                         	| sural nerve                                                    	|
+| Deep Posterior        	| tibialis posterior, flexor hallucis longus, flexor digitorum longus, popliteus           	| tibial nerve, posterior tibial vessels (artery and vein)      	|
+:::
 
 ### Medical Management
 
-Postoperative medical management will vary depending on the etiology of the acute limb ischemia incident. If the cause was determined to be embolic, either long term anticoagulation with Vitamin K antagonists (VKA; e.g. warfarin a.k.a. "Coumadin") or direct xa inhibitors (e.g. apixaban a.k.a. "Eliquis," rivaroxaban a.k.a. "Xarelto") should be initiated or the clinician should gain further insight into why the medication was missed and how to prevent that from occurring again. If the cause was thrombotic in nature, the patient should be counseled on starting best medical therapy with an aspirin and statin. In both cases, patients should have timely follow up scheduled with their vascular surgeon and primary care provider and smoking cessation should be encouraged.
+Postoperative medical management will vary depending on the etiology of the acute limb ischemia incident. If the cause was determined to be embolic, long term anticoagulation with Vitamin K antagonists (VKA; e.g. warfarin a.k.a. "Coumadin") or direct xa inhibitors (e.g. apixaban a.k.a. "Eliquis," rivaroxaban a.k.a. "Xarelto") should be initiated. If the patient was already on anticooagulation, the clinician should gain further insight into if and why a dose was missed and how to prevent similar events from occurring again. If the cause was thrombotic in nature, the patient should be counseled on starting best medical therapy with an aspirin and statin. In both cases, patients should have timely follow up scheduled with their vascular surgeon and primary care provider and smoking cessation should be encouraged.
 
 ------------------------------------------------------------------------
 
 ## Outcomes
 
 -   Patients with ALI tend to have poor long term morbidity and mortality outcomes
--   Bypass for ALI is associated with increased rates of major limb loss (22.4%) and mortality (20.9%) at 1 year compared to bypass for all other reasons
--   In a large scale national patient inquiry study of patients discharged with ALI, rates of major limb amputation (12.7%) and mortality (9.3%) were high at discharge
--   Rates of limb salvage for catheter-based and surgical revascularization seem comparable, with catheter based interventions proving more costly
+-   Bypass for ALI is associated with increased rates of major limb loss (22.4%) and mortality (20.9%) at 1 year compared to bypass for all other reasons. [@baril2013]
+-   In a single institutional retrospective study, the 5-year freedom from re-intervention rate was 89.2%. The survival rates at 1, 3, and 5 years were 87.9%, 75.2%, and 60.6%, respectively. [@eliason2003]
 
 ------------------------------------------------------------------------
 
@@ -318,7 +341,7 @@ Postoperative medical management will vary depending on the etiology of the acut
 
 ### Medical surveillance following ALI discharge
 
-After bypass or catheter based intervention, patients should resume their preoperative medications for angina, hypertension, arrhythmia, and congestive heart failure. Antiplatelet therapy with aspirin is recommended for cerebrovascular protective effects and may also improve early graft patency. Anticoagulation may be considered in addition to antiplatelet therapy based on patient specific factors such as etiology of clot, graft characteristics, and comorbidities.
+After bypass or catheter based intervention, patients should resume their preoperative medications for angina, hypertension, arrhythmia, and congestive heart failure. Antiplatelet therapy is commonly utilized postoperatively and anticoagulation may be considered in addition to antiplatelet therapy based on patient specific factors such as etiology of clot, graft characteristics, and comorbidities.
 
 ### Clinical and vascular laboratory surveillance following ALI discharge
 
@@ -368,8 +391,7 @@ LLE: Warm, well perfused, knee replacement incision site clean, dry, intact with
 
 ### Imaging
 
-- to do
-
+![CTA cuts of the bilateral lower extremities (A, B) and angiogram images of the right lower extremity (C, D). Image provided by chapter authors with patient permission.](images/aliteaching.jpg){fig-align="center" width="100%"}
 ### Discussion Points
 
 ::: callout-note
