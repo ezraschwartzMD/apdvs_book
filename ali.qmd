@@ -29,10 +29,10 @@ By the end of this chapter, students will:
 ::: {.callout-note icon="false"}
 ## Key Facts
 
-1.    Acute Limb Ischemia  (ALI) refers to a vascular emergency that can lead to limb loss and death if not treated in a timely manner. 
-2.    History and clinical examination is crucial in the workup of ALI as patients can present with a wide range of neurovascular symptoms.   
-3.    Rutherford Classification is a classification system developed to categorize the degree of severity of ALI and guide management and treatment. 
-4.    Treatment of ALI ranges from medical management, endovascular surgery, open surgery and hybrid open/endovascular procedures depending on the severity of disease. 
+1.  Acute Limb Ischemia (ALI) refers to a vascular emergency that can lead to limb loss and death if not treated in a timely manner.
+2.  History and clinical examination is crucial in the workup of ALI as patients can present with a wide range of neurovascular symptoms.\
+3.  Rutherford Classification is a classification system developed to categorize the degree of severity of ALI and guide management and treatment.
+4.  Treatment of ALI ranges from medical management, endovascular surgery, open surgery and hybrid open/endovascular procedures depending on the severity of disease.
 :::
 
 ::: callout-tip
@@ -47,6 +47,7 @@ The pre/post questions are listed below. They are all multiple choice questions 
 
 1.  A 61-year-old man with a history of heavy smoking, hypertension, diabetes mellitus, and peripheral arterial disease with intermittent claudication presents to the ED with 3 hours of severe, acute-onset pain in his right foot. He takes aspirin daily, a beta-blocker for his hypertension, and metformin for his diabetes. His right foot is cool compared to his left foot. A thorough physical exam reveals no palpable pulses or audible doppler signals in his dorsalis pedis or posterior tibial arteries in the right foot. In addition, he has loss of fine touch, and proprioception to the ankle. He also has weakness with plantar/dorsiflexion of the toes in the right foot. *Based on Rutherford's classification of acute limb ischemia, what category of acute limb ischemia does this patient have?*
 
+<!-- -->
 
 A.  I
 
@@ -172,7 +173,7 @@ Discussion: The first step in treatment of acute limb ischemia before any interv
 
 Recent data indicates an incidence of approximately 1.5 cases per 10,000 people annually, with a 9% 30-day mortality rate and a 12.7% 30-day amputation rate despite early revascularization. [@olinic2019]
 
-ALI is commonly caused by arterial embolism or thrombosis, with **risk factors** including smoking, diabetes, age, hypertension, hyperlipidemia, family history of vascular disease, and obesity.  [@sidawy2023] [@smith2024a]
+ALI is commonly caused by arterial embolism or thrombosis, with **risk factors** including smoking, diabetes, age, hypertension, hyperlipidemia, family history of vascular disease, and obesity. [@sidawy2023] [@smith2024a]
 
 Clinical manifestations vary based on the affected artery and collateral blood vessels, with the 6 P's (**pain, pulselessness, pallor, poikilothermia, paresthesias, and paralysis**) serving as diagnostic indicators. These symptoms make sense. If you have no flow, there will be no pulse. With no pulse, there will be no red blood (pallor) or warm blood (poikliothermia) in the affected limb. Lack of blood flow causes ischemia leading to pain, nerve ischemia/death (paraesthesia), and eventual paralysis. Review a pictogram of the 6 P's [here](https://teachmesurgery.com/wp-content/uploads/2020/03/The-6-Ps.jpg.webp).
 
@@ -195,6 +196,7 @@ The **6 P's** are highly testable and extremely important to recognize. Again, t
 
 Most patients initially present with pain, pallor, pulselessness, and poikliothermia.[@smith2024]
 :::
+
 ------------------------------------------------------------------------
 
 ## Etiology
@@ -286,8 +288,7 @@ Endovascular surgery for the management of ALI provides minimally invasive optio
 
 In severe cases of ALI where irreversible tissue damage is obvious such as in patients with Rutherford III classification, **primary amputation** may be the most viable treatment option. With irreversible neurovascular damage and tissue necrosis, primary amputation serves to prevent further spread of tissue damage and infection.
 
-![](images/ALIFlow.jpg){fig-align="center" width="100%"}
-------------------------------------------------------------------------
+## ![](images/ALIFlow.jpg){fig-align="center" width="100%"}
 
 ## Post-Operative Complications & Management
 
@@ -299,11 +300,11 @@ Prophylactic decompression fasciotomy is recommended in cases with greater than 
 
 ![The four compartments of the lower leg.](images/compartments.jpg){fig-align="center" width="80%"}
 
+![Fascial compartments and muscle groups of the lower leg compartments; Red = Anterior, Blue = Lateral, Pink Superficial Posterior, Green = Deep Posterior; published by Polygon data from  Database Center for Life Science (DBCLS) and BodyParts3D; shared under a Creative Commons license.](images/fascialscompartments.png){fig-align="center" width="80%"}
 
-![Muscle groups of the lower leg compartments; Red = Anterior, Blue = Lateral, Pink Superficial Posterior, Green = Deep Posterior; animation by Polygon data are from BodyParts3D and shared under a Creative Commons license.](images/compartmentsgif.gif){fig-align="center" width="80%"}
 There are several techniques to release the anterior and lateral compartments. The common techniques include making a 4 to 6 cm incision on the lateral aspect of the tibia between the fibula and the crest of the tibia. A plane is then developed between the skin and underlying fascia, which is then incised and released. The posterior compartment release involves making vertical incisions behind the posteromedial edge of the tibia. The great saphenous vein and the saphenous nerve are identified and protected during the posterior compartment release. A plane is again developed between the skin and fascia and the fascia is incised to release the compartment. The tibial attachments of the soleus are taken down in order to expose the deep posterior compartment, after which the fascia overlying the flexor digitorum logus is incised to release the deep posterior compartment.
 
-::: {.callout-tip}
+::: callout-tip
 Watch a video of a four-compartment fasciotomy here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AYlcxypkZ4w?si=hZfrwKGvjgeRlM4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
@@ -311,16 +312,15 @@ Watch a video of a four-compartment fasciotomy here:
 </iframe>
 :::
 
-::: {.callout-tip}
-
+::: callout-tip
 The contents of each compartment are **often** questioned and students should be familiar with the organization fo the lower limb.
 
-|     Compartment       	| Muscles                                                                                  	| Neurovascular structures                                       	|
-|-----------------------	|------------------------------------------------------------------------------------------	|----------------------------------------------------------------	|
-| Anterior              	| tibialis anterior, extensor hallucis longus, extensor digitorum longus, peroneus tertius 	| deep peroneal nerve, anterior tibial vessels (artery and vein) 	|
-| Lateral               	| peroneus longus, peroneus brevis                                                         	| superficial peroneal nerve, peroneal artery                                     	|
-| Superficial Posterior 	| gastrocnemius, plantaris, soleus                                                         	| sural nerve                                                    	|
-| Deep Posterior        	| tibialis posterior, flexor hallucis longus, flexor digitorum longus, popliteus           	| tibial nerve, posterior tibial vessels (artery and vein)      	|
+| Compartment           | Muscles                                                                                  | Neurovascular structures                                       |
+|------------------|-------------------------------|-----------------------|
+| Anterior              | tibialis anterior, extensor hallucis longus, extensor digitorum longus, peroneus tertius | deep peroneal nerve, anterior tibial vessels (artery and vein) |
+| Lateral               | peroneus longus, peroneus brevis                                                         | superficial peroneal nerve, peroneal artery                    |
+| Superficial Posterior | gastrocnemius, plantaris, soleus                                                         | sural nerve                                                    |
+| Deep Posterior        | tibialis posterior, flexor hallucis longus, flexor digitorum longus, popliteus           | tibial nerve, posterior tibial vessels (artery and vein)       |
 :::
 
 ### Medical Management
@@ -391,8 +391,7 @@ LLE: Warm, well perfused, knee replacement incision site clean, dry, intact with
 
 ### Imaging
 
-![CTA cuts of the bilateral lower extremities (A, B) and angiogram images of the right lower extremity (C, D). Image provided by chapter authors with patient permission.](images/aliteaching.jpg){fig-align="center" width="100%"}
-### Discussion Points
+![CTA cuts of the bilateral lower extremities (A, B) and angiogram images of the right lower extremity (C, D). Image provided by chapter authors with patient permission.](images/aliteaching.jpg){fig-align="center" width="100%"} \### Discussion Points
 
 ::: callout-note
 ## N.B. There is no prepared answers for the questions below.
@@ -475,7 +474,7 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 
 </iframe>
 
-#### Below Knee Amputation 
+#### Below Knee Amputation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7CR-j-3o27E?si=PDHwlLi1uaZvpcCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
