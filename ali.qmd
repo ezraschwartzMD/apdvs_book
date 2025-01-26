@@ -288,7 +288,7 @@ Endovascular surgery for the management of ALI provides minimally invasive optio
 
 In severe cases of ALI where irreversible tissue damage is obvious such as in patients with Rutherford III classification, **primary amputation** may be the most viable treatment option. With irreversible neurovascular damage and tissue necrosis, primary amputation serves to prevent further spread of tissue damage and infection.
 
-## ![](images/ALIFlow.jpg){fig-align="center" width="100%"}
+## ![](images/ALIFlow.jpg){fig-align="center" width="90%"}
 
 ## Post-Operative Complications & Management
 
@@ -300,7 +300,7 @@ Prophylactic decompression fasciotomy is recommended in cases with greater than 
 
 ![The four compartments of the lower leg.](images/compartments.jpg){fig-align="center" width="80%"}
 
-![Fascial compartments and muscle groups of the lower leg compartments; Red = Anterior, Blue = Lateral, Pink Superficial Posterior, Green = Deep Posterior; published by Polygon data from  Database Center for Life Science (DBCLS) and BodyParts3D; shared under a Creative Commons license.](images/fascialscompartments.png){fig-align="center" width="80%"}
+![Fascial compartments and muscle groups of the lower leg compartments; Red = Anterior, Blue = Lateral, Pink Superficial Posterior, Green = Deep Posterior; published by Polygon data from Database Center for Life Science (DBCLS) and BodyParts3D; shared under a Creative Commons license.](images/fascialscompartments.png){fig-align="center" width="50%"}
 
 There are several techniques to release the anterior and lateral compartments. The common techniques include making a 4 to 6 cm incision on the lateral aspect of the tibia between the fibula and the crest of the tibia. A plane is then developed between the skin and underlying fascia, which is then incised and released. The posterior compartment release involves making vertical incisions behind the posteromedial edge of the tibia. The great saphenous vein and the saphenous nerve are identified and protected during the posterior compartment release. A plane is again developed between the skin and fascia and the fascia is incised to release the compartment. The tibial attachments of the soleus are taken down in order to expose the deep posterior compartment, after which the fascia overlying the flexor digitorum logus is incised to release the deep posterior compartment.
 
@@ -391,7 +391,9 @@ LLE: Warm, well perfused, knee replacement incision site clean, dry, intact with
 
 ### Imaging
 
-![CTA cuts of the bilateral lower extremities (A, B) and angiogram images of the right lower extremity (C, D). Image provided by chapter authors with patient permission.](images/aliteaching.jpg){fig-align="center" width="100%"} \### Discussion Points
+![CTA cuts of the bilateral lower extremities (A, B) and angiogram images of the right lower extremity (C, D). Image provided by chapter authors with patient permission.](images/aliteaching.jpg){fig-align="center" width="70%"}
+
+### Discussion Points
 
 ::: callout-note
 ## N.B. There is no prepared answers for the questions below.
