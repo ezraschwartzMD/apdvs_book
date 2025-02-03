@@ -3,7 +3,7 @@ title: "Acute Limb Ischemia (ALI)"
 chapter_number: 6
 title-block-banner: false
 title-block-style: plain
-authors: Pavan Guduri, MD, Gowri Gowda, MD, Jonathan Cardella, MD, FRCS.
+authors: Gowri Gowda, MD, Pavan Guduri, MD, Jonathan Cardella, MD, FRCS.
 format: html
 editor: visual
 number-sections: false
