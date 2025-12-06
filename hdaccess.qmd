@@ -217,6 +217,7 @@ Renal failure encompasses a range of conditions, including acute kidney injury (
 | Conversion of vitamin D to active metabolite                     |
 | Production of erythropoietin                                     |
 | Renin                                                            |
+
 **Table 1:** Functions of the kidney and pathophysiology of renal failure.
 
 ESRD disproportionately affects historically disadvantaged populations. In the U.S., the incidence of ESRD among Black individuals is nearly four times that of White individuals. The rates are also higher among Native American and Hispanic populations. [@francis2024] [@annuald] [@kidneyd] The incidence of ESRD also has significant regional variability, reflecting disparities in healthcare access and risk factor distribution. [@annuald] [@kidneyd] CKD is slightly more common in women, but men are more likely to experience worse outcomes and progress to ESRD. [@kidneyd]
@@ -299,35 +300,36 @@ The decision to create vascular access for HD, as well as the type of access cho
 
 The progression from temporary to permanent access often begins with catheter-based access. Temporary access is common, with roughly 80% of patients starting HD using this method. [@2019ann] They are typically used when dialysis is needed in those with limited life expectancies, urgently when there is no time to create an AVF or AVG, or as a bridge to permanent access intervention. [@lok2020] They are most often used when waiting for an AVF to mature. CVCs, while providing immediate cannulation access after placement, are meant for short-term use due to a higher risk of infection and complications. Early access placement has been shown to decrease the risk of sepsis and death when compared to late access creation by reducing the use of CVCs. [@oliver2004] Having the same practitioner or a coordinated team handle both catheter placement and subsequent permanent access ensures better continuity of care.
 
-| Access type                 	|                                                                                                           	|                                                                                                    	|                                                                                                                                                                                                  	|
-|-----------------------------	|-----------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-|                             	| AVF                                                                                                       	| AVG                                                                                                	| CVC                                                                                                                                                                                              	|
-| Type                        	| Autologous                                                                                                	| Synthetic                                                                                          	| Synthetic                                                                                                                                                                                        	|
-| Material                    	| Patient’s own artery and vein. The minimum size should be >2mm in the forearm and >3mm in the upper arm.  	| Cryopreserved donor vessel or PTFE, Dacron                                                         	| Medical-grade polymers (polyurethane, silicone)                                                                                                                                                  	|
-| Description                 	| An AVF is a surgically created connection between an artery and an autologous vein.                       	| An AVG is a surgically created connection between an artery and a vein using a prosthetic conduit. 	| Temporary: Catheters placed directly into a central vein. Tunneled CVCs: Catheters placed under the skin and tunneled to a central vein.                                                         	|
-| Duration of use/ permanency 	| Gold standard for long-term access.                                                                       	| Long-term.                                                                                         	| Temporary CVC: Short-term, 2-3 weeks,  immediate use, high possibility of dislodging or infection. Tunneled CVC: Medium-term access while awaiting maturation of permanent option (e.g., AVF/G). 	|
-| Access timing               	| Early access: Placed through planned surgery 4-6 months before anticipated HD need.                       	| Early access: Placed via planned surgery 4-6 months before anticipated HD need.                    	| Late access: Placement for unanticipated dialysis for  immediate use.                                                                                                                            	|
-| Maturation time             	| 6-8 weeks                                                                                                 	| 2-4 weeks                                                                                          	| N/A                                                                                                                                                                                              	|
-| Placement                   	| UE > LE. Nondominant arm > Dominant arm                                                                   	| UE > LE. Nondominant arm > Dominant arm                                                            	| IJV or FV. SV as a last resort. RIJV > LIJV                                                                                                                                                      	|
+| Access type                 |                                                                                                            |                                                                                                    |                                                                                                                                                                                                 |
+|------------------|------------------|------------------|-------------------|
+|                             | AVF                                                                                                        | AVG                                                                                                | CVC                                                                                                                                                                                             |
+| Type                        | Autologous                                                                                                 | Synthetic                                                                                          | Synthetic                                                                                                                                                                                       |
+| Material                    | Patient's own artery and vein. The minimum size should be \>2mm in the forearm and \>3mm in the upper arm. | Cryopreserved donor vessel or PTFE, Dacron                                                         | Medical-grade polymers (polyurethane, silicone)                                                                                                                                                 |
+| Description                 | An AVF is a surgically created connection between an artery and an autologous vein.                        | An AVG is a surgically created connection between an artery and a vein using a prosthetic conduit. | Temporary: Catheters placed directly into a central vein. Tunneled CVCs: Catheters placed under the skin and tunneled to a central vein.                                                        |
+| Duration of use/ permanency | Gold standard for long-term access.                                                                        | Long-term.                                                                                         | Temporary CVC: Short-term, 2-3 weeks, immediate use, high possibility of dislodging or infection. Tunneled CVC: Medium-term access while awaiting maturation of permanent option (e.g., AVF/G). |
+| Access timing               | Early access: Placed through planned surgery 4-6 months before anticipated HD need.                        | Early access: Placed via planned surgery 4-6 months before anticipated HD need.                    | Late access: Placement for unanticipated dialysis for immediate use.                                                                                                                            |
+| Maturation time             | 6-8 weeks                                                                                                  | 2-4 weeks                                                                                          | N/A                                                                                                                                                                                             |
+| Placement                   | UE \> LE. Nondominant arm \> Dominant arm                                                                  | UE \> LE. Nondominant arm \> Dominant arm                                                          | IJV or FV. SV as a last resort. RIJV \> LIJV                                                                                                                                                    |
+
 **Table 2:** Considerations for the various types of vascular access options. (AVF, arteriovenous fistula; AVG, arteriovenous graft; CVC, central venous catheter; PTFE, polytetrafluoroethylene; UE, upper extremity; LE, lower extremity; IJV, internal jugular vein; FV, femoral vein; SV, subclavian vein)
 
 ::: callout-note
 *Tunneled CVC indications:*
 
-Tunneled CVCs are used for both short-term and intermediate-term access. They serve as a bridge therapy for more permanent access in patients requiring long-term dialysis or in patients who have expected dialysis durations of < 1 year or life expectancy of < 1-2 years. They are also used for continuous renal replacement therapy (CRRT) in ICU settings or when AVF/G is contraindicated, such as in heart failure. Due to high infection risk, tunneled CVCs are generally not recommended for outpatient use.
+Tunneled CVCs are used for both short-term and intermediate-term access. They serve as a bridge therapy for more permanent access in patients requiring long-term dialysis or in patients who have expected dialysis durations of \< 1 year or life expectancy of \< 1-2 years. They are also used for continuous renal replacement therapy (CRRT) in ICU settings or when AVF/G is contraindicated, such as in heart failure. Due to high infection risk, tunneled CVCs are generally not recommended for outpatient use.
 :::
 
 ::: callout-tip
 *The Rule of 6s to recall the criteria that define a mature AVF*
 
-Flow rate > 600 mL/min, Vessel diameter > 6 mm, Cannulation site depth < 6 mm from the skin surface, and Cannulation segment length > 6 cm, > 6 weeks post-op.
+Flow rate \> 600 mL/min, Vessel diameter \> 6 mm, Cannulation site depth \< 6 mm from the skin surface, and Cannulation segment length \> 6 cm, \> 6 weeks post-op.
 :::
 
 #### Access Location
 
 The choice of HD access location involves a systematic approach, balancing anatomical considerations, patient-specific factors, and the need to preserve future access options. Upper extremity access is prioritized due to its lower risk of complications and better long-term outcomes compared to lower extremity access. [@lok2020] The initial focus is typically on [distal forearm access](https://www.cfp.ca/content/cfp/68/8/577/F1.large.jpg), as it allows for the preservation of proximal options. A radiocephalic or snuffbox AVF, which connects the distal radial artery to the cephalic vein, is preferred when the vessels are suitable, as it minimizes dissection and offers low complication rates. When forearm options are not viable, attention shifts to upper arm access. The brachiocephalic AVF, connecting the brachial artery to the cephalic vein, is a preferred option for achieving high flow rates. If the cephalic vein is unsuitable due to depth or position, a basilic vein transposition can be performed, requiring mobilization of the vein to a superficial position for easier cannulation.
 
-When both the cephalic and basilic veins are inadequate, alternative autogenous veins, such as the brachial, femoral, or saphenous, may be used for transposition or translocation. These approaches require extensive dissection and are associated with increased morbidity. A common point of debate is whether to use forearm prosthetic access as a temporary bridge or proceed directly to upper arm autogenous AVF creation. Forearm prosthetic grafts are typically viewed as interim solutions, with the goal of transitioning to an upper arm autogenous AVF when feasible. This decision depends on the patient’s vascular anatomy, long-term dialysis requirements, and overall health as part of their end-stage renal disease (ESRD) life plan.
+When both the cephalic and basilic veins are inadequate, alternative autogenous veins, such as the brachial, femoral, or saphenous, may be used for transposition or translocation. These approaches require extensive dissection and are associated with increased morbidity. A common point of debate is whether to use forearm prosthetic access as a temporary bridge or proceed directly to upper arm autogenous AVF creation. Forearm prosthetic grafts are typically viewed as interim solutions, with the goal of transitioning to an upper arm autogenous AVF when feasible. This decision depends on the patient's vascular anatomy, long-term dialysis requirements, and overall health as part of their end-stage renal disease (ESRD) life plan.
 
 Upper extremity access can be further pursued using prosthetic loop grafts. A straight forearm graft may connect the radial artery to the proximal cephalic vein, while loop configurations may be created between the brachial artery and cephalic vein, among other vessels. The loop design offers a larger surface area for cannulation and may improve ease of access. In rare cases, a "necklace" graft, linking the axillary artery to the ipsilateral or contralateral axillary vein, is employed when conventional upper extremity options are exhausted.
 
@@ -339,154 +341,387 @@ The use of the basilic vein in AV access *usually* requires transposition becaus
 
 After selecting the appropriate access location, the next critical step involves determining the optimal approach for access creation. Staged procedures, particularly in cases where vein maturity and long-term suitability are uncertain, offer a strategic pathway to optimize outcomes. These approaches enable better evaluation of vein quality, minimize unnecessary dissections, and increase the likelihood of creating durable, functional vascular access (**Table 3**)
 
-|           	| Description                                                                                   	| Advantages                                                                                   	| Disadvantages                                                                                                                      	|
-|-----------	|-----------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------	|
-| One-Stage 	| Single surgery.                                                                               	| Requires only one surgical session, reducing overall procedure time and anesthesia exposure. 	| If the access fails to mature, the patient endures extensive dissection with no benefit, potentially discouraging future attempts. 	|
-| Two-Stage 	| First stage creates the anastomosis; second stage, performed after 4-6 weeks, mobilizes vein. 	| Allows assessment of vein maturity before major dissection, reducing unnecessary surgeries.  	| Requires two surgeries, leading to increased overall procedure time and anesthesia exposure.                                       	|
+|           | Description                                                                                   | Advantages                                                                                   | Disadvantages                                                                                                                      |
+|------------------|------------------|------------------|-------------------|
+| One-Stage | Single surgery.                                                                               | Requires only one surgical session, reducing overall procedure time and anesthesia exposure. | If the access fails to mature, the patient endures extensive dissection with no benefit, potentially discouraging future attempts. |
+| Two-Stage | First stage creates the anastomosis; second stage, performed after 4-6 weeks, mobilizes vein. | Allows assessment of vein maturity before major dissection, reducing unnecessary surgeries.  | Requires two surgeries, leading to increased overall procedure time and anesthesia exposure.                                       |
+
 **Table 3:** Advantages and disadvantages of staged access creation
 
 #### Hemodynamic Considerations
 
----------------------------------------------------
+Understanding the principles of fluid hemodynamics in dialysis access is key, including pressure gradients, flow, and resistance. Pressure gradients drive the movement of blood through vessels, flow represents the volume of blood passing through a vessel over time, and resistance is the force opposing this flow, influenced by vessel diameter and length. Understanding these concepts is important because manipulating vascular access impacts systemic circulation, which can alter cardiac output, increase strain on the heart, and influence overall hemodynamic stability.
+
+-   Cardiac output: After AVF creation, increased blood flow through the fistula leads to a rise in cardiac output as the heart meets the increased demand for greater perfusion. The low-resistance AVF pathway allows more blood to flow, requiring the heart to pump harder to maintain systemic circulation.
+
+-   Heart strain: The increased flow through the AVF results in greater venous return, which can place additional strain on the heart, potentially exacerbating heart failure in susceptible patients.
+
+-   Hemodynamic stability: AVF creation reduces systemic vascular resistance by providing a low-resistance pathway, which can decrease blood pressure. This drop requires monitoring and adjustment of antihypertensive medications to prevent complications like hypotension.
+
+Given the finite number of viable sites, nearly every fistula is placed as distally as possible to preserve future vascular access sites for revisions or new fistulas. Distal placement also helps maintain blood flow to proximal branches by increasing the length of the artery before blood can siphoned into the AVF/G, which naturally adds resistance. Increased resistance limits the amount of blood diverted into the fistula, helping to ensure adequate distal perfusion. Additionally, keeping the arteriotomy length small (4-6 mm) increases resistance, which regulates the volume of blood entering the fistula and prevents excessive preferential flow. This approach reduces the risk of complications like steal syndrome and optimizes long-term fistula function.
+
+::: callout-note
+*Poiseuille's law and resistance in dialysis access:*
+
+Poiseuille's Law, expressed as 𝑅 =8𝜂𝐿/𝜋𝑟4, reveals the relationship between vessel diameter, length, and flow resistance. The radius (r) of a vessel has the most profound effect---resistance is inversely proportional to the fourth power of the radius, meaning small decreases in radius greatly increase resistance. Halving the vessel radius results in a 16-fold increase, highlighting why small changes in arteriotomy length can have dramatic effects on flow dynamics. Similarly, increasing the length (L) of the vessel directly increases resistance.
+:::
+
+::: callout-note
+*Resistance and AVGs:*
+
+In AVGs, the fixed diameter of the synthetic graft may reduce the risk of steal syndrome.
+:::
+
+::: callout-note
+*Steal Syndrome and anastomosis location:*
+
+In upper extremity AVFs, the highest risk of steal occurs when the anastomosis is located on the brachial artery due to increased diameters (and thus flows), and a more proximal location (thereby affecting a larger vascular bed, i.e. the radial artery, ulnar artery, and collaterals).
+:::
+
+The [type of anastomosis](https://thoracickey.com/wp-content/uploads/2016/07/B9781455746019000540_f054-006-9781455746019.jpg) used also has significant implications for venous pressure and flow. In an end-to-end anastomosis, the artery is connected to the end of a vein, exposing the vein to full arterial pressure without any distribution or regulation. This results in excessive pressure, increasing the likelihood of venous hypertension and failure of the access site. In contrast, an end-to-side anastomosis connects the end of an artery to the side of a vein, allowing arterial blood to enter in a more regulated manner. This configuration essentially dilutes arterial flow within the vein, enabling it to handle the mixed flow by carrying venous blood alongside arterial inflow rather than receiving the full brunt of arterial pressure alone. The controlled entry of arterial blood helps prevent overwhelming the venous system, allowing the fistula to mature and thicken, improving its ability to handle increased flow and enhancing long-term patency.
+
+### Emerging Technologies
+
+#### Percutaneous AVF Creation
+
+The FDA has approved two endovascular devices (Ellipsys Endo AVF and [WavelineQ Endo AVF](https://evtoday.com/images/articles/2019-10/1019_Supp4_Fig1.png?auto=compress,format)) for AVF creation. [@shahverdyan2020] These systems involve percutaneous access of a vein and artery, followed by either thermal induction or radiofrequency ablation to create the fistula. These procedures can be performed using ultrasound guidance alone or with fluoroscopy, offering newer options for minimally invasive treatment and in patients who are not ideal candidates for open surgery (of note, open radiocephalic AVF creation is inidcated over percutaneous technologies if feasible).
+
+#### HeRO Graft
+
+When conventional treatments have been exhausted, what options remain? How should you manage patients with central venous stenosis or occlusion who have a CVC in place or have the ability to place a wire into the central venous circulation? Temporary lines or lower extremity access might be alternatives, but are there other viable solutions? In these challenging situations, the hemodialysis reliable outflow (HeRO) graft may be considered.
+
+The [HeRO graft](https://www.merit.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-15-at-1.24.13-PM.png) consists of two main components that transition from one to the other along its length: a venous outflow component and an arterial inflow component. The arterial inflow component is tunneled subcutaneously and anastomosed to an artery, while the venous outflow component is placed into the central venous circulation, bypassing any stenosis or occlusion, similar to a CVC. This configuration provides an immediate, reliable, and permanent site for cannulation and ensures adequate flow dynamics. However, this approach is generally reserved as a last resort due to its association with a high complication rate and relatively low patency. [@alshakarchi2015]
+
+------------------------------------------------------------------------
 
 ## Diagnostics and Imaging
 
-Measurement of the ankle-brachial index (ABI) is the primary method for establishing the diagnosis of PAD, however, a proper physical exam helps confirm the diagnosis of claudication.
+A comprehensive pre-operative assessment for successful vascular access creation involves a detailed history and physical examination, supplemented with diagnostic imaging as needed. The primary goal of the preoperative assessment is to identify vessels capable of supporting the high blood flow required for dialysis and identifying pre-existing lesions that can be corrected before access creation.
 
-### Peripheral Pulse Exam
+### History
 
-In terms of physical exam, claudicants may exhibit signs of muscle wasting with thin, dry, and hairless skin, or even ulceration. These are all signs that blood flow is reduced to the point that there are not enough nutrients to feed these tissues. If ulceration or non-healing wounds are present, the patient likely has advanced peripheral arterial disease (i.e. critical limb ischemia). In addition, a lower extremity motor/sensory exam and peripheral pulse assessment is key.
+Patient history is among the most important factors for access determination. A comprehensive understanding of the patient's medical history, current indications for HD, and overall care goals should guide the decision-making process. When assessing a patient for HD access, particular attention should be paid to the following elements:
+
+-   **Comorbidities:** Assess for the presence of diabetes mellitus, peripheral vascular disease, coronary artery disease, and obesity, as these conditions are associated with lower fistula patency rates. [@lok2006] [@smith2012]
+
+-   **History of trauma and surgeries:** Obtain detailed information regarding any history of trauma or prior surgeries, especially involving the chest, arms, or central vasculature. Previous vascular procedures or significant injuries may impact available access options.
+
+-   **Previous vascular access:** Document any prior HD or central venous access, including its type, location, duration, and any complications encountered. It is particularly important to assess if an existing AVF is functional and for potential central venous stenosis (CVS). Understanding the history of previous access helps make informed decisions regarding the best site for new access.
+
+-   **Dominant extremity:** Establish the patient's dominant arm. HD access is typically performed on the non-dominant arm to allow the patient greater functionality during dialysis sessions. However, if vascular abnormalities exist in the non-dominant arm, the dominant extremity may need to be considered.
+
+-   **Implanted devices:** Avoid placing HD access on the same side as transvenous pacemakers or other implanted devices to prevent complications such as arm edema and venous thrombosis
+
+-   **Smoking status:** Determine if the patient smokes, as smoking is linked to higher failure rates of AV access. [@wetzig1985] Patients should be counseled on smoking cessation.
+
+-   **Lifestyle considerations:** Understand the patient's lifestyle and ability to adhere to HD. Hemodialysis requires a significant time commitment, and alternative access methods, such as PD, may be more suitable for patients seeking flexibility.
+
+### Physical Examination
+
+A thorough physical examination should determine the suitability of potential vascular access sites. This should include an assessment of previous access sites, current AVFs, and the condition of the arterial and venous systems.
+
+#### Arterial System
+
+-   **Examination of arterial pulses:** Palpate the brachial, radial, ulnar, and axillary pulses bilaterally. Assess for pulse strength, compressibility, and symmetry between the arms. Utilize a handheld bidirectional Doppler if pulses are not clearly palpable, grading them as normal (2+), diminished (1+), or absent (0).
+-   **Differential blood pressure measurement:** Measure the blood pressure in both the upper extremities. A difference of less than 10 mmHg is considered normal. Differences of 10 to 20 mmHg may be marginal, while differences greater than 20 mmHg are indicative of potential arterial stenosis and require further evaluation. [@lok2020a] Significant stenosis can impact the success of AV access and increase the risk of hand ischemia after access placement.
+-   **Arterial adequacy:** Factors such as advanced age, diabetes, hypertension, and arterial occlusive disease can compromise arterial supply. [@lazarides2002] Calcified lesions in peripheral arteries are common in patients with these comorbidities and can complicate anastomosis, hinder fistula maturation, or increase the risk of hand ischemia.
+-   **Allen test:** The Allen test is a method used to evaluate the patency of the [palmar arch,](https://www.assh.org/handcareprod/servlet/servlet.FileDownload?file=00P0a00000ocGb5EAE) which is crucial to ensure adequate collateral circulation before HD access creation. To perform this test, the patient is asked to clench their fist tightly. The examiner then compresses both the radial and ulnar arteries. The patient is instructed to open their hand, which should appear blanched. The examiner releases pressure on the ulnar artery while keeping the radial artery compressed. If normal color returns to the hand within 5-7 seconds, it indicates a patent ulnar artery. [@jarvis2000] This process can then be repeated for the radial artery to confirm its patency. The [**modified Allen test**](https://www.researchgate.net/publication/347580948/figure/fig2/AS:973528090300416@1609118592155/The-modified-Allen-test-used-together-with-index-finger-plethysmography-Top-panel-A.png) is based on the same principles and uses the aid of a pulse oximeter. A pulse oximeter is placed on the patient's index finger, and both the radial and ulnar arteries are compressed until the pulse waveform disappears, confirming adequate compression. Upon release of the ulnar artery, if the pulse waveform returns, the test is negative, indicating a patent ulnar artery. Repeat the process with the radial artery to ensure collateral circulation is sufficient. [@lok2020a] [@paul2003]
+
+#### Venous System
+
+The venous system is often prone to complications that can affect successful access due to the frequency of iatrogenic venous injuries, particularly because of the common use of arm veins for IV placements, blood draws, and other interventions that can cause trauma to these vessels. [@lee2012]
+
+-   **Depth and distensibility:** Assess vein distensibility by inflating a blood pressure cuff or using a tourniquet above the veins to demonstrate that the vein can dilate to at least 50% of its resting internal diameter. [@smith2012a] [@malovrh2002] [@lockhart2006] This step helps identify suitable veins for creating vascular access.
+
+-   **Evaluation of CVS and outflow obstruction:** Examine the chest, breast, and upper arms for signs of swelling, collateral veins, or significant differences in extremity diameter, as these may indicate CVS or occlusion. [@tessitore2014] For further explanation, please refer to the *Surveillance* section.
+
+#### Previous Access
+
+It is also important to assess for any previous vascular sites.
+
+-   **Examine for scars:** Look for scars that indicate prior access, including both central and peripheral sites. Note the location and compare the findings to the contralateral limb.
+
+-   **Identify the type of access:** Determine the type of previous access.  If there is a scar present on the anterior surface of the forearm, this is most likely a radial-cephalic AVF/G. If there is a scar on the anterior surface of the upper arm, this is most likely a brachial-cephalic or basilic AVF/G.
+
+-   **Assess patency:** Check the patency of the existing fistula. A palpable thrill or audible bruit indicates patency for AVFs. 
+
+-   **Evaluation of CVS and outflow obstruction:** As described above, examine the chest and upper arms for signs of swelling. In addition, a pulsatile AVF/G may indicate venous stenosis, which would require further imaging. For further explanation, please refer to Surveillance.
+
+### Diagnostic Imaging Studies
+
+Although vascular mapping with duplex US is not universally performed before AV access creation, it can help avoid potential problems by detecting pre-existing lesions before access. Further evaluation with diagnostic imaging is warranted when abnormalities are detected during the physical examination. These include but are not limited to, absent or reduced pulses, an abnormal Allen test, or significant differences in arm pressures. Additional studies such as a wrist brachial index, direct arterial ultrasound, angiography or venography  may be neccessary before or after AV access creation. The 2019 KDOQI guidelines recommend using vascular imaging in complex cases, such as those involving obesity, multiple comorbidities with suspected vascular lesions, and previous failed accesses. [@lok2020b] Imaging often alters the plan for AV access when determined based solely on physical examination findings. [@nursal2006] [@smith2011] These imaging studies can assess the suitability of vessels for hemodialysis access while also minimizing the risk of procedural complications.
+
+#### Duplex ultrasound (US)
+
+This is the first-line imaging modality for evaluating vascular access. It allows for vein mapping, which involves assessing the venous anatomy at multiple points along the vessel to determine vein condition, diameter, depth, and tortuosity. It is non-invasive, widely accessible, low cost, and does not require intravenous contrast, which is important for pre-dialysis patients who may be at risk of nephrotoxicity. Duplex US has a high degree of concordance with angiography while avoiding the risks associated with invasive procedures. [@georgiadis2015] However, duplex US has limitations, such as the inability to visualize central veins adequately.
+
+![Duplex ultrasound of the great saphenous vein. Vein mapping assesses vein diameter, patency, wall thickness, and the presence of thrombus or stenosis along its course to determine a suitable location for vascular access creation.](images/vein_map.jpg){fig-align="center" width="80%"}
+
+#### Angiography
+
+Angiography, a fistulogram, remains the gold standard for diagnosing and treating vascular abnormalities. [@lok2020b] Angiography is indicated for venous mapping when duplex US reveals significant but unclear abnormalities or when high-quality ultrasound is unavailable. This imaging modality provides excellent visualization of both peripheral and central venous vasculature, allowing for a precise assessment of vessel anatomy, including tortuosity and configuration, which is particularly valuable for surgical planning in complex cases. It can also be performed using a tourniquet to create venous distention, approximating the size of an arterialized vein in a mature AVF.
+
+![Fistulogram of a brachiocephalic fistula with a juxta-anastomatic stenosis.](images/fistula_anastomosis.jpg){fig-align="center" width="70%"}
 
 ::: callout-note
-Pulse exams study the presence, strength, and character of arterial blood flow and are graded on a scale from 0 to 4+. 0: non-palpable pulse 1+: diminished pulse 2+: normal pulse 3+: prominent pulse or aneurysmal. 4+: bounding pulse or aneurysmal.
+*Vessel size in HD access:*
+
+Vessel size can be evaluated by US or angiography. While there is no generally recognized size for access, studies suggest a minimum vein and artery diameter of 2 mm for access creation. [@lok2020b] [@schmidli2018] Many institutions aim for a minimum vein diameter of 3 mm and artery diameter of 2 mm.
+
+**N.B.** Size discrepancies between pre-operative vein mapping on *on the table* vein mapping occur. Always perform an ultrasound study in the operating room to assess vein quality and diameter.
 :::
-
-Lower extremity peripheral pulse exams evaluate the dorsalis pedis (DP) and posterior tibial (PT) pulses using manual palpation. Patients with claudication may have pulse exams ranging from non-palpable to normal pulse. If patients have non-palpable pulses, then a continuous-wave Doppler probe can be used to assess blood flow.
-
-### Ankle Brachial Index (ABI)
-
-Ankle Brachial Index (ABI) is a non-invasive method that measures the ratio of blood pressure in the lower legs to the blood pressure in the arms. Performing an ABI requires an appropriately sized manual blood pressure cuff and a hand-held, continuous-wave Doppler probe. The patient should be in the supine position and allowed to rest before the examination begins. The blood pressure cuff is placed above the ankle. The Doppler probe is used to locate the dorsalis pedis (DP) or posterior tibial (PT) pulse, the cuff is inflated until the Doppler signal is obliterated, and then the cuff is then slowly released; the pressure at which the Doppler signal returns is the ankle pressure. The same process is repeated for both legs (DP and PT signals) and both arms. The arm pressure must be conducted with the manual blood pressure cuff that is placed above the target vessel and the Doppler probe that is placed below the cuff to evaluate blood flow. To calculate the ABI, the higher ankle pressure (DP or PT) is divided by the highest arm pressure (left or right).
-
-ABI result of \<0.9 has shown to have high sensitivity and specificity with identifying PAD. Patients with claudication usually have an ABI ranging from 0.5 to 0.9, and those with ischemic rest pain or tissue loss usually have an ABI less than 0.5.
-
-::: callout-note
-Below are the parameters used to diagnose PAD using ABI values.
-
-1\. ABI of \>1.2: Calcification of arteries, non-compressible. Seen in diabetic patients.
-
-2\. ABI of 0.9 -- 1.2: Normal
-
-3\. ABI of \<0.9: Suggests arterial stenosis. [@khan2008]
-
-\- ABI 0.7-0.9 = mild PAD
-
-\- ABI 0.4-0.7 = moderate PAD
-
-\- ABI \<0.4 = severe PAD
-
-ABI 0.5 - 0.9: often causes claudication
-
-ABI \<0.5: often causes ischemic rest pain/tissue loss
-:::
-
-Below, we will review how to calculate the ABI for the right and left lower extremity using the following values:
-
-| Artery                | Pressure (mm Hg) |      |
-|-----------------------|------------------|------|
-|                       | Right            | Left |
-| Brachial              | 150              | 130  |
-| Dorsalis pedis (DP)   | 145              | 120  |
-| Posterior tibial (PT) | 150              | 110  |
-
-For both right and left lower extremities, the highest brachial pressure is 150 and will be used for comparison for the ankle/brachial index.
-
-On the right lower extremity, using the DP systolic pressure the ABI is 145/150 = 0.97 and using the PT systolic pressure the ABI = 150/150 = 1.0. So the Right ABI is 1.0, because we choose the highest of the two ankle pressures for the final value of the ABI.
-
-On the left lower extremity, using the DP systolic pressure the ABI is 120/150 = 0.8 and using the PT systolic pressure the ABI = 110/150 = 0.73. So the Left ABI is 0.8, because we choose the highest of the two ankle pressures for the final value of the ABI.
-
-For this above example, R ABI = 1.0 and L ABI = 0.8. So this patient may have some peripheral vascular disease present in his left lower extremity as his ABI is less than 0.9.
-
-::: callout-tip
-[Here](https://www.youtube.com/watch?v=KnJDrmfIXGw) is a video demonstrating how to obtain and calculate an ABI.
-:::
-
-### Pulse volume recordings (PVR)
-
-Pulse volume recordings (PVR) use pressure cuffs to record the shape of a pulse. The type of waveform provides important information about the characteristics of blood flow. These waveforms can be categorized as triphasic, bisphasic, or monophasic. Clinicians use these waveform patterns to diagnose and monitor arterial diseases, assess the severity of stenosis, and determine the effectiveness of treatment interventions.
-
-Pulse volume recordings (PVR) use pressure cuffs to record the shape of a pulse. The type of waveform provides important information about the characteristics of blood flow. These waveforms can be categorized as triphasic, bisphasic, or monophasic. Clinicians use these waveform patterns to diagnose and monitor arterial diseases, assess the severity of stenosis, and determine the effectiveness of treatment interventions.
-
--   **Triphasic Waveform:**
-
--   A triphasic waveform consists of three phases: forward flow during systole, a brief reverse flow during early diastole, and a second forward flow component during late diastole.
-
--   *Clinical Significance:* Triphasic waveforms are typically found in healthy, unobstructed arteries. They represent normal arterial blood flow. These waveforms are seen in arteries serving well-perfused tissues where resistance is low, and blood flow is unimpeded. Triphasic waveforms are commonly observed in the larger arteries of the extremities, such as the femoral and brachial arteries.
-
--   **Biphasic Waveform:**
-
--   A biphasic waveform displays two phases: an initial forward flow during systole (when the heart contracts and ejects blood) followed by brief reverse or "reflected" flow during early diastole.
-
--   *Clinical Significance:* Biphasic waveforms are often associated with moderate arterial stenosis. The reverse flow component indicates some degree of obstruction. They can be observed in patients with early-stage PAD or moderate occlusions. Biphasic waveforms suggest that some blood is able to flow past the obstruction during systole but encounters resistance during diastole.
-
--   **Monophasic Waveform:**
-
--   A monophasic waveform consists of a single, continuous flow signal that moves in one direction. It typically lacks a distinct reverse or "reflected" flow signal.
-
--   *Clinical Significance:* Monophasic waveforms are often seen in arteries downstream from significant stenosis or occlusion. In these cases, there is limited or no backflow during diastole (the relaxation phase of the cardiac cycle). They are commonly found in patients with advanced peripheral arterial disease (PAD) or severe arterial blockages, suggestive of reduced perfusion to the tissues served by the artery.
-
--   **Flat-line:**
-
--   A flat waveform (i.e. no wave) does not necessarily indicate no blood flow. A flat wave form simply reflects the lack of pulsatile blood flow.
-
-### Doppler
-
-Doppler devices (handheld or otherwise) provide similar information to PVR studies. Instead of providing a visual representation of pulsatile flow, Doppler signals (sounds) are an auditory representation of flow. A triphasic pulse generates a triphasic signal (repeated sound), a biphasic pule a biphasic signal, and a monophasic pulse a monophasic signal.
-
-::: callout-tip
-[Here](https://www.youtube.com/watch?v=C4Utl1wkoio) is a video that demonstrates how to use a doppler probe and the signals associated with each waveform type. You can learn more about doppler probes and waveforms [here](https://www.portailvasculaire.fr/sites/default/files/docs/interpretation_of_peripheral_arterial_and_venous_doppler_waveforms-_a_consensus_statement_vm2020.pdf).
-:::
-
-### Duplex Ultrasonography
-
-Duplex ultrasonography (US) is another non-invasive imaging modality that can evaluate a patient's blood flow by measuring the speed at which blood travels through the vessel. In this way, a patient's hemodynamics can be assessed by identifying the location and degree of stenosis. Other imaging modalities such as a CT angiogram or invasive angiograms can also evaluate blood flow to the lower extremities.
-
-A hematologic evaluation (including CBC, fasting blood glucose, creatinine, fasting lipid profile and urinalysis) is recommended in order to identify any associated comorbidities such as diabetes, hyperlipidemia, and chronic kidney disease that may also need to be addressed.
-
-If patients have normal ABIs and pulse exams, it is important to consider other differentials of bilateral lower extremity pain include hematologic or neurogenic claudication (pain caused by lumbosacral nerve root impingement). Neurogenic claudication is positional, often worse when walking downhill and and relieved by leaning forward (i.e. leaning on a walker).
 
 ------------------------------------------------------------------------
 
-## Treatment
+## Surveillance
 
-The mainstay of treatment for claudication is conservative management, including medical optimization and lifestyle modification. With regard to medical optimization, it is recommended that patients start on antiplatelet therapy (Aspirin 81 mg daily) and a high dose statin. Patients without a prior history of congestive heart failure can also start on cilostozal (Pletal) to help with pain management. Patients with prior history of hypertension and diabetes should also be on appropriate antihypertensives to control their blood pressure and diabetes medications to control their blood sugar levels. Lifestyle modifications include smoking cessation, exercise training to develop collateral vessels, and diet modification to lower cholesterol intake. An appropriate exercise regimen is defined by at least 30 minutes of supervised ambulation/exercise at least 3 times per week. Patients should be followed closely with yearly ABIs by both Primary Care Physicians (PCPs) and Vascular Surgeons for progression of disease.
+### Follow-Up
 
-Below is an outline of appropriate treatment options for claudication:
+When AV access fails in a patient dependent on HD, it can lead to disruptions in dialysis treatment, including missed or insufficient sessions. This not only poses significant risks to the patient's health,  but may also necessitate hospitalization and the use of temporary CVCs, which are associated with higher infection rates and other complications. These outcomes diminish the patient's quality of life and place a financial burden on the healthcare system due to increased treatment costs and resource utilization. Early evaluation and ongoing surveillance are essential to detect and address issues before they lead to failure. Regular monitoring helps improve AVF maturation rates, extends their functional longevity, and minimizes patient morbidity.
 
-### Supervised Exercise Regimen
+History is a good first step when evaluating AV access after creation. Assess for symptoms of central venous stenosis (CVS) including prolonged bleeding, difficulty cannulating, and swelling. Assess for ischemic symptoms like pain during dialysis sessions. In conjunction with a thorough history, physical examination is a simple and cost-effective method to detect common issues with AVFs. [@coentrão2013a] Combining physical examination with Doppler US provides the highest sensitivity and specificity for identifying problems. [@prabhakaran2023a] Any abnormalities detected during the physical exam should prompt referral for advanced diagnostic testing to confirm the findings and guide appropriate intervention. Key elements of the physical examination include:
 
-Goal of at least 30 minutes of supervised walking exercise (at least 3 times a week)
+-   **Inspection:** Identify the type of fistula and anatomy by noting location, scars, and configuration. Inspect the extremity and chest wall, comparing to the contralateral side. Assess for [CVS](https://i0.wp.com/thoracickey.com/wp-content/uploads/2021/04/f40-04-9780323554480.jpg?w=960) by looking for facial plethora, respiratory distress, and edema or swelling in the upper extremity, neck, chest and face. The patient may also develop dilated and tortuous collateral veins over the ipsilateral arm, neck, and chest and aneurysmal dilation of the AV access. Assess for ischemic signs like hand coolness, loss of distal pulses, and diminished sensation. Assess for signs of infection on the skin overlying the fistula. All ulcers should be extensively examined.
 
-### Optimization of cardiovascular risk factors:
+-   **Pulse:** Evaluate the [pulse in the AVF](https://pbs.twimg.com/media/Dwa1h5oV4AAnF10?format=jpg&name=large) When there is a downstream stenosis (toward the chest), blood flow is forced through a narrowed segment, creating elevated pressure on the upstream side. This extra pressure amplifies the pulse wave you feel when examining the access, leading to a distinctly strong or "hyperpulsatile" pulse. The greater the stenosis, the more pronounced this pulsatility because the fistula is essentially pushing blood against a tighter restriction. Conversely, if the AVF is completely thrombosed, there is no flow moving through it, so no pulse wave can be generated. The exam will reveal an absence of a pulse, reflecting no forward flow in the occluded access.
 
-**Hypertension** - Use of antihypertensive medications - Identify any underlying etiology of hypertension (ie renal artery stenosis, stressors)
+-   **Thrill:** A thrill represents the palpable vibration caused by the high-velocity flow in the AVF, especially near the arterial anastomosis where the pressure differential is greatest. In a healthy AVF, turbulent arterial blood rushing into the venous system creates this distinct buzzing sensation. When differentiating thrill characteristics in an AVF, consider where the stenosis lies along the flow pathway. If there is a stenosis in the venous outflow ("downstream" from the anastomosis), blood faces increased resistance as it exits the fistula, leading to higher pressure within the AVF and a stronger, [more pulsatile thrill](https://pbs.twimg.com/media/Dwa1h5nUYAEWtdB?format=jpg&name=large) In contrast, when the stenosis is located in the arterial inflow ("upstream"), the volume of blood entering the fistula is reduced, diminishing both the flow and the resultant thrill. Finally, in thrombosis, flow ceases entirely, causing the thrill to vanish because no blood can traverse the fistula.
 
-**Hyperlipidemia** - Control of cholesterol levels - Diet/exercise modification - Use of medications: i.e. statins, anti-platelet agents
+-   **Bruit:** A [bruit](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzpFP3t3jaHQmyhSAlpVqYj-89w3jPW0CNP0s-O-BWXzVFJtHf) is the audible manifestation of turbulent blood flow within the AVF. Normally, because arterial blood flows directly into a vein at relatively high velocity, you'll hear a low-pitched, continuous murmur throughout both systole and diastole. When there is stenosis, blood must move through a narrowed segment at higher velocity, creating more pronounced turbulence. However, as arterial pressure drops in diastole, the increased resistance at the stenosis can dramatically reduce or halt blood flow during that phase, causing the diastolic component of the bruit to vanish. In severe stenosis or near-complete occlusion, the bruit may diminish greatly or disappear altogether because there is little to no flow. Handheld continuous-wave Doppler ultrasound can help pinpoint the location and severity of stenosis or confirm occlusion by detecting absent flow signals.
 
-**Diabetes mellitus** - Control of blood glucose levels - Diet/exercise modification - Medications (i.e. antihyperglycemics)
+-   **Special exams**
 
-**Smoking Cessation**
+    -   *Arm elevation test:* When the arm is raised above heart level, venous pressure in the upper extremity drops, promoting free drainage of blood through a normal AVF, which then collapses. In a stenotic AVF, however, the narrowed outflow path impedes venous drainage. As a result, the fistula remains distended despite the reduction in hydrostatic pressure, signaling an obstructive lesion. (Video: <https://www.youtube.com/watch?v=UzkXAB3pYSU>)
 
-### Pain Management
+    -   *Pulse augmentation test:* The test is performed by gently compressing the venous outflow segment of the AVF while palpating the pulse over the access. In a normal fistula, blocking the outflow briefly increases the pulse amplitude, because arterial inflow continues to deliver blood while venous outflow is restricted, raising pressure within the fistula. If there is significant downstream stenosis or other flow-limiting pathology, compression may not produce a noticeable increase in the pulse, as the fistula is already under higher pressure and cannot augment further.
 
-**Anti-inflammatories** (ie acetaminophen, ibuprofen)
+Table 4 outlines common physical exam findings, distinguishing between normal results and those indicative of stenosis, to aid in detection and management.
 
-**Cilostazol**
+|                   |   Arm elevation test   |                Pulse                |               Thrill               |                                  Bruit                                  |
+|---------------|:-------------:|:-------------:|:-------------:|:-------------:|
+| Normal            |   Collapses normally   | Absent or soft, easily compressible |       Present, diffuse, soft       | Low-pitched, soft, rumbling, with both systolic and diastolic component |
+| Venous stenosis   |   Fails to collapse    |         Increased, forceful         | Strong, prolonged at stenotic site |                         High-pitched, systolic                          |
+| Arterial stenosis | May partially collapse |       Weak or absent distally       | Diminished or absent near stenosis |                 High-pitched, systolic, diminished flow                 |
+| Thrombosis        |   Fails to collapse    |               Absent                |               Absent               |                                 Absent                                  |
+
+**Table 4:** Physical exam findings to distinguish between stenotic and thrombotic lesions of AV access.
+
+::: callout-note
+*"Look, feel, listen:"* The physical exam should include inspection, palpation, and auscultation as it can easily detect common fistula problems.
+:::
+
+#### Routine Monitoring
+
+Routine monitoring during dialysis sessions and weekly clinical assessments with physical exams, as outlined in the 2008 Society for Vascular Surgery (SVS) guidelines, identifies problems early and helps maintain AVF function. [@sidawy2008] Clinical signs to watch for include cannulation difficulties, prolonged bleeding, infiltrations, brusing, or clot aspiration during dialysis.
+
+Dialysis efficiency is often tracked using two measurements: Kt/V and the Urea Reduction Ratio (URR). Kt/V is a dimensionless ratio that relates dialyzer clearance (𝐾) with treatment time (𝑡) and the patient's total body water (𝑉); a typical target for adequate dialysis is a Kt/V of 1.2--1.4 per session. [@chen2023] URR, expressed as a percentage, measures the reduction in blood urea nitrogen from pre- to post-dialysis; a URR above 65% is generally considered acceptable. [@chen2023] Persistently low Kt/V or URR values warrant further evaluation.
+
+When clinical concerns arise, ultrasound or other imaging modalities can be used to confirm abnormalities. Elective secondary procedures, such as angioplasty or thrombectomy, can salvage AVFs that fail to mature. Early referral to a vascular surgeon, interventional radiologist, or interventional nephrologist, is essential to ensure timely intervention.
+
+#### Surveillance Methods
+
+According to KDOQI guidelines, physical examination remains the cornerstone of AVF surveillance and is often the most practical and cost-effective method for early problem detection. [@lok2020b] Routine imaging studies for every patient are not universally recommended, but several additional surveillance methods, in addition to regular imaging, can supplement the physical exam when indicated:
+
+-   **Intra-access blood flow monitoring:** Using ultrasound or other flow-measuring devices, this technique evaluates blood flow within the vascular access. A flow rate below 400-500 mL/min often indicates stenosis, requiring further investigation or intervention. [@lok2020b] This method is particularly valuable for identifying inflow or outflow obstructions early.
+
+**Static dialysis venous pressure monitoring:** Measures pressure within the venous limb of the dialysis circuit. Elevated pressures often suggest outflow obstruction, especially in AVGs. [@besarab1995] Persistently high pressures warrant further evaluation.
 
 ------------------------------------------------------------------------
 
-## Outcomes
+## Complications and Outcomes
 
-When treated appropriately, most patients with claudication will not experience limb loss. Only 1-3% of claudicants develop critical limb ischemia and the complications associated with more severe PAD. While the majority of patients (70-80%) have stable claudication symptoms, approximately 20-30% of patients experience a worsening of their claudication. In terms of overall morbidity and mortality, patients with claudication have worse overall outcomes than the general population. 20% of patients with claudication will experience either a myocardial infarction (MI) or cerebrovascular accident (CVA) within their lifetime. Moreover, patients with diagnosis of claudication have a 5-year mortality rate of 10-15% due to the comorbidities associated with vascular disease. [@conte2015a]
+### Edema
+
+Swelling, particularly in the ipsilateral extremity, shoulder, chest wall, or breast, is a common complication following AV access surgery. Mild-to-moderate extremity swelling is typically seen after access placement and generally subsides over time. This transient swelling is often related to local inflammation or changes in venous hemodynamics due to the new access. Persistent or worsening swelling, however, may indicate underlying complications such as venous stenosis, CVS, or venous valvular incompetence.
+
+### Bleeding
+
+Bleeding most often occurs intraoperatively or in the immediate postoperative period and is usually minor. In AVGs, intraoperative bleeding typically occurs at the anastomosis site or from needle holes in the graft material. These bleeding sites are generally controlled using hemostatic agents, such as thrombin, or by applying pressure. Persistent bleeding, however, should prompt evaluation for underlying coagulopathy or technical issues related to the surgical procedure.
+
+### Hematoma
+
+[Peri-access hematomas](https://lh5.googleusercontent.com/42Tv9Wm-TE_Q39GtdMsfWroEohvwmf2aAICfMc50A5f9mrpvq4gkJDxYskvm_kkPBMit0o4Ajble5iGEFNDL8IfQkdn2iv0BSb1FyJ7M0LCUMHcmFxMF7RG9M9AqbH4yHL4L1GmE) are a common postoperative issue following AV access surgery. Small, localized hematomas and ecchymosis around the anastomosis or graft tunnel are typically expected and resolve spontaneously within a few weeks. However, expanding hematomas, particularly in the postoperative period, often indicate a technical error, such as inadequate hemostasis or vascular injury. They can compress adjacent structures, leading to pain, swelling, compromised blood flow, or nerve dysfunction. These cases require prompt evaluation and, in many instances, a return to the operating room for surgical evacuation.
+
+### Seroma/Weeping Syndrome
+
+Seromas, or pockets of serous fluid, can develop as a complication of AVGs. These result from ultrafiltration of plasma across the prosthetic graft, leading to fluid accumulation that can become firm  over time. Seromas generally form slowly, often appearing within 30 days of graft implantation. While they are typically benign and may resolve on their own, seromas can predispose the patient to infection or disrupt graft function if untreated. 
+
+### Failure of Maturation
+
+Failure of maturation occurs when an AVF is unusable or fails within three months of initial use. [@asif2006] Approximately 30-50% of AVFs fail to mature without intervention. [@li2018] This issue often results from inflow or outflow stenosis preventing adequate AV flow for remodeling, which may preexist or arise after access placement. In some cases, these stenotic lesions can be surgically corrected, salvaging the AVF and progress to maturation. [@voormolen2009] However, complete occlusion typically necessitates abandoning the access site. Risk factors include small or poor-quality veins and arteries, insufficient blood flow, advanced age, female sex, and coexisting conditions such as cardiac disease, peripheral arterial disease, pulmonary hypertension, diabetes, and obesity. [@kuningas2021] [@wilmink2016]
+
+### Infection
+
+AV access infections are low in incidence but are serious and potentially life-threatening complications. [@bylsma2017] They are most commonly caused by Staphylococcus aureus (and less commonly Staphylococcus epidermidis). [@fysaraki2013] [AVF infections](https://www.researchgate.net/profile/Regin-Lagaac-2/publication/352029028/figure/fig1/AS:1029893202649089@1622557082171/Arteriovenous-Fistula-Infection-A-Superficial-Arrows-indicate-infected-cannulation.jpg) typically involve needle puncture sites and often present as localized redness, warmth, and small pustules. [@benrashid2016] These superficial infections usually respond well to local wound care and antibiotic therapy. However, deeper infections, characterized by circumferential pain, swelling, erythema, and fluctuance, require systemic antibiotics and may necessitate surgical debridement to prevent further complications.
+
+AVG infections are more common than AVF infections and more severe due to the synthetic material of the graft, which can act as a nidus for bacterial growth. A 4x incidence of infection in AVGs compared to AVFs have been reported. [@coentrão2015] These infections usually necessitate complete graft excision with irrigation and possible vessel reconstruction. Some cases require staged reimplantation. Total graft removal is generally preferred to reduce the risk of recurrent infection. [@hisata2022] CVCs pose the highest risk of infection among access types with bacteremia and sepsis being common concerns.
+
+The choice of cannulation technique is an important factor in managing infection risk. The buttonhole technique, which involves repeatedly cannulating the same site to create a tract, can reduce vessel wall damage but is associated with a slightly higher risk of infection. [@wong2014] In contrast, the [ladder technique](https://www.kidneynews.org/view/journals/kidney-news/12/7/full-14f1.jpg) rotates cannulation sites along the length of the access, which helps minimize local trauma and lowers the likelihood of infection.
+
+### Stenosis, Thrombosis, and Patency
+
+Patency is a critical measure of hemodialysis access durability and function. Primary patency refers to the interval from the time of access creation until the first required intervention, while secondary patency encompasses the total duration of access usability after any and all interventions to reestablish flow. AVFs typically demonstrate primary patency rates of approximately 60% at 1 year and 51% at 2 years, with secondary patency reaching 64% at 2 years. [@al-jaishi2014] In contrast, AVGs often show lower patency rates of around 40% at 1 year. [@halbert2020]
+
+Patency can be affected by numerous factors including infection, surgical technique and cannulation technique. These result in stenosis and thrombosis, distinct but interdependent complications in hemodialysis access that directly affect patency. Stenosis is clinically defined as narrowing of the vasculature lumen by a reduction of at least 50%. [@saad2004] Stenosis can independently lead to complete access occlusion but more often initiates thrombosis, the impetus for a cycle of occlusion. Stenosis increases shear stress and turbulence, promoting platelet aggregation and clot formation. Thrombosis, in turn, exacerbates local stenosis by creating further flow disturbances and neointimal hyperplasia. This vicious cycle can lead to rapid access failure without intervention.
+
+Stenosis and thrombosis are often categorized into inflow and outflow problems based on their anatomical location and physiologic effects. Inflow complications arise from reduced blood entering the access. This is usually due to an arterial lesion or a lesion at the juxtaanastomotic portion of the fistula. Outflow complications stem from obstruction of venous return. The lesion can be in the outflow tract emptying the extremity or in the central veins.
+
+::: callout-note
+The percent stenosis is calculated by comparing the narrowest lesion diameter to the adjacent normal vessel diameter.
+:::
+
+#### AVF/AVG Stenosis
+
+Stenosis typically occurs at sites of high turbulence, such as the venous outflow tract or central veins. [Juxta-anastomotic stenosis (JAS)](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-319-57500-1_7/MediaObjects/334611_1_En_7_Fig1_HTML.jpg?as=webp) is the most common lesion in AVFs, typically located within 3-4 cm of the arterial anastomosis. Varying lengths of focal and diffuse stenosis can occur.
+
+Clinically, stenosis is often detected through signs such as hyperpulsatility or diminished augmentation of the pulse. For example, a hyperpulsatile AVF indicates significant outflow resistance, while poor augmentation of the pulse may suggest inflow stenosis. The arm elevation test can also help distinguish stenotic from normal segments; in significant outflow stenosis, the distal vein remains distended when the arm is raised. Imaging modalities confirm stenosis and guide treatment. Duplex US is a preferred noninvasive method, while angiography provides definitive visualization of the stenotic segment and is often used during intervention. For a detailed description of physical exam findings and diagnostic approaches, please refer to *Surveillance and Diagnostics and Imaging*.
+
+Stenosis is more common in AVFs than in AVGs and should be identified and corrected before thrombosis develops. Treatment for stenosis includes percutaneous transluminal angioplasty, stent placement, and surgical bypass. For a more detailed description, please refer to the *Reintervention* section.
+
+#### Central Venous Stenosis (CVS)
+
+CVS refers to venous obstruction within the central veins, such as the subclavian, brachiocephalic, or superior vena cava, that impairs drainage from the head and upper extremities The etiology often includes intimal injury from prior intravascular devices, external compression, or thrombosis. [Pathophysiologic changes](https://pmc.ncbi.nlm.nih.gov/articles/PMC10664753/) such as intimal hyperplasia, thrombus formation, or extrinsic compression contribute to luminal narrowing and obstructed flow.
+
+The incidence of CVS ranges widely, from 3% to 60%, depending on the population studied and the presence of risk factors such as prior CVCs. [@macrae2005] [@lumsden1997] It is more frequently symptomatic when associated with grafts and upper arm access compared to fistulas and forearm access. [@trerotola2015] Symptoms may include extremity or facial swelling, dilated collateral veins, and inadequate dialysis delivery. A [venogram](doi:10.1016/j.jvir.2014.10.048)remains the diagnostic gold standard for confirming stenosis and identifying its etiology. For further information on physical exam findings and surveillance strategies, please refer to the *Surveillance* section.
+
+#### Thrombosis
+
+[Thrombosis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT25gxxZWv5dwRlXGWxoZqTUG8macfd6XTwpQ&s), or the formation of clot(s) within the access, is a leading cause of access failure. While AVFs are more resistant to thrombosis due to their native vessel composition, they are still at risk, especially when underlying stenosis is present. Other contributing factors include low flow rates, small arterial diameter, recurrent hypotension, hypercoagulable states, infection, female sex, fistula location (forearm \> upper arm), and feeding artery (radial \> brachial). Clinically, thrombosis presents as a sudden loss of thrill and bruit, difficulty cannulating the access, or inadequate dialysis delivery. Imaging, such as duplex ultrasound, is essential for detecting thrombus formation. Management options include percutaneous thrombectomy and open surgical procedures; however, severe or recurrent thrombosis may necessitate abandoning the existing access and creating a new one. Prophylactic anticoagulation has not been shown to effectively prevent AV graft thrombosis and carries a significant risk of bleeding, limiting its utility in this setting. [@dayala2008]
+
+#### Thrombosis
+
+[Aneurysmal degeneration and pseudoaneurysms](https://ars.els-cdn.com/content/image/1-s2.0-S0741521410028569-gr1.jpg) of AVF/Gs can compromise HD access. A true aneurysm involves dilation of all layers of the vessel wall. Although various definitions exist in the literature and there is not one universally agreed upon, many sources define an aneurysm as a focal enlargement of the vessel diameter exceeding 1.5 to 2 times the caliber of the native mature vein. [@mudoni2015] [@shah2013] In contrast, a pseudoaneurysm (false aneurysm) results from a disruption of the vessel wall, blood extravasates from the injury site and is contained by a wall developed with the products of the clotting cascade. [@rivera2025] Repeated cannulation in the same area is a common cause of pseudoaneurysm formation. Other contributing factors include high-pressure flow, thin or compromised vessel walls, and infection.
+
+Both aneurysms and pseudoaneurysms can compromise vascular access by distorting normal flow and limiting cannulation sites. More concerning are the risks of rupture, infection, and hemorrhage, which can lead to life-threatening emergencies. According to multiple guidelines, urgent surgical consultation is necessary when:
+
+-   The skin overlying the fistula is compromised or ulcerated
+-   There is a risk of fistula rupture
+-   There are rapid size increases
+-   There is uncontrollable bleeding
+
+Treatment strategies include aneurysm resection with interposition grafting , primary end-to-end repair or aneurysmorrhaphy. Preventive measures focus on rotating the sites of needle insertion to minimize repeated stress on the same segment of the vessel or graft. Proper cannulation technique, coupled with patient education, can significantly lower the incidence of aneurysm formation.
+
+### High-Flow Heart Failure
+
+High-flow AV access can exacerbate congestive heart failure due to increased shunting, leading to central venous overload. [@roca-tey2016] This complication happens from imposing strain on the heart when excessive AV flow reduces systemic vascular resistance with a subsequent compensatory increase in cardiac output. Patients with high-flow heart failure may present with dyspnea, orthopnea, fatigue, and physical findings such as a large, distended AV access with strong pulse augmentation and thrill. Evaluation includes AVF duplex US to confirm high flow rates (\>2000 cc/min). Echocardiography often reveals inferior vena cava dilation, right ventricular dysfunction, and increased pulmonary artery pressures. Right heart catheterization is the gold standard to detection. It can confirm hemodynamic changes, with transient AV compression showing reductions in cardiac output and central venous pressure, although PA and pulmonary capillary wedge pressures may remain stable due to increased afterload from access occlusion.
+
+For patients with Stage C heart failure (NYHA Class I or II) who need dialysis, radiocephalic AVFs are preferred over brachial AVFs, and end-to-side anastomosis may help limit flow. [@bourquelot2016] For those with more advanced heart failure (NYHA Class III or IV, Stage D), tunneled catheters are recommended to minimize cardiovascular strain. [@bourquelot2016]
+
+Flow reduction is central to managing high-flow heart failure. Surgical options include [banding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYzkjyOM9krko9fiBcielsyCDbVN0w6XMfA&s) to constrict the AV access, plication to reduce lumen size, distalization of inflow to redirect arterial flow, or complete ligation in severe cases where preserving the AV access is not feasible. [@davidson2003]
+
+### Hemodialysis Access-Induced Distal Ischemia (HAIDI)
+
+Hemodialysis access-induced distal ischemia (HAIDI) encompasses a spectrum of ischemic complications resulting from vascular access creation. These include dialysis access steal syndrome (DASS) and ischemic monomelic neuropathy (IMN). Although uncommon, HAIDI can cause significant morbidity, including limb dysfunction, pain, and, in extreme cases, limb loss.
+
+HAIDI results from decreased distal blood flow due to diversion of arterial blood through the arteriovenous (AV) access. This phenomenon is exacerbated in patients with compromised distal circulation and increased flow demands of the AV access. The result is reduced perfusion to the distal extremity, which manifests as ischemic symptoms.
+
+Several factors predispose patients to HAIDI, including:
+
+-   Use of the brachial artery for access.
+-   Female sex.
+-   Diabetes mellitus and atherosclerotic disease (CAD, PVD).
+-   Advanced age.
+
+#### Dialysis Access Steal Syndrome (DASS)
+
+DASS is the most common form of HAIDI, with symptoms ranging from mild paresthesia and coolness to severe ischemia with pain, weakness, and tissue loss. Symptoms often worsen during dialysis due to increased flow demands. Physical examination can identify DASS by manually compressing the AV access, which improves distal perfusion and symptoms. Noninvasive testing, such as duplex ultrasound with and without fistula compression, can evaluate waveforms, finger pressures, and flow patterns.
+
+Treatment options include increasing resistance within the AV flow circuit using precision banding procedures (e.g., the minimally invasive limited ligation endoluminal-assisted revision (MILLER) technique), which helps redistribute blood flow to the distal extremity. [@goel2006] During the [MILLER procedure](https://www.mdpi.com/jcm/jcm-07-00128/article_deploy/html/images/jcm-07-00128-g004-550.jpg), a balloon is expanded in the vein so it can be localized on the skin and small incisions can be made to get a band around the vein. The band is then tightened under duplex ultrasound guidance to optimize blood flow to the hand while maintaining sufficient access flow for dialysis. Banding procedures can be done in conjunction with flow measurements to achieve desired flow reduction. Other options include flow reduction methods and revascularization strategies such as [distal revascularization interval ligation (DRIL), proximalization of arterial inflow (PAI), revision using distal inflow (RUDI)](https://emorysurgicalfocus.com/wp-content/uploads/2020/10/dass-treatment.jpg?w=1168&h=904).
+
+In cases of severe ischemia or failed revascularization, AV access ligation may be necessary.
+
+#### Ischemic Monomelic Neuropathy (IMN)
+
+IMN is a rare complication of vascular access, occurring in less than 1% of cases. [@thimmisetty2017] It arises due to poor perfusion of the nerve sheaths in the radial, ulnar, and median nerves. Unlike DASS, IMN is characterized by the acute onset of severe hand pain, sensory loss, and motor deficits immediately following access placement. Neurological deficits, such as nerve palsies resulting in wrist drop and impaired intrinsic hand muscle function, often progress to [claw hand deformities](https://assets.cureus.com/uploads/figure/file/72821/article_river_2cfd80f0a05b11e9a90a2762a64d4c9f-Webp.net-resizeimage.png) if untreated. IMN is differentiated from DASS by the absence of tissue ischemia, preserved pulses, and warm distal extremity \[**Table 5**\]. Electromyography reveals signs of acute denervation. [@miles1999] Immediate ligation of the vascular access is the treatment of choice. [@lok2020b] Unfortunately, even with timely intervention, most patients experience incomplete recovery.
+
+|               | DASS                | IMN                            |
+|---------------|---------------------|--------------------------------|
+| Onset         | Insidious           | Acutely after access placement |
+| Symptoms      | Cool, weak, painful | Weak, painful                  |
+| Radial pulses | Weak or absent      | Preserved                      |
+
+**Table 5:** Differentiation of symptoms in DASS and IMN
+
+### Dialysis-Related Amyloidosis (DRA)
+
+Dialysis-related amyloidosis (DRA) is a disorder caused by the inability to effectively clear beta-2 microglobulin, a protein normally filtered by functioning kidneys. Accumulation of this protein leads to its deposition in bones, joints, and soft tissues, resulting in a spectrum of clinical manifestations. [@koch1992] DRA typically develops in patients who have been on dialysis for five years or longer. Common clinical features include:
+
+-   **Musculoskeletal symptoms**: Shoulder pain, carpal tunnel syndrome, trigger finger, spinal pain due to spondyloarthropathy, and pathological fractures. [@koch1992] Rapidly enlarging bone cysts visible on X-ray are another hallmark of advanced disease. [@fenves1986]
+-   **Neurological symptoms**: Median nerve dysfunction, primarily due to amyloid deposition, is common and a leading cause of carpal tunnel syndrome in long-term dialysis patients.
+
+While tissue biopsy is the only definitive method for diagnosing DRA, it is generally not required to make a clinical diagnosis. There is no definitive treatment for DRA, and management focuses on symptom control and slowing disease progression:
+
+-   **Dialysis modification**: Switching to high-flux dialysis membranes, which are more effective at removing beta-2 microglobulin, may reduce further deposition. [@eknoyan2003] However, these membranes are now commonly used in standard dialysis practice.
+-   **Symptom management**: Pain can be addressed with analgesics, while surgical intervention may be required for advanced cases, such as decompression for carpal tunnel syndrome or repair of pathological fractures.
+-   **Definitive treatment**: Kidney transplantation remains the only curative option for beta-2 microglobulin amyloidosis, as it restores normal beta-2 microglobulin clearance. [@tan1995]
+
+### Calciphylaxis
+
+Calciphylaxis, or calcific uremic arteriolopathy, is a rare but life-threatening vascular calcification disorder most commonly seen in patients with ESRD undergoing dialysis. It is characterized by calcification of small- and medium-sized arterioles in the dermis and subcutaneous fat, leading to tissue ischemia, necrosis, and non-healing ulcers.
+
+The condition typically presents with painful, violaceous skin lesions that rapidly progress to indurated plaques, ulceration, and [eschar formation,](https://www.ajkd.org/cms/10.1053/j.ajkd.2022.06.011/asset/05056ca9-5f98-44f0-9810-754118d65e78/main.assets/gr2.jpg) most commonly involving the thighs, abdomen, and buttocks . Secondary infection of the necrotic tissue is a frequent complication and a major cause of mortality. The diagnosis is clinical but can be confirmed with a skin biopsy showing medial calcification of arterioles, intimal proliferation, and thrombosis. Biopsy is generally avoided in clinically obvious cases due to the risk of poor wound healing.
+
+### Access Recirculation
+
+Access recirculation occurs when blood that has already been filtered by the dialysis machine flows back into the arterial lumen of the access circuit instead of returning to the systemic circulation via the venous outflow. This process arises when vascular access blood flow falls below the rate required by the dialysis pump, causing flow reversal between the arterial and venous needles. Contributing factors include poor arterial inflow, venous outflow obstruction, or improper needle placement. Recirculation results in the reprocessing of the same blood, which limits toxin removal and compromises dialysis efficacy, efficiency, and solute clearance and can result in an increased risk of morbidity and mortality. [@tal2005] Recirculation can be identified through clinical signs or duplex US and flow measurements. Management includes correcting needle placement, surgically addressing stenotic lesions, and adjusting blood flow rates to match the access's capacity. 
+
+### Central Venous Catheter-Specific Complications 
+
+While CVCs are susceptible to general complications such as infection, stenosis, and thrombosis, there are unique risks inherent to this form of dialysis access. These include:
+
+-   **Pneumothorax and hemothorax**
+    -   Mechanism: Occurs during insertion into the ICA due to inadvertent puncture of the pleura, subclavian artery, or innominate vein or artery injury. 
+    -   Presentation: Dyspnea, hypoxia, hemodynamic instability.
+    -   Prevention: Use US guidance during catheter insertion and proper technique to avoid vessel or pleural injury
+    -   Management: Chest X-ray or US confirmation followed by needle decompression or chest tube placement, as required.
+-   **Mechanical obstruction**
+    -   Mechanism: Catheter malposition, migration, kinking, or fibrin sheath formation.
+    -   Presentation: Reduced or absent blood flow through the catheter, increased resistance during dialysis, or inability to aspirate or flush.
+    -   Prevention: Proper catheter placement and routine monitoring of catheter function.
+    -   Management: Repositioning, catheter exchange.
+-   **Catheter-related bloodstream infections (CRBSIs)**
+    -   Mechanism: Pathogens from the catheter surface or exit site enter the bloodstream.
+    -   Presentation: Fever, chills, erythema, or purulence at the catheter site.
+    -   Prevention: Strict adherence to sterile technique during catheter insertion and maintenance.
+    -   Management: Blood cultures to confirm infection, systemic antibiotics, and catheter removal or exchange.
+-   **Air embolism**
+    -   Mechanism: Air enters the venous system during catheter insertion or removal.
+    -   Presentation: Sudden dyspnea, chest pain, or cardiovascular collapse.
+    -   Prevention: Position the patient in Trendelenburg during access manipulation.
+    -   Management: Immediately position the patient in the left lateral decubitus position with the head down (Trendelenburg), and attempt to aspirate air from the central venous catheter, administer oxygen .
+-   **Venous stenosis and thrombosis**
+    -   While not unique to CVCs, the high incidence of central vein injury makes these complications more common with catheter use. Prolonged catheter placement increases the risk of CVS or occlusion.
+-   **Dialysis-associated dysrhythmias**
+    -   Mechanism: Contact of the catheter tip with the atrial or ventricular wall can induce arrhythmias.
+    -   Management: Withdraw the catheter to reposition its tip.
+
+------------------------------------------------------------------------
+
+## Reintervention
+
+Reintervention plays an important role in maintaining HD access through personalized strategies that address both immediate clinical needs and long-term planning. Approximately 70% of patients with HD access require reintervention within the first year, highlighting the importance of continuous monitoring and proactive management. [@lawson2020] The focus extends beyond resolving current dysfunction to ensuring future access reliability through advanced planning. Effective reintervention requires a forward-looking approach that integrates the patient's overall health goals, timeline for dialysis dependency, and potential challenges in creating alternative access. [@lok2020b] A commitment to proactive planning, such as evaluating backup access sites early and engaging patients in shared decision-making, ensures not only the salvage of current access but also continuity of treatment.
+
+Reintervention is warranted when clinical signs such as declining dialysis efficiency and symptomatic abnormal physical exam findings indicate access dysfunction. Complications requiring reintervention, previously detailed in Complications, include failure of maturation, stenosis, thrombosis, aneurysmal degeneration, heart failure, and ischemic symptoms. Incidental lesions detected on imaging are generally monitored unless symptomatic. 
+
+Comprehensive imaging and clinical assessments are essential before any reintervention. Angiography remains the gold standard for evaluating the anatomy of the entire access circuit, from the arterial inflow to the superior or inferior vena cava, as multiple lesions are often present. Following treatment, it is crucial to reassess the clinical or physiological abnormalities identified pre-procedure. Successful intervention is marked by the resolution of these abnormalities and the restoration of adequate dialysis function.
+
+### Endovascular Reinterventions
+
+Endovascular interventions are the cornerstone of minimally invasive treatments for HD access complications, particularly for stenosis and thrombosis. Angioplasty, the primary modality, involves the inflation of an intravascular balloon within a stenotic segment to restore luminal patency. Procedural success is defined as achieving less than 30% residual stenosis after the procedure when compared to adjacent normal veins on imaging. [@clinical2006] Complications such as venous spasm or vein rupture occur in \<1% of patients, though they are typically managed effectively with interventions like balloon tamponade or the placement of covered stents. [@beathard2017] Percutaneous thrombectomy and catheter-directed thrombolysis are valuable adjuncts to angioplasty as they can promptly address complications without requiring surgical revision, thus maintaining continuity of dialysis treatment. Stent placement is reserved for cases of reintervention failure due to the risk for complications. Indications include acute angioplasty failure, rapid recurrence, and vein rupture following angioplasty. [@dariushnia2016] For cases of CVS, initial treatment often involves balloon venoplasty, with stenting reserved for similar situations as patency rates following venous stenting are relatively low. [@dariushnia2016]  
+
+When addressing AVF maturation failure, Balloon-Assisted Maturation (BAM) employs serial angioplasties to enlarge veins that fail to dilate naturally. Although BAM results can be variable, it remains a preferable option to access abandonment. However, AVFs requiring BAM often demonstrate decreased cumulative survival and higher reintervention rates compared to those maturing without intervention. [@lee2011]
+
+### Open Reinterventions
+
+When endovascular techniques are insufficient or inappropriate, surgical options are explored. These include neo-anastomosis creation, vein-to-vein reanastomosis, and interposition grafts using PTFE or bovine carotid grafts (for example, the Artegraft from LeMaitre) for a variety of indications. While effective, these approaches carry higher risks of infection, discontinuity in HD access, and potential abandonment of the original access.
+
+For recurrent stenosis requiring more than two angioplasties in three months or symptomatic central venous occlusion unresponsive to stenting, open surgical revision may be necessary. [@lok2020b] Physicians can attempt to salvage the original access with embolectomy, interposition graftting , or abandonment  the AVF/G altogether. Surgical intervention of ischemic complications like DASS are discussed in Dialysis Access Steal Syndrome.
+
+Similarly, symptomatic heart failure secondary to high-flow AV access can be managed with flow reduction by banding, plication, and distalization of inflow. [@bourquelot2016a] In severe cases, complete ligation with creation of new access may be necessary.
+
+When an AVF fails to mature with endovascular assistance, there is aneurysmal degeneration of the access, or infection, it will likely have to be abandoned with a plan for new access creation. With infection, debridement with excision and surgical placement of new access are usually staged to decrease the risk of reinfection.
+
+When primary access fails, secondary arteriovenous fistulas (SAVFs) can be created to maintain HD functionality. [@asif2005] Early evaluation and planning for SAVF creation at the first signs of dysfunction can reduce reliance on temporary catheters and ensure seamless dialysis access. [@beathard2000] SAVFs are categorized as follows: - **Type I SAVFs** reuse arterialized veins from previous access, enabling early or immediate use. - **Type II SAVFs** involve creating a completely new fistula, requiring maturation time before use.
 
 ------------------------------------------------------------------------
 
@@ -494,23 +729,23 @@ When treated appropriately, most patients with claudication will not experience 
 
 ### Scenario
 
-73 year old male with past medical history of hypertension, hyperlipidemia, and diabetes presents to clinic for pain in his lower extremities. Of note, he has smoked roughly one pack of cigarettes a day since he was 20 years old. He states that it is difficult for him to walk 3 blocks without having to stop which he finds particularly annoying. When asked where it hurts, he starts grabbing his calves. He describes an achy, cramping, and pain in his calves whenever he walks, mostly on the right side. He denies any new sores or wounds that are not healing.
+A 63-year-old male with hypertension, type 2 diabetes mellitus, and stage 4 chronic kidney disease presents to the vascular surgery clinic for evaluation of vascular access. His estimated glomerular filtration rate (eGFR) is 27 mL/min/1.73 m², and his nephrologist predicts he will require hemodialysis within 6 months. He denies prior vascular access procedures, reports no history of CVC placement, and has no symptoms of venous congestion or claudication.
 
 ### Exam
 
-**HEENT:** pupils equal round reactive to light, no lymphadenopathy
+**HEENT:** No neck incisions, no lymphadenopathy
 
-**Cardiac:** Regular rate and rhythm (RRR)
+**Cardiac:** Regular rate and rhythm (RRR), no murmurs, rubs, or gallops
 
 **Pulmonary:** Clear to auscultation in all lung fields. No accessory muscle use.
 
 **Abdominal:** Soft, non-tender, non-distended, no pulsatile masses felt.
 
-**Vascular/Extremities:** Warm, no edema present. Minimal hair appreciated bilaterally. Non-palpable distal pulses. Bilateral femoral pulses appreciated. No wounds or sores noted.
+**Vascular/Extremities:** Palpable and symmetric radial and brachial pulses bilaterally with a normal Allen test on both hands. No significant differences in blood pressure between the arms (right: 120/80 mmHg; left: 118/78 mmHg). Skin overlying both arms is intact, with no signs of ischemia or prior trauma. Veins are visible and compressible with a tourniquet applied. No evidence of upper extremity edema, collateral veins, or skin discoloration.
 
 ### Imaging
 
-**ABI:** Right: 0.7 Left: 0.65
+**Duplex US (Preoperative vein mapping):** Left cephalic vein diameter: 3.0 mm Right cephalic vein diameter: 2.0 mm No significant stenosis or thrombosis in the superficial veins. Radial and ulnar arteries demonstrate triphasic waveforms with adequate flow
 
 ### Discussion Points
 
@@ -520,24 +755,11 @@ When treated appropriately, most patients with claudication will not experience 
 However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
 :::
 
-1.  Please explain the pathophysiology for the patient's lower extremity pain and discomfort.
-2.  Please list the patient's risk factors for peripheral arterial disease. What is the best medical management to optimize the these risk factors?
-3.  What initial testing would you want to obtain and why?
-4.  What would be the first line of treatment for patients with symptomatic claudication after medical management?
-
-------------------------------------------------------------------------
-
-## Key Articles
-
-1.  Conte MS, Pomposelli FB, Clair DG, et al. Society for Vascular Surgery practice guidelines for atherosclerotic occlusive disease of the lower extremities: Management of asymptomatic disease and claudication. Journal of Vascular Surgery. 2015;61(3):2S-41S.e1. doi:10.1016/j.jvs.2014.12.009[@conte2015b]
-
-2.  Conte MS, Bradbury AW, Kolh P, et al. Global vascular guidelines on the management of chronic limb-threatening ischemia. Journal of Vascular Surgery. 2019;69(6):3S-125S.e40. doi:10.1016/j.jvs.2019.02.016[@conte2019a]
-
-3.  Gerhard-Herman MD, Gornik HL, Barrett C, et al. 2016 AHA/ACC Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation. 2017;135(12). doi:10.1161/CIR.0000000000000470[@gerhard-herman2017]
-
-4.  Khan TH, Farooqui FA, Niazi K. Critical review of the ankle brachial index. Curr Cardiol Rev. 2008 May;4(2):101-6. doi: 10.2174/157340308784245810. PMID: 19936284; PMCID: PMC2779349.[@khan2008]
-
-5.  McDermott MM, Criqui MH. Ankle-Brachial Index Screening and Improving Peripheral Artery Disease Detection and Outcomes. JAMA. 2018;320(2):143. doi:10.1001/jama.2018.8953[@mcdermott2018]
+1.  What symptoms suggest venous congestion? What symptoms suggest claudication? If the patient had claudication, what would you expect the Allen test to show?
+2.  How does preoperative vein mapping guide the choice of surgical site for vascular access? What are potential problems that can be avoided with preoperative vein mapping?
+3.  Based on the physical examination and imaging findings, what is the most appropriate vascular access? What other information would help inform your decision?
+4.  If vascular access were needed emergently, how would your choice differ for temporary hemodialysis versus long-term hemodialysis? For long-term access in an emergent setting, what additional steps could you take to prepare for permanent access?
+5.  What are the criteria for successful AVF maturation? If the AVF fails to mature, what interventions can be employed to promote maturation? What alternative access options should be considered if maturation cannot be achieved?
 
 ------------------------------------------------------------------------
 
@@ -545,9 +767,12 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ### Audible Bleeding Content
 
--   Audible Bleeding Exam Prep: [Medical Management and Claudication Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/claudication.html)
--   Caitlin W. Hicks, MD, MS - Overuse of early peripheral vascular interventions in claudication. Listen to it below and find [additional information here](https://www.audiblebleeding.com/hicks/), or find the episode wherever you listen to podcasts.<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/11570630/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
--   VSITE Review - Peripheral Arterial Occlusive Disease (Part One). Listen to it below and find [additional information here](https://www.audiblebleeding.com/vsite-paod1/), or find the episode wherever you listen to podcasts.<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15742403/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+-   Audible Bleeding Exam Prep: [Hemodialysis](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/hemodialysis.html)
+-   Holding Pressure Case Prep - Arteriovenous Fistula/Graft Creation Listen to it below and find [additional information here](https://www.audiblebleeding.com/2022/03/22/holding-pressure-case-prep-arteriovenous-fistula-graft-creation/), or find the episode wherever you listen to podcasts.<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/22558142/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+-   VSITE Review - Hemodialysis Access. Listen to it below and find [additional information here](https://www.audiblebleeding.com/vsite-hd-access/), or find the episode wherever you listen to podcasts.<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/13742153/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+-   Holding Pressure: AV Fistula/Graft Complications Part 1. Listen to it below and find [additional information here](https://www.audiblebleeding.com/2024/10/06/new-post-template-please-duplicate-prior-to-use/), or find the episode wherever you listen to podcasts.<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4SWjsT6MWp1dsx61jdgefH?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+-   Holding Pressure: AV Fistula/Graft Complications Part 2. Listen to it below and find [additional information here](https://www.audiblebleeding.com/2025/08/30/holding-pressure-av-fistula-graft-complications-part-2/), or find the episode wherever you listen to podcasts.<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dStiEtIgmp2Sk1mmqTHMa?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+-   Holding Pressure/Vascular Origin Stories: History of Hemodialysis Access. Listen to it below and find [additional information here](https://www.audiblebleeding.com/2022/03/24/vascular-origin-stories-holding-pressure-history-of-hemodialysis-access/), or find the episode wherever you listen to podcasts.<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/22592183/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ------------------------------------------------------------------------
 
@@ -556,8 +781,45 @@ However, we feel this chapter contains all the necessary information to answer t
 The [Gore Medical Vascular and Endovascular Surgery Combat Manual](https://www.goremedical.com/combat-manual) is an informative and entertaining read intended as a vascular surgery crash course for medical students, residents, and fellows alike. Highly accessible with a thoughtfully determined level of detail, but lacking in learning activities (e.g. questions, videos, etc.), this resource is a wonderful complement to the APDVS eBook.
 
 ::: callout-tip
-Please see pages 85-90.
+Please see pages 115-125.
 :::
+
+------------------------------------------------------------------------
+
+### Operative Footage
+
+Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. YouTube account required as video content is age-restricted. Please create and/or log in to your YouTube account to have access to the videos.
+
+#### Forearm Radiobasilic Fistula Creation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MQD1nXt0KLU?si=VrRHmKs_-DgCFv9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Upper Arm Single-Stage Basilic Fistula Creation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6T-KRgf5HD8?si=bt6KACE2IecJqB6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Left Upper Extremity Brachiobasilic Arteriovenous Fistula Creation (Stage 1)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rn5dO8_-8eo?si=n24hNthlF7Lre6Zl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Arteriovenous Fistula Creation - Brachiobasilic Transposition (Stage 2)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/evikvqlp8ao?si=gtBIWz_AvMveMPqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Creation of an Upper Arm Arteriovenous Graft
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GUDHhCdj1YY?si=3C9Sxtpkn_UdeRre" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Right Upper Extremity Arteriovenous Fistula Revision
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CNEPhctwY28?si=qsIBisP4e5V3KXUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Right Upper Extremity Infected Arteriovenous Fistula Excision
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eBBb2rgkjtE?si=xCFCuvlHJRpXQ6Cy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Excision of an Infected Arteriovenous Graft
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VYScTDI33Vk?si=8aU82K5-rJtCaZUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ------------------------------------------------------------------------
 
@@ -576,5 +838,5 @@ Please see pages 85-90.
 </script>
 ```
 ---
-title: "Untitled"
+title: "Hemodialysis Access"
 ---
