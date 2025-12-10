@@ -3,7 +3,7 @@ title: "Hemodialysis Access"
 chapter_number: 9
 title-block-banner: false
 title-block-style: plain
-authors: Nicola Habash, BS, Lutfi Barghuthi,MD, Marvin Heck, MD, London Guidry, MD, FACS.
+authors: Nicola Habash, BS, Lutfi Barghuthi, MD, Marvin Heck, MD, Ana Paula Morales Allende, MD, RPVI, London Guidry, MD, FACS.
 format: html
 editor: visual
 number-sections: false
@@ -455,13 +455,13 @@ Although vascular mapping with duplex US is not universally performed before AV 
 
 This is the first-line imaging modality for evaluating vascular access. It allows for vein mapping, which involves assessing the venous anatomy at multiple points along the vessel to determine vein condition, diameter, depth, and tortuosity. It is non-invasive, widely accessible, low cost, and does not require intravenous contrast, which is important for pre-dialysis patients who may be at risk of nephrotoxicity. Duplex US has a high degree of concordance with angiography while avoiding the risks associated with invasive procedures. [@georgiadis2015] However, duplex US has limitations, such as the inability to visualize central veins adequately.
 
-![Duplex ultrasound of the great saphenous vein. Vein mapping assesses vein diameter, patency, wall thickness, and the presence of thrombus or stenosis along its course to determine a suitable location for vascular access creation.](images/vein_map.jpg){fig-align="center" width="80%"}
+![Duplex ultrasound of the great saphenous vein. Vein mapping assesses vein diameter, patency, wall thickness, and the presence of thrombus or stenosis along its course to determine a suitable location for vascular access creation.](images/vein_map.jpg){fig-align="center" width="55%"}
 
 #### Angiography
 
 Angiography, a fistulogram, remains the gold standard for diagnosing and treating vascular abnormalities. [@lok2020b] Angiography is indicated for venous mapping when duplex US reveals significant but unclear abnormalities or when high-quality ultrasound is unavailable. This imaging modality provides excellent visualization of both peripheral and central venous vasculature, allowing for a precise assessment of vessel anatomy, including tortuosity and configuration, which is particularly valuable for surgical planning in complex cases. It can also be performed using a tourniquet to create venous distention, approximating the size of an arterialized vein in a mature AVF.
 
-![Fistulogram of a brachiocephalic fistula with a juxta-anastomatic stenosis.](images/fistula_anastomosis.jpg){fig-align="center" width="70%"}
+![Fistulogram of a brachiocephalic fistula with a juxta-anastomatic stenosis.](images/fistula_anastomosis.jpg){fig-align="center" width="60%"}
 
 ::: callout-note
 *Vessel size in HD access:*
@@ -763,6 +763,19 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ------------------------------------------------------------------------
 
+## Key Articles
+
+1.  Parienti J-J, Thirion M, Mégarbane B, et al. Femoral vs jugular venous catheterization and risk of nosocomial events in adults requiring acute renal replacement therapy: a randomized controlled trial. JAMA. 2008;299(20):2413-2422. doi:10.1001/jama.299.20.2413 [@parienti2008a]
+2.  Johansen KL, Gilbertson DT, Li S, et al. US renal data system 2023 annual data report: epidemiology of kidney disease in the united states. Am J Kidney Dis. 2024;83(4 Suppl 1):A8-A13. doi:10.1053/j.ajkd.2024.01.001 [@johansen2024a]
+3.  Lok CE, Huber TS, Lee T, et al. KDOQI clinical practice guideline for vascular access: 2019 update. Am J Kidney Dis. 2020;75(4 Suppl 2):S1-S164. doi:10.1053/j.ajkd.2019.12.001 [@lok2020c]
+4.  Smith GE, Gohil R, Chetter IC. Factors affecting the patency of arteriovenous fistulas for dialysis access. J Vasc Surg. 2012;55(3):849-855. doi:10.1016/j.jvs.2011.07.095 [@smith2012b]
+5.  Schmidli J, Widmer MK, Basile C, et al. Editor's Choice - Vascular Access: 2018 Clinical Practice Guidelines of the European Society for Vascular Surgery (ESVS). Eur J Vasc Endovasc Surg. 2018;55(6):757-818. doi:10.1016/j.ejvs.2018.02.001 [@schmidli2018a]
+6.  Voormolen EHJ, Jahrome AK, Bartels LW, Moll FL, Mali WP, Blankestijn PJ. Nonmaturation of arm arteriovenous fistulas for hemodialysis access: A systematic review of risk factors and results of early treatment. J Vasc Surg. 2009;49(5):1325-1336. doi:10.1016/j.jvs.2008.11.059 [@voormolen2009a]
+7.  Bylsma LC, Gage SM, Reichert H, Dahl SLM, Lawson JH. Arteriovenous Fistulae for Haemodialysis: A Systematic Review and Meta-analysis of Efficacy and Safety Outcomes. Eur J Vasc Endovasc Surg. 2017;54(4):513-522. doi:10.1016/j.ejvs.2017.06.024 [@bylsma2017a]
+8.  Mudoni A, Cornacchiari M, Gallieni M, et al. Aneurysms and pseudoaneurysms in dialysis access. Clin Kidney J. 2015;8(4):363-367. doi:10.1093/ckj/sfv042 [@mudoni2015a]
+
+------------------------------------------------------------------------
+
 ## Additional Resources
 
 ### Audible Bleeding Content
@@ -792,34 +805,51 @@ Developed by the Debakey Institute for Cardiovascular Education & Training at Ho
 
 #### Forearm Radiobasilic Fistula Creation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MQD1nXt0KLU?si=VrRHmKs_-DgCFv9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MQD1nXt0KLU?si=VrRHmKs_-DgCFv9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 #### Upper Arm Single-Stage Basilic Fistula Creation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6T-KRgf5HD8?si=bt6KACE2IecJqB6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6T-KRgf5HD8?si=bt6KACE2IecJqB6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 #### Left Upper Extremity Brachiobasilic Arteriovenous Fistula Creation (Stage 1)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rn5dO8_-8eo?si=n24hNthlF7Lre6Zl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rn5dO8_-8eo?si=n24hNthlF7Lre6Zl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 #### Arteriovenous Fistula Creation - Brachiobasilic Transposition (Stage 2)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/evikvqlp8ao?si=gtBIWz_AvMveMPqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/evikvqlp8ao?si=gtBIWz_AvMveMPqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 #### Creation of an Upper Arm Arteriovenous Graft
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GUDHhCdj1YY?si=3C9Sxtpkn_UdeRre" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GUDHhCdj1YY?si=3C9Sxtpkn_UdeRre" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 #### Right Upper Extremity Arteriovenous Fistula Revision
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CNEPhctwY28?si=qsIBisP4e5V3KXUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CNEPhctwY28?si=qsIBisP4e5V3KXUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 #### Right Upper Extremity Infected Arteriovenous Fistula Excision
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eBBb2rgkjtE?si=xCFCuvlHJRpXQ6Cy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eBBb2rgkjtE?si=xCFCuvlHJRpXQ6Cy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 ##### Excision of an Infected Arteriovenous Graft
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VYScTDI33Vk?si=8aU82K5-rJtCaZUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VYScTDI33Vk?si=8aU82K5-rJtCaZUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 ------------------------------------------------------------------------
 

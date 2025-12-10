@@ -43,6 +43,10 @@ book:
     - part: "Venous Disease"
       chapters: 
       - CVI.qmd
+      
+    - part: "Hemodialysis Access"
+      chapters: 
+      - hdaccess.qmd
 
     - part: "Miscellaneous Topics"
       chapters: 
